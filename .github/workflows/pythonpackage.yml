@@ -34,5 +34,5 @@ jobs:
         run: |
           pip install pylint
           # stop the build if there are Python syntax errors or undefined names
-          pylint extract.py --disable=invalid-name
+          pylint . --disable=invalid-name
 # add test job here
