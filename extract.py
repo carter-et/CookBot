@@ -6,7 +6,9 @@ from bs4 import BeautifulSoup
 
 
 def extract():
-    """Use url from command line to scrape text from a website and write its body into a text file"""
+    """
+    Use url from command line to scrape text from a website and write its body into a text file
+    """
     # read input
     url = read_input()
     # get current working directory
@@ -22,7 +24,7 @@ def extract():
 def read_input():
     """
     Grabs input from command line
-    
+  
     Recipe URL should be first argument.
 
     Returns:
@@ -41,10 +43,10 @@ def read_input():
 def connect_to_url(url):
     """
     Get response from URL GET and return the body, tags and all.
-    
+
     Args:
         url: a basic html url (preferably a recipe)
-    
+
     Returns:
         str: block of text from URL website body including HTML tags
     """
@@ -55,28 +57,30 @@ def connect_to_url(url):
     page = BeautifulSoup(response.content)
 
     start_link = page.find("body")
-    if start_link == -1: return None, 0
+    if start_link == -1:
+        return None, 0
     data = ''
     return data
 
 
 def find_next_available_file(cwd):
     """Determine the next filename for writing text into
-    
+
     Args:
         cwd: the current working directory
-    
+
     Returns:
         int: the next number to use for filenames
     """
-    DIR = '/ExtractOutputs'
-    next_file_number = len([name for name in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, name))]) + 1
+    directory = '/ExtractOutputs'
+    next_file_number = len([name for name in os.listdir(directory) \
+        if os.path.isfile(os.path.join(directory, name))]) + 1
     return next_file_number
 
 
 def write_file(data, next_file):
     """Write data into a file given a file number to use as a unique identifier
-    
+
     Args:
         data (str): HTML body to write into a file
         next_file (int): the number to use as a unique identifier for a file
@@ -85,7 +89,7 @@ def write_file(data, next_file):
     file = open("output"+next_file+".txt", "w+")
 
     # write the data
-    print('file')
+    print(file)
 
 
 if __name__ == "__main__":
