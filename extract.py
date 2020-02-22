@@ -1,10 +1,14 @@
-import requests
-import sys
-from bs4 import BeautifulSoup
+"""Script to grab body from website and write it into a file"""
 import os
+import sys
+import requests
+from bs4 import BeautifulSoup
 
 
 def extract():
+    """
+    Use url from command line to scrape text from a website and write its body into a text file
+    """
     # read input
     url = read_input()
     # get current working directory
@@ -15,17 +19,43 @@ def extract():
     data = connect_to_url(url)
     # write it to a file
     write_file(data, next_file)
-    return
 
 
 def read_input():
+    """
+    Grabs input from command line
+  
+    Recipe URL should be first argument.
+
+    Returns:
+        str: url from command line
+    """
+    if len(sys.argv) < 2:
+        print('Did you put in a url? Usage is: python extract.py <url>')
+        sys.exit(1)
+    elif len(sys.argv) > 2:
+        print('Received too many arguments! Usage is: python extract.py <url>')
+        sys.exit(1)
     url = sys.argv[1]
     return url
 
 
 def connect_to_url(url):
+    """
+    Get response from URL GET and return the body, tags and all.
+
+    Args:
+        url: a basic html url (preferably a recipe)
+
+    Returns:
+        str: block of text from URL website body including HTML tags
+    """
     response = requests.get(url)
-    page = str(BeautifulSoup(response.content))
+    if not response.ok:
+        print('That was a bad url! Try it in your browser first please.')
+        sys.exit(2)
+    page = BeautifulSoup(response.content)
+
 
     soup = BeautifulSoup(page, 'html.parser')
     soup.prettify()
@@ -34,13 +64,28 @@ def connect_to_url(url):
 
 
 def find_next_available_file(cwd):
-    DIR = '/ExtractOutputs'
-    next_file_number = len([name for name in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, name))]) + 1
+    """Determine the next filename for writing text into
+
+    Args:
+        cwd: the current working directory
+
+    Returns:
+        int: the next number to use for filenames
+    """
+    directory = '/ExtractOutputs'
+    next_file_number = len([name for name in os.listdir(directory) \
+        if os.path.isfile(os.path.join(directory, name))]) + 1
     return next_file_number
 
 
 def write_file(data, next_file):
-    #open a file for writing
+    """Write data into a file given a file number to use as a unique identifier
+
+    Args:
+        data (str): HTML body to write into a file
+        next_file (int): the number to use as a unique identifier for a file
+    """
+    # open a file for writing
     file = open("output"+next_file+".txt", "w+")
 
     #write the data
