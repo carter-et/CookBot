@@ -3,7 +3,7 @@ name: Lint and Test
 on: [push]
 
 jobs:
-  build:
+  install:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -21,11 +21,10 @@ jobs:
         pip install -r requirements.txt
   lint:
     runs-on: [ubuntu-latest]
-    needs: [build]
+    needs: [install]
     steps:
       - name: Lint with pylint
         run: |
-          pip install pylint
           # stop the build if there are Python syntax errors or undefined names
           pylint . --disable=invalid-name
 # add test job here
