@@ -18,13 +18,13 @@ def extract():
     # get <body> data </body> from url
     data = connect_to_url(url)
     # write it to a file
-    write_file(data, next_file)
+    write_file(data, next_file, name="aly")
 
 
 def read_input():
     """
     Grabs input from command line
-  
+
     Recipe URL should be first argument.
 
     Returns:
@@ -85,7 +85,8 @@ def write_file(data, next_file, name='0'):
         name (str): identifier for your machine so filenames between machines don't get duplicated
     """
     # open a file for writing
-    file = open(f"./ExtractOutputs/{name}-output{next_file}.txt", "w+")
+    file = open(f"./ExtractOutputs/train/{name}-output{next_file}.txt", "w+")
+    open(f"./ExtractOutputs/results/{name}-output{next_file}.txt", "w+")
 
     #write the data
     file.write(str(data))
