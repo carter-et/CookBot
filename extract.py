@@ -27,9 +27,9 @@ def connect_to_url(url):
     response = requests.get(url)
     page = str(BeautifulSoup(response.content))
 
-    start_link = page.find("body")
-    if start_link == -1: return None, 0
-
+    soup = BeautifulSoup(page, 'html.parser')
+    soup.prettify()
+    data = soup.find("body")
     return data
 
 
@@ -44,8 +44,11 @@ def write_file(data, next_file):
     file = open("output"+next_file+".txt", "w+")
 
     #write the data
-    for
-    return
+    for data in data:
+        file.write(data)
+
+    #close the file
+    file.close()
 
 
 if __name__ == "__main__":
