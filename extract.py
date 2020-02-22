@@ -70,7 +70,7 @@ def find_next_available_file(cwd):
     Returns:
         int: the next number to use for filenames
     """
-    directory = './ExtractOutputs'
+    directory = './ExtractOutputs/train/'
     next_file_number = len([name for name in os.listdir(directory) \
         if os.path.isfile(os.path.join(directory, name))]) + 1
     return next_file_number
