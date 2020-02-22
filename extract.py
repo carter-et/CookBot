@@ -54,10 +54,8 @@ def connect_to_url(url):
     if not response.ok:
         print('That was a bad url! Try it in your browser first please.')
         sys.exit(2)
-    page = BeautifulSoup(response.content)
 
-
-    soup = BeautifulSoup(page, 'html.parser')
+    soup = BeautifulSoup(response.text, 'html.parser')
     soup.prettify()
     data = soup.find("body")
     return data
@@ -72,25 +70,25 @@ def find_next_available_file(cwd):
     Returns:
         int: the next number to use for filenames
     """
-    directory = '/ExtractOutputs'
+    directory = './ExtractOutputs'
     next_file_number = len([name for name in os.listdir(directory) \
         if os.path.isfile(os.path.join(directory, name))]) + 1
     return next_file_number
 
 
-def write_file(data, next_file):
+def write_file(data, next_file, name='0'):
     """Write data into a file given a file number to use as a unique identifier
 
     Args:
         data (str): HTML body to write into a file
         next_file (int): the number to use as a unique identifier for a file
+        name (str): identifier for your machine so filenames between machines don't get duplicated
     """
     # open a file for writing
-    file = open("output"+next_file+".txt", "w+")
+    file = open(f"./ExtractOutputs/{name}-output{next_file}.txt", "w+")
 
     #write the data
-    for data in data:
-        file.write(data)
+    file.write(str(data))
 
     #close the file
     file.close()
