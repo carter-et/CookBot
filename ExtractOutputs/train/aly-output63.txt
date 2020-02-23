@@ -1,0 +1,577 @@
+<body class="post-template-default single single-post postid-49416 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-49416 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-15-minutes-or-less category-30-minutes-or-less category-breakfast category-dairy-free category-egg-free category-fall category-gluten-free category-grain-free category-nut-free category-one-bowl category-recipes category-refined-sugar-free category-savory category-sides category-soy-free category-spring category-summer category-vegan category-vegetarian category-winter tag-avocado-oil tag-parsley tag-sea-salt tag-sweet-potato tag-tahini entry"><header class="entry-header"><h1 class="entry-title">8-Minute Sweet Potatoes</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Plate of sweet potatoes drizzled with tahini with text saying 8-Minute Sweet Potatoes" class="tasty-pins-hidden-image" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-8MinuteSweetPotatoes-Pinterest.jpg" data-pin-title="8-Minute Sweet Potatoes" src="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-8MinuteSweetPotatoes-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Plate of sliced sweet potatoes drizzled with tahini and parsley" class="wp-image-49353" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-title="8-Minute Sweet Potatoes" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8-207x300.jpg 207w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8-768x1115.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8-706x1024.jpg 706w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8-600x871.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8-680x987.jpg 680w"/></figure>
+<p>When you want sweet potatoes and you want them <strong><em>fast</em></strong>, this is how to do it!</p>
+<p>Not only is this method quick, but it produces perfectly tender sweet potatoes with a slightly caramelized edge — as if you had roasted them in the oven. Swoon!</p>
+<p>Plus, this version requires only <strong>1 pan</strong>, <strong>2 ingredients</strong>, and <strong>8 minutes</strong> to prepare (because who has time for roasting some days?). Let’s do this!</p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/xC2rRNlXAIM" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Sliced sweet potato, avocado oil, and salt for making our easy sweet potatoes recipe" class="wp-image-49355" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-title="8-Minute Sweet Potatoes" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-207x300.jpg 207w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-768x1115.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-706x1024.jpg 706w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-600x871.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-680x987.jpg 680w"/></figure>
+<span id="more-49416"></span>
+<p>It starts with slicing the sweet potato slightly less than 1/4 inch thick. The more even the slices, the more evenly they will cook.</p>
+<figure class="wp-block-image"><img alt="Cooking sweet potato slices in a cast iron skillet" class="wp-image-49351" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-title="8-Minute Sweet Potatoes" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-6-680x1020.jpg 680w"/></figure>
+<p>Then add to a hot greased skillet (we prefer cast iron) and cover with a lid. Covering them allows the potatoes to soften from the steam, which accelerates the cooking process. </p>
+<p>That’s the beauty of this method: <strong>They’re steaming and browning at the same time!</strong></p>
+<p>Once golden brown on the underside, flip and repeat until they are fork tender and browned on both sides. It’s really that simple.</p>
+<figure class="wp-block-image"><img alt="Covering a pan of sweet potatoes to help them cook through fully" class="wp-image-49348" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-title="8-Minute Sweet Potatoes" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-3-680x1020.jpg 680w"/></figure>
+<p>We hope you LOVE these sweet potatoes! They’re:</p>
+<p>Quick &amp; easy<br/>Tender<br/>Flavorful<br/>Satisfying<br/>Versatile<br/>&amp; Incredibly delicious</p>
+<p>These sweet potatoes are delicious on their own, as a side dish drizzled with tahini and parsley, or in a breakfast bowl (recipe coming soon!). </p>
+<h3>Love Sweet Potatoes? Try Our:</h3>
+<ul><li><a aria-label="Sweet Potato Casserole Boats (1 Pan!) (opens in a new tab)" href="https://minimalistbaker.com/sweet-potato-casserole-boats-1-pan/" rel="noreferrer noopener" target="_blank">Sweet Potato Casserole Boats (1 Pan!)</a></li><li><a aria-label="Curried Sweet Potato &amp; Chickpeas (opens in a new tab)" href="https://minimalistbaker.com/sheet-pan-meal-curried-sweet-potato-chickpeas/" rel="noreferrer noopener" target="_blank">Curried Sweet Potato &amp; Chickpeas</a></li><li><a aria-label="2-Ingredient Sweet Potato Hash Browns (opens in a new tab)" href="https://minimalistbaker.com/2-ingredient-sweet-potato-hash-browns/" rel="noreferrer noopener" target="_blank">2-Ingredient Sweet Potato Hash Browns</a></li><li><a aria-label="How to Roast a Sweet Potato (opens in a new tab)" href="https://minimalistbaker.com/how-to-roast-a-sweet-potato/" rel="noreferrer noopener" target="_blank">How to Roast a Sweet Potato</a></li><li><a aria-label="Sweet Potato Black Bean Enchiladas (opens in a new tab)" href="https://minimalistbaker.com/sweet-potato-black-bean-enchiladas/" rel="noreferrer noopener" target="_blank">Sweet Potato Black Bean Enchiladas</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Plate of sliced sweet potatoes cooked on the stovetop" class="wp-image-49354" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-title="8-Minute Sweet Potatoes" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9-204x300.jpg 204w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9-768x1132.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9-695x1024.jpg 695w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9-600x884.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-9-680x1002.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="49449" id="wprm-recipe-container-49449"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/49449" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Spoonful of tahini resting on a plate of easy stovetop sweet potatoes" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-400x400.jpg" data-pin-description="DELICIOUS 8 Minute Sweet Potatoes! Cooked on the stovetop with a lid for SUPER quick, tender potatoes! #plantbased #glutenfree #minimalistbaker #sweetpotato #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/11/8-Minute-Sweet-Potatoes-SQUARE.jpg 1446w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">4.88</span> from <span class="wprm-recipe-rating-count">8</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">8-Minute Sweet Potatoes</h2>
+<div class="wprm-recipe-summary">
+<p>Our go-to method for quick and easy sweet potatoes! Slicing thin and quickly sautéing while covered yields the perfect, tender sweet potato rounds! Just 2 ingredients, 1 pan, and 8 minutes required!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">1</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minute</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">7</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">8</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">2</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(Servings)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Side Dish				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Gluten-Free, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					No				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					2-3 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="49449" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="49449" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">large</span>
+<span class="wprm-recipe-ingredient-name">organic sweet potato or garnet yam</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">avocado oil</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">pinch</span>
+<span class="wprm-recipe-ingredient-name">sea salt</span>
+<span class="wprm-recipe-ingredient-notes">(<em>optional</em>)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">FOR SERVING <em>optional</em></h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name"><a href="https://www.amazon.com/365-Everyday-Value-Organic-Tahini/dp/B074M9NT8R/?tag=minimalistbaker-20" rel="nofollow" target="_blank">Tahini</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Parsley</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Slice sweet potatoes slightly less than 1/4 inch thick and leave the skin on.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Heat a large skillet (we prefer <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhicFft86lXvb6A_RScuPWAAAAFuk8q9ngEAAAFKAe6p7Qw/http://www.amazon.com/dp/B00IWSQCI6/?creativeASIN=B00IWSQCI6&amp;linkCode=w61&amp;imprToken=MvoQmCzVrfGgh-IlNu2RGg&amp;slotNum=27&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">cast iron</a>) over medium-high heat. Once hot, reduce heat to medium and add oil to pan. Swirl to coat.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add sweet potatoes in an even layer, sprinkle with salt (optional), and cover. Cook for about 3-4 minutes or until the underside is golden brown. Then flip and cover again. Reduce heat slightly if cooking too quickly. Cook for about 3 minutes, or until the sweet potatoes are golden brown on both sides and fork tender.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Enjoy as is! We love these as part of breakfast bowls, with hummus, or just drizzled with tahini!</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Store leftovers covered in the refrigerator up to 2-3 days. Not freezer friendly. Reheat on the stovetop over medium heat for best results.</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/xC2rRNlXAIM" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Nutrition information is a rough estimate calculated without optional ingredients.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 2 servings) </h3><ul><li><strong>Calories:</strong> 106 <li><strong>Fat:</strong> 4.6g <li><strong>Saturated fat:</strong> 0.5g <li><strong>Polyunsaturated fat:</strong> 0.62g <li><strong>Monounsaturated fat:</strong> 3.21g <li><strong>Sodium:</strong> 42mg <li><strong>Potassium:</strong> 256mg <li><strong>Carbohydrates:</strong> 15.3g <li><strong>Fiber:</strong> 2.3g <li><strong>Sugar:</strong> 3.2g <li><strong>Protein:</strong> 1.2g <li><strong>Vitamin A:</strong> 10792IU <li><strong>Vitamin C:</strong> 1.82mg <li><strong>Calcium:</strong> 22.8mg <li><strong>Iron:</strong> 0.46mg</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="8-Minute Sweet Potatoes" data-jpibfi-post-url="https://minimalistbaker.com/8-minute-sweet-potatoes/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2F8-minute-sweet-potatoes%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=8-Minute%20Sweet%20Potatoes&amp;url=https%3A%2F%2Fminimalistbaker.com%2F8-minute-sweet-potatoes%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2F8-minute-sweet-potatoes%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/11/DELICIOUS-8-Minute-Sweet-Potatoes-Cooked-on-the-stovetop-with-a-lid-for-SUPER-quick-tender-potatoes-plantbased-glutenfree-minimalistbaker-sweetpotato-recipe-8.jpg&amp;description=8-Minute%20Sweet%20Potatoes" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/8-minute-sweet-potatoes/#comments">22 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/15-minutes-or-less/" rel="category tag">15 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/30-minutes-or-less/" rel="category tag">30 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/breakfast/" rel="category tag">Breakfast</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/grain-free/" rel="category tag">Grain-Free</a>, <a href="https://minimalistbaker.com/recipes/nut-free/" rel="category tag">Nut-Free</a>, <a href="https://minimalistbaker.com/recipes/one-bowl/" rel="category tag">One Bowl</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/refined-sugar-free/" rel="category tag">Refined Sugar-Free</a>, <a href="https://minimalistbaker.com/recipes/savory/" rel="category tag">Savory</a>, <a href="https://minimalistbaker.com/recipes/sides/" rel="category tag">Sides</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/spring/" rel="category tag">Spring</a>, <a href="https://minimalistbaker.com/recipes/summer/" rel="category tag">Summer</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/adapatogenic-hot-chocolate-low-sugar/" rel="prev">Adaptogenic Hot Chocolate (5 Minutes, Low Sugar)</a></div><div class="next"><a href="https://minimalistbaker.com/the-simple-but-good-breakfast-bowl-20-minutes/" rel="next">The Simple But Good Breakfast Bowl (20 minutes!)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/8-minute-sweet-potatoes/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=49416&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="49416">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="a2e5b68fe3"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="80"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li wpr_havequestion_li" id="comment-855479">
+<article id="article-comment-855479">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Eden" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ed2cda975cd2cf3b1d21ba61caef68f5?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ed2cda975cd2cf3b1d21ba61caef68f5?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Eden" width="96"><span itemprop="name">Eden</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-855479">January 13, 2020 at 6:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made these for the second time tonight, and they are delicious-even cold as leftovers right from the fridge.<br>
+I just used this method on some lotus root tonight, and it turned out great.<br>
+I’m wondering if you have or would consider doing a recipe using lotus root? I’ve recently started using it in stir fry’s and baked as “chips”, but would love to see what you could come up with!</br></br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Eden" class="comment-reply-link" data-belowelement="comment-855479" data-commentid="855479" data-postid="49416" data-respondelement="respond" href="#comment-855479" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-855579">
+<article id="article-comment-855579">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-855579">January 14, 2020 at 10:34 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed it, Eden! We haven’t experimented with lotus root as it can be a challenging to find. But we will add it to our ideas list.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855579" data-commentid="855579" data-postid="49416" data-respondelement="respond" href="#comment-855579" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3" id="comment-855884">
+<article id="article-comment-855884">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for dssdf" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7b3c83fc62c00504a5b5d7ada7af0e9c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7b3c83fc62c00504a5b5d7ada7af0e9c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for dssdf" width="96"><span itemprop="name">dssdf</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-855884">January 15, 2020 at 8:06 pm</a></time></p> </header>
+<div class="comment-content">
+<p>:)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to dssdf" class="comment-reply-link" data-belowelement="comment-855884" data-commentid="855884" data-postid="49416" data-respondelement="respond" href="#comment-855884" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-854992">
+<article id="article-comment-854992">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Gigi" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/6f4c2127c77ad7bdee28d0da507c1953?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6f4c2127c77ad7bdee28d0da507c1953?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Gigi" width="96"><span itemprop="name">Gigi</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854992">January 11, 2020 at 1:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Made these last night, so easy and delicious! The only issue I had was the there was a lot of smoke coming from the pan even when I covered it. I didn’t have any avocado oil so I used olive oil instead, could that be the reason?</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Gigi" class="comment-reply-link" data-belowelement="comment-854992" data-commentid="854992" data-postid="49416" data-respondelement="respond" href="#comment-854992" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-855277">
+<article id="article-comment-855277">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-855277">January 13, 2020 at 9:52 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Gigi, yes, that could definitely be the issue as olive oil has a lower smoke point. Next time, you may want to try reducing the temperature or using avocado oil. Hope that helps!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855277" data-commentid="855277" data-postid="49416" data-respondelement="respond" href="#comment-855277" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-854916">
+<article id="article-comment-854916">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/61403aceb8e388dd6070d92034535a9a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/61403aceb8e388dd6070d92034535a9a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana" width="96"><span itemprop="name">Dana</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854916">January 10, 2020 at 7:55 pm</a></time></p> </header>
+<div class="comment-content">
+<p>These are delicious and so easy to cook! Cooking my second batch now!<br>
+Thanks for sharing!</br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana" class="comment-reply-link" data-belowelement="comment-854916" data-commentid="854916" data-postid="49416" data-respondelement="respond" href="#comment-854916" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-854765">
+<article id="article-comment-854765">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Pia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/32836c0dcdecaee6aafa08dbe0cae6a8?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/32836c0dcdecaee6aafa08dbe0cae6a8?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Pia" width="96"><span itemprop="name">Pia</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854765">January 9, 2020 at 3:34 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Just made them, a absolutely fantastic! So easy and tasty.<br>
+Used a little bit of sesame oil, and put some feta cheese on as a topping! Super yummy!</br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Pia" class="comment-reply-link" data-belowelement="comment-854765" data-commentid="854765" data-postid="49416" data-respondelement="respond" href="#comment-854765" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li wpr_havequestion_li" id="comment-854728">
+<article id="article-comment-854728">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Mr Tino" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4f4cde53095427fb256098fa3abf384d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4f4cde53095427fb256098fa3abf384d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Mr Tino" width="96"><span itemprop="name">Mr Tino</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854728">January 9, 2020 at 11:07 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks your sharing, I will learning step by step then do it on tomorow :(</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Mr Tino" class="comment-reply-link" data-belowelement="comment-854728" data-commentid="854728" data-postid="49416" data-respondelement="respond" href="#comment-854728" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-854673">
+<article id="article-comment-854673">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Myra" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/eb8ed4e7ba834963b6888ca59a8f6a40?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/eb8ed4e7ba834963b6888ca59a8f6a40?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Myra" width="96"><span itemprop="name">Myra</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854673">January 9, 2020 at 8:32 am</a></time></p> </header>
+<div class="comment-content">
+<p>Tried this recipe in my Ninja Foodi with the grill setting. Done in 6 minutes without needing to turn thanks to the convection feature!  Crisp edges and evenly browned and tender.<br>
+Amazing. Delicious. And so nutritious.</br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Myra" class="comment-reply-link" data-belowelement="comment-854673" data-commentid="854673" data-postid="49416" data-respondelement="respond" href="#comment-854673" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-854730">
+<article id="article-comment-854730">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854730">January 9, 2020 at 11:09 am</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks, Myra!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854730" data-commentid="854730" data-postid="49416" data-respondelement="respond" href="#comment-854730" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-854627">
+<article id="article-comment-854627">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Paige Cassandra Flamm" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Paige Cassandra Flamm" width="96"/><span itemprop="name">Paige Cassandra Flamm</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854627">January 8, 2020 at 5:09 pm</a></time></p> </header>
+<div class="comment-content">
+<p>These look so good! I totally need to make these for lunch tomorrow!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Paige Cassandra Flamm" class="comment-reply-link" data-belowelement="comment-854627" data-commentid="854627" data-postid="49416" data-respondelement="respond" href="#comment-854627" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-854519">
+<article id="article-comment-854519">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Noelia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/68ccce5520893bfef715a3e45ea6d33b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/68ccce5520893bfef715a3e45ea6d33b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Noelia" width="96"/><span itemprop="name">Noelia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854519">January 8, 2020 at 8:31 am</a></time></p> </header>
+<div class="comment-content">
+<p>I made these yesterday, they turned out tender, the avocado oil is excellent here, easy on the digestion, and I topped them with tahini and chopped fresh parsley. Love, love these tasty and tender sweet potatoes! Thank you!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Noelia" class="comment-reply-link" data-belowelement="comment-854519" data-commentid="854519" data-postid="49416" data-respondelement="respond" href="#comment-854519" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-854546">
+<article id="article-comment-854546">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854546">January 8, 2020 at 12:12 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Great! Thanks for sharing, Noelia!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854546" data-commentid="854546" data-postid="49416" data-respondelement="respond" href="#comment-854546" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-854451">
+<article id="article-comment-854451">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kris" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4515506f977766e5ca853de9b5bc68ac?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4515506f977766e5ca853de9b5bc68ac?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kris" width="96"/><span itemprop="name">Kris</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854451">January 7, 2020 at 4:29 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hello, love this recipe! Have been waiting to buy a cast iron pan but now I really want one! Any helpful hints when buying one? Brand?<br/>
+Thanks for the help and great recipes, Kris</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kris" class="comment-reply-link" data-belowelement="comment-854451" data-commentid="854451" data-postid="49416" data-respondelement="respond" href="#comment-854451" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-854581">
+<article id="article-comment-854581">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854581">January 8, 2020 at 12:25 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We like Lodge! They come seasoned and they’re incredibly durable and affordable.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854581" data-commentid="854581" data-postid="49416" data-respondelement="respond" href="#comment-854581" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-3" id="comment-854644">
+<article id="article-comment-854644">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kris" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4515506f977766e5ca853de9b5bc68ac?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4515506f977766e5ca853de9b5bc68ac?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kris" width="96"/><span itemprop="name">Kris</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854644">January 8, 2020 at 7:55 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kris" class="comment-reply-link" data-belowelement="comment-854644" data-commentid="854644" data-postid="49416" data-respondelement="respond" href="#comment-854644" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="comment-854447">
+<article id="article-comment-854447">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sam" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/dd550961f4e697d657c88139d6cde456?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/dd550961f4e697d657c88139d6cde456?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sam" width="96"/><span itemprop="name">Sam</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854447">January 7, 2020 at 3:38 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This recipe looks great. Do you think it would work with russet potatoes too?<br/>
+Thanks</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sam" class="comment-reply-link" data-belowelement="comment-854447" data-commentid="854447" data-postid="49416" data-respondelement="respond" href="#comment-854447" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-854585">
+<article id="article-comment-854585">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854585">January 8, 2020 at 12:26 pm</a></time></p> </header>
+<div class="comment-content">
+<p>It should, yes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854585" data-commentid="854585" data-postid="49416" data-respondelement="respond" href="#comment-854585" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-854432">
+<article id="article-comment-854432">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Fran" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/b3644861e47e772e4ab4143518a204a2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b3644861e47e772e4ab4143518a204a2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Fran" width="96"/><span itemprop="name">Fran</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854432">January 7, 2020 at 1:29 pm</a></time></p> </header>
+<div class="comment-content">
+<p>So easy and so delicious.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Fran" class="comment-reply-link" data-belowelement="comment-854432" data-commentid="854432" data-postid="49416" data-respondelement="respond" href="#comment-854432" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-854434">
+<article id="article-comment-854434">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854434">January 7, 2020 at 1:29 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks, Fran!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854434" data-commentid="854434" data-postid="49416" data-respondelement="respond" href="#comment-854434" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-854420">
+<article id="article-comment-854420">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Naomi" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/8cb6171072f96ea129ca52ef49419127?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/8cb6171072f96ea129ca52ef49419127?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Naomi" width="96"/><span itemprop="name">Naomi</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854420">January 7, 2020 at 1:21 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Can I get a similar result if I don’t use the oil?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Naomi" class="comment-reply-link" data-belowelement="comment-854420" data-commentid="854420" data-postid="49416" data-respondelement="respond" href="#comment-854420" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-854435">
+<article id="article-comment-854435">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/8-minute-sweet-potatoes/?t=1582399863#comment-854435">January 7, 2020 at 1:30 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We haven’t tried it but yes I think so. I’m wondering if in your case steaming your potatoes might be best? Follow <a href="https://minimalistbaker.com/oil-free-roasted-vegetables/" rel="noopener noreferrer" target="_blank">this method</a> instead if it doesn’t work out.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854435" data-commentid="854435" data-postid="49416" data-respondelement="respond" href="#comment-854435" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_49449 = {"ingredients":[{"amount":"1","unit":"large","name":"organic sweet potato or garnet yam","notes":"","converted":{"2":{"amount":"1","unit":"large"}},"id":28761},{"amount":"2","unit":"tsp","name":"avocado oil","notes":"","converted":{"2":{"amount":"2","unit":"tsp"}},"id":13646},{"amount":"1","unit":"pinch","name":"sea salt","notes":"(<em>optional<\/em>)","converted":{"2":{"amount":"1","unit":"pinch"}},"id":13388},{"amount":"","unit":"","name":"Tahini","notes":"","id":13519},{"amount":"","unit":"","name":"Parsley","notes":"","id":20841}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":295,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

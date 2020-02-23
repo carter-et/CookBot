@@ -1,0 +1,808 @@
+<body class="post-template-default single single-post postid-50392 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-50392 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-30-minutes-or-less category-beverages category-dairy-free category-egg-free category-fall category-gluten-free category-grain-free category-oil-free category-one-bowl category-recipes category-refined-sugar-free category-soy-free category-vegan category-vegetarian category-winter tag-black-pepper tag-cardamom tag-cinnamon tag-cloves tag-dairy-free-milk tag-ginger entry"><header class="entry-header"><h1 class="entry-title">Easy Masala Chai Recipe</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Holding the handle of a mug of our Easy Masala Chai Tea" class="tasty-pins-hidden-image" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2020/02/MB-MasalaChai-Pinterest.jpg" data-pin-title="Easy Masala Chai Recipe" src="https://minimalistbaker.com/wp-content/uploads/2020/02/MB-MasalaChai-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Holding a mug of homemade Masala Chai Tea next to ingredients used to make it" class="wp-image-50446" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-44-680x1020.jpg 680w"/></figure>
+<p>Behold, a seriously dreamy cup of chai. It’s creamy, dairy-free, naturally sweetened, caffeine optional, and perfectly spiced.</p>
+<p>We already have recipes on the blog for <a aria-label="Caffeine-Free Chai Mix (opens in a new tab)" href="https://minimalistbaker.com/5-minute-caffeine-free-chai-mix/" rel="noreferrer noopener" target="_blank">Caffeine-Free Chai Mix</a> and a <a aria-label="Vegan Chai Latte (opens in a new tab)" href="https://minimalistbaker.com/vegan-chai-latte/" rel="noreferrer noopener" target="_blank">Vegan Chai Latte</a>. But as we’ve played around more with customizing the spices and perfecting the flavor, we came up with this version, which uses fresh ginger and whole spices. </p>
+<p>We must say, this is our perfect cup of chai. Swoon! Let us show you how easy and totally not intimidating this recipe is.</p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/rTBNyJ0wbdk" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Ginger, cinnamon sticks, cloves, black pepper, cardamom pods, and black tea for making our homemade Chai Tea Recipe" class="wp-image-50447" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-680x1020.jpg 680w"/></figure>
+<span id="more-50392"></span>
+<p>This masala chai recipe is the perfect balance of spicy and sweet. And it comes together in just <strong>25 minutes</strong> with <strong>8 ingredients</strong> in <strong>1 pot.</strong> </p>
+<figure class="wp-block-image"><img alt="Using a mortar and pestle to slightly grind whole spices for making homemade Chai Tea" class="wp-image-50424" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-5-680x1020.jpg 680w"/></figure>
+<h2>What is Masala Chai?</h2>
+<p>Masala chai is a creamy, spiced tea that’s most popular in India but is increasingly enjoyed around the world. The primary difference between chai and masala chai is that masala chai includes spices, while chai is simply tea and milk.</p>
+<p>Chai is typically made with four components:</p>
+<ol><li><strong>Black tea</strong> (we prefer bagged or loose-leaf, decaf when possible)</li><li><strong>Milk</strong> (we went dairy-free with coconut and/or cashew )</li><li><strong>Sweetener</strong> (we went for a little maple syrup)</li><li><strong>Spices</strong> (ginger, cinnamon, clove, cardamom, black pepper)</li></ol>
+<p>The spices vary depending on the recipe, but our favorite combination is cinnamon, cardamom, black pepper, cloves, and ginger.</p>
+<figure class="wp-block-image"><img alt="Tea bags in a saucepan with spices for making our Masala Chai Recipe" class="wp-image-50429" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-14-680x1020.jpg 680w"/></figure>
+<h2>How to Make Chai Tea</h2>
+<p>Our inspired version begins by lightly crushing the spices in a mortar and pestle (or a cutting board and heavy pan will do!). </p>
+<p><strong>Slightly crushing the spices opens them up more and makes for a stronger infusion</strong> (so you get more flavor out of a lesser amount), packing more of a punch with fewer ingredients and less cost.</p>
+<p>The crushed spices are added to a saucepan with water and freshly grated ginger and left to simmer for about 15 minutes. <strong>Grating the ginger makes for a stronger ginger flavor</strong>. But if gingery chai isn’t your thing, slice instead of grating and/or slightly reduce the amount. </p>
+<p><strong>We prefer steeping first in water alone</strong> because we find it makes a stronger infusion than adding the milk too soon.</p>
+<p>The black tea and dairy-free milk are then added and heated slightly. For a full-bodied drink, we like using thick, rich dairy-free milks such as our <a aria-label="Cashew Coconut Oat Milk (opens in a new tab)" href="https://minimalistbaker.com/cashew-coconut-oat-milk-oil-free/" rel="noreferrer noopener" target="_blank">Cashew Coconut Oat Milk</a>.</p>
+<figure class="wp-block-image"><img alt="Pouring dairy-free milk into a saucepan to make our Masala Chai recipe" class="wp-image-50431" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-22-680x1020.jpg 680w"/></figure>
+<p>Then all that’s left is to add your sweetener of choice and strain.</p>
+<p>It’s the perfect drink to enjoy cuddled up with a blanket and a good book. Or make a big batch and reheat on the stovetop or in a <a aria-label="milk frother (opens in a new tab)" href="https://aax-us-east.amazon-adsystem.com/x/c/Qp8I8t5iD7_CWrpo_oCIUPEAAAFvH0Sg2QEAAAFKAYufbeA/https://www.amazon.com/gp/product/B004RCNJ9Q/?creativeASIN=B004RCNJ9Q&amp;linkCode=w61&amp;imprToken=NXZLHux.IAmGZ-.bHLT3aw&amp;slotNum=1&amp;tag=minimalistbaker-20" rel="noreferrer noopener nofollow" target="_blank">milk frother</a> on busier days.</p>
+<p>We hope you LOVE this chai! It’s:<br/><br/>Spicy<br/>Warming<br/>Caffeine optional<br/>Comforting<br/>Naturally sweetened<br/>&amp; Simple to make</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a pot of our Easy Masala Chai recipe" class="wp-image-50439" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35-680x1020.jpg 680w"/></figure>
+<h2>More Chai Recipes</h2>
+<ul><li><a aria-label="No-Bake Vegan Chai Cheesecake (opens in a new tab)" href="https://minimalistbaker.com/no-bake-vegan-chai-cheesecake/" rel="noreferrer noopener" target="_blank">No-Bake Vegan Chai Cheesecake</a> </li><li><a aria-label="Vegan Chai Ice Cream (opens in a new tab)" href="https://minimalistbaker.com/vegan-chai-ice-cream/" rel="noreferrer noopener" target="_blank">Vegan Chai Ice Cream</a></li><li><a aria-label="Vegan Chai Ice Cream Sandwiches (opens in a new tab)" href="https://minimalistbaker.com/chai-ginger-ice-cream-sandwiches/" rel="noreferrer noopener" target="_blank">Vegan Chai Ice Cream Sandwiches</a></li><li><a aria-label="Chai Spiced Oatmeal Raisin Cookie Bars (opens in a new tab)" href="https://minimalistbaker.com/chai-spiced-oatmeal-raisin-bars/" rel="noreferrer noopener" target="_blank">Chai Spiced Oatmeal Raisin Cookie Bars</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a aria-label="#minimalistbaker (opens in a new tab)" href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank"><em>#minimalistbaker</em></a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Pouring mugs of dairy-free Masala Chai" class="wp-image-50442" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-title="Easy Masala Chai Recipe" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-40-680x1020.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="50461" id="wprm-recipe-container-50461"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/50461" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Pouring dairy-free milk into a saucepan of homemade Masala Chai" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-400x400.jpg" data-pin-description="AMAZING Easy Masala Chai Recipe! SPICY, naturally-sweetened, COMFORTING! #minimalistbaker #chai #plantbased #dairyfree #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/12/Masala-Chai-SQUARE.jpg 1444w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">4.78</span> from <span class="wprm-recipe-rating-count">9</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Easy Masala Chai Recipe</h2>
+<div class="wprm-recipe-summary">
+<p>A delicious and easy dairy-free chai recipe made with whole spices. It's spicy, comforting, naturally sweetened, and made in just 1 pot with 8 ingredients!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">25</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">3</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(Cups)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Beverage				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Dairy-Free, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					No				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					3-4 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="50461" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="50461" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">whole</span>
+<span class="wprm-recipe-ingredient-name">cinnamon stick</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">6-8</span>
+<span class="wprm-recipe-ingredient-unit">green</span>
+<span class="wprm-recipe-ingredient-name">cardamom pods</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">whole black peppercorns</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3-4</span>
+<span class="wprm-recipe-ingredient-unit">whole</span>
+<span class="wprm-recipe-ingredient-name">cloves</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2 <strong>½</strong></span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">water</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">grated ginger </span>
+<span class="wprm-recipe-ingredient-notes">(for less intense ginger flavor, slice instead of grating)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">loose leaf black tea </span>
+<span class="wprm-recipe-ingredient-notes">(or ~3-4 black tea bags // use decaf as needed)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/guide-making-dairy-free-milk/" target="_blank">dairy-free milk </a></span>
+<span class="wprm-recipe-ingredient-notes">(we favor oat milk, coconut milk, and cashew milk // use thicker, richer dairy-free milks like canned coconut milk or our <a href="https://minimalistbaker.com/cashew-coconut-oat-milk-oil-free/" target="_blank">Oatly</a> recipe for creamier chai!)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Sweetener such as stevia, organic cane sugar, or maple syrup to taste</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add cinnamon stick, cardamom pods, peppercorns, and cloves to the bowl of a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QqOPvNPc0p66c_pS9UF5bOYAAAFvNHDV2QEAAAFKAWOALGg/https://www.amazon.com/gp/product/B01HXWT40E/?creativeASIN=B01HXWT40E&amp;linkCode=w61&amp;imprToken=2fjBEVrBXd1zO25FK6IW4Q&amp;slotNum=7&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">mortar</a> (or cutting board) and use pestle (or heavy pan) to slightly crush the spices. You aren’t pulverizing into a powder, just slightly crushing into small pieces (see photo).</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>To a <a href="https://aax-us-east.amazon-adsystem.com/x/c/Qs5qdaBogmOEwK6q1QSRH0EAAAFvHw502QEAAAFKAao9hm8/https://www.amazon.com/Dansk-833300-Kobenstyle-Saucepan-Medium/dp/B009SQIW2K/?creativeASIN=B009SQIW2K&amp;linkCode=w61&amp;imprToken=EMxJpFmvwO4eX4x1GHX0xw&amp;slotNum=25&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">medium saucepan</a> add crushed spices, water, and grated (or sliced) ginger and bring to a boil over high heat. (<strong>Note</strong>: For a less gingery chai, reduce amount of ginger and slice rather than grating). Then reduce heat slightly to medium/medium-low and maintain a simmer for 15 minutes or until it reduces by about one-third.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add tea (loose leaf or bags) and dairy-free milk of choice (we love light canned coconut) and lower heat to low. Cover and continue cooking for 5 minutes to allow the flavors to meld. Then turn off heat and let steep for 5 minutes more (covered) or longer for deeper flavor.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add sweetener of choice to taste (we prefer stevia or maple syrup, but sugar is more traditional). Strain through a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QtQs2A-jUA5iG4p7ZJDoY18AAAFvNHMPzQEAAAFKAUnKqYM/http://www.amazon.com/dp/B007TUQF9O/?creativeASIN=B007TUQF9O&amp;linkCode=w61&amp;imprToken=F.ocYGA1RrNaao4gWzt8OQ&amp;slotNum=5&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">fine mesh strainer</a> before serving.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Keep strained, cooled leftovers covered in the fridge up to 3-4 days. Reheat on the stovetop or in a <a href="https://aax-us-east.amazon-adsystem.com/x/c/Qoi_DNeJZfE_Sl4DwfhHOWcAAAFvNHOUgQEAAAFKAULehco/https://www.amazon.com/gp/product/B004RCNJ9Q/?creativeASIN=B004RCNJ9Q&amp;linkCode=w61&amp;imprToken=jCOr.sC-kQfIodEfRVeOlA&amp;slotNum=3&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">milk frother</a>. Not freezer friendly.</p></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/rTBNyJ0wbdk" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Nutrition information is a rough estimate calculated with our homemade<a href="https://minimalistbaker.com/cashew-coconut-oat-milk-oil-free/" rel="noopener" target="_blank"> Cashew Coconut Oat Milk</a> and sweetened with stevia.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 3 cups) </h3><ul><li><strong>Calories:</strong> 200 <li><strong>Fat:</strong> 13.5g <li><strong>Saturated fat:</strong> 5.9g <li><strong>Polyunsaturated fat:</strong> 1.61g <li><strong>Monounsaturated fat:</strong> 4.7g <li><strong>Sodium:</strong> 21mg <li><strong>Potassium:</strong> 283mg <li><strong>Carbohydrates:</strong> 19.4g <li><strong>Fiber:</strong> 3g <li><strong>Sugar:</strong> 4.9g <li><strong>Protein:</strong> 5g</li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Easy Masala Chai Recipe" data-jpibfi-post-url="https://minimalistbaker.com/easy-masala-chai-recipe/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Feasy-masala-chai-recipe%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Easy%20Masala%20Chai%20Recipe&amp;url=https%3A%2F%2Fminimalistbaker.com%2Feasy-masala-chai-recipe%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Feasy-masala-chai-recipe%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/12/AMAZING-Easy-Masala-Chai-Recipe-SPICY-naturally-sweetened-COMFORTING-minimalistbaker-chai-plantbased-dairyfree-recipe-35.jpg&amp;description=Easy%20Masala%20Chai%20Recipe" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/easy-masala-chai-recipe/#comments">37 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/30-minutes-or-less/" rel="category tag">30 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/beverages/" rel="category tag">Beverage</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/grain-free/" rel="category tag">Grain-Free</a>, <a href="https://minimalistbaker.com/recipes/oil-free/" rel="category tag">Oil-Free</a>, <a href="https://minimalistbaker.com/recipes/one-bowl/" rel="category tag">One Bowl</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/refined-sugar-free/" rel="category tag">Refined Sugar-Free</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/healthier-peanut-butter-chocolate-chip-cookies-gf-1-bowl/" rel="prev">Healthier Peanut Butter Chocolate Chip Cookies (GF &amp; 1 Bowl!)</a></div><div class="next"><a href="https://minimalistbaker.com/classic-gluten-free-lasagna-dairy-free/" rel="next">Easy Gluten-Free Lasagna (Dairy-Free!)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/easy-masala-chai-recipe/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=50392&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="50392">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="e0c9c1a8b2"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="235"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-864614">
+<article id="article-comment-864614">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Stacy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/db873b620865bb74d40dbb28ccd17452?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/db873b620865bb74d40dbb28ccd17452?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Stacy" width="96"><span itemprop="name">Stacy</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-864614">February 19, 2020 at 12:39 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made this as the recipe states, with a little extra cardamom, maple syrup, and coconut milk… it is quite possibly the best damn thing I have ever tasted. Seriously, it is sooooo good. Thanks so much for this and all your vegetarian recipes – I love them all!!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Stacy" class="comment-reply-link" data-belowelement="comment-864614" data-commentid="864614" data-postid="50392" data-respondelement="respond" href="#comment-864614" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864758">
+<article id="article-comment-864758">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-864758">February 20, 2020 at 1:42 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Stacy. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864758" data-commentid="864758" data-postid="50392" data-respondelement="respond" href="#comment-864758" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-863852">
+<article id="article-comment-863852">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jamie" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/e629a43486667eb19991d8f4ffb10791?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e629a43486667eb19991d8f4ffb10791?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jamie" width="96"><span itemprop="name">Jamie</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-863852">February 16, 2020 at 12:49 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This is mind-boggling tasty! I made it without black tea and instead added a bit more of each whole spice + extra grated ginger so that it was a concentrate of sorts. Then I’d foam a good amount of oat milk – and voila. Masala chai latte, sans caffeine. I’m hooked and about to make my second batch now. Sidenote – it’s sweet enough for me without adding any sweetener, but maybe it’s the natural sweetness of the foamed oat milk that does it for me.</p>
+<p>Thank you so much!! This is my first rating and comment though I’ve made a ton of your recipes and loved them ALL. I solemnly swear to review more!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jamie" class="comment-reply-link" data-belowelement="comment-863852" data-commentid="863852" data-postid="50392" data-respondelement="respond" href="#comment-863852" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-863454">
+<article id="article-comment-863454">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Alissa Knowles" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/2df41690acd6a2443a28c2bf57104f7c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/2df41690acd6a2443a28c2bf57104f7c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Alissa Knowles" width="96"><span itemprop="name">Alissa Knowles</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-863454">February 14, 2020 at 3:08 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Absolutely loved this and have been making it non-stop! It is creamy and perfectly spiced. I used store-bought oatmilk and it was still great, but hope to try to homemade some time as well.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Alissa Knowles" class="comment-reply-link" data-belowelement="comment-863454" data-commentid="863454" data-postid="50392" data-respondelement="respond" href="#comment-863454" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-863515">
+<article id="article-comment-863515">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-863515">February 14, 2020 at 4:57 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! We’re so glad you enjoyed it, Alissa! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-863515" data-commentid="863515" data-postid="50392" data-respondelement="respond" href="#comment-863515" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-862623">
+<article id="article-comment-862623">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Helen Wang" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7c402948f7e35e2586d577f1265c1bc7?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7c402948f7e35e2586d577f1265c1bc7?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Helen Wang" width="96"><span itemprop="name">Helen Wang</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862623">February 12, 2020 at 6:57 pm</a></time></p> </header>
+<div class="comment-content">
+<p>The tea is delicious! I made a big batch and stored in refrigerator so I can have it in the morning. Thank you for the recipe!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Helen Wang" class="comment-reply-link" data-belowelement="comment-862623" data-commentid="862623" data-postid="50392" data-respondelement="respond" href="#comment-862623" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-862801">
+<article id="article-comment-862801">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862801">February 13, 2020 at 10:17 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoy it! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862801" data-commentid="862801" data-postid="50392" data-respondelement="respond" href="#comment-862801" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-862574">
+<article id="article-comment-862574">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jenny Russell" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/917ab02a574c47b5e20fb89cbf60d8b9?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/917ab02a574c47b5e20fb89cbf60d8b9?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jenny Russell" width="96"><span itemprop="name">Jenny Russell</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862574">February 12, 2020 at 12:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for the recipe! I have a question. I LOVE chai, but due to kidney stone issues, I cannot have black tea any more.  Do you have any suggestions for substitutes?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jenny Russell" class="comment-reply-link" data-belowelement="comment-862574" data-commentid="862574" data-postid="50392" data-respondelement="respond" href="#comment-862574" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-862577">
+<article id="article-comment-862577">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862577">February 12, 2020 at 12:56 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Rooibos! Or omit – it’s delicious with just the spices in my opinion.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862577" data-commentid="862577" data-postid="50392" data-respondelement="respond" href="#comment-862577" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-862391">
+<article id="article-comment-862391">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Courtney" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/0a3bfc9eb8ba4c337834d2f5bd9b62bd?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/0a3bfc9eb8ba4c337834d2f5bd9b62bd?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Courtney" width="96"><span itemprop="name">Courtney</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862391">February 11, 2020 at 4:49 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This was sooo easy and delicious! I made a few tweaks (more cinnamon no ginger) and actually just put the spices in a tea strainer and cooked in my electric tea pot before adding the tea milk and cane sugar. Soooo easy! Like easy enough to make while rushing to get ready for work. </p>
+<p>Definitely worth a try!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Courtney" class="comment-reply-link" data-belowelement="comment-862391" data-commentid="862391" data-postid="50392" data-respondelement="respond" href="#comment-862391" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-862516">
+<article id="article-comment-862516">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862516">February 12, 2020 at 10:15 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed it, Courtney! Thanks so much for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862516" data-commentid="862516" data-postid="50392" data-respondelement="respond" href="#comment-862516" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-862298">
+<article id="article-comment-862298">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Riley" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/fbfb672c0e52afcb438b6652c207d0d2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/fbfb672c0e52afcb438b6652c207d0d2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Riley" width="96"><span itemprop="name">Riley</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862298">February 11, 2020 at 9:08 am</a></time></p> </header>
+<div class="comment-content">
+<p>Would this recipe also work for an iced chai? I so, would you change anything or simply drink once chilled in the fridge? This looks so good and I want to try and make it…but I am a wimp with hot drinks.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Riley" class="comment-reply-link" data-belowelement="comment-862298" data-commentid="862298" data-postid="50392" data-respondelement="respond" href="#comment-862298" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-862336">
+<article id="article-comment-862336">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862336">February 11, 2020 at 11:45 am</a></time></p> </header>
+<div class="comment-content">
+<p>I wouldn’t change anything! Other than you don’t really need to add the dairy-free milk to the pot. You could add it to your drink upon serving. Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862336" data-commentid="862336" data-postid="50392" data-respondelement="respond" href="#comment-862336" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-3 wpr_madethis_li" id="comment-863338">
+<article id="article-comment-863338">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Riley" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/fbfb672c0e52afcb438b6652c207d0d2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/fbfb672c0e52afcb438b6652c207d0d2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Riley" width="96"/><span itemprop="name">Riley</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-863338">February 14, 2020 at 10:40 am</a></time></p> </header>
+<div class="comment-content">
+<p>It definitely works for an iced chai! I would just recommend increasing the water a little bit since you don’t add the milk with the tea. I also added some vanilla and it was AMAZING! Never going back to store bought chai-thanks!!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Riley" class="comment-reply-link" data-belowelement="comment-863338" data-commentid="863338" data-postid="50392" data-respondelement="respond" href="#comment-863338" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-4" id="comment-863375">
+<article id="article-comment-863375">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-863375">February 14, 2020 at 11:18 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for letting us know!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-863375" data-commentid="863375" data-postid="50392" data-respondelement="respond" href="#comment-863375" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-861681">
+<article id="article-comment-861681">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Abigail Jane" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c9fb9e7dd43129bd81388c55adc8e24d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c9fb9e7dd43129bd81388c55adc8e24d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Abigail Jane" width="96"/><span itemprop="name">Abigail Jane</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-861681">February 8, 2020 at 2:45 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This recipe sounds wonderful and as usual, the photos are gorgeous!<br>
+I wonder if I could add in some helpful herbs like lemon balm or nettle? I’d imagine that they wouldn’t affect the test much and would create an extra powerful drink to enjoy!</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Abigail Jane" class="comment-reply-link" data-belowelement="comment-861681" data-commentid="861681" data-postid="50392" data-respondelement="respond" href="#comment-861681" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-862197">
+<article id="article-comment-862197">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-862197">February 10, 2020 at 2:46 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I think so! It will, of course, alter the flavor. Let us know if you try it!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862197" data-commentid="862197" data-postid="50392" data-respondelement="respond" href="#comment-862197" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-861160">
+<article id="article-comment-861160">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Amalia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/501d63da0abb266d3b2c37a6fdc53799?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/501d63da0abb266d3b2c37a6fdc53799?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Amalia" width="96"/><span itemprop="name">Amalia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-861160">February 6, 2020 at 1:18 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Just wanted to come back to rate! Giving four stars because I think there are things I will tweak next time to taste more tea (steep before adding milk) and more balance of the spices (less ginger, more cardamom and cloves). It’s a really nice recipe, though, and I’ve loved being able to pull it out of the fridge and reheat a portion in the mornings.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Amalia" class="comment-reply-link" data-belowelement="comment-861160" data-commentid="861160" data-postid="50392" data-respondelement="respond" href="#comment-861160" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-861431">
+<article id="article-comment-861431">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-861431">February 7, 2020 at 11:34 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much! I appreciate the feedback.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-861431" data-commentid="861431" data-postid="50392" data-respondelement="respond" href="#comment-861431" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-860946">
+<article id="article-comment-860946">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sujatha" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c9c4bd60f7d4393e94b66017ca246e47?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c9c4bd60f7d4393e94b66017ca246e47?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sujatha" width="96"/><span itemprop="name">Sujatha</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860946">February 5, 2020 at 6:45 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Loved the recipe. I used rice milk (which I usually use for tea) and jaggery for sweetener. I will try with almond milk soon. Also, adding a pinch of turmeric when heating the milk will be highly beneficial to health.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sujatha" class="comment-reply-link" data-belowelement="comment-860946" data-commentid="860946" data-postid="50392" data-respondelement="respond" href="#comment-860946" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-861139">
+<article id="article-comment-861139">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-861139">February 6, 2020 at 12:12 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Lovely! Thanks for sharing, Sujatha!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-861139" data-commentid="861139" data-postid="50392" data-respondelement="respond" href="#comment-861139" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-860828">
+<article id="article-comment-860828">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Cathy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ca0efb969816e942f33e3babc4edfdf4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ca0efb969816e942f33e3babc4edfdf4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Cathy" width="96"/><span itemprop="name">Cathy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860828">February 5, 2020 at 8:27 am</a></time></p> </header>
+<div class="comment-content">
+<p>Found this recipe late and night and just had to try it!! Now I’m enjoying my lovely cup of tea at midnight. </p>
+<p>This is a really delicious recipe, it’s spicy but not too spicy (:  I used lactose free milk and sweetened it with raw sugar.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Cathy" class="comment-reply-link" data-belowelement="comment-860828" data-commentid="860828" data-postid="50392" data-respondelement="respond" href="#comment-860828" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860871">
+<article id="article-comment-860871">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860871">February 5, 2020 at 10:32 am</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks for sharing, Cathy!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860871" data-commentid="860871" data-postid="50392" data-respondelement="respond" href="#comment-860871" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-860706">
+<article id="article-comment-860706">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Luci" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9a1cd614e5213f2d35ad2cbc822e6ddb?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9a1cd614e5213f2d35ad2cbc822e6ddb?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Luci" width="96"/><span itemprop="name">Luci</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860706">February 5, 2020 at 4:02 am</a></time></p> </header>
+<div class="comment-content">
+<p>This is easy and delicious to prepare.<br>
+I used  high quality organic black tea bags and homemade organic cashew milk which are key to a great taste.<br>
+The leftovers today tasted even better as the flavors were intensified after a very slow reheat with an additional cinnamon stick topped w fresh organic mint.</br></br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Luci" class="comment-reply-link" data-belowelement="comment-860706" data-commentid="860706" data-postid="50392" data-respondelement="respond" href="#comment-860706" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860872">
+<article id="article-comment-860872">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860872">February 5, 2020 at 10:33 am</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks or sharing, Luci!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860872" data-commentid="860872" data-postid="50392" data-respondelement="respond" href="#comment-860872" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-860332">
+<article id="article-comment-860332">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ashley Meyer" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c32c41ad8aedde9bd54a82faf1566fed?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c32c41ad8aedde9bd54a82faf1566fed?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ashley Meyer" width="96"/><span itemprop="name">Ashley Meyer</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860332">February 4, 2020 at 6:47 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you have a recommendation on a brand or type of black tea?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ashley Meyer" class="comment-reply-link" data-belowelement="comment-860332" data-commentid="860332" data-postid="50392" data-respondelement="respond" href="#comment-860332" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860875">
+<article id="article-comment-860875">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860875">February 5, 2020 at 10:34 am</a></time></p> </header>
+<div class="comment-content">
+<p>Any loose leaf or bagged black tea will do. I avoid caffeine, so I used bagged decaf black tea :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860875" data-commentid="860875" data-postid="50392" data-respondelement="respond" href="#comment-860875" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-860141">
+<article id="article-comment-860141">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Amalia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/501d63da0abb266d3b2c37a6fdc53799?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/501d63da0abb266d3b2c37a6fdc53799?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Amalia" width="96"/><span itemprop="name">Amalia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860141">February 4, 2020 at 2:42 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made this with Califia Farms toasted coconut almondmilk blend. I was initially a bit disappointed by the somewhat bland (albeit spicy) flavor, but found that a little pinch of salt brought it all together. A very delicious and cozy beverage!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Amalia" class="comment-reply-link" data-belowelement="comment-860141" data-commentid="860141" data-postid="50392" data-respondelement="respond" href="#comment-860141" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860876">
+<article id="article-comment-860876">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860876">February 5, 2020 at 10:34 am</a></time></p> </header>
+<div class="comment-content">
+<p>Lovely! Thanks for sharing, Amalia!</p>
+<p>Next time would you mind adding a rating to your review? It’s super helpful to us and other readers! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860876" data-commentid="860876" data-postid="50392" data-respondelement="respond" href="#comment-860876" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="comment-860048">
+<article id="article-comment-860048">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Minaal" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cba5a6b496d335bcec1921144ce67757?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cba5a6b496d335bcec1921144ce67757?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Minaal" width="96"/><span itemprop="name">Minaal</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860048">February 4, 2020 at 12:53 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I’m so excited that you’re sharing a recipe for masala chai because it is such a staple in our household as I’ve grown up with chai. Since going dairy free, I’ve found it hard to recreate the richness that my mum’s has. I’m looking forward to trying this and will definitely add a review and rating. Have you tried adding some fresh mint when you add the ginger? It adds a little something special and tastes lovely :) Would love to know what you think of that if you try it out. </p>
+<p>Minaal</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Minaal" class="comment-reply-link" data-belowelement="comment-860048" data-commentid="860048" data-postid="50392" data-respondelement="respond" href="#comment-860048" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860081">
+<article id="article-comment-860081">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860081">February 4, 2020 at 1:27 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Ooh, I haven’t! But if you do let us know what it’s like. Thanks for sharing, Minaal!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860081" data-commentid="860081" data-postid="50392" data-respondelement="respond" href="#comment-860081" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-859970">
+<article id="article-comment-859970">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ghadah" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/bc6392255a924ceaab5da546dfd2df20?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/bc6392255a924ceaab5da546dfd2df20?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ghadah" width="96"/><span itemprop="name">Ghadah</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-859970">February 4, 2020 at 7:47 am</a></time></p> </header>
+<div class="comment-content">
+<p>Can u grind the spices instead? Does the water make the milk feel dilute?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ghadah" class="comment-reply-link" data-belowelement="comment-859970" data-commentid="859970" data-postid="50392" data-respondelement="respond" href="#comment-859970" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-860036">
+<article id="article-comment-860036">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-860036">February 4, 2020 at 12:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>You can grind them, I just find it easier to steep and strain when they aren’t ground :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860036" data-commentid="860036" data-postid="50392" data-respondelement="respond" href="#comment-860036" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="comment-859664">
+<article id="article-comment-859664">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Anita" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/48d54286f64fb4c0889915bb28f0ca7b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/48d54286f64fb4c0889915bb28f0ca7b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Anita" width="96"/><span itemprop="name">Anita</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-859664">February 3, 2020 at 11:06 am</a></time></p> </header>
+<div class="comment-content">
+<p>I think this is a really respectful and informed take on masala chai, well done! I’ve never tried making it with plant based milk, I’ll give it a try. But I do prefer boiling the milk and the sugar, I find the sugar gains a certain “cooked” flavour, if that even makes sense… Beautifully filmed as always!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Anita" class="comment-reply-link" data-belowelement="comment-859664" data-commentid="859664" data-postid="50392" data-respondelement="respond" href="#comment-859664" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-859817">
+<article id="article-comment-859817">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-859817">February 3, 2020 at 2:48 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Anita!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-859817" data-commentid="859817" data-postid="50392" data-respondelement="respond" href="#comment-859817" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-859643">
+<article id="article-comment-859643">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Paige Cassandra Flamm" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Paige Cassandra Flamm" width="96"/><span itemprop="name">Paige Cassandra Flamm</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-859643">February 3, 2020 at 10:14 am</a></time></p> </header>
+<div class="comment-content">
+<p>This looks amazing! Totally trying this tomorrow morning!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Paige Cassandra Flamm" class="comment-reply-link" data-belowelement="comment-859643" data-commentid="859643" data-postid="50392" data-respondelement="respond" href="#comment-859643" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-859814">
+<article id="article-comment-859814">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/easy-masala-chai-recipe/?t=1582397201#comment-859814">February 3, 2020 at 2:46 pm</a></time></p> </header>
+<div class="comment-content">
+<p>xo! Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-859814" data-commentid="859814" data-postid="50392" data-respondelement="respond" href="#comment-859814" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_50461 = {"ingredients":[{"amount":"1","unit":"whole","name":"cinnamon stick","notes":"","converted":{"2":{"amount":"1","unit":"whole"}},"id":21234},{"amount":"6-8","unit":"green","name":"cardamom pods","notes":"","converted":{"2":{"amount":"6-8","unit":"green"}},"id":14349},{"amount":"1","unit":"tsp","name":"whole black peppercorns","notes":"","converted":{"2":{"amount":"1","unit":"tsp"}},"id":21218},{"amount":"3-4","unit":"whole","name":"cloves","notes":"","converted":{"2":{"amount":"3-4","unit":"whole"}},"id":14348},{"amount":"2 <strong>\u00bd<\/strong>","unit":"cups","name":"water","notes":"","converted":{"2":{"amount":"600","unit":"ml"}},"id":13493},{"amount":"2","unit":"Tbsp","name":"grated ginger ","notes":"(for less intense ginger flavor, slice instead of grating)","converted":{"2":{"amount":"12","unit":"g"}},"id":28939},{"amount":"3","unit":"Tbsp","name":"loose leaf black tea ","notes":"(or ~3-4 black tea bags \/\/ use decaf as needed)","converted":{"2":{"amount":"18","unit":"g"}},"id":22241},{"amount":"2","unit":"cups","name":"dairy-free milk ","notes":"(we favor oat milk, coconut milk, and cashew milk \/\/ use thicker, richer dairy-free milks like canned coconut milk or our <a href=\"https:\/\/minimalistbaker.com\/cashew-coconut-oat-milk-oil-free\/\" target=\"_blank\">Oatly<\/a> recipe for creamier chai!)","converted":{"2":{"amount":"480","unit":"ml"}},"id":13393},{"amount":"","unit":"","name":"Sweetener such as stevia, organic cane sugar, or maple syrup to taste","notes":"","id":29107}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":330,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

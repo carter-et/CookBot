@@ -1,0 +1,903 @@
+<body class="post-template-default single single-post postid-49422 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-49422 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-7-ingredients-or-less category-breakfast category-dairy-free category-egg-free category-fall category-gluten-free category-oil-free category-one-bowl category-recipes category-refined-sugar-free category-soy-free category-spring category-summer category-vegan category-vegetarian category-winter tag-cashew-butter tag-coconut-butter tag-coconut-milk tag-golden-milk tag-maple-syrup tag-pomegranate tag-steel-cut-oats entry"><header class="entry-header"><h1 class="entry-title">Cozy Turmeric Porridge (1 Pot!)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Using a spoon to scoop into a bowl of our Cozy Turmeric Porridge recipe" class="tasty-pins-hidden-image" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-TurmericPorridge-Pinterest.jpg" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" src="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-TurmericPorridge-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Bowl of turmeric beside a pan and bowl of our Cozy Turmeric Porridge recipe" class="wp-image-49368" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-13-680x1020.jpg 680w"/></figure>
+<p>When the weather cools down, warm and cozy breakfasts get added to our menu. </p>
+<p>This <strong>1-pot</strong> oat and turmeric porridge is <em>perfect</em> for satisfying that craving. </p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/LYfFMEPDvDs" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Steel cut oats, turmeric, coconut milk and maple syrup for making our Cozy Turmeric Porridge recipe" class="wp-image-49371" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-215x300.jpg 215w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-768x1073.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-733x1024.jpg 733w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-600x839.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-680x950.jpg 680w"/></figure>
+<span id="more-49422"></span>
+<p>This porridge starts with an optional step of the soaking steel cut oats overnight to help improve their digestibility (a step we highly recommend for creamier texture, quicker cook time, and easier-to-digest oats). </p>
+<p>The oats are then drained and added to a saucepan where they’re boiled in a blend of water and coconut milk, providing the perfect amount of creaminess.</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a pan of steel cut oats" class="wp-image-49358" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-3-680x1020.jpg 680w"/></figure>
+<p>Then a combination of anti-inflammatory spices are added. We like to use our <a aria-label="Golden Milk Mix (opens in a new tab)" href="https://minimalistbaker.com/4-ingredient-golden-milk-mix/" rel="noreferrer noopener" target="_blank">Golden Milk Mix</a> for a shortcut, but you can also add the spices — turmeric, ginger, cinnamon, black pepper, nutmeg (optional), and clove (optional) — individually.</p>
+<p>Lastly, maple syrup is added for sweetness and to balance the other flavors.</p>
+<figure class="wp-block-image"><img alt="Wooden spoon in a saucepan of our Turmeric Porridge recipe" class="wp-image-49359" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-4-680x1020.jpg 680w"/></figure>
+<p>We like to garnish with pomegranate arils, cashew butter, bee pollen (omit if vegan), and coconut butter to make the porridge even more satiating and colorful. Look at that hue!</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a saucepan of Turmeric Porridge" class="wp-image-49366" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-11-680x1020.jpg 680w"/></figure>
+<p>We hope you LOVE this porridge! It’s:<br/><br/>Cozy<br/>Warming<br/>Easy<br/>Delicious<br/>Naturally sweetened<br/>&amp; Made with anti-inflammatory spices</p>
+<h3>More Oat Recipes</h3>
+<ul><li><a aria-label="Cranberry Pumpkin Steel Cut Oats (opens in a new tab)" href="https://minimalistbaker.com/cranberry-pumpkin-steel-cut-oats/" rel="noreferrer noopener" target="_blank">Cranberry Pumpkin Steel Cut Oats</a></li><li><a aria-label="Pumpkin Pie Oats (opens in a new tab)" href="https://minimalistbaker.com/pumpkin-pie-oats/" rel="noreferrer noopener" target="_blank">Pumpkin Pie Oats</a></li><li><a aria-label="Sweet Potato Pie Oats (opens in a new tab)" href="https://minimalistbaker.com/sweet-potato-pie-oats/" rel="noreferrer noopener" target="_blank">Sweet Potato Pie Oats</a></li><li><a aria-label="Peanut Butter Overnight Oats (5 Ingredients!) (opens in a new tab)" href="https://minimalistbaker.com/peanut-butter-overnight-oats/" rel="noreferrer noopener" target="_blank">Peanut Butter Overnight Oats (5 Ingredients!)</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Holding a bowl of Cozy Turmeric Porridge topped with bee pollen and pomegranate seeds" class="wp-image-49370" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-title="Cozy Turmeric Porridge (1 Pot!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15-680x1020.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="49482" id="wprm-recipe-container-49482"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/49482" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Spoon in a bowl of Cozy Turmeric Porridge with pomegranate arrils" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-400x400.jpg" data-pin-description="COZY Turmeric Porridge! 1 Pot, simple ingredients, naturally sweetened, SO delicious! #plantbased #glutenfree #minimalistbaker #turmeric #oats #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/11/Cozy-Turmeric-Porridge-SQUARE.jpg 1447w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">4.86</span> from <span class="wprm-recipe-rating-count">7</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Cozy Turmeric Porridge (1 Pot!)</h2>
+<div class="wprm-recipe-summary">
+<p>Cozy turmeric porridge with steel cut oats, coconut milk, turmeric, and spices, and naturally sweetened with maple syrup. Just 1 pot required!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-hours wprm-recipe-prep_time wprm-recipe-prep_time-hours">6</span> <span class="wprm-recipe-details-unit wprm-recipe-details-unit-hours wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-hours">hours</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-hours wprm-recipe-total_time wprm-recipe-total_time-hours">6</span> <span class="wprm-recipe-details-unit wprm-recipe-details-unit-hours wprm-recipe-total_time-unit wprm-recipe-total_timeunit-hours">hours</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">2</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(Servings)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Breakfast				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Gluten-Free, Vegetarian				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					1 month				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					3-4 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="49482" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="49482" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">OATS</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">steel cut oats </span>
+<span class="wprm-recipe-ingredient-notes">(soaked overnight in cool water, or for at least 6 hours for improved digestion)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">pinch</span>
+<span class="wprm-recipe-ingredient-name">sea salt </span>
+<span class="wprm-recipe-ingredient-notes">(for soaking // <em>optional</em>)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">apple cider vinegar</span>
+<span class="wprm-recipe-ingredient-notes">(for soaking // <em>optional</em>)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Water to cover</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">THE REST</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1 ½</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">water</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">full-fat or light coconut milk</span>
+<span class="wprm-recipe-ingredient-notes">(canned)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1 ½ – 2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/4-ingredient-golden-milk-mix/" target="_blank">Golden Milk Mix </a></span>
+<span class="wprm-recipe-ingredient-notes">(or see notes for individual spices*)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2-3</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">maple syrup </span>
+<span class="wprm-recipe-ingredient-notes">(to reduce sugar, sub stevia to taste)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">FOR SERVING <em>optional</em></h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Bee pollen </span>
+<span class="wprm-recipe-ingredient-notes">(omit if vegan)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Pomegranate arils</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/how-to-make-coconut-butter/" target="_blank">Coconut butter</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Cashew butter</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">To improve digestibility and remove phytic acid from the oats, soak overnight by adding to a medium saucepan, covering with cool water by 1 inch, and adding salt and vinegar (both optional). Stir and cover. Soak at room temperature overnight or for at least 6 hours (24 hours max). Once soaked, drain and rinse.</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Once oaks are soaked and drained well, add back to medium saucepan with water and coconut milk. Bring to a low boil over high heat. Once a low boil is reached, reduce heat to a gentle simmer, cover, and cook for 15-20 minutes or until oats are tender and the liquid is almost fully absorbed. Add more coconut milk or water as needed if oats appear dry or are sticking to bottom of pan.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add Golden Milk Mix (or individual spice — see notes*) and maple syrup and stir to combine. Then taste and adjust flavor as needed, adding more maple syrup for sweetness or Golden Milk Mix or spices for more warmth / spice.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Serve with additional coconut milk and enjoy as is or garnish with toppings of choice, such as bee pollen, pomegranate arils, coconut butter / flakes, or cashew butter.</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Store leftovers covered in the refrigerator up to 3-4 days and reheat on the stovetop or in the microwave, adding more water or dairy-free milk to thin. Alternatively, store in the freezer up to 1 month. Freeze into individual serving sizes and thaw the night before or cook from frozen on the stovetop or microwave until hot, adding more water or dairy-free milk as needed.</p></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/LYfFMEPDvDs" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Nutrition information is a rough estimate calculated with light coconut milk, the lesser amount of Golden Milk Mix and maple syrup, and without optional ingredients.<br>*If not using the Golden Milk Mix, sub 1 ¼ tsp ground turmeric, 1/4 tsp ground ginger, 1/4 tsp ground cinnamon, 1 pinch black pepper, and (optional) 1 very small pinch each nutmeg and clove (amounts for recipe as written // adjust if altering serving size).</br></p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 2 servings) </h3><ul><li><strong>Calories:</strong> 425 <li><strong>Fat:</strong> 7.4g <li><strong>Saturated fat:</strong> 4.3g <li><strong>Polyunsaturated fat:</strong> 0.02g <li><strong>Monounsaturated fat:</strong> 0.01g <li><strong>Sodium:</strong> 28mg <li><strong>Potassium:</strong> 414mg <li><strong>Carbohydrates:</strong> 78.4g <li><strong>Fiber:</strong> 9.2g <li><strong>Sugar:</strong> 12.8g <li><strong>Protein:</strong> 11.8g <li><strong>Vitamin A:</strong> 1.28IU <li><strong>Vitamin C:</strong> 0.02mg <li><strong>Calcium:</strong> 51.75mg <li><strong>Iron:</strong> 4.64mg</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Cozy Turmeric Porridge (1 Pot!)" data-jpibfi-post-url="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Fcozy-turmeric-porridge-1-pot%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Cozy%20Turmeric%20Porridge%20(1%20Pot!)&amp;url=https%3A%2F%2Fminimalistbaker.com%2Fcozy-turmeric-porridge-1-pot%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Fcozy-turmeric-porridge-1-pot%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/11/COZY-Turmeric-Porridge-1-Pot-simple-ingredients-naturally-sweetened-SO-delicious-plantbased-glutenfree-minimalistbaker-turmeric-oats-recipe-15.jpg&amp;description=Cozy%20Turmeric%20Porridge%20(1%20Pot!)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/#comments">44 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/7-ingredients-or-less/" rel="category tag">7 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/breakfast/" rel="category tag">Breakfast</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/oil-free/" rel="category tag">Oil-Free</a>, <a href="https://minimalistbaker.com/recipes/one-bowl/" rel="category tag">One Bowl</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/refined-sugar-free/" rel="category tag">Refined Sugar-Free</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/spring/" rel="category tag">Spring</a>, <a href="https://minimalistbaker.com/recipes/summer/" rel="category tag">Summer</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/fluffy-almond-butter-sweet-potato-muffins-gf/" rel="prev">Fluffy Almond Butter Sweet Potato Muffins (GF)</a></div><div class="next"><a href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" rel="next">Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/cozy-turmeric-porridge-1-pot/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=49422&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="49422">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="fb17189178"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="79"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li wpr_havequestion_li" id="comment-862586">
+<article id="article-comment-862586">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sadye" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cf4671c98d5878e16c2513f3c19bb8fe?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cf4671c98d5878e16c2513f3c19bb8fe?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sadye" width="96"><span itemprop="name">Sadye</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-862586">February 12, 2020 at 1:09 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Count me among those who thought “hm, this seems … different than my normal oatmeal” and still made it and loved it! Can’t put my finger on what makes it so compelling, but that’s okay :)</p>
+<p>I’m wondering if anyone else has made this as a *baked* oatmeal and if so, what adjustments they made. Yes I know I could just make a batch in advance and scoop out portions, but it’s just easier for me to divide things evenly in a square pan versus round pot.</p>
+<p>If no one else has and I take the plunge, I’ll report back on any success!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sadye" class="comment-reply-link" data-belowelement="comment-862586" data-commentid="862586" data-postid="49422" data-respondelement="respond" href="#comment-862586" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-862590">
+<article id="article-comment-862590">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-862590">February 12, 2020 at 1:34 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks for sharing, Sadye! I do think it would work well as a baked oatmeal. Perhaps modify from <a href="https://minimalistbaker.com/toasted-coconut-baked-oatmeal/" rel="noopener noreferrer" target="_blank">this one</a>?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862590" data-commentid="862590" data-postid="49422" data-respondelement="respond" href="#comment-862590" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-861611">
+<article id="article-comment-861611">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Juliette" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4807c88276928d546e99d349bb3ffc4f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4807c88276928d546e99d349bb3ffc4f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Juliette" width="96"><span itemprop="name">Juliette</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-861611">February 8, 2020 at 8:55 am</a></time></p> </header>
+<div class="comment-content">
+<p>I’m always wary of using ingredients that I associate with savory flavors ( I.e turmeric and black pepper for tofu scramble, etc.) but this turned out SO DELICIOUS. I’ve made it twice in the past three weeks with heaps of leftovers because I honestly cannot get enough. I add whatever fruits / seeds / nut butters I have that day and it never disappoints. Coziest breakfast of all time :)</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Juliette" class="comment-reply-link" data-belowelement="comment-861611" data-commentid="861611" data-postid="49422" data-respondelement="respond" href="#comment-861611" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-862058">
+<article id="article-comment-862058">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-862058">February 10, 2020 at 10:30 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoy it, Juliette! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862058" data-commentid="862058" data-postid="49422" data-respondelement="respond" href="#comment-862058" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-858526">
+<article id="article-comment-858526">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Deb" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a6e218db12c87174bc4dc134006f1800?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a6e218db12c87174bc4dc134006f1800?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Deb" width="96"><span itemprop="name">Deb</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-858526">January 29, 2020 at 6:00 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yummmmmm! This is real comfort food, can’t wait for winter to come. I added a crumble made from coconut, walnuts and maple…so good Thank you!!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Deb" class="comment-reply-link" data-belowelement="comment-858526" data-commentid="858526" data-postid="49422" data-respondelement="respond" href="#comment-858526" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-858726">
+<article id="article-comment-858726">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-858726">January 30, 2020 at 9:59 am</a></time></p> </header>
+<div class="comment-content">
+<p>Sounds lovely! Thanks for sharing, Deb!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-858726" data-commentid="858726" data-postid="49422" data-respondelement="respond" href="#comment-858726" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-857816">
+<article id="article-comment-857816">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Juliane" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a38d80855d139265948e817c9157c0e1?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a38d80855d139265948e817c9157c0e1?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Juliane" width="96"><span itemprop="name">Juliane</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857816">January 26, 2020 at 6:09 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This recipe is easy and tastes great! I have shared it with my family! Can’t wait to keep exploring Minimalist Baker recipes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Juliane" class="comment-reply-link" data-belowelement="comment-857816" data-commentid="857816" data-postid="49422" data-respondelement="respond" href="#comment-857816" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-857974">
+<article id="article-comment-857974">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857974">January 27, 2020 at 11:32 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Juliane. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857974" data-commentid="857974" data-postid="49422" data-respondelement="respond" href="#comment-857974" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-857204">
+<article id="article-comment-857204">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dan Newton" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7e9dfb968f0a01f11f3711235a7e3828?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7e9dfb968f0a01f11f3711235a7e3828?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dan Newton" width="96"><span itemprop="name">Dan Newton</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857204">January 23, 2020 at 9:21 am</a></time></p> </header>
+<div class="comment-content">
+<p>I made this, but used millet instead of oats and I had craisins on-hand so subbed those for the pomegranate arils. Came out great, thank you.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dan Newton" class="comment-reply-link" data-belowelement="comment-857204" data-commentid="857204" data-postid="49422" data-respondelement="respond" href="#comment-857204" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-857239">
+<article id="article-comment-857239">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857239">January 23, 2020 at 10:38 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Dan. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857239" data-commentid="857239" data-postid="49422" data-respondelement="respond" href="#comment-857239" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-857060">
+<article id="article-comment-857060">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Asha" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a04d49e8df33c5eb7833f3ca93cf4beb?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a04d49e8df33c5eb7833f3ca93cf4beb?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Asha" width="96"><span itemprop="name">Asha</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857060">January 22, 2020 at 1:02 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Delicious and comforting! I soaked the oats overnight which made them melt in your mouth once cooked. Added chopped dates and banana to add some additional sweetness (sweet tooth here!) along with all the little add-ons I typically put in smoothies (chia, hemp, goji, flax) and devoured it in minutes. I love that you can add different things each time to bring in some variety and are still getting that necessary dose of turmeric. Thanks Dana and team!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Asha" class="comment-reply-link" data-belowelement="comment-857060" data-commentid="857060" data-postid="49422" data-respondelement="respond" href="#comment-857060" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-857061">
+<article id="article-comment-857061">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-857061">January 22, 2020 at 1:03 pm</a></time></p> </header>
+<div class="comment-content">
+<p>xoxo!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857061" data-commentid="857061" data-postid="49422" data-respondelement="respond" href="#comment-857061" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-856643">
+<article id="article-comment-856643">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Isabelle Gosselin" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7e603e9b4becb2e72beb8904576b0c22?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7e603e9b4becb2e72beb8904576b0c22?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Isabelle Gosselin" width="96"/><span itemprop="name">Isabelle Gosselin</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856643">January 20, 2020 at 11:20 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hello Dana,<br>
+I made this for breakfast yesterday and I’m hooked! I love that this recipe is so healthy, so tasty, and so beautiful at the same time. I was wondering how to incorporate daily turmeric in my life and I now have the answer. This morning I made my oatmeal in an instant pot, using 2 cups oat milk and 1 cup water for 1 cup steel-cut oats, a pinch of salt, at high pressure for 4 minutes, then natural release, and it was still very creamy. Like many people, I sweetened it with a sliced banana and the pomegranate arils, and that was all I needed. A royal breakfast! A big thank you for this recipe!</br></p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Isabelle Gosselin" class="comment-reply-link" data-belowelement="comment-856643" data-commentid="856643" data-postid="49422" data-respondelement="respond" href="#comment-856643" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856685">
+<article id="article-comment-856685">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856685">January 20, 2020 at 1:06 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Isabelle!! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856685" data-commentid="856685" data-postid="49422" data-respondelement="respond" href="#comment-856685" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856364">
+<article id="article-comment-856364">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sharni Morrison" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7d5fc4981bb747032bc9fa69cb193f82?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7d5fc4981bb747032bc9fa69cb193f82?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sharni Morrison" width="96"/><span itemprop="name">Sharni Morrison</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856364">January 18, 2020 at 4:30 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi! Can this be eaten cold too ? Or does it have to be heated xx</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sharni Morrison" class="comment-reply-link" data-belowelement="comment-856364" data-commentid="856364" data-postid="49422" data-respondelement="respond" href="#comment-856364" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856689">
+<article id="article-comment-856689">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856689">January 20, 2020 at 1:13 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Cold would be fine!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856689" data-commentid="856689" data-postid="49422" data-respondelement="respond" href="#comment-856689" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-856331">
+<article id="article-comment-856331">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Maria" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/839eba69bd479831d482d8b070eea55f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/839eba69bd479831d482d8b070eea55f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Maria" width="96"/><span itemprop="name">Maria</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856331">January 18, 2020 at 11:03 am</a></time></p> </header>
+<div class="comment-content">
+<p>Can you use another type of milk like oat milk?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Maria" class="comment-reply-link" data-belowelement="comment-856331" data-commentid="856331" data-postid="49422" data-respondelement="respond" href="#comment-856331" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-856589">
+<article id="article-comment-856589">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856589">January 20, 2020 at 10:30 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Maria, we think that would work! It just might not be quite as creamy. Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856589" data-commentid="856589" data-postid="49422" data-respondelement="respond" href="#comment-856589" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856206">
+<article id="article-comment-856206">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ashley" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/05d775a7cfbbeeaa18062cdc0ebc449a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/05d775a7cfbbeeaa18062cdc0ebc449a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ashley" width="96"/><span itemprop="name">Ashley</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856206">January 17, 2020 at 10:52 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Dana,<br>
+This looks great. A lot of your other recipes specify when you can substitute any dairy-free milk for the one written in the recipe. Do you think it would be possible to substitute almond for coconut milk in this recipe?<br>
+Thanks!</br></br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ashley" class="comment-reply-link" data-belowelement="comment-856206" data-commentid="856206" data-postid="49422" data-respondelement="respond" href="#comment-856206" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856223">
+<article id="article-comment-856223">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856223">January 17, 2020 at 12:22 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Oh yeah totally both would work!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856223" data-commentid="856223" data-postid="49422" data-respondelement="respond" href="#comment-856223" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-856160">
+<article id="article-comment-856160">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ashley" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/df3985ff5647c53c83c4a584cba136ea?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/df3985ff5647c53c83c4a584cba136ea?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ashley" width="96"/><span itemprop="name">Ashley</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856160">January 17, 2020 at 9:44 am</a></time></p> </header>
+<div class="comment-content">
+<p>Tried this recipe this morning and it was wonderful! I actually put my steel cut oats in the pressure cooker but everything tasted so good ? Didn’t have any pomegranate to put on top (LOVE pomegranate) So I just topped with my usual banana and blueberries. Yum! Thanks for the awesome recipe!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ashley" class="comment-reply-link" data-belowelement="comment-856160" data-commentid="856160" data-postid="49422" data-respondelement="respond" href="#comment-856160" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856226">
+<article id="article-comment-856226">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856226">January 17, 2020 at 12:24 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Ashley!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856226" data-commentid="856226" data-postid="49422" data-respondelement="respond" href="#comment-856226" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-856151">
+<article id="article-comment-856151">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Susan" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/892cb1f67525c6eb1c7f8cd1c979f5a7?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/892cb1f67525c6eb1c7f8cd1c979f5a7?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Susan" width="96"/><span itemprop="name">Susan</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856151">January 17, 2020 at 8:38 am</a></time></p> </header>
+<div class="comment-content">
+<p>This recipe turned my usual steel cut oats morning glop into an AMAZING bowl of deliciousness! Recently, I drank my first cup of Golden Milk at a tiny place in Hanapepe, Kaua’i (Little Fish Coffee), and have been wanting to a Golden Milk recipe ever since. Enter your recipe for Cozy Turmeric Porridge! I made mine exactly as your recipe reads, with blueberries &amp; banana for sweetener. Thank you for the deliciousness!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Susan" class="comment-reply-link" data-belowelement="comment-856151" data-commentid="856151" data-postid="49422" data-respondelement="respond" href="#comment-856151" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856227">
+<article id="article-comment-856227">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856227">January 17, 2020 at 12:24 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! Thanks for sharing, Susan!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856227" data-commentid="856227" data-postid="49422" data-respondelement="respond" href="#comment-856227" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-856138">
+<article id="article-comment-856138">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Daphne" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/6601e88e384915e050746b03c65f9ed1?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6601e88e384915e050746b03c65f9ed1?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Daphne" width="96"/><span itemprop="name">Daphne</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856138">January 17, 2020 at 4:14 am</a></time></p> </header>
+<div class="comment-content">
+<p>Could this be made in the instant pot or a slow cooker, if so, could the golden milk mixture or spices be added in the beginning?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Daphne" class="comment-reply-link" data-belowelement="comment-856138" data-commentid="856138" data-postid="49422" data-respondelement="respond" href="#comment-856138" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856232">
+<article id="article-comment-856232">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856232">January 17, 2020 at 12:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi there! I’d add the spices near the end so they don’t lose their potency/vibrancy, personally. But yes! Instant pot / slow cooker should work!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856232" data-commentid="856232" data-postid="49422" data-respondelement="respond" href="#comment-856232" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856126">
+<article id="article-comment-856126">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Vicky" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9818a052bb9a2af138f2c56e8ccddd8d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9818a052bb9a2af138f2c56e8ccddd8d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Vicky" width="96"/><span itemprop="name">Vicky</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856126">January 16, 2020 at 11:39 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you think I can substitute the coconut milk for almond milk? I can’t have coconut unfortunately. Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Vicky" class="comment-reply-link" data-belowelement="comment-856126" data-commentid="856126" data-postid="49422" data-respondelement="respond" href="#comment-856126" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856233">
+<article id="article-comment-856233">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856233">January 17, 2020 at 12:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856233" data-commentid="856233" data-postid="49422" data-respondelement="respond" href="#comment-856233" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-856041">
+<article id="article-comment-856041">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for KK" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/245cb3a7b51109bf62d33f4ddc8e2f1e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/245cb3a7b51109bf62d33f4ddc8e2f1e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for KK" width="96"/><span itemprop="name">KK</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856041">January 16, 2020 at 4:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This looks delicious and the video is amazing! By chance, will you be offering your food videography course anytime soon? I would love to learn how to improve my photography/videography skills. Keep up the great recipes! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to KK" class="comment-reply-link" data-belowelement="comment-856041" data-commentid="856041" data-postid="49422" data-respondelement="respond" href="#comment-856041" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-856172">
+<article id="article-comment-856172">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856172">January 17, 2020 at 10:13 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks, KK! Unfortunately, we do not have any plans to reinstate food video/photography school at this time. Sorry for the inconvenience!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856172" data-commentid="856172" data-postid="49422" data-respondelement="respond" href="#comment-856172" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856029">
+<article id="article-comment-856029">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Maria" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/782cc0df5e289791b58e299aaf1d70c8?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/782cc0df5e289791b58e299aaf1d70c8?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Maria" width="96"/><span itemprop="name">Maria</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856029">January 16, 2020 at 2:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you have to use canned coconut milk? Can you use the regular aseptic or in-the-dairy-section coconut milk? And how about old-fashioned rolled oats instead of steel cut? Thanks.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Maria" class="comment-reply-link" data-belowelement="comment-856029" data-commentid="856029" data-postid="49422" data-respondelement="respond" href="#comment-856029" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856236">
+<article id="article-comment-856236">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856236">January 17, 2020 at 12:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I think the milk swap would work! As for regular vs steel cut, just adjust cooking time. And no need to soak rolled oats!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856236" data-commentid="856236" data-postid="49422" data-respondelement="respond" href="#comment-856236" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-856026">
+<article id="article-comment-856026">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for James" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cafe7aabe2b311cba3caedea0256fdf6?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cafe7aabe2b311cba3caedea0256fdf6?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for James" width="96"/><span itemprop="name">James</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856026">January 16, 2020 at 2:47 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I have been eating turmeric and oatmeal for decades. I prefer a savory route and use a 1/4 tsp of turmeric  and a like amount of ground cumin. Black pepper and Sea salt to taste. My secret twist is to add a slice of quality Swiss cheese when finished cooking and stirring into the oatmeal. I top it with a seeded and diced fresh tomato. If I’m looking for more protein I top it with a poached egg drizzled with EVO and garlic powder. If I’m in a hurry I use McCanns instant oatmeal. OJ is a great accompaniment.<br>
+Swiss and turmeric are a wonderful couple and  should get married and have kids or not.</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to James" class="comment-reply-link" data-belowelement="comment-856026" data-commentid="856026" data-postid="49422" data-respondelement="respond" href="#comment-856026" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856237">
+<article id="article-comment-856237">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856237">January 17, 2020 at 12:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Ha! Thanks for sharing, James! I hope they have kids :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856237" data-commentid="856237" data-postid="49422" data-respondelement="respond" href="#comment-856237" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856021">
+<article id="article-comment-856021">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ginger Henderson" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9ff4047b0f30f71cd730b173bfef410b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9ff4047b0f30f71cd730b173bfef410b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ginger Henderson" width="96"/><span itemprop="name">Ginger Henderson</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856021">January 16, 2020 at 2:01 pm</a></time></p> </header>
+<div class="comment-content">
+<p>What if all I have is quick cooking steel cut oats? Should I just omit the soaking?<br>
+Thanks! Can’t wait to make these.</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ginger Henderson" class="comment-reply-link" data-belowelement="comment-856021" data-commentid="856021" data-postid="49422" data-respondelement="respond" href="#comment-856021" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856238">
+<article id="article-comment-856238">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856238">January 17, 2020 at 12:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yeah, just skip the soaking!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856238" data-commentid="856238" data-postid="49422" data-respondelement="respond" href="#comment-856238" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-856015">
+<article id="article-comment-856015">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Tessa" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/36647e99b57a56e60be6b65ca854d003?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/36647e99b57a56e60be6b65ca854d003?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Tessa" width="96"/><span itemprop="name">Tessa</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856015">January 16, 2020 at 1:39 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Why do you add apple cider vinegar by soaking the oats?  :)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Tessa" class="comment-reply-link" data-belowelement="comment-856015" data-commentid="856015" data-postid="49422" data-respondelement="respond" href="#comment-856015" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856039">
+<article id="article-comment-856039">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856039">January 16, 2020 at 4:34 pm</a></time></p> </header>
+<div class="comment-content">
+<p>It helps break down phytates to improve digestion!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856039" data-commentid="856039" data-postid="49422" data-respondelement="respond" href="#comment-856039" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856013">
+<article id="article-comment-856013">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Aimée" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7c7482afce71606001e18a6784ae76d4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7c7482afce71606001e18a6784ae76d4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Aimée" width="96"/><span itemprop="name">Aimée</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856013">January 16, 2020 at 1:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Looks delicious! May I ask what the ACV does in the recipe? Is it just for flavour or does it have an added benefit in the soaking?<br>
+Thanks!</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Aimée" class="comment-reply-link" data-belowelement="comment-856013" data-commentid="856013" data-postid="49422" data-respondelement="respond" href="#comment-856013" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856241">
+<article id="article-comment-856241">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-856241">January 17, 2020 at 12:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>According to some experts, adding apple cider vinegar when soaking helps break down phytates, which improves digestibility.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856241" data-commentid="856241" data-postid="49422" data-respondelement="respond" href="#comment-856241" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-855952">
+<article id="article-comment-855952">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Amy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7d40755235039ac9c843fe2462d0e3f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7d40755235039ac9c843fe2462d0e3f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Amy" width="96"/><span itemprop="name">Amy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-855952">January 16, 2020 at 10:53 am</a></time></p> </header>
+<div class="comment-content">
+<p>Made it this morning! Such a beautiful breakfast. and delicious, obviously. I used rolled oats so different texture I’m sure, but still awesome.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Amy" class="comment-reply-link" data-belowelement="comment-855952" data-commentid="855952" data-postid="49422" data-respondelement="respond" href="#comment-855952" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-855990">
+<article id="article-comment-855990">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-855990">January 16, 2020 at 11:41 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Amy. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855990" data-commentid="855990" data-postid="49422" data-respondelement="respond" href="#comment-855990" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-855936">
+<article id="article-comment-855936">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for KO" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/68f1bf1a00b14e67f91f568f9f1d99d3?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/68f1bf1a00b14e67f91f568f9f1d99d3?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for KO" width="96"/><span itemprop="name">KO</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-855936">January 16, 2020 at 9:51 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Dana, this recipe looks incredible! Do you think it could work in a crockpot overnight?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to KO" class="comment-reply-link" data-belowelement="comment-855936" data-commentid="855936" data-postid="49422" data-respondelement="respond" href="#comment-855936" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-855989">
+<article id="article-comment-855989">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/?t=1582404227#comment-855989">January 16, 2020 at 11:41 am</a></time></p> </header>
+<div class="comment-content">
+<p>We haven’t tried that, but it might work! Let us know if you give it a try!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855989" data-commentid="855989" data-postid="49422" data-respondelement="respond" href="#comment-855989" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_49482 = {"ingredients":[{"amount":"1","unit":"cup","name":"steel cut oats ","notes":"(soaked overnight in cool water, or for at least 6 hours for improved digestion)","converted":{"2":{"amount":"176","unit":"g"}},"id":13504},{"amount":"1","unit":"pinch","name":"sea salt ","notes":"(for soaking \/\/ <em>optional<\/em>)","converted":{"2":{"amount":"1","unit":"pinch"}},"id":13388},{"amount":"1","unit":"tsp","name":"apple cider vinegar","notes":"(for soaking \/\/ <em>optional<\/em>)","converted":{"2":{"amount":"1","unit":"tsp"}},"id":13472},{"amount":"","unit":"","name":"Water to cover","notes":"","id":28780},{"amount":"1 \u00bd","unit":"cups","name":"water","notes":"","converted":{"2":{"amount":"360","unit":"ml"}},"id":13493},{"amount":"1\/2","unit":"cup","name":"full-fat or light coconut milk","notes":"(canned)","converted":{"2":{"amount":"120","unit":"ml"}},"id":19034},{"amount":"1 \u00bd - 2","unit":"tsp","name":"Golden Milk Mix ","notes":"(or see notes for individual spices*)","converted":{"2":{"amount":"1 \u00bd- 2","unit":"tsp"}},"id":20667},{"amount":"2-3","unit":"Tbsp","name":"maple syrup ","notes":"(to reduce sugar, sub stevia to taste)","converted":{"2":{"amount":"30-45","unit":"ml"}},"id":14075},{"amount":"","unit":"","name":"Bee pollen ","notes":"(omit if vegan)","id":28781},{"amount":"","unit":"","name":"Pomegranate arils","notes":"","id":15825},{"amount":"","unit":"","name":"Coconut butter","notes":"","id":13574},{"amount":"","unit":"","name":"Cashew butter","notes":"","id":21853}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":292,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

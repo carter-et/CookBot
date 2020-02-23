@@ -1,0 +1,847 @@
+<body class="post-template-default single single-post postid-48519 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-48519 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-30-minutes-or-less category-dairy-free category-dinner category-egg-free category-fall category-gluten-free category-grain-free category-oil-free category-recipes category-refined-sugar-free category-salad category-savory category-sides category-soy-free category-spring category-summer category-vegan category-vegetarian category-winter tag-apple-cider-vinegar tag-black-pepper tag-broccoli tag-cashew-butter tag-coconut-bacon tag-cranberry tag-maple-syrup tag-onions tag-sea-salt tag-sunflower-seeds entry"><header class="entry-header"><h1 class="entry-title">Creamy Vegan Broccoli Salad (Mayo-Free!)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Plate of our Creamy Vegan Broccoli Salad recipe" class="tasty-pins-hidden-image" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2019/12/MB-BroccoliSalad-Pinterest.jpg" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" src="https://minimalistbaker.com/wp-content/uploads/2019/12/MB-BroccoliSalad-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Wooden spoon resting on a plate of Creamy Vegan Broccoli Salad made without mayo" class="wp-image-48558" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12-209x300.jpg 209w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12-768x1102.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12-714x1024.jpg 714w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12-600x861.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12-680x976.jpg 680w"/></figure>
+<p>When considering what recipes to share this holiday season, I couldn’t shake the idea of a plant-based take on classic broccoli salad.</p>
+<p>Have you ever tried it? It’s basically a salad with raw or blanched broccoli, bacon, dried cranberries, sunflower seeds, and onion tossed in a sweet mayo-based dressing. While indulgent, it satisfies that salty-sweet flavor I’m often looking for in salads.</p>
+<p>So I got to work on an easy plant-based version and am super pleased with the results. Let us show you how easy it is to make!</p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/pPSHJn38v8o" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Red onion, broccoli, coconut bacon, sunflower seeds, cashew butter, and other ingredients for making our Creamy Vegan Broccoli Salad recipe" class="wp-image-48560" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-209x300.jpg 209w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-768x1101.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-714x1024.jpg 714w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-600x860.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-680x975.jpg 680w"/></figure>
+<span id="more-48519"></span>
+<p>This recipe is simple to make, requiring just <strong>20 minutes and 10 ingredients</strong>.</p>
+<p>It starts with chopped raw broccoli, which gets topped with salted roasted sunflower seeds, red onion (or shallot), dried cranberries (or currants), and <a aria-label="coconut bacon (opens in a new tab)" href="https://minimalistbaker.com/easy-coconut-bacon/" rel="noreferrer noopener" target="_blank">coconut bacon</a>!</p>
+<figure class="wp-block-image"><img alt="Mixing bowl filled with ingredients for making our Creamy Vegan Broccoli Salad recipe" class="wp-image-48550" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2-206x300.jpg 206w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2-768x1121.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2-702x1024.jpg 702w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2-600x876.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-2-680x992.jpg 680w"/></figure>
+<p>Next comes the dressing: A creamy, cashew-based sauce made with cashew butter, maple syrup, apple cider vinegar, and salt!</p>
+<p>It’s reminiscent of the mayo dressing typically used in the classic version of this dish, but even better in our opinion. Plus, it’s<strong> oil-free, naturally-sweetened, and comes together in minutes</strong>!</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to add cashew butter dressing to our Broccoli Salad recipe" class="wp-image-48554" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7-211x300.jpg 211w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7-768x1090.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7-721x1024.jpg 721w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7-600x852.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-7-680x965.jpg 680w"/></figure>
+<p>All that’s left to do is toss! The dressing coats the salad beautifully. It can be served immediately <em>or</em> stored in the refrigerator to marinate up to 2-3 days before serving.</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a mixing bowl of Creamy Vegan Broccoli Salad" class="wp-image-48557" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11-211x300.jpg 211w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11-768x1091.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11-721x1024.jpg 721w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11-600x853.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-11-680x966.jpg 680w"/></figure>
+<p>We hope you LOVE this salad! It’s:</p>
+<ul><li>Crunchy</li><li>Salty-sweet</li><li>Quick &amp; easy </li><li>Flavorful</li><li>Fiber-rich</li><li>&amp; Seriously delicious</li></ul>
+<p>This would make the perfect side this holiday season and beyond! It pairs especially well with sandwiches (like our <a aria-label="Vegan BLT Sandwich (opens in a new tab)" href="https://minimalistbaker.com/vegan-blt-sandwich/" rel="noreferrer noopener" target="_blank">Vegan BLT Sandwich</a> or <a aria-label="Sunflower Sandwich (opens in a new tab)" href="https://minimalistbaker.com/chickpea-sunflower-sandwich/" rel="noreferrer noopener" target="_blank">Chickpea Sunflower Sandwich</a>) and our <a aria-label='Vegan Lentil Nut "Meatloaf." (opens in a new tab)' href="https://minimalistbaker.com/vegan-lentil-nut-meatloaf/" rel="noreferrer noopener" target="_blank">Vegan Lentil Nut “Meatloaf.”</a></p>
+<h3>More Broccoli Recipes</h3>
+<ul><li><a aria-label="Cheesy Cauliflower Rice Broccoli Bake (opens in a new tab)" href="https://minimalistbaker.com/cheesy-cauliflower-rice-broccoli-bake/" rel="noreferrer noopener" target="_blank">Cheesy Cauliflower Rice Broccoli Bake</a></li><li><a aria-label="Roasted Broccoli Sweet Potato Chickpea Salad (opens in a new tab)" href="https://minimalistbaker.com/roasted-broccoli-sweet-potato-chickpea-salad/" rel="noreferrer noopener" target="_blank">Roasted Broccoli Sweet Potato Chickpea Salad</a></li><li><a aria-label="Asian Quinoa Salad (opens in a new tab)" href="https://minimalistbaker.com/asian-quinoa-salad/" rel="noreferrer noopener" target="_blank">Asian Quinoa Salad</a></li><li><a aria-label="General Tso's Tofu Stir-Fry (opens in a new tab)" href="https://minimalistbaker.com/general-tsos-tofu/" rel="noreferrer noopener" target="_blank">General Tso’s Tofu Stir-Fry</a></li><li><a aria-label="30-Minute Quinoa Fried Rice (opens in a new tab)" href="https://minimalistbaker.com/30-minute-quinoa-fried-rice/" rel="noreferrer noopener" target="_blank">30-Minute Quinoa Fried Rice</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a aria-label=" (opens in a new tab)" href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Plate filled with Creamy Vegan Broccoli Salad made with coconut bacon, cranberries, and a cashew butter dressing" class="wp-image-48559" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13-207x300.jpg 207w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13-768x1112.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13-707x1024.jpg 707w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13-600x869.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-13-680x985.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="48606" id="wprm-recipe-container-48606"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/48606" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Plate of Creamy Vegan Broccoli Salad made with coconut bacon and a cashew butter dressing" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-400x400.jpg" data-pin-description="EASY Creamy Vegan Broccoli Salad! 20 minutes, 10 simple ingredients, SO delicious! #minimalistbaker #glutenfree #plantbased #salad #broccoli #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/11/Creamy-Broccoli-Salad-SQUARE.jpg 1444w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">5</span> from <span class="wprm-recipe-rating-count">12</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Creamy Vegan Broccoli Salad (Mayo-Free!)</h2>
+<div class="wprm-recipe-summary">
+		An EASY, plant-based take on classic broccoli salad with coconut bacon, sunflower seeds, and a simple cashew dressing! Just 10 simple ingredients and 20 minutes required!	</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">9</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(1-cup servings)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Side Dish				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					American, Grain-Free, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					No				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					4-5 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="48606" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="48606" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">SALAD</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3/4</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/easy-coconut-bacon/" target="_blank">coconut bacon</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">7</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">chopped broccoli </span>
+<span class="wprm-recipe-ingredient-notes">(~2 small heads broccoli as recipe is written)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">roasted salted sunflower seeds </span>
+<span class="wprm-recipe-ingredient-notes">(or sub other salted nut of choice)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">finely diced red onion or shallot</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">dried cranberries or currants </span>
+<span class="wprm-recipe-ingredient-notes">(unsweetened // or sub chopped pitted dates)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">DRESSING</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">7</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/cashew-butter-review/" target="_blank">cashew butter</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">maple syrup</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">apple cider vinegar</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">sea salt </span>
+<span class="wprm-recipe-ingredient-notes">(plus more to taste)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">pinch</span>
+<span class="wprm-recipe-ingredient-name">black pepper </span>
+<span class="wprm-recipe-ingredient-notes">(plus more to taste)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3-4</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">water</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>If you haven’t made your coconut bacon yet, do so now (<a href="https://minimalistbaker.com/easy-coconut-bacon/" target="_blank">see instructions</a>) and let cool.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>To a large mixing bowl, add coconut bacon, chopped broccoli, sunflower seeds, onion or shallot, and dried fruit of choice.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>To a separate small mixing bowl, add cashew butter, maple syrup, apple cider vinegar, sea salt, and pepper and stir/whisk to combine. Then add water 1 Tbsp (15 ml) at a time and stir/whisk until a pourable, creamy sauce is achieved. Taste and adjust flavor as needed, adding more maple syrup for sweetness, vinegar for tanginess / acidity, or salt to taste.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Add the sauce to the broccoli salad and toss to combine. Enjoy immediately or transfer to the refrigerator to chill and allow the flavors to marinate. Leftovers will keep up to 4-5 days in the refrigerator, though best within the first 2-3 days. Not freezer friendly.</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/pPSHJn38v8o" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Prep time does not include making coconut bacon.<br/>*Nutrition information is a rough estimate.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 9 one-cup servings) </h3><ul><li><strong>Calories:</strong> 213 <li><strong>Fat:</strong> 14.1g <li><strong>Saturated fat:</strong> 4.7g <li><strong>Polyunsaturated fat:</strong> 3.76g <li><strong>Monounsaturated fat:</strong> 4.79g <li><strong>Sodium:</strong> 300mg <li><strong>Potassium:</strong> 389mg <li><strong>Carbohydrates:</strong> 19.2g <li><strong>Fiber:</strong> 4.1g <li><strong>Sugar:</strong> 9.4g <li><strong>Protein:</strong> 6.3g <li><strong>Vitamin A:</strong> 477IU <li><strong>Vitamin C:</strong> 63.96mg <li><strong>Calcium:</strong> 55.37mg <li><strong>Iron:</strong> 1.72mg</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Creamy Vegan Broccoli Salad (Mayo-Free!)" data-jpibfi-post-url="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Fcreamy-vegan-broccoli-salad-mayo-free%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Creamy%20Vegan%20Broccoli%20Salad%20(Mayo-Free!)&amp;url=https%3A%2F%2Fminimalistbaker.com%2Fcreamy-vegan-broccoli-salad-mayo-free%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Fcreamy-vegan-broccoli-salad-mayo-free%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/11/EASY-Creamy-Vegan-Broccoli-Salad-20-minutes-10-simple-ingredients-SO-delicious-minimalistbaker-glutenfree-plantbased-salad-broccoli-recipe-12.jpg&amp;description=Creamy%20Vegan%20Broccoli%20Salad%20(Mayo-Free!)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/#comments">39 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/30-minutes-or-less/" rel="category tag">30 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/dinner/" rel="category tag">Dinner</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/grain-free/" rel="category tag">Grain-Free</a>, <a href="https://minimalistbaker.com/recipes/oil-free/" rel="category tag">Oil-Free</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/refined-sugar-free/" rel="category tag">Refined Sugar-Free</a>, <a href="https://minimalistbaker.com/recipes/salad/" rel="category tag">Salad</a>, <a href="https://minimalistbaker.com/recipes/savory/" rel="category tag">Savory</a>, <a href="https://minimalistbaker.com/recipes/sides/" rel="category tag">Sides</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/spring/" rel="category tag">Spring</a>, <a href="https://minimalistbaker.com/recipes/summer/" rel="category tag">Summer</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/easy-1-pot-tikka-masala/" rel="prev">Easy 1-Pot Tikka Masala</a></div><div class="next"><a href="https://minimalistbaker.com/easy-massaged-kale-salad-15-minutes/" rel="next">Easy Massaged Kale Salad (15 Minutes!)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/creamy-vegan-broccoli-salad-mayo-free/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=48519&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="48519">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="10f6807380"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="4"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-864231">
+<article id="article-comment-864231">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sherri" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sherri" width="96"><span itemprop="name">Sherri</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-864231">February 18, 2020 at 6:41 am</a></time></p> </header>
+<div class="comment-content">
+<p>Sorry I didn’t rate the recipe before – I’m not used to commenting on recipes!  But this one turned out so well that I had to share what I thought of the dish.  This is definitely a keeper!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sherri" class="comment-reply-link" data-belowelement="comment-864231" data-commentid="864231" data-postid="48519" data-respondelement="respond" href="#comment-864231" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-863587">
+<article id="article-comment-863587">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Beth" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/5eb3d29671031c5224eb7ce4958c1d4b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5eb3d29671031c5224eb7ce4958c1d4b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Beth" width="96"><span itemprop="name">Beth</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-863587">February 14, 2020 at 10:24 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Perfection!  I enjoy this waaaaay more than the mayo version (and that was just from tasting it without letting the flavors marinate).  Made my own cashew butter because I couldn’t find it at the store and it turned out great.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Beth" class="comment-reply-link" data-belowelement="comment-863587" data-commentid="863587" data-postid="48519" data-respondelement="respond" href="#comment-863587" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-861268">
+<article id="article-comment-861268">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jen" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cf015f0fabfef358ffa17f18e0a7e30d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cf015f0fabfef358ffa17f18e0a7e30d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jen" width="96"><span itemprop="name">Jen</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-861268">February 6, 2020 at 10:56 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This was unbelievably delicious and even better than the traditional mayo-based broccoli salad yet still captured all the flavors!  I wasn’t entirely convinced when I tasted the dressing on its own, but once mixed with all the other components, it was perfection.  And the coconut bacon totally blew my mind – it seriously tastes like bacon.  Everyone went back for seconds and thirds, including the carnivores!  Only thing I did differently was to steam the florets for three minutes and then shock and drain well.  So good, can’t wait to eat it again.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jen" class="comment-reply-link" data-belowelement="comment-861268" data-commentid="861268" data-postid="48519" data-respondelement="respond" href="#comment-861268" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-861397">
+<article id="article-comment-861397">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-861397">February 7, 2020 at 10:17 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed it, Jen! Thanks so much for the lovely review!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-861397" data-commentid="861397" data-postid="48519" data-respondelement="respond" href="#comment-861397" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-854249">
+<article id="article-comment-854249">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Annie Robison" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ffe7b884588c50534d95d91f93362323?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ffe7b884588c50534d95d91f93362323?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Annie Robison" width="96"><span itemprop="name">Annie Robison</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-854249">January 6, 2020 at 4:17 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This is literally one of the best salads I have ever eaten! And the coconut bacon…highly addictive and wildly authentic! CRAZY delicious!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Annie Robison" class="comment-reply-link" data-belowelement="comment-854249" data-commentid="854249" data-postid="48519" data-respondelement="respond" href="#comment-854249" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-854367">
+<article id="article-comment-854367">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-854367">January 7, 2020 at 10:57 am</a></time></p> </header>
+<div class="comment-content">
+<p>Whoop! We’re so glad you enjoy it, Annie! Thanks so much for the lovely review!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-854367" data-commentid="854367" data-postid="48519" data-respondelement="respond" href="#comment-854367" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-853375">
+<article id="article-comment-853375">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for elena" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c84e79948ce94e0cfc1693e187ae0322?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c84e79948ce94e0cfc1693e187ae0322?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for elena" width="96"><span itemprop="name">elena</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-853375">January 1, 2020 at 7:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Wow this was so delicious, perfect blend of sweet and savory, I loved it</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to elena" class="comment-reply-link" data-belowelement="comment-853375" data-commentid="853375" data-postid="48519" data-respondelement="respond" href="#comment-853375" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-853479">
+<article id="article-comment-853479">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-853479">January 2, 2020 at 10:31 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! We’re so glad you enjoyed it, Elena! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-853479" data-commentid="853479" data-postid="48519" data-respondelement="respond" href="#comment-853479" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment byuser comment-author-support even thread-odd thread-alt depth-1" id="comment-852730">
+<article id="article-comment-852730">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852730">December 30, 2019 at 11:15 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for your kind words, Mary Beth. Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852730" data-commentid="852730" data-postid="48519" data-respondelement="respond" href="#comment-852730" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="comment-852631">
+<article id="article-comment-852631">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Emily" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4b69816ead09e328aef5140d85e9ee2a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4b69816ead09e328aef5140d85e9ee2a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Emily" width="96"><span itemprop="name">Emily</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852631">December 29, 2019 at 5:26 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I liked this a lot.  And wow, how have I not discovered coconut bacon before now?!  I accidentally just put it all together instead of making the dressing separate – oops!  Will try it again.<br/>
+I used pickled onions instead of raw.  Do raw onions usually soften some if you leave this to marinate awhile? I just didn’t find there to be enough moisture, and I detest raw onions!</p>
+<p>Thank you for another great recipe!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Emily" class="comment-reply-link" data-belowelement="comment-852631" data-commentid="852631" data-postid="48519" data-respondelement="respond" href="#comment-852631" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-852857">
+<article id="article-comment-852857">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852857">December 30, 2019 at 12:58 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review! We’re so glad you enjoyed it, Emily! Yes, raw onions will soften if left to marinate. Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852857" data-commentid="852857" data-postid="48519" data-respondelement="respond" href="#comment-852857" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-852441">
+<article id="article-comment-852441">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for mary beth barlow" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/23372a6a38eb1f369c3f7e7a67610d6e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/23372a6a38eb1f369c3f7e7a67610d6e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for mary beth barlow" width="96"/><span itemprop="name">mary beth barlow</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852441">December 27, 2019 at 5:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>You my dear are a wizard!  And you don’t know how much I love your style and your recipes!  Happy new year–to my absolute favorite blog.  Would add more stars******** if I could*</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to mary beth barlow" class="comment-reply-link" data-belowelement="comment-852441" data-commentid="852441" data-postid="48519" data-respondelement="respond" href="#comment-852441" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-852731">
+<article id="article-comment-852731">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852731">December 30, 2019 at 11:16 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for your kind words, Mary Beth. We’re so glad you enjoy our recipes! Happy New Year! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852731" data-commentid="852731" data-postid="48519" data-respondelement="respond" href="#comment-852731" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-852362">
+<article id="article-comment-852362">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sherri Cartee Horency" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sherri Cartee Horency" width="96"/><span itemprop="name">Sherri Cartee Horency</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852362">December 27, 2019 at 7:20 am</a></time></p> </header>
+<div class="comment-content">
+<p>I’m wondering if this would work with lightly steamed broccoli instead of just plain raw broccoli?  If so, do you think it would hold for a day in the refrigerator?</p>
+<p>Thanks for all your amazing work!  You are my go-to for any new recipe or food idea.  May your 2020 be the best year yet!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sherri Cartee Horency" class="comment-reply-link" data-belowelement="comment-852362" data-commentid="852362" data-postid="48519" data-respondelement="respond" href="#comment-852362" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852368">
+<article id="article-comment-852368">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852368">December 27, 2019 at 9:37 am</a></time></p> </header>
+<div class="comment-content">
+<p>I think that would be OK! It won’t last as long in the fridge. But it should work! Let us know if you give it a try.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852368" data-commentid="852368" data-postid="48519" data-respondelement="respond" href="#comment-852368" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-852318">
+<article id="article-comment-852318">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Beth Ann" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/f5b1636630f0b7ecd7c19177d205a134?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/f5b1636630f0b7ecd7c19177d205a134?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Beth Ann" width="96"/><span itemprop="name">Beth Ann</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852318">December 26, 2019 at 6:46 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made this to the tee except substituted with almond butter as what was in frig and Loved it!<br/>
+Also only had regular size Trader Joe’s organic coconut flakes, which is a little bigger than most flakes and pretty substantial. Blended in beautifully and look forward to using this “bacon” in Mac and Cheeze ! ?</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Beth Ann" class="comment-reply-link" data-belowelement="comment-852318" data-commentid="852318" data-postid="48519" data-respondelement="respond" href="#comment-852318" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852395">
+<article id="article-comment-852395">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852395">December 27, 2019 at 9:48 am</a></time></p> </header>
+<div class="comment-content">
+<p>Whoop! Thanks for sharing, Beth Ann!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852395" data-commentid="852395" data-postid="48519" data-respondelement="respond" href="#comment-852395" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-852105">
+<article id="article-comment-852105">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Libby" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/5262dbe3558f77fa028ef5df8a19844f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5262dbe3558f77fa028ef5df8a19844f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Libby" width="96"/><span itemprop="name">Libby</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852105">December 25, 2019 at 12:48 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This is delicious! Thank you so much for this recipe. I used to love the mayo-based broccoli salad that was a family tradition but had never found a good vegan substitute. This will be going in our regular rotation now. It’s fabulous!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Libby" class="comment-reply-link" data-belowelement="comment-852105" data-commentid="852105" data-postid="48519" data-respondelement="respond" href="#comment-852105" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852115">
+<article id="article-comment-852115">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852115">December 25, 2019 at 12:53 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Whoop! Thanks for sharing, Libby!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852115" data-commentid="852115" data-postid="48519" data-respondelement="respond" href="#comment-852115" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-852032">
+<article id="article-comment-852032">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Leah" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/f7af1c32fab3d93d02ef8180d44871b2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/f7af1c32fab3d93d02ef8180d44871b2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Leah" width="96"/><span itemprop="name">Leah</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852032">December 24, 2019 at 5:16 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hello,</p>
+<p>I saw awhile back that you had an online food photography course for purchase and I’m wondering if its still available to purchase? I believe it was for iphone users to learn how to post more effectively on instagram and I’d love to purchase and learn if its still available. couldn’t find it in the archives of the blog so wanted to be in touch directly.</p>
+<p>Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Leah" class="comment-reply-link" data-belowelement="comment-852032" data-commentid="852032" data-postid="48519" data-respondelement="respond" href="#comment-852032" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852152">
+<article id="article-comment-852152">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852152">December 25, 2019 at 1:10 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Leah, sorry for the confusion. We’ve closed enrollment on those courses and don’t plan to re-open them.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852152" data-commentid="852152" data-postid="48519" data-respondelement="respond" href="#comment-852152" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-852029">
+<article id="article-comment-852029">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Debbie" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a62111c30db0a5b514d8f48613c2eab4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a62111c30db0a5b514d8f48613c2eab4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Debbie" width="96"/><span itemprop="name">Debbie</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852029">December 24, 2019 at 3:43 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I just made this and it is delicious. I did not have cashew butter so I put raw cashews in my Bullet with a touch of olive oil. I subbed pumpkin seeds for the sunflower seeds. I loved the sweet and tangy flavor of the dressing and the crunch from the seeds and the coconut bacon. This is a great dish to take to a potluck.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Debbie" class="comment-reply-link" data-belowelement="comment-852029" data-commentid="852029" data-postid="48519" data-respondelement="respond" href="#comment-852029" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852153">
+<article id="article-comment-852153">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852153">December 25, 2019 at 1:13 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Lovely! Thanks for sharing, Debbie!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852153" data-commentid="852153" data-postid="48519" data-respondelement="respond" href="#comment-852153" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-852020">
+<article id="article-comment-852020">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kelly" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ecb160453cdb3a177b1d55b3e61afdbb?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ecb160453cdb3a177b1d55b3e61afdbb?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kelly" width="96"/><span itemprop="name">Kelly</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852020">December 24, 2019 at 2:36 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Forgot to add that I omitted the liquid smoke (my husband doesn’t like it) and the faux bacon was still yummy.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kelly" class="comment-reply-link" data-belowelement="comment-852020" data-commentid="852020" data-postid="48519" data-respondelement="respond" href="#comment-852020" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852158">
+<article id="article-comment-852158">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852158">December 25, 2019 at 1:15 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks, Kelly!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852158" data-commentid="852158" data-postid="48519" data-respondelement="respond" href="#comment-852158" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-852018">
+<article id="article-comment-852018">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kelly" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ecb160453cdb3a177b1d55b3e61afdbb?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ecb160453cdb3a177b1d55b3e61afdbb?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kelly" width="96"/><span itemprop="name">Kelly</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852018">December 24, 2019 at 2:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Merry Christmas to me!  I haven’t had much time to make dishes from scratch lately, but had the time today and made this for our Christmas Eve dinner.  It is delicious!  I made it as written (used raisins for the dried fruit) and I believe it is going to be a  hit tonight.<br/>
+Decades ago I worked for an organization who served the traditional version of this–packed with mayo and bacon and I always went “ham” on it.  (This is long before I considered eating a plant-based diet.)  :) Thanks for bringing back good memories and for introducing me to a healthier dish.<br/>
+Merry Christmas Dana and team!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kelly" class="comment-reply-link" data-belowelement="comment-852018" data-commentid="852018" data-postid="48519" data-respondelement="respond" href="#comment-852018" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852161">
+<article id="article-comment-852161">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852161">December 25, 2019 at 1:16 pm</a></time></p> </header>
+<div class="comment-content">
+<p>haha YAY! THanks for sharing, Kelly!! xoxo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852161" data-commentid="852161" data-postid="48519" data-respondelement="respond" href="#comment-852161" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-851936">
+<article id="article-comment-851936">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sam Stine" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/b80ecf0224c72420478d14544ae389bc?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b80ecf0224c72420478d14544ae389bc?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sam Stine" width="96"/><span itemprop="name">Sam Stine</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-851936">December 24, 2019 at 10:22 am</a></time></p> </header>
+<div class="comment-content">
+<p>Fabulous recipe!!! i used unsweetened salted sunflower seed butter instead of cashew butter because of the difference in price point and it ended up being a wonderful substitution!!! probably a bit nuttier than it would have been with cashew butter.  fun and flavorful vegan holiday dish- cant wait to share it with the omnivores in my family!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sam Stine" class="comment-reply-link" data-belowelement="comment-851936" data-commentid="851936" data-postid="48519" data-respondelement="respond" href="#comment-851936" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852002">
+<article id="article-comment-852002">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852002">December 24, 2019 at 12:26 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Sam!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852002" data-commentid="852002" data-postid="48519" data-respondelement="respond" href="#comment-852002" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-851899">
+<article id="article-comment-851899">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Celia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/0c3929b9db7d8ccb5be7991605771191?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/0c3929b9db7d8ccb5be7991605771191?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Celia" width="96"/><span itemprop="name">Celia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-851899">December 24, 2019 at 6:23 am</a></time></p> </header>
+<div class="comment-content">
+<p>My boyfriend said this is the best salad he’s ever eaten hahaha It was incredible! I skipped the coconut bacon and only added 1tbsp of maple syrup and it was still amazing.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Celia" class="comment-reply-link" data-belowelement="comment-851899" data-commentid="851899" data-postid="48519" data-respondelement="respond" href="#comment-851899" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-852003">
+<article id="article-comment-852003">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-852003">December 24, 2019 at 12:26 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Great! Thanks, Celia!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852003" data-commentid="852003" data-postid="48519" data-respondelement="respond" href="#comment-852003" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-851773">
+<article id="article-comment-851773">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Paige Cassandra Flamm" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/8ca220b5ce6eab32bfb239fccf1aa92e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Paige Cassandra Flamm" width="96"/><span itemprop="name">Paige Cassandra Flamm</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-851773">December 23, 2019 at 12:38 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This salad looks amazing! I need to try this for our Christmas dinner!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Paige Cassandra Flamm" class="comment-reply-link" data-belowelement="comment-851773" data-commentid="851773" data-postid="48519" data-respondelement="respond" href="#comment-851773" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-851771">
+<article id="article-comment-851771">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for SFerd" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/452eb3fb5f6469033b2f714106bcf168?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/452eb3fb5f6469033b2f714106bcf168?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for SFerd" width="96"/><span itemprop="name">SFerd</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-851771">December 23, 2019 at 12:01 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Have you tried making this with almond butter instead of cashew butter? I wonder how that would affect the flavor profile….?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to SFerd" class="comment-reply-link" data-belowelement="comment-851771" data-commentid="851771" data-postid="48519" data-respondelement="respond" href="#comment-851771" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-851780">
+<article id="article-comment-851780">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-851780">December 23, 2019 at 1:15 pm</a></time></p> </header>
+<div class="comment-content">
+<p>It would definitely affect the flavor, but perhaps in a good way! Let us know if you give it a try!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851780" data-commentid="851780" data-postid="48519" data-respondelement="respond" href="#comment-851780" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3 wpr_madethis_li" id="comment-855703">
+<article id="article-comment-855703">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sherri Cartee Horency" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sherri Cartee Horency" width="96"/><span itemprop="name">Sherri Cartee Horency</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-855703">January 14, 2020 at 6:53 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I tried it for a party and it was a big hit – even with those who normally make the salad with mayo.  I steamed the broccoli for 3 minutes, immediately ran it under cold water to stop the cooking, then put the dish together as stated above.  I made it one day ahead, and it was still crunchy and delicious!  I waited to add the coconut bacon until right before I served it.  I also had roasted pecans that I used instead of seeds.  I really don’t like the dryness and texture of raw broccoli, and with this method and this dish, I could eat it every day!</p>
+<p>Thanks for the great recipe, and thanks for the encouragement to try my tweak.  It worked better than I could have imagined!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sherri Cartee Horency" class="comment-reply-link" data-belowelement="comment-855703" data-commentid="855703" data-postid="48519" data-respondelement="respond" href="#comment-855703" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-4" id="comment-855704">
+<article id="article-comment-855704">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sherri Cartee Horency" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/70c180426d92b3d636ea2fcd24e55323?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sherri Cartee Horency" width="96"/><span itemprop="name">Sherri Cartee Horency</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-855704">January 14, 2020 at 6:54 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Oops!  I posted this comment in the wrong place!  I had asked if it might work to steam the broccoli, and you encouraged me to give it a try and let you know the results.  I hope I wasn’t too confusing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sherri Cartee Horency" class="comment-reply-link" data-belowelement="comment-855704" data-commentid="855704" data-postid="48519" data-respondelement="respond" href="#comment-855704" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment byuser comment-author-support even depth-4" id="comment-855774">
+<article id="article-comment-855774">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-855774">January 15, 2020 at 10:49 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review and for sharing your modification, Sherri. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855774" data-commentid="855774" data-postid="48519" data-respondelement="respond" href="#comment-855774" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2 wpr_madethis_li" id="comment-855170">
+<article id="article-comment-855170">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Betty" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/71630e4b54b52facb70ac05d50ce55d3?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/71630e4b54b52facb70ac05d50ce55d3?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Betty" width="96"/><span itemprop="name">Betty</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-855170">January 12, 2020 at 7:58 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I just made a double batch of this with almond butter instead of cashew butter and it was AMAZING!!  My friends all loved it, and I was thrilled to eat the leftovers for days after the party. Can’t wait to make it again!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Betty" class="comment-reply-link" data-belowelement="comment-855170" data-commentid="855170" data-postid="48519" data-respondelement="respond" href="#comment-855170" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-3" id="comment-855341">
+<article id="article-comment-855341">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/creamy-vegan-broccoli-salad-mayo-free/?t=1582414051#comment-855341">January 13, 2020 at 11:06 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Betty. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855341" data-commentid="855341" data-postid="48519" data-respondelement="respond" href="#comment-855341" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_48606 = {"ingredients":[{"amount":"3\/4","unit":"cup","name":"coconut bacon","notes":"","link":{"url":"https:\/\/minimalistbaker.com\/easy-coconut-bacon\/","nofollow":"follow"},"converted":{"2":{"amount":"73","unit":"g"}},"id":21265},{"amount":"7","unit":"cups","name":"chopped broccoli ","notes":"(~2 small heads broccoli as recipe is written)","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"640","unit":"g"}},"id":14427},{"amount":"1\/2","unit":"cup","name":"roasted salted sunflower seeds ","notes":"(or sub other salted nut of choice)","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"68","unit":"g"}},"id":28548},{"amount":"1\/2","unit":"cup","name":"finely diced red onion or shallot","notes":"","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"80","unit":"g"}},"id":28549},{"amount":"1\/4","unit":"cup","name":"dried cranberries or currants ","notes":"(unsweetened \/\/ or sub chopped pitted dates)","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"40","unit":"g"}},"id":28550},{"amount":"7","unit":"Tbsp","name":"cashew butter","notes":"","link":{"url":"https:\/\/minimalistbaker.com\/cashew-butter-review\/","nofollow":"follow"},"converted":{"2":{"amount":"112","unit":"g"}},"id":21853},{"amount":"2","unit":"Tbsp","name":"maple syrup","notes":"","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"30","unit":"ml"}},"id":14075},{"amount":"3","unit":"Tbsp","name":"apple cider vinegar","notes":"","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"45","unit":"ml"}},"id":13472},{"amount":"1\/2","unit":"tsp","name":"sea salt ","notes":"(plus more to taste)","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"1\/2","unit":"tsp"}},"id":13388},{"amount":"1","unit":"pinch","name":"black pepper ","notes":"(plus more to taste)","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"1","unit":"pinch"}},"id":13367},{"amount":"3-4","unit":"Tbsp","name":"water","notes":"","link":{"url":"","nofollow":"default"},"converted":{"2":{"amount":"45-60","unit":"ml"}},"id":13493}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":326,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

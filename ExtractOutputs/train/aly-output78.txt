@@ -1,0 +1,1241 @@
+<body class="post-template-default single single-post postid-43196 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-43196 post type-post status-publish format-standard has-post-thumbnail category-30-minutes-or-less category-dairy-free category-dinner category-egg-free category-entree category-fall category-lunch category-mediterranean-inspired category-nut-free category-recipes category-soy-free category-vegan category-vegetarian category-winter tag-avocado-oil tag-chickpeas tag-cumin tag-garlic tag-hummus tag-kale tag-lemon tag-mixed-greens tag-pita tag-sea-salt tag-tahini entry"><header class="entry-header"><h1 class="entry-title">Kale Falafel Hummus Wraps (30 Minutes!)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Wood cutting boards with open and closed Kale Falafel Hummus Wraps for a simple vegan meal" class="tasty-pins-hidden-image" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2019/06/MB-KaleFalafel-Pinterest.jpg" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" src="https://minimalistbaker.com/wp-content/uploads/2019/06/MB-KaleFalafel-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/><p><img alt="Wood cutting board with three Kale Falafel Hummus Wraps beside a bowl of hummus" class="aligncenter wp-image-43216 size-full" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Kale Falafel Hummus Wraps (30 Minutes!)" data-jpibfi-post-url="https://minimalistbaker.com/kale-falafel-hummus-wraps/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05.jpg" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" height="2160" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05.jpg 1440w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-05-680x1020.jpg 680w" width="1440"/></p>
+<p>If you couldn’t already tell, falafel is one of our <em>absolute</em> <strong>favorite</strong> Mediterranean dishes (see exhibits <a href="https://minimalistbaker.com/better-than-restaurant-falafel-vegan-gluten-free/" rel="noopener noreferrer" target="_blank">A</a>, <a href="https://minimalistbaker.com/baked-falafel-burgers/" rel="noopener noreferrer" target="_blank">B</a>, <a href="https://minimalistbaker.com/easy-vegan-falafel/" rel="noopener noreferrer" target="_blank">C</a>, <a href="https://minimalistbaker.com/classic-vegan-falafel-gf/" rel="noopener noreferrer" target="_blank">D</a>, and <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">E</a>).</p>
+<p>And although these falafel are amazing on their own, adding them to pita wraps with hummus and greens brings them to the next level. Plus, they’re incredibly simple to make — coming together in just <strong>30 minutes</strong>.</p>
+<p><img alt="Cutting board with ingredients for making our Kale Falafel Hummus Wraps recipe" class="aligncenter wp-image-43197 size-full" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Kale Falafel Hummus Wraps (30 Minutes!)" data-jpibfi-post-url="https://minimalistbaker.com/kale-falafel-hummus-wraps/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01.jpg" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" height="2182" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01-768x1151.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01-600x899.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-01-680x1019.jpg 680w" width="1456"/><span id="more-43196"></span></p>
+<p>The falafel are packed with flavor (hello, garlic and cumin!), loaded with <strong>fiber and protein</strong> from chickpeas and oat flour, and have plenty of <strong>green vibes from fresh kale</strong>! The result is a quick-and-easy, delicious falafel that’s secretly good for you.</p>
+<p><img alt="Healthy Kale Falafel cooking in a cast-iron skillet" class="aligncenter wp-image-43199 size-full" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Kale Falafel Hummus Wraps (30 Minutes!)" data-jpibfi-post-url="https://minimalistbaker.com/kale-falafel-hummus-wraps/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03.jpg" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" height="2184" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-03-680x1020.jpg 680w" width="1456"/></p>
+<p>This recipe is <strong>made using a food processor</strong>, and once the falafel is formed into patties, it’s ready for cooking!</p>
+<p>Unlike traditional falafel, which is deep-fried, <strong>this version is lightly fried in a skillet</strong> until gently browned on both sides. The result is a crispy outside and tender (not dry) center. Serious yum.</p>
+<p><iframe allowfullscreen="allowfullscreen" frameborder="0" height="380" src="https://www.youtube.com/embed/-TTCGB5Dnac" width="680"></iframe></p>
+<p>In a matter of minutes, it’s time to assemble your wraps. We like to use pita bread for the wrap, lettuce for greens, and hummus for extra flavor.</p>
+<p>But the possibilities are endless…think <a href="https://minimalistbaker.com/6-ingredient-vegan-tzatziki/" rel="noopener noreferrer" target="_blank">Vegan Tzatziki</a>, <a href="https://minimalistbaker.com/3-ingredient-tahini-sauce-everything/" rel="noopener noreferrer" target="_blank">3-Ingredient Tahini Sauce</a>, or even <a href="https://minimalistbaker.com/spicy-habanero-hot-sauce/" rel="noopener noreferrer" target="_blank">Habanero Hot Sauce</a>!</p>
+<p><img alt="Cutting board with pita bread topped with greens and falafel made with kale" class="aligncenter wp-image-43202 size-full" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Kale Falafel Hummus Wraps (30 Minutes!)" data-jpibfi-post-url="https://minimalistbaker.com/kale-falafel-hummus-wraps/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07.jpg" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" height="2184" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07-680x1020.jpg 680w" width="1456"/></p>
+<p>We hope you LOVE these falafel wraps. They’re:</p>
+<p>Flavorful<br/>
+Satisfying<br/>
+Simple to make<br/>
+Healthy<br/>
+Versatile<br/>
+&amp; SO tasty</p>
+<p>These wraps would make the perfect weeknight dinner or even picnic meal! Serve the falafel on their own, or pair with our <a href="https://minimalistbaker.com/grain-free-tabbouleh-salad-6-ingredients/" rel="noopener noreferrer" target="_blank">Grain-Free Tabbouleh Salad</a> or <a href="https://minimalistbaker.com/simple-baba-ganoush/" rel="noopener noreferrer" target="_blank">Simple Baba Ganoush</a> for extra veggies. Mediterranean-inspired Mondays anyone?</p>
+<p>Need more serving inspiration? Check out our <a href="https://minimalistbaker.com/the-ultimate-mediterranean-bowl/" rel="noopener noreferrer" target="_blank">Ultimate Mediterranean Bowls</a>, <a href="https://minimalistbaker.com/chickpea-shawarma-salad/" rel="noopener noreferrer" target="_blank">Chickpea Shawarma Salad</a>, <a href="https://minimalistbaker.com/greek-goddess-bowl-30-minutes/" rel="noopener noreferrer" target="_blank">Greek Goddess Bowls</a>, and <a href="https://minimalistbaker.com/best-ever-5-minute-microwave-hummus/" rel="noopener noreferrer" target="_blank">5-Minute Microwave Hummus</a>!</p>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a href="https://www.instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">#minimalistbaker</a> on Instagram. We’d love to see what you come up with. Cheers, friends!</p>
+<p><img alt="Cutting board with Kale Falafel Hummus Wraps made with pita bread and fresh greens" class="aligncenter wp-image-43201 size-full" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Kale Falafel Hummus Wraps (30 Minutes!)" data-jpibfi-post-url="https://minimalistbaker.com/kale-falafel-hummus-wraps/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06.jpg" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-title="Kale Falafel Hummus Wraps (30 Minutes!)" height="2184" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-06-680x1020.jpg 680w" width="1456"/></p>
+<div class="wprm-recipe-container" data-recipe-id="43293" id="wprm-recipe-container-43293"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/43293" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Making a healthy vegan Kale Falafel Hummus Wrap on a wood cutting board" class="attachment-square-400c size-square-400c" data-pin-description="DELICIOUS Kale Falafel Hummus Wraps! Quick, flavorful, and so satisfying #vegan #glutenfree #falafel #plantbased #recipe #minimalistbaker" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-400x400.jpeg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-400x400.jpeg 400w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-200x200.jpeg 200w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-300x300.jpeg 300w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-768x768.jpeg 768w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-1024x1024.jpeg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-680x680.jpeg 680w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-500x500.jpeg 500w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-100x100.jpeg 100w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-600x600.jpeg 600w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE-340x340.jpeg 340w, https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-SQUARE.jpeg 1449w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">4.75</span> from <span class="wprm-recipe-rating-count">16</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Kale Falafel Hummus Wraps</h2>
+<div class="wprm-recipe-summary">
+<p>Made with kale and chickpeas, these falafel are a healthier take on one of our favorite Mediterranean dishes. Delicious, satisfying, and only 30 minutes to prepare. Serve on greens or wrapped in chard or pita.</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">15</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">15</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">30</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">4</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(Wraps)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Entree				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Gluten-Free, Mediterranean-Inspired, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					1 Month (falafel only)				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					3-4 Days (components stored separately)				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="43293" data-system="1" href="#">US Customary</a> - <a class="wprm-unit-conversion" data-recipe="43293" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">4</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">loosely packed kale, stems removed and torn</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">4</span>
+<span class="wprm-recipe-ingredient-unit">large</span>
+<span class="wprm-recipe-ingredient-name">cloves garlic, skins removed </span>
+<span class="wprm-recipe-ingredient-notes">(4 large cloves yield ~2 Tbsp or 12 g)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">15-ounce</span>
+<span class="wprm-recipe-ingredient-name">can chickpeas, rinsed and drained </span>
+<span class="wprm-recipe-ingredient-notes">(~1 ½ cups as recipe is written)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1 ½</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://www.amazon.com/365-Everyday-Value-Organic-Tahini/dp/B074M9NT8R/?tag=minimalistbaker-20" rel="nofollow" target="_blank">tahini</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">fresh lemon juice</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">ground cumin</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">sea salt</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4-1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/how-to-make-oat-flour/" target="_blank">oat flour </a></span>
+<span class="wprm-recipe-ingredient-notes">(ground from rolled oats // or all purpose if not gluten free)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2-4</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">avocado or olive oil </span>
+<span class="wprm-recipe-ingredient-notes">(for cooking)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">FOR SERVING</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/best-ever-5-minute-microwave-hummus/" target="_blank">Hummus</a></span>
+<span class="wprm-recipe-ingredient-notes">(or store-bought // for topping)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">4</span>
+<span class="wprm-recipe-ingredient-unit">medium</span>
+<span class="wprm-recipe-ingredient-name">pitas </span>
+<span class="wprm-recipe-ingredient-notes">(white or wheat // sub rainbow chard for gluten-free option)*</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Greens of choice </span>
+<span class="wprm-recipe-ingredient-notes">(such as fresh parsley or lettuce)</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Add kale and garlic to a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QlYJzBfLXHrk7QR0eDxMljgAAAFqR0iFpAEAAAFKAa31TTc/https://www.amazon.com/dp/B00LBZOYAK/?creativeASIN=B00LBZOYAK&amp;linkCode=w61&amp;imprToken=maR8uXO-WvGcOyTJ4wLqLg&amp;slotNum=7&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">food processor</a> and pulse to chop into small bits. Then add chickpeas, tahini, lemon juice, cumin, and salt and pulse to combine. Mixture shouldn’t be puréed, just combined.</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Once incorporated, transfer mixture to a medium mixing bowl (or stir directly in food processor) and introduce 1/4 cup oat flour (amount as original recipe is written // adjust if altering batch size). Add oat flour another 1 Tbsp (5.6 g) at a time until the mixture is thick enough to handle — adding roughly 2-4 Tbsp.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Taste and adjust seasonings as desired. I added a touch more salt, cumin, and lemon juice. Scoop out heaping 2-Tbsp portions of falafel dough and use your hands to form them into approximately 1/2-inch thick patties. As written, recipe makes ~9 falafel.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p><i><b>NOTE</b>: If not cooking all of the falafel right away, FREEZE uncooked falafel between layers of parchment paper and store in a container in the freezer up to 1 month. Then just thaw and cook as instructed!</i></p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Heat a large skillet over medium to medium-high heat. Once hot, add 2 Tbsp oil (or lesser end of range if adjusting batch size). Swirl to coat pan. Add 4 falafel (or however many will fit comfortably) to the pan at a time.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Cook until browned on the bottom, checking at the 2-minute mark to ensure they’re not over-browning. If they are, slightly reduce heat. Flip once they're deep golden brown — about 3-4 minutes. Cook until the other side is golden brown as well.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>To assemble, lay pita (or chard) flat, top with 2-3 falafel, a healthy spread of hummus, and greens or herbs, and roll up. Secure with a toothpick or wrap with parchment or foil for easy handling. Store leftover falafel covered in the refrigerator for up to 4-5 days and reheat in a 350 degree F (176 C) oven. See freezing instructions in step 4. </p></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/-TTCGB5Dnac" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*To keep this recipe gluten-free, ensure your oat flour is gluten-free and serve your falafel over a salad or wrap in rainbow chard instead of pita. <br/>*Nutrition information is a rough estimate calculated with lesser amount of oat flour and avocado oil and 2 Tbsp hummus, one medium-sized whole wheat pita, and 1 cup mixed greens per wrap. </p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 4 wraps) </h3><ul><li><strong>Calories:</strong> 421 <li><strong>Fat:</strong> 15.7g <li><strong>Saturated fat:</strong> 1.9g <li><strong>Sodium:</strong> 881mg <li><strong>Potassium:</strong> 527mg <li><strong>Carbohydrates:</strong> 60.7g <li><strong>Fiber:</strong> 11.6g <li><strong>Sugar:</strong> 6.1g <li><strong>Protein:</strong> 15.1g</li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div>
+<div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Fkale-falafel-hummus-wraps%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Kale%20Falafel%20Hummus%20Wraps%20(30%20Minutes!)&amp;url=https%3A%2F%2Fminimalistbaker.com%2Fkale-falafel-hummus-wraps%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Fkale-falafel-hummus-wraps%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/04/Kale-Falafel-Hummus-Wraps-1456-v1-07.jpg&amp;description=Kale%20Falafel%20Hummus%20Wraps%20(30%20Minutes!)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/kale-falafel-hummus-wraps/#comments">67 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/30-minutes-or-less/" rel="category tag">30 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/dinner/" rel="category tag">Dinner</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/entree/" rel="category tag">Entree</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/lunch/" rel="category tag">Lunch</a>, <a href="https://minimalistbaker.com/recipes/mediterranean-inspired/" rel="category tag">Mediterranean-Inspired</a>, <a href="https://minimalistbaker.com/recipes/nut-free/" rel="category tag">Nut-Free</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/crispy-portobello-mushroom-bacon/" rel="prev">Crispy Portobello Mushroom “Bacon”</a></div><div class="next"><a href="https://minimalistbaker.com/gado-gado-with-spicy-peanut-sauce/" rel="next">Gado Gado with Spicy Peanut Sauce (30 Minutes!)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/kale-falafel-hummus-wraps/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=43196&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="43196">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="e3e6a83c09"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="182"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-862438">
+<article id="article-comment-862438">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kayla" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/2e18957682ced462a98898247020beaf?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/2e18957682ced462a98898247020beaf?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kayla" width="96"><span itemprop="name">Kayla</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-862438">February 11, 2020 at 9:55 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thank you for this recipe! I just made (and devoured) this recipe tonight and loved it so much I felt inspired to review. This meal is satisfying and nutritious without lacking flavor. I am always on the hunt for new healthy meals, but when my partner hears “vegan” he is instantly skeptical. THIS meal, however, is the second from the Minimalist Baker that has gotten a “favorite” review from both of us. (The one-pot shakshuka is a meal I make regularly). Another PLUS is how quick it came together after a long day at work. Thank you and keep sharing your wonderful meals!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kayla" class="comment-reply-link" data-belowelement="comment-862438" data-commentid="862438" data-postid="43196" data-respondelement="respond" href="#comment-862438" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-862528">
+<article id="article-comment-862528">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-862528">February 12, 2020 at 10:25 am</a></time></p> </header>
+<div class="comment-content">
+<p>Aw, we’re so glad you both enjoyed it! Thanks for sharing, Kayla!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862528" data-commentid="862528" data-postid="43196" data-respondelement="respond" href="#comment-862528" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856152">
+<article id="article-comment-856152">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Bekah" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/5a75069bf576432c832a09976dd33ae1?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5a75069bf576432c832a09976dd33ae1?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Bekah" width="96"><span itemprop="name">Bekah</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-856152">January 17, 2020 at 8:41 am</a></time></p> </header>
+<div class="comment-content">
+<p>Can you bake or air fry instead of pan fry?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Bekah" class="comment-reply-link" data-belowelement="comment-856152" data-commentid="856152" data-postid="43196" data-respondelement="respond" href="#comment-856152" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-856197">
+<article id="article-comment-856197">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-856197">January 17, 2020 at 10:36 am</a></time></p> </header>
+<div class="comment-content">
+<p>That should work!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856197" data-commentid="856197" data-postid="43196" data-respondelement="respond" href="#comment-856197" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-828756">
+<article id="article-comment-828756">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kaitlyn M" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ab36ca024a23a3d5af8ef485a51de4ed?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ab36ca024a23a3d5af8ef485a51de4ed?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kaitlyn M" width="96"><span itemprop="name">Kaitlyn M</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-828756">September 18, 2019 at 6:40 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made the kale falafel and put it on a salad for my lunch and it was so good! I’m gluten free and dairy free, and I’ve struggled to find some good lunches that actually keep me full (and taste delicious) for my long afternoons. I just chopped up some veggies with some mixed greens and put 3-4 of the falafels on top and it kept me full and satisfied for the next few hours! Thank you for making such delicious recipes; I will continue to make this.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kaitlyn M" class="comment-reply-link" data-belowelement="comment-828756" data-commentid="828756" data-postid="43196" data-respondelement="respond" href="#comment-828756" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-828921">
+<article id="article-comment-828921">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-828921">September 19, 2019 at 8:11 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Kaitlyn. We are so glad you enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-828921" data-commentid="828921" data-postid="43196" data-respondelement="respond" href="#comment-828921" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-822483">
+<article id="article-comment-822483">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Diana Demco" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/fcbf327c3992af011252db75dcccc77d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/fcbf327c3992af011252db75dcccc77d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Diana Demco" width="96"><span itemprop="name">Diana Demco</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-822483">August 26, 2019 at 5:07 am</a></time></p> </header>
+<div class="comment-content">
+<p>Best falafel I had! I couldn’t believe how perfect it was, made so fast and not even with soaked chickpeas. I’ve done it several times and it is failproof. YUM!<br/>
+I substituted parsley for kale.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Diana Demco" class="comment-reply-link" data-belowelement="comment-822483" data-commentid="822483" data-postid="43196" data-respondelement="respond" href="#comment-822483" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-817836">
+<article id="article-comment-817836">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Tld" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4530bb9dd4ef3c1b71f644194c3d49db?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4530bb9dd4ef3c1b71f644194c3d49db?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Tld" width="96"><span itemprop="name">Tld</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817836">August 1, 2019 at 11:00 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Amazing! I’ve made twice in 2 weeks. I added an egg the 2nd time and it helped bind/fry a little better. I also top w sea salt flakes when they’re still hot. I made a side of Baba Ganoush and quick salad to go with them. Delish!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Tld" class="comment-reply-link" data-belowelement="comment-817836" data-commentid="817836" data-postid="43196" data-respondelement="respond" href="#comment-817836" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-817608">
+<article id="article-comment-817608">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jessica" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/95aa34a295f5e6b96a8e1cae108f5ae8?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/95aa34a295f5e6b96a8e1cae108f5ae8?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jessica" width="96"/><span itemprop="name">Jessica</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817608">July 31, 2019 at 9:07 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I really enjoyed this recipe! I substituted spinach for kale and added toasted pine nuts. If I make it again, I’m going to add bread crumbs and flour as my first batch was extra watery, I’m not sure if it was because of the spinach substitute or not. I’m not super comfortable with my particular food processor, but the recipe came out very nicely and it’s definitely going to be a make again in my household!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jessica" class="comment-reply-link" data-belowelement="comment-817608" data-commentid="817608" data-postid="43196" data-respondelement="respond" href="#comment-817608" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-817731">
+<article id="article-comment-817731">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817731">August 1, 2019 at 11:30 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Jessica, yes, the spinach is likely the difference as it has a higher water content than kale. If this happens again next time, you can also add additional oat flour to compensate. Hope that helps!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-817731" data-commentid="817731" data-postid="43196" data-respondelement="respond" href="#comment-817731" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-817555">
+<article id="article-comment-817555">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kelsey" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/6d0c5b4e76cc9375318b4a1d77adbea4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6d0c5b4e76cc9375318b4a1d77adbea4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kelsey" width="96"/><span itemprop="name">Kelsey</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817555">July 31, 2019 at 4:12 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Definitely a five for ease of prep and cooking! Can help to put mixture in fridge for falafels to hold shape, especially if omitting or using limited oat flour. Tasty flavor and also was able to successfully sub apple cider vinegar for lemon juice (used half as much) when I was out of lemons once!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kelsey" class="comment-reply-link" data-belowelement="comment-817555" data-commentid="817555" data-postid="43196" data-respondelement="respond" href="#comment-817555" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-2 wpr_havequestion_li" id="comment-841689">
+<article id="article-comment-841689">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jo" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9c30e4598244efb2b35b335a58d87f83?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c30e4598244efb2b35b335a58d87f83?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jo" width="96"/><span itemprop="name">Jo</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-841689">November 12, 2019 at 8:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Can I swap the oat flour with almond flour?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jo" class="comment-reply-link" data-belowelement="comment-841689" data-commentid="841689" data-postid="43196" data-respondelement="respond" href="#comment-841689" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-3" id="comment-841844">
+<article id="article-comment-841844">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-841844">November 13, 2019 at 10:20 am</a></time></p> </header>
+<div class="comment-content">
+<p>That should work!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-841844" data-commentid="841844" data-postid="43196" data-respondelement="respond" href="#comment-841844" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-3 wpr_madethis_li" id="comment-843644">
+<article id="article-comment-843644">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jo" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9c30e4598244efb2b35b335a58d87f83?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9c30e4598244efb2b35b335a58d87f83?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jo" width="96"/><span itemprop="name">Jo</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-843644">November 21, 2019 at 2:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I tried it with almond flour and spinach and it was delicious!  I did have to add more almond flour like you had mentioned in another comment to bind the falafel.  Thank you!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jo" class="comment-reply-link" data-belowelement="comment-843644" data-commentid="843644" data-postid="43196" data-respondelement="respond" href="#comment-843644" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-817488">
+<article id="article-comment-817488">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Anna Viehbeck" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/08ecadc88a27ed00f6d9d82c7003880b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/08ecadc88a27ed00f6d9d82c7003880b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Anna Viehbeck" width="96"/><span itemprop="name">Anna Viehbeck</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817488">July 31, 2019 at 11:47 am</a></time></p> </header>
+<div class="comment-content">
+<p>My first ever falafel attempt — and turned out absolutely amazing! I made two tweaks:<br/>
+1. Subbed tahini with almond butter;<br/>
+2. Subbed a can of chickpeas with 50/50 chickpeas/bean medley mixture. </p>
+<p>They were so firm and nicely held together while frying! And of course, very tasty. I served it with a quinoa salad. This is gonna be my staple from now on!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Anna Viehbeck" class="comment-reply-link" data-belowelement="comment-817488" data-commentid="817488" data-postid="43196" data-respondelement="respond" href="#comment-817488" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-817494">
+<article id="article-comment-817494">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817494">July 31, 2019 at 12:26 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Anna!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-817494" data-commentid="817494" data-postid="43196" data-respondelement="respond" href="#comment-817494" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-817246">
+<article id="article-comment-817246">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Diane" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7b0701134c62a7627620fa86daa91a8?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7b0701134c62a7627620fa86daa91a8?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Diane" width="96"/><span itemprop="name">Diane</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817246">July 30, 2019 at 9:14 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi thanks for this recipe. Could these be baked I wonder… thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Diane" class="comment-reply-link" data-belowelement="comment-817246" data-commentid="817246" data-postid="43196" data-respondelement="respond" href="#comment-817246" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-817247">
+<article id="article-comment-817247">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-817247">July 30, 2019 at 9:16 am</a></time></p> </header>
+<div class="comment-content">
+<p>I think so! I’d try 20-30 minutes at 375 F</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-817247" data-commentid="817247" data-postid="43196" data-respondelement="respond" href="#comment-817247" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-814747">
+<article id="article-comment-814747">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Taylor Atkinson" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ab61fa61272d7d0138504ce1b78c9f7d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ab61fa61272d7d0138504ce1b78c9f7d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Taylor Atkinson" width="96"/><span itemprop="name">Taylor Atkinson</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-814747">July 17, 2019 at 10:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Delish! I used the Gluten Free Flour Blend instead of oat flour and it was perfect ?? I skipped the wrap and served on a bed of arugula from my garden and accompanied with carrots, cucumbers, peas, hummus and baba ganoush</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Taylor Atkinson" class="comment-reply-link" data-belowelement="comment-814747" data-commentid="814747" data-postid="43196" data-respondelement="respond" href="#comment-814747" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-814416">
+<article id="article-comment-814416">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Megan" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cf2ff12f16ea5ee87d363976484753ff?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cf2ff12f16ea5ee87d363976484753ff?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Megan" width="96"/><span itemprop="name">Megan</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-814416">July 16, 2019 at 9:53 am</a></time></p> </header>
+<div class="comment-content">
+<p>I really enjoyed the falafels, the only thing I did different was add more oat flour to help with the stickiness and baked them. Oh, and added fennel seed. Next time will double the recipe and freeze some.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Megan" class="comment-reply-link" data-belowelement="comment-814416" data-commentid="814416" data-postid="43196" data-respondelement="respond" href="#comment-814416" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-814159">
+<article id="article-comment-814159">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Claire Shriver" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d87be6ca9c8434c8e509c76f2d4cc76b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d87be6ca9c8434c8e509c76f2d4cc76b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Claire Shriver" width="96"/><span itemprop="name">Claire Shriver</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-814159">July 14, 2019 at 5:04 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Just made this – pretty easy, and really tasty! Only change I’d make next time is figuring out a way to better cook them through. The top is crispy but the inside was still a bit uncooked. Full of flavor and really nice addition to dinner!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Claire Shriver" class="comment-reply-link" data-belowelement="comment-814159" data-commentid="814159" data-postid="43196" data-respondelement="respond" href="#comment-814159" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-814257">
+<article id="article-comment-814257">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-814257">July 15, 2019 at 7:31 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Claire, so glad you enjoyed these! One idea is to reduce the heat slightly and cook longer on each side. Alternatively, you could start by frying and then transfer to the oven to finish. Hope that helps!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-814257" data-commentid="814257" data-postid="43196" data-respondelement="respond" href="#comment-814257" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-813165">
+<article id="article-comment-813165">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Annette" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/90f17b6911df2b12cc4aacbf4381d29f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/90f17b6911df2b12cc4aacbf4381d29f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Annette" width="96"/><span itemprop="name">Annette</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-813165">July 10, 2019 at 6:36 am</a></time></p> </header>
+<div class="comment-content">
+<p>I love falafels but I’m sure they aren’t very healthy when you order them in a restaurant.  I made this recipe and put them on a salad.  It was a very quick and easy recipe which I like.  Will definitely be making again.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Annette" class="comment-reply-link" data-belowelement="comment-813165" data-commentid="813165" data-postid="43196" data-respondelement="respond" href="#comment-813165" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-810476">
+<article id="article-comment-810476">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for David" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d1226950a60e4c39e659fbbe61c73abb?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d1226950a60e4c39e659fbbe61c73abb?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for David" width="96"/><span itemprop="name">David</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-810476">June 25, 2019 at 9:39 am</a></time></p> </header>
+<div class="comment-content">
+<p>For leftovers, do you think it is better to cook, save, and reheat the falafel, or to save the mixture in the fridge (or in pre-formed patties in the freezer) and cook on demand?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to David" class="comment-reply-link" data-belowelement="comment-810476" data-commentid="810476" data-postid="43196" data-respondelement="respond" href="#comment-810476" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-810596">
+<article id="article-comment-810596">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-810596">June 26, 2019 at 2:23 am</a></time></p> </header>
+<div class="comment-content">
+<p>I personally go ahead and cook them, then freeze. But if leaving them raw, form into patties, then freeze, then cook from there!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-810596" data-commentid="810596" data-postid="43196" data-respondelement="respond" href="#comment-810596" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-810370">
+<article id="article-comment-810370">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Genny Jackson" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/1b29b9c85169f1d6739deb6f575e2e5f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1b29b9c85169f1d6739deb6f575e2e5f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Genny Jackson" width="96"/><span itemprop="name">Genny Jackson</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-810370">June 24, 2019 at 2:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Dana,<br/>
+Oh my gosh, I’m just about to make these so obviously I’m coming on here late for answers! I absolutely hate tahini, can I sub Almond Butter? I’m guessing yes but I wanted to know if you thought that would be good. </p>
+<p>Thanks,<br/>
+Genny</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Genny Jackson" class="comment-reply-link" data-belowelement="comment-810370" data-commentid="810370" data-postid="43196" data-respondelement="respond" href="#comment-810370" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-810607">
+<article id="article-comment-810607">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-810607">June 26, 2019 at 2:30 am</a></time></p> </header>
+<div class="comment-content">
+<p>I’d suggest cashew butter instead!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-810607" data-commentid="810607" data-postid="43196" data-respondelement="respond" href="#comment-810607" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-3" id="comment-810987">
+<article id="article-comment-810987">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Genny" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/1b29b9c85169f1d6739deb6f575e2e5f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1b29b9c85169f1d6739deb6f575e2e5f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Genny" width="96"/><span itemprop="name">Genny</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-810987">June 28, 2019 at 12:46 pm</a></time></p> </header>
+<div class="comment-content">
+<p>The almond butter worked ok! Definitely really liked these for a healthy falafel, but I added too much garlic ?. Still delicious!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Genny" class="comment-reply-link" data-belowelement="comment-810987" data-commentid="810987" data-postid="43196" data-respondelement="respond" href="#comment-810987" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-809642">
+<article id="article-comment-809642">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Maude Bessette" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/13a7d8842d378b7690c1dc2a2a97af06?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/13a7d8842d378b7690c1dc2a2a97af06?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Maude Bessette" width="96"/><span itemprop="name">Maude Bessette</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809642">June 22, 2019 at 6:48 am</a></time></p> </header>
+<div class="comment-content">
+<p>This falafel recipe looks amazing ! Is it possible to swap the kale for some other green veggies like brocoli ?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Maude Bessette" class="comment-reply-link" data-belowelement="comment-809642" data-commentid="809642" data-postid="43196" data-respondelement="respond" href="#comment-809642" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-809739">
+<article id="article-comment-809739">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809739">June 22, 2019 at 2:29 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I haven’t tried it, but I would recommend another green vs broccoli. Let us know if you give it a try!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-809739" data-commentid="809739" data-postid="43196" data-respondelement="respond" href="#comment-809739" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li wpr_havequestion_li" id="comment-809399">
+<article id="article-comment-809399">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Maria" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/6f03c9f06fc128aa487a46e72e836602?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/6f03c9f06fc128aa487a46e72e836602?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Maria" width="96"/><span itemprop="name">Maria</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809399">June 20, 2019 at 8:21 am</a></time></p> </header>
+<div class="comment-content">
+<p>I made these last night and they were amazing! So easy too! I used non-stick avocado oil spray to keep my oil intake low. Next time I’ll try using my Air Fryer. Have you tried making falafel that way? I’m curious how it would turn out.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Maria" class="comment-reply-link" data-belowelement="comment-809399" data-commentid="809399" data-postid="43196" data-respondelement="respond" href="#comment-809399" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-809481">
+<article id="article-comment-809481">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809481">June 21, 2019 at 9:04 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Maria, we haven’t tried that. But if you give it a try, we would love to hear how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-809481" data-commentid="809481" data-postid="43196" data-respondelement="respond" href="#comment-809481" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-809334">
+<article id="article-comment-809334">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Isabel" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d1e50427eaa534ae121758231021387b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d1e50427eaa534ae121758231021387b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Isabel" width="96"/><span itemprop="name">Isabel</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809334">June 19, 2019 at 11:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made these and they tasted great but they didn’t hold together well for me during cooking. I cooked them in corn oil in a skillet. Could it be that the skillet was too wide, so the oil wasn’t deep enough? How deep should the oil be?</p>
+<p>My kids actually liked them so I’ll definitely make them again but I might either bake it like a casserole or stirfry the mixture because we all loved the crispy bits. </p>
+<p>I served them with a dressing I made out of tahini, ACV, and soy sauce, that was to die for. Thanks for another awesome recipe!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Isabel" class="comment-reply-link" data-belowelement="comment-809334" data-commentid="809334" data-postid="43196" data-respondelement="respond" href="#comment-809334" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-809553">
+<article id="article-comment-809553">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-809553">June 21, 2019 at 3:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>They don’t need much oil for cooking. I wonder if they needed to just be stirred / blended a little better? You can try baking them! Use <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> as a reference.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-809553" data-commentid="809553" data-postid="43196" data-respondelement="respond" href="#comment-809553" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-808933">
+<article id="article-comment-808933">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Chris" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/e6ded68319c7929f8edc3c1277eff75f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e6ded68319c7929f8edc3c1277eff75f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Chris" width="96"/><span itemprop="name">Chris</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808933">June 17, 2019 at 7:02 am</a></time></p> </header>
+<div class="comment-content">
+<p>These came out excellent! Made them exactly as the recipe described. I may have pulsed the ingredients a bit much, so I had to add a tiny bit more oat flour to make them more manageable. 5 stars!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Chris" class="comment-reply-link" data-belowelement="comment-808933" data-commentid="808933" data-postid="43196" data-respondelement="respond" href="#comment-808933" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-808653">
+<article id="article-comment-808653">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for tracy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/502ecc645139379430d772336dde5d19?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/502ecc645139379430d772336dde5d19?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for tracy" width="96"/><span itemprop="name">tracy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808653">June 14, 2019 at 12:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Great recipe, I did add 1/2 tsp more cumin, pinch more salt and additional tablespoon of lemon juice for my personal taste. I had leftovers for a couple of days and reheated in the air fryer and the texture was great. Leftovers sometimes are just disappointing after the initial recipe is so good but these in the air fryer were really tasty, nice texture on the outside and not dry on the inside.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to tracy" class="comment-reply-link" data-belowelement="comment-808653" data-commentid="808653" data-postid="43196" data-respondelement="respond" href="#comment-808653" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808667">
+<article id="article-comment-808667">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808667">June 14, 2019 at 3:09 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808667" data-commentid="808667" data-postid="43196" data-respondelement="respond" href="#comment-808667" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-808533">
+<article id="article-comment-808533">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Pamela" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/48ad13e749fc29b927a28dc1bebedbc5?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/48ad13e749fc29b927a28dc1bebedbc5?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Pamela" width="96"/><span itemprop="name">Pamela</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808533">June 13, 2019 at 6:39 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Just made these for dinner! I would prefer a little less lemon juice and the kale flavor was a little strong for my kids, but we did enjoy them. I made gluten-free flour tortillas to wrap them in and we used hummus and lettuce. Great summer meal!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Pamela" class="comment-reply-link" data-belowelement="comment-808533" data-commentid="808533" data-postid="43196" data-respondelement="respond" href="#comment-808533" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808763">
+<article id="article-comment-808763">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808763">June 15, 2019 at 8:17 am</a></time></p> </header>
+<div class="comment-content">
+<p>Lovely – thanks for sharing your experience, Pamela!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808763" data-commentid="808763" data-postid="43196" data-respondelement="respond" href="#comment-808763" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808451">
+<article id="article-comment-808451">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ana Ulchak" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/481d6a76fc36d655154857e39ab96f43?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/481d6a76fc36d655154857e39ab96f43?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ana Ulchak" width="96"/><span itemprop="name">Ana Ulchak</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808451">June 13, 2019 at 9:29 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hello! This looks delicious and two quick substitution questions. Can I use Almond Flour instead of Oat Flour, I have to be grain free, and could I use spinach or swiss chard in place of kale? </p>
+<p>Thanks!!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ana Ulchak" class="comment-reply-link" data-belowelement="comment-808451" data-commentid="808451" data-postid="43196" data-respondelement="respond" href="#comment-808451" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808764">
+<article id="article-comment-808764">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808764">June 15, 2019 at 8:17 am</a></time></p> </header>
+<div class="comment-content">
+<p>I think swiss chard or kale would work. As for almond flour, I haven’t tried it and am not sure, but I think it would! Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808764" data-commentid="808764" data-postid="43196" data-respondelement="respond" href="#comment-808764" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt depth-2" id="comment-808960">
+<article id="article-comment-808960">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for annette" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/5212af51f3cf5b998d6997abbd258d8f?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5212af51f3cf5b998d6997abbd258d8f?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for annette" width="96"/><span itemprop="name">annette</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808960">June 17, 2019 at 9:09 am</a></time></p> </header>
+<div class="comment-content">
+<p>what about using gram( chickpea) flour? thats what I use in my homemade falafel recipe</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to annette" class="comment-reply-link" data-belowelement="comment-808960" data-commentid="808960" data-postid="43196" data-respondelement="respond" href="#comment-808960" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-808443">
+<article id="article-comment-808443">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sarah Cook" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d9b2b4302059b0b9916cbdb86d10f67b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d9b2b4302059b0b9916cbdb86d10f67b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sarah Cook" width="96"/><span itemprop="name">Sarah Cook</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808443">June 13, 2019 at 7:49 am</a></time></p> </header>
+<div class="comment-content">
+<p>Made 2 batches of these last night. Perfection! I still added fresh parsley in with the kale. A big hit with hummus for my 1 and 3 year old, too. Thanks for another 5 star recipe! ⭐️⭐️⭐️⭐️⭐️</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sarah Cook" class="comment-reply-link" data-belowelement="comment-808443" data-commentid="808443" data-postid="43196" data-respondelement="respond" href="#comment-808443" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-808765">
+<article id="article-comment-808765">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808765">June 15, 2019 at 8:17 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks, Sarah!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808765" data-commentid="808765" data-postid="43196" data-respondelement="respond" href="#comment-808765" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-808396">
+<article id="article-comment-808396">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Cynthia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/23921171296cc536e000740eb0d08a34?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/23921171296cc536e000740eb0d08a34?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Cynthia" width="96"/><span itemprop="name">Cynthia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808396">June 12, 2019 at 9:22 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Tried these tonight and really loved the flavor! </p>
+<p>I was able to form the balls with my hands, but had a bit of a binding problem during cooking. I put in a 1/4 cup flour (almond instead of oat) and then added 2 more teaspoons (though I reread the recipe and saw it said tablespoons. Oops!). I’m wondering if I needed to add a bit more flour or if it was more likely cook time (they had browned on the outside…about 3 minutes per side). I haven’t eaten falafel in a while and can’t remember how how moist/structured they are supposed to be. </p>
+<p>If you have any thoughts/feedback I appreciate it! :) Also, thanks for all your great recipes!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Cynthia" class="comment-reply-link" data-belowelement="comment-808396" data-commentid="808396" data-postid="43196" data-respondelement="respond" href="#comment-808396" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-808766">
+<article id="article-comment-808766">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808766">June 15, 2019 at 8:18 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yeah, I’d say you maybe needed to add a bit more flour! Otherwise, sounds like they turned out well :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808766" data-commentid="808766" data-postid="43196" data-respondelement="respond" href="#comment-808766" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3 wpr_madethis_li" id="comment-808890">
+<article id="article-comment-808890">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Cynthia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/23921171296cc536e000740eb0d08a34?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/23921171296cc536e000740eb0d08a34?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Cynthia" width="96"/><span itemprop="name">Cynthia</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808890">June 16, 2019 at 10:53 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thank you! Yes, they were delicious (both the day of and as leftovers)! :)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Cynthia" class="comment-reply-link" data-belowelement="comment-808890" data-commentid="808890" data-postid="43196" data-respondelement="respond" href="#comment-808890" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-808302">
+<article id="article-comment-808302">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Janice" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/61847ad05cd0ce0497d69473b04938ff?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/61847ad05cd0ce0497d69473b04938ff?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Janice" width="96"/><span itemprop="name">Janice</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808302">June 12, 2019 at 4:58 am</a></time></p> </header>
+<div class="comment-content">
+<p>Could I bake these instead of oil fry?  I am trying to cook no oil if possible? Thanks</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Janice" class="comment-reply-link" data-belowelement="comment-808302" data-commentid="808302" data-postid="43196" data-respondelement="respond" href="#comment-808302" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808767">
+<article id="article-comment-808767">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808767">June 15, 2019 at 8:21 am</a></time></p> </header>
+<div class="comment-content">
+<p>I think so yes! Use this recipe as a guide :D <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="nofollow ugc">https://minimalistbaker.com/baked-quinoa-black-bean-falafel/</a></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808767" data-commentid="808767" data-postid="43196" data-respondelement="respond" href="#comment-808767" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808270">
+<article id="article-comment-808270">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Celesta" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9bc131cf33d87d4ca06d26070d55b542?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9bc131cf33d87d4ca06d26070d55b542?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Celesta" width="96"/><span itemprop="name">Celesta</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808270">June 11, 2019 at 8:31 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi, these falafel sound delish.  I am looking for heatwave friendly meals and having these in the freezer would be great.  Would you freeze before or after cooking?  Thanks so much, celesta</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Celesta" class="comment-reply-link" data-belowelement="comment-808270" data-commentid="808270" data-postid="43196" data-respondelement="respond" href="#comment-808270" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808768">
+<article id="article-comment-808768">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808768">June 15, 2019 at 8:22 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yes! They are great to freeze after baking OR before! Whichever you prefer. I usually cook THEN freeze, but they work either way.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808768" data-commentid="808768" data-postid="43196" data-respondelement="respond" href="#comment-808768" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-808255">
+<article id="article-comment-808255">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Alison" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a0c5da069cb85e488ea9d4dc0b76a96d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a0c5da069cb85e488ea9d4dc0b76a96d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Alison" width="96"/><span itemprop="name">Alison</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808255">June 11, 2019 at 4:49 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Falafel can be tricky to conquer. More than I’d like to admit, I’ve made recipes before that have failed, resulting in a crumbly sad mess. </p>
+<p>But this recipe changed EVERYTHING!</p>
+<p>The falafel were perfectly cooked throughout and tasted better than my favorite food cart. The addition of kale really elevated the recipe. Bonus, it’s healthier by including more greens.  </p>
+<p>I made 10 balls at roughly 50 grams each, fried in 2 tablespoons of olive oil for 3 minutes on each side. Served on pita with fresh diced tomato, spicy hummus, and a super green mix. I’m saving this one!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Alison" class="comment-reply-link" data-belowelement="comment-808255" data-commentid="808255" data-postid="43196" data-respondelement="respond" href="#comment-808255" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808769">
+<article id="article-comment-808769">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808769">June 15, 2019 at 8:22 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! Thanks, Alison!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808769" data-commentid="808769" data-postid="43196" data-respondelement="respond" href="#comment-808769" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808253">
+<article id="article-comment-808253">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Isabelle P." class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/976f2df6d10f3bb9b27698531cc9f436?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/976f2df6d10f3bb9b27698531cc9f436?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Isabelle P." width="96"/><span itemprop="name">Isabelle P.</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808253">June 11, 2019 at 4:42 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hello Dana, could I bake these in the oven instead of on the stove? I’m scared that they will fall apart when time to flip them (this always happens to me). Thanks</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Isabelle P." class="comment-reply-link" data-belowelement="comment-808253" data-commentid="808253" data-postid="43196" data-respondelement="respond" href="#comment-808253" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-2" id="comment-808254">
+<article id="article-comment-808254">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Isabelle P." class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/976f2df6d10f3bb9b27698531cc9f436?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/976f2df6d10f3bb9b27698531cc9f436?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Isabelle P." width="96"/><span itemprop="name">Isabelle P.</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808254">June 11, 2019 at 4:44 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Oups, just saw your answer!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Isabelle P." class="comment-reply-link" data-belowelement="comment-808254" data-commentid="808254" data-postid="43196" data-respondelement="respond" href="#comment-808254" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1" id="comment-808229">
+<article id="article-comment-808229">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kay" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9100ad2a46589a8f596fa7e972a490f3?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9100ad2a46589a8f596fa7e972a490f3?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kay" width="96"/><span itemprop="name">Kay</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808229">June 11, 2019 at 3:11 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Can’t wait to try this one. Great added all the kale to falafel. I already know it’s a winner! Thanks for posting :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kay" class="comment-reply-link" data-belowelement="comment-808229" data-commentid="808229" data-postid="43196" data-respondelement="respond" href="#comment-808229" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808227">
+<article id="article-comment-808227">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Veronika" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/39b8136b7cf6dbaa89fd5e5c57dc647a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/39b8136b7cf6dbaa89fd5e5c57dc647a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Veronika" width="96"/><span itemprop="name">Veronika</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808227">June 11, 2019 at 2:57 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Can I make the falafels in oven??</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Veronika" class="comment-reply-link" data-belowelement="comment-808227" data-commentid="808227" data-postid="43196" data-respondelement="respond" href="#comment-808227" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-808237">
+<article id="article-comment-808237">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808237">June 11, 2019 at 4:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Maybe try <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> for inspiration!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808237" data-commentid="808237" data-postid="43196" data-respondelement="respond" href="#comment-808237" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-808213">
+<article id="article-comment-808213">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Andrea Montpetit" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/fe9f486300bf066668f310f307be8363?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/fe9f486300bf066668f310f307be8363?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Andrea Montpetit" width="96"/><span itemprop="name">Andrea Montpetit</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808213">June 11, 2019 at 12:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This looks amazing!<br/>
+If you were going to bake these instead of pan fry… how long would you bake them and at what temperature?<br/>
+Thanks Dana :)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Andrea Montpetit" class="comment-reply-link" data-belowelement="comment-808213" data-commentid="808213" data-postid="43196" data-respondelement="respond" href="#comment-808213" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-808239">
+<article id="article-comment-808239">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808239">June 11, 2019 at 4:34 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Use <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> for inspiration!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808239" data-commentid="808239" data-postid="43196" data-respondelement="respond" href="#comment-808239" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808208">
+<article id="article-comment-808208">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Joyce Jackson" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/74db6a6e24f16fc318238f521c1e2ecd?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/74db6a6e24f16fc318238f521c1e2ecd?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Joyce Jackson" width="96"/><span itemprop="name">Joyce Jackson</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808208">June 11, 2019 at 11:30 am</a></time></p> </header>
+<div class="comment-content">
+<p>A couple of questions: Can I substitute chickpea flour for oat flour? Can you offer guidance for baking the falafel instead of sautéing? Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Joyce Jackson" class="comment-reply-link" data-belowelement="comment-808208" data-commentid="808208" data-postid="43196" data-respondelement="respond" href="#comment-808208" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-808242">
+<article id="article-comment-808242">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808242">June 11, 2019 at 4:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Reference <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> for baking inspiration! And yes, chickpea flour should work – let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808242" data-commentid="808242" data-postid="43196" data-respondelement="respond" href="#comment-808242" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1" id="comment-808207">
+<article id="article-comment-808207">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Christian" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/2bc86b3964aeaa3657a5210633c04ee2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/2bc86b3964aeaa3657a5210633c04ee2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Christian" width="96"/><span itemprop="name">Christian</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808207">June 11, 2019 at 11:28 am</a></time></p> </header>
+<div class="comment-content">
+<p>Looks amazing!!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Christian" class="comment-reply-link" data-belowelement="comment-808207" data-commentid="808207" data-postid="43196" data-respondelement="respond" href="#comment-808207" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-808205">
+<article id="article-comment-808205">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Channah Rachel Herrmann" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/07f583a604496699954a4c182500267d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/07f583a604496699954a4c182500267d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Channah Rachel Herrmann" width="96"/><span itemprop="name">Channah Rachel Herrmann</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808205">June 11, 2019 at 11:25 am</a></time></p> </header>
+<div class="comment-content">
+<p>Can I bake the falafel instead of frying?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Channah Rachel Herrmann" class="comment-reply-link" data-belowelement="comment-808205" data-commentid="808205" data-postid="43196" data-respondelement="respond" href="#comment-808205" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808244">
+<article id="article-comment-808244">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808244">June 11, 2019 at 4:36 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Reference <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> for inspiration!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808244" data-commentid="808244" data-postid="43196" data-respondelement="respond" href="#comment-808244" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-808204">
+<article id="article-comment-808204">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Laura" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ebaf407eae48efce58b1fc12fd89e744?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ebaf407eae48efce58b1fc12fd89e744?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Laura" width="96"/><span itemprop="name">Laura</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808204">June 11, 2019 at 11:23 am</a></time></p> </header>
+<div class="comment-content">
+<p>Could these be baked instead of fried? I am trying to avoid oil. Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Laura" class="comment-reply-link" data-belowelement="comment-808204" data-commentid="808204" data-postid="43196" data-respondelement="respond" href="#comment-808204" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-808245">
+<article id="article-comment-808245">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/kale-falafel-hummus-wraps/?t=1582417297#comment-808245">June 11, 2019 at 4:36 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We haven’t tried it, but I think so. Reference <a href="https://minimalistbaker.com/baked-quinoa-black-bean-falafel/" rel="noopener noreferrer" target="_blank">this recipe</a> for inspiration!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-808245" data-commentid="808245" data-postid="43196" data-respondelement="respond" href="#comment-808245" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"df01cd38ba","api_nonce":"ea492f35b2","translations":[]};
+var wprmpuc_recipe_43293 = {"ingredients":[{"amount":"4","unit":"cups","name":"loosely packed kale, stems removed and torn","notes":"","converted":{"2":{"amount":"~268","unit":"g"}},"id":26595},{"amount":"4","unit":"large","name":"cloves garlic, skins removed ","notes":"(4 large cloves yield ~2 Tbsp or 12 g)","converted":{"2":{"amount":"4","unit":"large"}},"id":27489},{"amount":"1","unit":"15-ounce","name":"can chickpeas, rinsed and drained ","notes":"(~1 \u00bd cups as recipe is written)","converted":{"2":{"amount":"1","unit":"425-g"}},"id":13756},{"amount":"1 \u00bd","unit":"Tbsp","name":"tahini","notes":"","converted":{"2":{"amount":"22","unit":"g"}},"id":13519},{"amount":"3","unit":"Tbsp","name":"fresh lemon juice","notes":"","converted":{"2":{"amount":"45","unit":"ml"}},"id":14753},{"amount":"1\/2","unit":"tsp","name":"ground cumin","notes":"","converted":{"2":{"amount":"1\/2","unit":"tsp"}},"id":13707},{"amount":"1\/2","unit":"tsp","name":"sea salt","notes":"","converted":{"2":{"amount":"1\/2","unit":"tsp"}},"id":13388},{"amount":"1\/4-1\/2","unit":"cup","name":"oat flour ","notes":"(ground from rolled oats \/\/ or all purpose if not gluten free)","converted":{"2":{"amount":"22-45","unit":"g"}},"id":19483},{"amount":"2-4","unit":"Tbsp","name":"avocado or olive oil ","notes":"(for cooking)","converted":{"2":{"amount":"30-60","unit":"ml"}},"id":21303},{"amount":"","unit":"","name":"Hummus","notes":"(or store-bought \/\/ for topping)","converted":{"2":{"amount":"","unit":""}},"id":13636},{"amount":"4","unit":"medium","name":"pitas ","notes":"(white or wheat \/\/ sub rainbow chard for gluten-free option)*","converted":{"2":{"amount":"4","unit":"medium"}},"id":26597},{"amount":"","unit":"","name":"Greens of choice ","notes":"(such as fresh parsley or lettuce)","converted":{"2":{"amount":"","unit":""}},"id":15729}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":419,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

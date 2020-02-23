@@ -1,0 +1,1174 @@
+<body class="post-template-default single single-post postid-48037 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-48037 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-dairy-free category-fall category-gluten-free category-grain-free category-holiday-recipes category-one-bowl category-recipes category-soy-free category-sweet-things category-vegetarian category-winter tag-almond-flour tag-almond-milk tag-arrowroot tag-baking-powder tag-cane-sugar tag-eggs tag-potato-starch tag-powdered-sugar tag-sea-salt tag-vanilla tag-vegan-butter entry"><header class="entry-header"><h1 class="entry-title">Grain-Free Cut Out Sugar Cookies (1 Bowl!)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Platter of Grain-Free Christmas Cookies decorated with matcha frosting" class="tasty-pins-hidden-image" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2019/12/MB-GrainFreeSugarCookies-Pinterest.jpg" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" src="https://minimalistbaker.com/wp-content/uploads/2019/12/MB-GrainFreeSugarCookies-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Spreading matcha frosting onto a Grain-Free Sugar Cookie" class="wp-image-48021" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-14-680x1020.jpg 680w"/></figure>
+<p>As a child, the anticipation of the holidays meant one thing: My Aunt Patti’s famous sugar cookies. Fluffy, sweet, frosted, perfection.</p>
+<p>We would often bake and decorate them together, having plenty of samples along the way. And over the course of the holiday weekend, I would tuck away what felt like dozens of cookies.</p>
+<p>I know; not great. But since then, my appetite has matured. I can actually feel a sugar rush coming on and recognize it’s unpleasant, which allows me to enjoy desserts in moderation. A vast improvement for this baker.</p>
+<p>Even now as an adult, it doesn’t quite feel like the holidays have arrived unless I bite into a perfectly frosted, fluffy sugar cookie.</p>
+<p>Seeing as I’ve already perfected the <a aria-label="vegan, gluten-free sugar cookie (opens in a new tab)" href="https://minimalistbaker.com/fluffy-1-bowl-sugar-cookies-vegan-gf/" rel="noreferrer noopener" target="_blank">vegan, gluten-free sugar cookie</a>, I wanted to experiment with a grain-free (gluten-free) version to see if it was possible! Spoiler alert: <em>It totally worked</em>.</p>
+<p>Let us show you how easy it is to make these<strong> fluffy, gluten- and grain-free 1-bowl</strong> <strong>sugar cookies</strong>!</p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/4xdfMf3uedg" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Ingredients for making our Grain-Free Sugar Cookie Recipe" class="wp-image-48026" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-680x1020.jpg 680w"/></figure>
+<span id="more-48037"></span>
+<h3>How to Make Sugar Cookies</h3>
+<p>Traditional sugar cookies are typically made by combining butter, sugar, eggs, and flour into a moldable dough, then baking.</p>
+<p>Our version uses a similar method but with slightly different ingredients. We combine dairy-free butter with organic cane sugar, vanilla, baking powder, and one room-temperature egg. </p>
+<p>For the flour, we went with: </p>
+<ul><li>almond flour for a crumbly, light texture</li><li>arrowroot starch for a bit of structure</li><li>potato starch for light, pillowy fluffiness</li></ul>
+<figure class="wp-block-image"><img alt="Wooden spoon in a bowl of Grain-Free Sugar Cookie Dough" class="wp-image-48011" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-752x1024.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-752x1024.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-752x1024.jpg 752w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-220x300.jpg 220w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-768x1045.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-600x817.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4-680x926.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-4.jpg 1456w"/></figure>
+<p>This dough does best chilled. Once properly chilled, it can either be scooped out, rolled into balls, and pressed into discs, or rolled out to 1/4-inch thickness and cut out into shapes of choice.</p>
+<p>Either way you go, these cookies are delicious. But we happen to prefer the roll-and-cut-out method for a festive effect.</p>
+<figure class="wp-block-image"><img alt="Using a rolling pin to roll out the dough for making our Grain-Free Sugar Cookie recipe" class="wp-image-48013" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6-211x300.jpg 211w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6-768x1090.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6-721x1024.jpg 721w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6-600x852.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-6-680x965.jpg 680w"/></figure>
+<p>Once cut out, it’s a <strong>quick 8-10 minute bake</strong> in a 350 degree F (176 C) oven on a lined baking sheet. </p>
+<p>You’re looking for a slightly puffed-up cookie with no visible brown edges (which can make the cookies dry). Once done baking, they’ll continue to firm up slightly on the baking sheet. This is one of the secrets to fluffy, tender, perfect sugar cookies every time.</p>
+<figure class="wp-block-image"><img alt="Using a Christmas tree cookie cutter to make Grain-Free Sugar Cookies" class="wp-image-48017" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10-211x300.jpg 211w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10-768x1090.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10-721x1024.jpg 721w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10-600x852.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-10-680x965.jpg 680w"/></figure>
+<p>We include a frosting option below, which is basically a slightly thinned version of our <a aria-label="vegan buttercream frosting (opens in a new tab)" href="https://minimalistbaker.com/how-to-make-dairy-free-buttercream-frosting/" rel="noreferrer noopener" target="_blank">vegan buttercream frosting</a>.</p>
+<p>Or use our <a aria-label="Matcha Buttercream (opens in a new tab)" href="https://minimalistbaker.com/vegan-matcha-buttercream-frosting-1-bowl/" rel="noreferrer noopener" target="_blank">Matcha Buttercream</a> (pictured below)!</p>
+<figure class="wp-block-image"><img alt="Bowl of matcha frosting beside Grain-Free Sugar Cookies for a natural Christmas cookie frosting idea" class="wp-image-48020" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-13-680x1020.jpg 680w"/></figure>
+<p>We hope you LOVE these sugar cookies! They’re:</p>
+<ul><li>Fluffy</li><li>Tender</li><li>Perfectly sweet</li><li>Easy to make</li><li>Grain- and gluten-free</li><li>&amp; Absolutely delicious</li></ul>
+<p>These would make the perfect treat to share with loved ones this holiday season and beyond. We also think they’d be ideal for baby showers, wedding showers, birthday parties, and more!</p>
+<h3>More Holiday Cookie Recipes</h3>
+<ul><li><a aria-label="Vegan Gluten-Free Sugar Cookies (opens in a new tab)" href="https://minimalistbaker.com/fluffy-1-bowl-sugar-cookies-vegan-gf/" rel="noreferrer noopener" target="_blank">Vegan Gluten-Free Sugar Cookies</a></li><li><a aria-label="Vegan Gluten-Free Peanut Butter Cup Cookies (opens in a new tab)" href="https://minimalistbaker.com/peanut-butter-cup-cookies-vgf/" rel="noreferrer noopener" target="_blank">Vegan Gluten-Free Peanut Butter Cup Cookies</a></li><li><a aria-label="1-Bowl Ginger Cookies (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-ginger-cookies/" rel="noreferrer noopener" target="_blank">1-Bowl Ginger Cookies</a></li><li><a aria-label="1-Bowl Vegan Snickerdoodle Cookies (GF) (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-snickerdoodle-cookies-vegan-gf/" rel="noreferrer noopener" target="_blank">1-Bowl Vegan Snickerdoodle Cookies (GF)</a></li><li><a aria-label="1-Bowl Vegan Coconut Snowball Cookies (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-vegan-coconut-snowball-cookies/" rel="noreferrer noopener" target="_blank">1-Bowl Vegan Coconut Snowball Cookies</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a aria-label=" (opens in a new tab)" href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Platter of Grain-Free Christmas Cookies with matcha frosting and red sprinkles" class="wp-image-48023" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16-205x300.jpg 205w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16-768x1122.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16-701x1024.jpg 701w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16-600x877.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-16-680x994.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="48123" id="wprm-recipe-container-48123"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/48123" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Cutting board with Grain-Free Sugar Cookie Dough cut into trees and a candy cane" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-400x400.jpg" data-pin-description="PERFECT Grain-Free Cut Out Sugar Cookies! 1 bowl, FLUFFY, perfectly sweet! #minimalistbaker #sugarcookies #cookies #grainfree #glutenfree #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/10/Grain-Free-Sugar-Cookies-SQUARE.jpg 1430w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">5</span> from <span class="wprm-recipe-rating-count">10</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Grain-Free Cut Out Sugar Cookies (1 Bowl!)</h2>
+<div class="wprm-recipe-summary">
+<p>Fluffy, gluten-free and grain-free sugar cookies! Perfectly sweet, easy to make, and great for cut out or circle cookies! Just 1 bowl required!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-hours wprm-recipe-prep_time wprm-recipe-prep_time-hours">1</span> <span class="wprm-recipe-details-unit wprm-recipe-details-unit-hours wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-hours">hour</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">30</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-hours wprm-recipe-total_time wprm-recipe-total_time-hours">1</span> <span class="wprm-recipe-details-unit wprm-recipe-details-unit-hours wprm-recipe-total_time-unit wprm-recipe-total_timeunit-hours">hour</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">30</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">48</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(Cookies)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Dessert				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Dairy-Free, Gluten-Free, Grain-Free				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					1 month				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					4-5 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="48123" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="48123" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">COOKIES</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">softened dairy-free butter* </span>
+<span class="wprm-recipe-ingredient-notes">(1/2 cup = 1 stick or 113 g // we prefer Earth Balance or Miyoko's // sub dairy butter if not dairy-free)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">small</span>
+<span class="wprm-recipe-ingredient-name">chicken egg*, room temperature</span>
+<span class="wprm-recipe-ingredient-notes">(see notes for vegan option)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2/3</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">organic cane sugar*</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">pure vanilla extract</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">baking powder</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">sea salt</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2 ⅓</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QhD58smT8fdU70L-DKPftxYAAAFjspI1KwEAAAFKAemBX8U/https://www.amazon.com/dp/B00CLLV2D0/ref=as_at?creativeASIN=B00CLLV2D0&amp;linkCode=w61&amp;imprToken=G.19ttV8fHXKPz.z25ooUQ&amp;slotNum=0&amp;tag=minimalistbaker-20&amp;th=1" rel="nofollow" target="_blank">almond flour </a></span>
+<span class="wprm-recipe-ingredient-notes">(not almond meal — the texture and flavor is different), plus more for rolling</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3/4</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QpkIaeC7R-BRv82WSuAmLPYAAAFjspKbvwEAAAFKAbGyhec/https://www.amazon.com/dp/B0013JOKBC/ref=as_at?creativeASIN=B0013JOKBC&amp;linkCode=w61&amp;imprToken=q31urLwNf0nMVfeECK8fjA&amp;slotNum=18&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">potato starch </a></span>
+<span class="wprm-recipe-ingredient-notes">(not potato flour)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3/4</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">arrowroot starch, plus more for rolling</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">FROSTING <em>optional</em></h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">softened dairy-free butter* </span>
+<span class="wprm-recipe-ingredient-notes">(1/2 cup = 1 stick or 113 g // we prefer Earth Balance or Miyoko's // sub dairy butter if not dairy-free)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">vanilla extract</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1 ½ – 2</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">sifted organic powdered sugar </span>
+<span class="wprm-recipe-ingredient-notes">(organic to ensure vegan-friendly)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1-2</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/how-to-make-almond-milk/" rel="nofollow" target="_blank">unsweetened almond milk</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Natural food dyes </span>
+<span class="wprm-recipe-ingredient-notes">(like <a href="https://www.amazon.com/Watkins-Natural-Coloring-Green-Count/dp/B07KGTKWWB/?tag=minimalistbaker-20" rel="nofollow" target="_blank">Watkins</a> or <a href="https://www.amazon.com/ColorKitchen-Food-Color-Packets-0-1/dp/B074B2DW1Q/?tag=minimalistbaker-20" rel="nofollow" target="_blank">ColorKitchen</a> or my <a href="https://minimalistbaker.com/diy-natural-food-dye/" target="_blank">DIY version</a> // optional)</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Using softened butter and a room-temperature egg is important to provide the right texture for the dough. To soften butter, set out at room temperature for about 1 hour. Resist the temptation to microwave, which will melt the butter and make it too runny. For the egg (uncracked), place in bowl and top with warm water. Let rest 10 minutes. </p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add softened butter to a large mixing bowl and beat with a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QiE60xzvj85AaFdzQ9U5KaUAAAFt-dc6cgEAAAFKAfzdMLQ/http://www.amazon.com/dp/B000IL9GU6/?creativeASIN=B000IL9GU6&amp;linkCode=w61&amp;imprToken=FLwUM6-z1B.pqDuRagrSmw&amp;slotNum=15&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">mixer</a> on high for 30 seconds. Then add cane sugar, vanilla extract, and room temperature egg and beat on high for 1 minute, scraping down sides as needed.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Next add baking powder and sea salt and mix again to combine.</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Add almond flour, potato starch, and arrowroot starch and carefully beat on low to combine, switching to a wooden spoon as needed if it becomes difficult to mix. You’re looking for a dough that’s neither crumbly nor too soft, but easy to form in your hand without sticking. If it's too tacky at this point (which we found), add a bit more almond flour, arrowroot, and potato starch a little (~1 Tbsp) at a time and stir until a soft but moldable dough is formed (see photo).</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Cover and freeze for 30 minutes or refrigerate overnight. The dough is easier to roll when chilled.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">In the meantime, preheat oven to 350 degrees F (176 C) and line 1-2 large baking sheets with parchment paper (the recipe as written yields 48 cookies, and we recommend baking ~12 cookies on a tray at a time).</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Once dough is chilled, dust a cutting board or clean surface with arrowroot starch and almond flour (we found the combination to work well to prevent sticking). Then roll into a circle or rectangle about 1/4-inch thick using a rolling pin (add more arrowroot and almond flour as needed to prevent sticking). We found 1/4-inch thick dough to yield fluffy cookies that weren’t too difficult to handle and baked evenly.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Use cookie cutters of choice to stamp cookies, then use a thin spatula (dusted with arrowroot) to carefully transfer them onto the baking sheet. (Alternatively, you can just scoop out 1-1 ½ Tbsp amounts of dough — we like <a href="https://aax-us-east.amazon-adsystem.com/x/c/QvuVWNG4K8sCV8qL_dxXLK8AAAFt-diIeQEAAAFKAWXJQnc/https://www.amazon.com/dp/B016QDV7GK/?creativeASIN=B016QDV7GK&amp;linkCode=w61&amp;imprToken=XZJh6Wuh..q5BQJ9mBbx.w&amp;slotNum=33&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">this scoop</a> — roll into balls, and press down slightly to form a disc. Bake as instructed.)</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Bake cookies for 8.5 – 10 minutes. They don’t need to be golden brown at all to be baked, and they’re actually more soft and fluffy when pulled out just before browning. <strong>NOTE</strong>: We had the best success baking cookies 1 tray at a time versus 2 (or more).</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Remove from oven and let cool for 5-10 minutes on tray, then transfer to a serving platter or cooling rack, being careful not to stack them until completely cooled.</div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p><em><strong>Optional:</strong></em> To make frosting, add softened dairy-free butter to a mixing bowl and whisk or beat until soft and fluffy — about 1 minute. Then add the vanilla and sifted powdered sugar in 1/2-cup (56 g) increments and mix. Continue adding powdered sugar until you have spreadable frosting (we used about 2 cups powdered sugar // amount as original recipe is written // adjust if altering batch size). For thinner frosting, add dairy-free milk 1 tsp at a time to thin. If it becomes too thin, add more powdered sugar. If it becomes too thick, add more almond milk. Add natural food coloring or powdered dye of choice at this time (or make our <a href="https://minimalistbaker.com/vegan-matcha-buttercream-frosting-1-bowl/" target="_blank">matcha variation</a>!). Once completely cooled, frost cookies or leave plain. We decorated with some naturally-dyed sugar sprinkles <a href="https://www.amazon.com/Silicone-Baking-Non-Stick-Cookie-Sheet/dp/B004T0DEG4/?creativeASIN=B00OF1M3IC&amp;linkCode=w61&amp;imprToken=TxMGW9fVlzArg3p92c9Tdw&amp;slotNum=0&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">like these</a>.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p><strong>Storage</strong>: Once cooled, store leftover cookies covered at room temperature or in the refrigerator for 3-4 days or in the freezer up to 1 month.</p></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/4xdfMf3uedg" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*We haven’t tested this recipe with coconut oil but suspect it wouldn’t work. Therefore, we highly recommend sticking with vegan butter (Earth Balance brand sticks) or organic dairy butter if not vegan.<br/>*If you’d like to cut back on sugar, sub 1/3 cup of the sugar with 1 packet (~1/4 tsp) stevia extract (amount as original recipe is written // adjust if altering batch size). I like Trader Joe’s brand. This will make the cookies softer, so you may need to add more potato starch, almond flour, and/or arrowroot starch to help thicken the dough.<br/>*The egg can potentially be substituted for aquafaba (chickpea brine) in this recipe. But we haven’t tested it and can’t guarantee the results. In its place, you can also try subbing 1/4 cup pumpkin purée or 1 egg replacer (amounts as original recipe is written // adjust if altering batch size). But we haven’t tested it with a flax egg or any substitute and can’t guarantee the results.<br/>*If not gluten-free, you can sub the almond flour, potato starch, and arrowroot starch with unbleached all-purpose flour, although we haven’t tested it and can’t guarantee the results.<br/>*You can make the cookie dough ahead of time and refrigerate up to 2-3 days in advance. Simply let the dough rest at room temperature for 30 minutes before scooping/rolling out and baking. It should be soft and moldable.<br/>*Nutrition information is a rough estimate calculated without frosting.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 48 cookies) </h3><ul><li><strong>Calories:</strong> 75 <li><strong>Fat:</strong> 4.7g <li><strong>Saturated fat:</strong> 0.8g <li><strong>Polyunsaturated fat:</strong> 1.1g <li><strong>Monounsaturated fat:</strong> 2.62g <li><strong>Cholesterol:</strong> 3.85mg <li><strong>Sodium:</strong> 42mg <li><strong>Potassium:</strong> 41mg <li><strong>Carbohydrates:</strong> 7.7g <li><strong>Fiber:</strong> 0.7g <li><strong>Sugar:</strong> 3g <li><strong>Protein:</strong> 1.3g <li><strong>Vitamin A:</strong> 6.5IU <li><strong>Calcium:</strong> 18mg <li><strong>Iron:</strong> 0.21mg</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Grain-Free Cut Out Sugar Cookies (1 Bowl!)" data-jpibfi-post-url="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Fgrain-free-cut-out-sugar-cookies-1-bowl%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Grain-Free%20Cut%20Out%20Sugar%20Cookies%20(1%20Bowl!)&amp;url=https%3A%2F%2Fminimalistbaker.com%2Fgrain-free-cut-out-sugar-cookies-1-bowl%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Fgrain-free-cut-out-sugar-cookies-1-bowl%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/10/PERFECT-Grain-Free-Cut-Out-Sugar-Cookies-1-bowl-FLUFFY-perfectly-sweet-minimalistbaker-sugarcookies-cookies-grainfree-glutenfree-recipe-17.jpg&amp;description=Grain-Free%20Cut%20Out%20Sugar%20Cookies%20(1%20Bowl!)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/#comments">61 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/grain-free/" rel="category tag">Grain-Free</a>, <a href="https://minimalistbaker.com/recipes/holiday-recipes/" rel="category tag">Holiday</a>, <a href="https://minimalistbaker.com/recipes/one-bowl/" rel="category tag">One Bowl</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/sweet-things/" rel="category tag">Sweet (dessert)</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/easy-vegan-eggnog/" rel="prev">Easy Vegan Eggnog</a></div><div class="next"><a href="https://minimalistbaker.com/vegan-matcha-buttercream-frosting-1-bowl/" rel="next">Vegan Matcha Buttercream Frosting (1 Bowl!)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/grain-free-cut-out-sugar-cookies-1-bowl/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=48037&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="48037">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="14519ebacf"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="230"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-861350">
+<article id="article-comment-861350">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ashley" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/320598e822a9599a9639113cd640ca8d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/320598e822a9599a9639113cd640ca8d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ashley" width="96"><span itemprop="name">Ashley</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-861350">February 7, 2020 at 7:19 am</a></time></p> </header>
+<div class="comment-content">
+<p>Could I use Bob Mills gf 1:1 baking flour  blend as opposed to making the blend you recommend? Basically, I already have it. It’s sweet white rice flour, potato starch, sorghum, tapioca, xanthan gum. I’m looking to make cookies to frost and decorate.  Thank you so much, I you are my go to:)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ashley" class="comment-reply-link" data-belowelement="comment-861350" data-commentid="861350" data-postid="48037" data-respondelement="respond" href="#comment-861350" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-861407">
+<article id="article-comment-861407">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-861407">February 7, 2020 at 10:24 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Ashley, we haven’t used it in this recipe, but it might work! Let us know if you give it a try!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-861407" data-commentid="861407" data-postid="48037" data-respondelement="respond" href="#comment-861407" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-858015">
+<article id="article-comment-858015">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Aarian" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d6622d8d9e1c3ab2b2746dedb74f565d?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d6622d8d9e1c3ab2b2746dedb74f565d?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Aarian" width="96"><span itemprop="name">Aarian</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-858015">January 27, 2020 at 1:03 pm</a></time></p> </header>
+<div class="comment-content">
+<p>So the flavor of these were AHMAZING and texture when eating was great but the overall look of them seemed to be a bit grainy especially when covering in royal icing. I’m assuming it’s the sugar not being beat enough into the butter  but have you tried any Other sweetener like honey or maple syrup? I’m wondering if it’ll give me a smoother looking cookie ?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Aarian" class="comment-reply-link" data-belowelement="comment-858015" data-commentid="858015" data-postid="48037" data-respondelement="respond" href="#comment-858015" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-858045">
+<article id="article-comment-858045">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-858045">January 27, 2020 at 2:10 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We haven’t tried other sweeteners, but it’s maybe possible? Otherwise, just beat the sugar and butter together for longer :D</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-858045" data-commentid="858045" data-postid="48037" data-respondelement="respond" href="#comment-858045" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-855482">
+<article id="article-comment-855482">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jenn" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/1b9c3ad2a0e7b870fc764369980c7ca2?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1b9c3ad2a0e7b870fc764369980c7ca2?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jenn" width="96"><span itemprop="name">Jenn</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-855482">January 13, 2020 at 6:59 pm</a></time></p> </header>
+<div class="comment-content">
+<p>These were phenomenal! I made them vegan by substituting aquafaba instead of an egg. I made these for a cookie exchange at work and for Christmas baking for my family. I turned them into Linzer cookies (sandwhich cookies with jam in the middle) and they were a huge hit! This is going on my yearly Christmas baking list!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jenn" class="comment-reply-link" data-belowelement="comment-855482" data-commentid="855482" data-postid="48037" data-respondelement="respond" href="#comment-855482" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-855581">
+<article id="article-comment-855581">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-855581">January 14, 2020 at 10:35 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review and for sharing your modification, Jenn. We are so glad you enjoyed them! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-855581" data-commentid="855581" data-postid="48037" data-respondelement="respond" href="#comment-855581" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-852249">
+<article id="article-comment-852249">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Julia" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/1cbdada97f8ea4d332b789ccd01acde6?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1cbdada97f8ea4d332b789ccd01acde6?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Julia" width="96"><span itemprop="name">Julia</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-852249">December 26, 2019 at 12:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>These cookies are delicious! I made these for Christmas and they were a hit with both gluten and non-gluten eaters! Plus, the matcha buttercream icing was the perfect color to use with my Yoda cookie cutter!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Julia" class="comment-reply-link" data-belowelement="comment-852249" data-commentid="852249" data-postid="48037" data-respondelement="respond" href="#comment-852249" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-852299">
+<article id="article-comment-852299">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-852299">December 26, 2019 at 1:53 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed them, Julia! Thanks so much for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-852299" data-commentid="852299" data-postid="48037" data-respondelement="respond" href="#comment-852299" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-851778">
+<article id="article-comment-851778">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kaitlyn" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ce6e6b1b8bdba030cc9ab822d7a6d096?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ce6e6b1b8bdba030cc9ab822d7a6d096?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kaitlyn" width="96"><span itemprop="name">Kaitlyn</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851778">December 23, 2019 at 1:07 pm</a></time></p> </header>
+<div class="comment-content">
+<p>These turned out well even though I messed up the dough a bit. I used corn starch instead of potato, Miyoko’s butter, and a 1-egg equivalent using the Bob’s Red Mill Egg Replacer. The first time I mixed everything, the dough was so dry that it didn’t come together on it’s own (I was using an electric hand mixer on low), but in retrospect maybe I should have mixed using my hands or something. It just seemed too dehydrated! To try and get the dough to come together I used maybe a tablespoon of almond milk and a tablespoon of neutral oil (to prevent the dough from becoming less fluffy from the additional liquid, which I find can happen sometimes). I also rolled out using cornstarch. The extra oil made the dough a bit of a pain to work with–it was just too soft and kept absorbing the starch–but it still held together well enough for me to slide them onto a baking sheet. Either way these taste delicious, the texture is lovely, and because it made like 34 cookies I’m going to have some fun with the vegan matcha frosting. I’d love to experiment with these a little further!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kaitlyn" class="comment-reply-link" data-belowelement="comment-851778" data-commentid="851778" data-postid="48037" data-respondelement="respond" href="#comment-851778" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-851791">
+<article id="article-comment-851791">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851791">December 23, 2019 at 1:25 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing, Kaitlyn! Super helpful.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851791" data-commentid="851791" data-postid="48037" data-respondelement="respond" href="#comment-851791" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-851699">
+<article id="article-comment-851699">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Hailey" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/39300e59ddd3871871b3e18094705a83?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/39300e59ddd3871871b3e18094705a83?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Hailey" width="96"><span itemprop="name">Hailey</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851699">December 23, 2019 at 10:53 am</a></time></p> </header>
+<div class="comment-content">
+<p>Best gluten free cookies I’ve ever baked! I was nervous about rolling the dough and cutting it as a lot of previous gluten free recipes I’ve baked are very crumbly, but these were amazing! So easy to handle, so soft, fluffy and chewy. My boyfriend couldn’t tell the difference :) followed the recipe exactly and had amazing results.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Hailey" class="comment-reply-link" data-belowelement="comment-851699" data-commentid="851699" data-postid="48037" data-respondelement="respond" href="#comment-851699" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-851760">
+<article id="article-comment-851760">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851760">December 23, 2019 at 11:35 am</a></time></p> </header>
+<div class="comment-content">
+<p>Whoop! We’re so glad you both enjoyed them, Hailey! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851760" data-commentid="851760" data-postid="48037" data-respondelement="respond" href="#comment-851760" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-851269">
+<article id="article-comment-851269">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jannely Sanchez" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/1f673111c1ede290514adc642333bb13?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/1f673111c1ede290514adc642333bb13?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jannely Sanchez" width="96"/><span itemprop="name">Jannely Sanchez</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851269">December 20, 2019 at 12:36 am</a></time></p> </header>
+<div class="comment-content">
+<p>These cookies taste amazing! To make it vegan I actually substituted the egg for 1 tbsp of chia seeds mixed with 3 tbsps of water, let that thicken for 30 minutes, and it all worked out fantastic. Will definitely be making these again !</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jannely Sanchez" class="comment-reply-link" data-belowelement="comment-851269" data-commentid="851269" data-postid="48037" data-respondelement="respond" href="#comment-851269" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-851326">
+<article id="article-comment-851326">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851326">December 20, 2019 at 10:22 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! We’re so glad you enjoyed them, Jannely! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851326" data-commentid="851326" data-postid="48037" data-respondelement="respond" href="#comment-851326" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-851210">
+<article id="article-comment-851210">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Ginger" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/be05bd2ba987969b6cab5e84d1380f63?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/be05bd2ba987969b6cab5e84d1380f63?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Ginger" width="96"/><span itemprop="name">Ginger</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851210">December 19, 2019 at 4:11 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Aquafaba works perfectly! Thanks for a great recipe.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Ginger" class="comment-reply-link" data-belowelement="comment-851210" data-commentid="851210" data-postid="48037" data-respondelement="respond" href="#comment-851210" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-851304">
+<article id="article-comment-851304">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851304">December 20, 2019 at 10:02 am</a></time></p> </header>
+<div class="comment-content">
+<p>Glad to hear it, Ginger! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851304" data-commentid="851304" data-postid="48037" data-respondelement="respond" href="#comment-851304" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-850619">
+<article id="article-comment-850619">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Megan Roberts" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/80772bb2215fe667e9d2884460429485?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/80772bb2215fe667e9d2884460429485?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Megan Roberts" width="96"/><span itemprop="name">Megan Roberts</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850619">December 16, 2019 at 7:36 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Any suggestions on subbing potato starch? Im struggling to find it at my grocery stores….</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Megan Roberts" class="comment-reply-link" data-belowelement="comment-850619" data-commentid="850619" data-postid="48037" data-respondelement="respond" href="#comment-850619" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-850699">
+<article id="article-comment-850699">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850699">December 17, 2019 at 10:14 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Megan, other readers have mentioned using GF all purpose or doubling the arrowroot, but we haven’t tried either. Hope that helps! Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850699" data-commentid="850699" data-postid="48037" data-respondelement="respond" href="#comment-850699" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-3 wpr_madethis_li" id="comment-851387">
+<article id="article-comment-851387">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Megan Roberts" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/80772bb2215fe667e9d2884460429485?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/80772bb2215fe667e9d2884460429485?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Megan Roberts" width="96"/><span itemprop="name">Megan Roberts</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851387">December 20, 2019 at 6:37 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I ended up going to Whole Foods and finding the Potato Starch. These are FANTASTIC!!!! In the frosting I did almond extract instead of vanilla. YUMMY!  Thank you for all your hard work recipe testing, especially your GF stuff. :)</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Megan Roberts" class="comment-reply-link" data-belowelement="comment-851387" data-commentid="851387" data-postid="48037" data-respondelement="respond" href="#comment-851387" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-4" id="comment-851635">
+<article id="article-comment-851635">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-851635">December 23, 2019 at 9:59 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! We’re so glad you enjoyed them, Megan! Thanks so much for your kind words and lovely review! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-851635" data-commentid="851635" data-postid="48037" data-respondelement="respond" href="#comment-851635" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-850208">
+<article id="article-comment-850208">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kerttu" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/e96b917d3cd270d506e6882cc3c1f0ba?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e96b917d3cd270d506e6882cc3c1f0ba?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kerttu" width="96"/><span itemprop="name">Kerttu</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850208">December 15, 2019 at 12:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Apparently we don’t have arrowroot in Finland, or nobody just knows actually what it is :D So do you know if that can be replaced with something? What it actually is and does it do more than adds the structure?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kerttu" class="comment-reply-link" data-belowelement="comment-850208" data-commentid="850208" data-postid="48037" data-respondelement="respond" href="#comment-850208" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-850350">
+<article id="article-comment-850350">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850350">December 16, 2019 at 9:49 am</a></time></p> </header>
+<div class="comment-content">
+<p>It adds structure. You could also sub cornstarch!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850350" data-commentid="850350" data-postid="48037" data-respondelement="respond" href="#comment-850350" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li wpr_havequestion_li" id="comment-850108">
+<article id="article-comment-850108">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Caitlin" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/138afb5139cc60d8ad8ee0413f01eb15?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/138afb5139cc60d8ad8ee0413f01eb15?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Caitlin" width="96"/><span itemprop="name">Caitlin</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850108">December 14, 2019 at 9:40 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Dana!</p>
+<p>So I tried to make this recipe with an already prepped GF flour blend – because getting that much arrowroot powder where I live (In Dubai) is not possible.  I only used 2 cups of my GF blend – and that seemed to be fine.  Im not sure where I went wrong though – the dough tasted DIVINE – but then when baking them they came out very brittle and kept falling apart.  I also used Raw sugar – which my friend told me could have been my mistake because the sugar doesn’t get a chance to actually melt.</p>
+<p>Is there a healthy sugar I can use in this version? or is Organic cane sugar the healthiest option?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Caitlin" class="comment-reply-link" data-belowelement="comment-850108" data-commentid="850108" data-postid="48037" data-respondelement="respond" href="#comment-850108" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-850415">
+<article id="article-comment-850415">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850415">December 16, 2019 at 10:33 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hmm, it could be the sugar, but we would think the GF blend would be the more likely culprit. What was the brand/product you used?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850415" data-commentid="850415" data-postid="48037" data-respondelement="respond" href="#comment-850415" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-850086">
+<article id="article-comment-850086">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sarah" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/8038006b6ff4159f500a424f4cece4f4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/8038006b6ff4159f500a424f4cece4f4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sarah" width="96"/><span itemprop="name">Sarah</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850086">December 14, 2019 at 6:42 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Made these tonight, fabulous! I did not have potato starch so did a 1:1 swap with all-purpose gluten free flour. Otherwise, I filled the recipe exactly and they turned out perfect. I also added a touch of beet juice (squeezed the heck out of a cooked beet to get a tsp) to the frosting. These will be my go-to sugar cookie recipe from now on. Dana, thank you so much for your wonderful recipes. You never disappoint. Your blog is a real gift!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sarah" class="comment-reply-link" data-belowelement="comment-850086" data-commentid="850086" data-postid="48037" data-respondelement="respond" href="#comment-850086" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-850351">
+<article id="article-comment-850351">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850351">December 16, 2019 at 9:51 am</a></time></p> </header>
+<div class="comment-content">
+<p>So wonderful! Thanks for sharing, Sarah!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850351" data-commentid="850351" data-postid="48037" data-respondelement="respond" href="#comment-850351" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-850077">
+<article id="article-comment-850077">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Carly Heys" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/5faab7a12af1d0a1d28782b9aa05698a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/5faab7a12af1d0a1d28782b9aa05698a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Carly Heys" width="96"/><span itemprop="name">Carly Heys</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850077">December 14, 2019 at 4:31 pm</a></time></p> </header>
+<div class="comment-content">
+<p>My two kids and I made these and this is the first DF GF Christmas cookie recipe we have found that actually turned out well.  We didn’t have potato starch, so just doubled the arrowroot starch and it worked well. </p>
+<p> We love all of your recipes and thank you for sharing them with us.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Carly Heys" class="comment-reply-link" data-belowelement="comment-850077" data-commentid="850077" data-postid="48037" data-respondelement="respond" href="#comment-850077" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-850352">
+<article id="article-comment-850352">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850352">December 16, 2019 at 9:51 am</a></time></p> </header>
+<div class="comment-content">
+<p>Whoop! Thanks for sharing, Carly!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850352" data-commentid="850352" data-postid="48037" data-respondelement="respond" href="#comment-850352" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-849952">
+<article id="article-comment-849952">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Yvonne" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/2b68a0bf3116cf544f1ab1089989130a?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/2b68a0bf3116cf544f1ab1089989130a?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Yvonne" width="96"/><span itemprop="name">Yvonne</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849952">December 13, 2019 at 9:16 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi there, can I sub sunflower oil or which oil best for the butter and how much oil shd I use here.  I bake your 1 bowl carrot cake recipe and I got so much rave and I so glad that it made people yummy happy too!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Yvonne" class="comment-reply-link" data-belowelement="comment-849952" data-commentid="849952" data-postid="48037" data-respondelement="respond" href="#comment-849952" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-850353">
+<article id="article-comment-850353">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850353">December 16, 2019 at 9:52 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hmm, not sure about that. This recipe does best with butter of some kind (either organic dairy, or dairy-free like Myokos or Earth Balance).</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850353" data-commentid="850353" data-postid="48037" data-respondelement="respond" href="#comment-850353" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-849928">
+<article id="article-comment-849928">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Christina" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/3092746500c63f6e734cad86b8fa1653?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/3092746500c63f6e734cad86b8fa1653?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Christina" width="96"/><span itemprop="name">Christina</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849928">December 13, 2019 at 5:01 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hello Dana – have you tried this dough with a cookie press?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Christina" class="comment-reply-link" data-belowelement="comment-849928" data-commentid="849928" data-postid="48037" data-respondelement="respond" href="#comment-849928" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-850356">
+<article id="article-comment-850356">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850356">December 16, 2019 at 9:53 am</a></time></p> </header>
+<div class="comment-content">
+<p>I haven’t!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-850356" data-commentid="850356" data-postid="48037" data-respondelement="respond" href="#comment-850356" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-849786">
+<article id="article-comment-849786">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jill" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c4cfcd57ffe5f0b8d7bf2a23e86a7d45?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c4cfcd57ffe5f0b8d7bf2a23e86a7d45?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jill" width="96"/><span itemprop="name">Jill</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849786">December 12, 2019 at 8:12 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Has anyone tried the vegan option here? I’d love to know if they ended up working out and which option to try!!Thx!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jill" class="comment-reply-link" data-belowelement="comment-849786" data-commentid="849786" data-postid="48037" data-respondelement="respond" href="#comment-849786" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment odd alt depth-2 wpr_madethis_li" id="comment-850219">
+<article id="article-comment-850219">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Nicole" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c3e01c19538e43b9dcea6cbde104af05?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c3e01c19538e43b9dcea6cbde104af05?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Nicole" width="96"/><span itemprop="name">Nicole</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-850219">December 15, 2019 at 2:20 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We used flax egg and 1/4 cup less almond flour (and didn’t wait for softened miyokos butter, because it softens quickly)… It worked well. At first it feels too dry, until you mix with your hands… My girls made them pretty thick.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Nicole" class="comment-reply-link" data-belowelement="comment-850219" data-commentid="850219" data-postid="48037" data-respondelement="respond" href="#comment-850219" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-849586">
+<article id="article-comment-849586">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Carrie" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/371701d968bc617edce999b6ba459944?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/371701d968bc617edce999b6ba459944?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Carrie" width="96"/><span itemprop="name">Carrie</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849586">December 12, 2019 at 12:46 am</a></time></p> </header>
+<div class="comment-content">
+<p>This is by far the best GF sugar cookie recipe I’ve made for Christmas cutouts. The dough is easy to handle and no fuss. I’m in Australia and we don’t have ‘almomd flour’ that I know of. I used purchased blanched almond meal which is finer than my homemade almond meal and it worked well. The texture is great! Also I used butter in place of vegan butter and it was perfect. Thanks so much for sharing this recipe. It will transform the dread of GF cutouts back to joy ?</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Carrie" class="comment-reply-link" data-belowelement="comment-849586" data-commentid="849586" data-postid="48037" data-respondelement="respond" href="#comment-849586" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-849677">
+<article id="article-comment-849677">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849677">December 12, 2019 at 10:35 am</a></time></p> </header>
+<div class="comment-content">
+<p>Yay! We’re so glad you enjoy them, Carrie! Thanks for sharing! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849677" data-commentid="849677" data-postid="48037" data-respondelement="respond" href="#comment-849677" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="comment-849453">
+<article id="article-comment-849453">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Cassie Thuvan Tran" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/fb36779586abf1ce36cb7c44730e20e6?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/fb36779586abf1ce36cb7c44730e20e6?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Cassie Thuvan Tran" width="96"/><span itemprop="name">Cassie Thuvan Tran</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849453">December 11, 2019 at 11:25 am</a></time></p> </header>
+<div class="comment-content">
+<p>Looks so yummy! I love cookies, but it’s been a while since I’ve had the roll out cut out ones. I’d have to try the aquafaba substitution!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Cassie Thuvan Tran" class="comment-reply-link" data-belowelement="comment-849453" data-commentid="849453" data-postid="48037" data-respondelement="respond" href="#comment-849453" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-849117">
+<article id="article-comment-849117">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Janett" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/d42a8168d0e9ad2e9b0beac874465e63?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/d42a8168d0e9ad2e9b0beac874465e63?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Janett" width="96"/><span itemprop="name">Janett</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849117">December 10, 2019 at 12:22 am</a></time></p> </header>
+<div class="comment-content">
+<p>I made these cookies tonight &amp; they came out great! I used all purpose flour instead of potato starch and arrowroot. It was quite dry and crumbly so I added a splash of almond milk. Like maybe a teaspoon and that brought it together. I also used coconut sugar instead of cane sugar. They’re not on the crazy sweet side but still so good. I’ve never made cookies with almond flour. I’m quite impressed! Thanks for the great recipe!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Janett" class="comment-reply-link" data-belowelement="comment-849117" data-commentid="849117" data-postid="48037" data-respondelement="respond" href="#comment-849117" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849251">
+<article id="article-comment-849251">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849251">December 10, 2019 at 12:50 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849251" data-commentid="849251" data-postid="48037" data-respondelement="respond" href="#comment-849251" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-849003">
+<article id="article-comment-849003">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Melissa" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/36a9d5c7566cb87b062d123b5b3d8c5b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/36a9d5c7566cb87b062d123b5b3d8c5b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Melissa" width="96"/><span itemprop="name">Melissa</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849003">December 9, 2019 at 1:56 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made this recipe today as I was so happy to find a grain-free sugar cookie recipe, and I was pleasantly surprised how delicious these cookies tasted, the texture came out perfect too! I think that the combination of almond flour, arrowroot flour and potato flour was just right for these cookies. My 2 kids had no idea these were the healthy version of the cut-out sugar cookies, so I let it be a secret :) I also made the frosting for it, and it was very tasty too, we added natural food coloring to it &amp; had fun decorating. Thanks again for another great recipe that I‘ll be making quite often! ;)</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Melissa" class="comment-reply-link" data-belowelement="comment-849003" data-commentid="849003" data-postid="48037" data-respondelement="respond" href="#comment-849003" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849004">
+<article id="article-comment-849004">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849004">December 9, 2019 at 1:59 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks for sharing, Melissa!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849004" data-commentid="849004" data-postid="48037" data-respondelement="respond" href="#comment-849004" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-848687">
+<article id="article-comment-848687">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kyla Jicha" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/dd89b9759082f5d027d8e57e4da1050b?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/dd89b9759082f5d027d8e57e4da1050b?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kyla Jicha" width="96"/><span itemprop="name">Kyla Jicha</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848687">December 8, 2019 at 1:20 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi! Is there a nut free substitute to still get the same texture as Almond flour? Thank you!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kyla Jicha" class="comment-reply-link" data-belowelement="comment-848687" data-commentid="848687" data-postid="48037" data-respondelement="respond" href="#comment-848687" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849017">
+<article id="article-comment-849017">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849017">December 9, 2019 at 2:05 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hmm, what about mostly potato flour, some arrowroot starch, and a little coconut flour?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849017" data-commentid="849017" data-postid="48037" data-respondelement="respond" href="#comment-849017" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-848667">
+<article id="article-comment-848667">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Adriana Z." class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/614beebfc6cd95ab6c3860809fd4104c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/614beebfc6cd95ab6c3860809fd4104c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Adriana Z." width="96"/><span itemprop="name">Adriana Z.</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848667">December 8, 2019 at 11:08 am</a></time></p> </header>
+<div class="comment-content">
+<p>What a great idea! I’ll be definitely making these cookies, thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Adriana Z." class="comment-reply-link" data-belowelement="comment-848667" data-commentid="848667" data-postid="48037" data-respondelement="respond" href="#comment-848667" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-848588">
+<article id="article-comment-848588">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Marcela" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/642705596c32117a539aa2a6280f2a26?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/642705596c32117a539aa2a6280f2a26?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Marcela" width="96"/><span itemprop="name">Marcela</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848588">December 7, 2019 at 10:33 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Did anyone make them not gluten free? with all purpose flour and did it work?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Marcela" class="comment-reply-link" data-belowelement="comment-848588" data-commentid="848588" data-postid="48037" data-respondelement="respond" href="#comment-848588" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-848561">
+<article id="article-comment-848561">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sofia Shanahan" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/21ed029d794bc5ee586a4adb86a33232?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/21ed029d794bc5ee586a4adb86a33232?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sofia Shanahan" width="96"/><span itemprop="name">Sofia Shanahan</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848561">December 7, 2019 at 6:38 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you have suggestion for a substitute for the almond flour? My daughter has a nut allergy</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sofia Shanahan" class="comment-reply-link" data-belowelement="comment-848561" data-commentid="848561" data-postid="48037" data-respondelement="respond" href="#comment-848561" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849026">
+<article id="article-comment-849026">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849026">December 9, 2019 at 2:10 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I’m thinking a mix of potato starch, arrowroot, and a little coconut? Or, just swapping the almond flour for a GF blend?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849026" data-commentid="849026" data-postid="48037" data-respondelement="respond" href="#comment-849026" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-848550">
+<article id="article-comment-848550">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Keely" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/cc99bbb0953cfa078015023a04100a20?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/cc99bbb0953cfa078015023a04100a20?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Keely" width="96"/><span itemprop="name">Keely</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848550">December 7, 2019 at 5:48 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Appreciate that you still provide vegan options!! Thank you</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Keely" class="comment-reply-link" data-belowelement="comment-848550" data-commentid="848550" data-postid="48037" data-respondelement="respond" href="#comment-848550" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849029">
+<article id="article-comment-849029">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849029">December 9, 2019 at 2:11 pm</a></time></p> </header>
+<div class="comment-content">
+<p>xo!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849029" data-commentid="849029" data-postid="48037" data-respondelement="respond" href="#comment-849029" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-848534">
+<article id="article-comment-848534">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Michelle" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/ada681c2e8aec8908173d7555e9e1740?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/ada681c2e8aec8908173d7555e9e1740?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Michelle" width="96"/><span itemprop="name">Michelle</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848534">December 7, 2019 at 3:16 pm</a></time></p> </header>
+<div class="comment-content">
+<p>What do you think about using coconut sugar instead of cane? Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Michelle" class="comment-reply-link" data-belowelement="comment-848534" data-commentid="848534" data-postid="48037" data-respondelement="respond" href="#comment-848534" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849031">
+<article id="article-comment-849031">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849031">December 9, 2019 at 2:12 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We didn’t test it but I think it would work! It won’t be as sweet and the cookies will be brown, FYI.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849031" data-commentid="849031" data-postid="48037" data-respondelement="respond" href="#comment-849031" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-848532">
+<article id="article-comment-848532">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Zoe" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9ab8a19efd67f8e7caf89ecb32405f4c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9ab8a19efd67f8e7caf89ecb32405f4c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Zoe" width="96"/><span itemprop="name">Zoe</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848532">December 7, 2019 at 3:03 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Have you tried these with aquafaba or egg replacer to make them vegan? My mum wants to make vegan sugar cookies for christmas which I know you have on the blog but I am gluten free so was hoping we could make it happen. If you think they wouldn’t work I don’t want to waste the time trying. I’d rather just make the vegan ones for my family (who all just went vegan, hooray!) and just not eat them myself.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Zoe" class="comment-reply-link" data-belowelement="comment-848532" data-commentid="848532" data-postid="48037" data-respondelement="respond" href="#comment-848532" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment even depth-2" id="comment-848533">
+<article id="article-comment-848533">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Zoe" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9ab8a19efd67f8e7caf89ecb32405f4c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9ab8a19efd67f8e7caf89ecb32405f4c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Zoe" width="96"/><span itemprop="name">Zoe</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848533">December 7, 2019 at 3:05 pm</a></time></p> </header>
+<div class="comment-content">
+<p>OOPS! Never mind, I just found the link further down the page for the V+GF sugar cookies!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Zoe" class="comment-reply-link" data-belowelement="comment-848533" data-commentid="848533" data-postid="48037" data-respondelement="respond" href="#comment-848533" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-848528">
+<article id="article-comment-848528">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Shauna" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/609acfe4f9179de1724381bbce8a0ea7?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/609acfe4f9179de1724381bbce8a0ea7?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Shauna" width="96"/><span itemprop="name">Shauna</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848528">December 7, 2019 at 2:20 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you have a substrate for the almonds? A lot of your recipes look great but I can not use nuts at all so any time you can put a sub. in the recipe that would be so helpful!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Shauna" class="comment-reply-link" data-belowelement="comment-848528" data-commentid="848528" data-postid="48037" data-respondelement="respond" href="#comment-848528" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849035">
+<article id="article-comment-849035">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849035">December 9, 2019 at 2:14 pm</a></time></p> </header>
+<div class="comment-content">
+<p>What about a mix of mostly potato starch, some arrowroot, and a little coconut flour OR GF blend?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849035" data-commentid="849035" data-postid="48037" data-respondelement="respond" href="#comment-849035" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-848510">
+<article id="article-comment-848510">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Kristen" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/404a47a9791975b1ca86712e4701ee13?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/404a47a9791975b1ca86712e4701ee13?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Kristen" width="96"/><span itemprop="name">Kristen</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848510">December 7, 2019 at 12:24 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi – Can you use coconut flour in place of the almond flour? My daughter is GF and has an almond allergy and we are trying to find a good vegan sugar cookie.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Kristen" class="comment-reply-link" data-belowelement="comment-848510" data-commentid="848510" data-postid="48037" data-respondelement="respond" href="#comment-848510" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849036">
+<article id="article-comment-849036">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849036">December 9, 2019 at 2:14 pm</a></time></p> </header>
+<div class="comment-content">
+<p>It’s worth a shot! But I’d say use more potato starch and arrowroot starch than coconut because coconut is super absorbent and will likely dry them out.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849036" data-commentid="849036" data-postid="48037" data-respondelement="respond" href="#comment-849036" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-848488">
+<article id="article-comment-848488">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Tessa" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/92804c36bec196e41bee4a87427f75a1?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/92804c36bec196e41bee4a87427f75a1?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Tessa" width="96"/><span itemprop="name">Tessa</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848488">December 7, 2019 at 10:03 am</a></time></p> </header>
+<div class="comment-content">
+<p>These look amazing! I’m wondering if I could use tapioca starch in place of potato starch? Thanks!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Tessa" class="comment-reply-link" data-belowelement="comment-848488" data-commentid="848488" data-postid="48037" data-respondelement="respond" href="#comment-848488" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849037">
+<article id="article-comment-849037">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849037">December 9, 2019 at 2:15 pm</a></time></p> </header>
+<div class="comment-content">
+<p>It won’t be the same. If you try it let us know!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849037" data-commentid="849037" data-postid="48037" data-respondelement="respond" href="#comment-849037" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-848487">
+<article id="article-comment-848487">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sandy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/b06c332bf9e1a3e97c43d06f0ad2f5dd?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b06c332bf9e1a3e97c43d06f0ad2f5dd?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sandy" width="96"/><span itemprop="name">Sandy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-848487">December 7, 2019 at 10:00 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi there, what would you suggest to replace the almond flour if gluten free and have a nut allergy? Thank you!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sandy" class="comment-reply-link" data-belowelement="comment-848487" data-commentid="848487" data-postid="48037" data-respondelement="respond" href="#comment-848487" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-849038">
+<article id="article-comment-849038">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/grain-free-cut-out-sugar-cookies-1-bowl/?t=1582412743#comment-849038">December 9, 2019 at 2:15 pm</a></time></p> </header>
+<div class="comment-content">
+<p>What about mostly potato starch, some arrowroot, and a little coconut flour OR GF blend?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-849038" data-commentid="849038" data-postid="48037" data-respondelement="respond" href="#comment-849038" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_48123 = {"ingredients":[{"amount":"1\/2","unit":"cup","name":"softened dairy-free butter* ","notes":"(1\/2 cup = 1 stick or 113 g \/\/ we prefer Earth Balance or Miyoko&#x27;s \/\/ sub dairy butter if not dairy-free)","converted":{"2":{"amount":"113","unit":"g"}},"id":28472},{"amount":"1","unit":"small","name":"chicken egg*, room temperature","notes":"(see notes for vegan option)","converted":{"2":{"amount":"1","unit":"small"}},"id":28439},{"amount":"2\/3","unit":"cup","name":"organic cane sugar*","notes":"","converted":{"2":{"amount":"134","unit":"g"}},"id":15299},{"amount":"1","unit":"tsp","name":"pure vanilla extract","notes":"","converted":{"2":{"amount":"1","unit":"tsp"}},"id":13978},{"amount":"3\/4","unit":"tsp","name":"baking powder","notes":"","converted":{"2":{"amount":"3\/4","unit":"tsp"}},"id":13270},{"amount":"1\/4","unit":"tsp","name":"sea salt","notes":"","converted":{"2":{"amount":"1\/4","unit":"tsp"}},"id":13388},{"amount":"2 \u2153","unit":"cups","name":"almond flour ","notes":"(not almond meal \u2014 the texture and flavor is different), plus more for rolling","converted":{"2":{"amount":"259","unit":"g"}},"id":13577},{"amount":"3\/4","unit":"cup","name":"potato starch ","notes":"(not potato flour)","converted":{"2":{"amount":"120","unit":"g"}},"id":15685},{"amount":"3\/4","unit":"cup","name":"arrowroot starch, plus more for rolling","notes":"","converted":{"2":{"amount":"108","unit":"g"}},"id":28436},{"amount":"1\/2","unit":"cup","name":"softened dairy-free butter* ","notes":"(1\/2 cup = 1 stick or 113 g \/\/ we prefer Earth Balance or Miyoko&#x27;s \/\/ sub dairy butter if not dairy-free)","converted":{"2":{"amount":"113","unit":"g"}},"id":28472},{"amount":"1\/4","unit":"tsp","name":"vanilla extract","notes":"","converted":{"2":{"amount":"1\/4","unit":"tsp"}},"id":13261},{"amount":"1 \u00bd - 2","unit":"cups","name":"sifted organic powdered sugar ","notes":"(organic to ensure vegan-friendly)","converted":{"2":{"amount":"168-224","unit":"g"}},"id":21403},{"amount":"1-2","unit":"Tbsp","name":"unsweetened almond milk","notes":"","converted":{"2":{"amount":"15-30","unit":"ml"}},"id":16194},{"amount":"","unit":"","name":"Natural food dyes ","notes":"(like <a href=\"https:\/\/www.amazon.com\/Watkins-Natural-Coloring-Green-Count\/dp\/B07KGTKWWB\/?tag=minimalistbaker-20\" target=\"_blank\" rel=\"nofollow\">Watkins<\/a> or <a href=\"https:\/\/www.amazon.com\/ColorKitchen-Food-Color-Packets-0-1\/dp\/B074B2DW1Q\/?tag=minimalistbaker-20\" target=\"_blank\" rel=\"nofollow\">ColorKitchen<\/a> or my <a href=\"https:\/\/minimalistbaker.com\/diy-natural-food-dye\/\" target=\"_blank\">DIY version<\/a> \/\/ optional)","id":21404}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":385,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

@@ -16,7 +16,7 @@ def extract():
     # get <body> data </body> from url
     data = connect_to_url(url)
     # write it to a file
-    write_file(data, next_file, name="ethan")
+    write_file(data, next_file, name="aly")
 
 
 def read_input():

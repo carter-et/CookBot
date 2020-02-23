@@ -1,0 +1,452 @@
+<body class="post-template-default single single-post postid-7947 single-format-standard">
+<div id="header-ad"></div>
+<div id="cover"></div>
+<div class="site" id="page">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<header class="site-header" id="masthead">
+<nav class="main-navigation alt-link small-caps desktop">
+<div class="site-branding" id="secondary-nav">
+<div id="site-branding">
+<ul class="secondary-menu cl" id="secondary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74653" id="menu-item-74653"><a href="https://www.justonecookbook.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74654" id="menu-item-74654"><a href="https://www.justonecookbook.com/start-here/">Start Here</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74656" id="menu-item-74656"><a href="https://www.justonecookbook.com/categories/pantry/">Pantry</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74655" id="menu-item-74655"><a href="https://www.justonecookbook.com/categories/japanese-culture/">Culture</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74657" id="menu-item-74657"><a href="https://www.justonecookbook.com/categories/travel/">Travel</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74658" id="menu-item-74658"><a href="https://www.justonecookbook.com/kitchen-tools/">Shop</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74659" id="menu-item-74659"><a href="https://www.justonecookbook.com/tags/video/">Video</a></li>
+</ul> <div class="cr">
+<ul class="social-menu" id="menu-social-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74647" id="menu-item-74647"><a href="https://www.facebook.com/justonecookbook" rel="noopener noreferrer" target="_blank"><span>Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74651" id="menu-item-74651"><a href="https://instagram.com/justonecookbook/" rel="noopener noreferrer" target="_blank"><span>Instagram</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74650" id="menu-item-74650"><a href="https://www.pinterest.com/justonecookbook/" rel="noopener noreferrer" target="_blank"><span>Pinterest</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74652" id="menu-item-74652"><a href="https://feeds.feedburner.com/JustOneCookbook/" rel="noopener noreferrer" target="_blank"><span>RSS</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74648" id="menu-item-74648"><a href="https://twitter.com/justonecookbook" rel="noopener noreferrer" target="_blank"><span>Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74649" id="menu-item-74649"><a href="https://www.youtube.com/user/justonecookbook?sub_confirmation=1" rel="noopener noreferrer" target="_blank"><span>Youtube</span></a></li>
+</ul> <form action="https://www.justonecookbook.com/" class="searchform" method="get" role="search">
+<input autocomplete="on" name="s" placeholder="Search + Press Enter" type="text"/>
+</form> </div>
+</div>
+</div>
+<div class="primary-nav">
+<div class="site-branding" id="primary-nav">
+<p class="site-title col-3 left"><a href="https://www.justonecookbook.com/" rel="home"><img alt="Just One Cookbook" data-no-lazy="1" data-pin-nopin="true" src="https://www.justonecookbook.com/wp-content/themes/justonecookbook/images/header.png"/></a></p>
+<h3 class="icon col-3 left"><a href="https://www.justonecookbook.com/" rel="home"><img alt="Just One Cookbook" data-no-lazy="1" data-pin-nopin="true" src="https://www.justonecookbook.com/wp-content/themes/justonecookbook/images/icon.png"/></a></h3>
+<div class="col-3 middle">
+<ul class="primary-menu" id="primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74701" id="menu-item-74701"><a href="https://www.justonecookbook.com/recipes/">Recipe Index</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74702" id="menu-item-74702"><a>Course</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74703" id="menu-item-74703"><a href="https://www.justonecookbook.com/categories/recipes/appetizer/">Appetizer</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74704" id="menu-item-74704"><a href="https://www.justonecookbook.com/categories/recipes/beverage/">Beverage</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74705" id="menu-item-74705"><a href="https://www.justonecookbook.com/categories/recipes/breakfast/">Breakfast</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74707" id="menu-item-74707"><a href="https://www.justonecookbook.com/categories/recipes/dessert/">Dessert</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74708" id="menu-item-74708"><a href="https://www.justonecookbook.com/categories/recipes/entree/">Main Dish</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74709" id="menu-item-74709"><a href="https://www.justonecookbook.com/categories/recipes/salad/">Salad</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84583" id="menu-item-84583"><a href="https://www.justonecookbook.com/categories/recipes/side/">Side Dish</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-74711" id="menu-item-74711"><a href="https://www.justonecookbook.com/categories/recipes/snack/">Snack</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-75306" id="menu-item-75306"><a href="https://www.justonecookbook.com/categories/recipes/soup-stew/">Soup + Stew</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74713" id="menu-item-74713"><a href="#">Dietary</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74714" id="menu-item-74714"><a href="https://www.justonecookbook.com/tags/gluten-free/">Gluten-Free</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74715" id="menu-item-74715"><a href="https://www.justonecookbook.com/tags/healthy/">Healthy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74922" id="menu-item-74922"><a href="https://www.justonecookbook.com/tags/low-carb/">Low-Carb</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74716" id="menu-item-74716"><a href="https://www.justonecookbook.com/tags/vegan/">Vegan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74717" id="menu-item-74717"><a href="https://www.justonecookbook.com/tags/vegetarian/">Vegetarian</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74718" id="menu-item-74718"><a>Ingredient</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74720" id="menu-item-74720"><a href="https://www.justonecookbook.com/tags/beef/">Beef</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74721" id="menu-item-74721"><a href="https://www.justonecookbook.com/tags/chicken/">Chicken</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74923" id="menu-item-74923"><a href="https://www.justonecookbook.com/tags/chocolate/">Chocolate</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74924" id="menu-item-74924"><a href="https://www.justonecookbook.com/tags/egg/">Egg</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-84584" id="menu-item-84584"><a href="https://www.justonecookbook.com/tags/matcha-green-tea/">Matcha Green Tea</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74724" id="menu-item-74724"><a href="https://www.justonecookbook.com/tags/pork/">Pork</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74926" id="menu-item-74926"><a href="https://www.justonecookbook.com/tags/rice-noodle/">Rice + Noodle</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74726" id="menu-item-74726"><a href="https://www.justonecookbook.com/tags/seafood/">Seafood</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74727" id="menu-item-74727"><a href="https://www.justonecookbook.com/tags/tofu/">Tofu</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74925" id="menu-item-74925"><a href="https://www.justonecookbook.com/tags/vegetable/">Vegetable</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74728" id="menu-item-74728"><a>Preparation</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74729" id="menu-item-74729"><a href="https://www.justonecookbook.com/tags/baking/">Baking</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74932" id="menu-item-74932"><a href="https://www.justonecookbook.com/tags/easy/">Easy</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74933" id="menu-item-74933"><a href="https://www.justonecookbook.com/tags/hot-pot/">Hot Pot</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74934" id="menu-item-74934"><a href="https://www.justonecookbook.com/tags/one-pot-one-pan/">One-Pot/One-Pan</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74935" id="menu-item-74935"><a href="https://www.justonecookbook.com/tags/pressure-cooker/">Pressure Cooker</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74936" id="menu-item-74936"><a href="https://www.justonecookbook.com/tags/under-30-minutes/">Under 30 Minutes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74937" id="menu-item-74937"><a href="https://www.justonecookbook.com/tags/under-5-ingredients/">Under 5 Ingredients</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74744" id="menu-item-74744"><a>Type</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74938" id="menu-item-74938"><a href="https://www.justonecookbook.com/tags/bread/">Bread</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74939" id="menu-item-74939"><a href="https://www.justonecookbook.com/tags/cake/">Cake</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74940" id="menu-item-74940"><a href="https://www.justonecookbook.com/tags/condiment-sauce/">Condiment + Sauce</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74941" id="menu-item-74941"><a href="https://www.justonecookbook.com/tags/cookie/">Cookie</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74942" id="menu-item-74942"><a href="https://www.justonecookbook.com/tags/main-dish/">Main Dish</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74943" id="menu-item-74943"><a href="https://www.justonecookbook.com/tags/pasta-noodle-dumpling/">Noodle + Pasta + Dumpling</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74944" id="menu-item-74944"><a href="https://www.justonecookbook.com/tags/rice-donburi/">Rice + Donburi</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74945" id="menu-item-74945"><a href="https://www.justonecookbook.com/tags/sandwich/">Sandwich</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74946" id="menu-item-74946"><a href="https://www.justonecookbook.com/tags/sushi-sashimi/">Sushi + Sashimi</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74979" id="menu-item-74979"><a href="#">Favorite</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-84585" id="menu-item-84585"><a href="https://www.justonecookbook.com/tags/bento/">Bento</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74980" id="menu-item-74980"><a href="https://www.justonecookbook.com/tags/classic-washoku/">Classic Washoku</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74981" id="menu-item-74981"><a href="https://www.justonecookbook.com/tags/classic-yoshoku/">Classic Yoshoku</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74982" id="menu-item-74982"><a href="https://www.justonecookbook.com/tags/college-meal/">College Meal</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74983" id="menu-item-74983"><a href="https://www.justonecookbook.com/tags/japanese-drama-inspired/">Japanese Drama Inspired</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74984" id="menu-item-74984"><a href="https://www.justonecookbook.com/tags/kid-friendly/">Kid-Friendly</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74985" id="menu-item-74985"><a href="https://www.justonecookbook.com/tags/most-popular/">Most Popular</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74986" id="menu-item-74986"><a href="https://www.justonecookbook.com/tags/regional-food/">Regional Food</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74987" id="menu-item-74987"><a href="https://www.justonecookbook.com/tags/teriyaki/">Teriyaki</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-74974" id="menu-item-74974"><a href="https://www.justonecookbook.com/categories/recipes/how-to/">How To</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74975" id="menu-item-74975"><a href="https://www.justonecookbook.com/tags/cooking-tip/">Cooking Tip</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74976" id="menu-item-74976"><a href="https://www.justonecookbook.com/tags/cutting-technique/">Cutting Technique</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74977" id="menu-item-74977"><a href="https://www.justonecookbook.com/tags/kitchen-guide/">Kitchen Guide</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-74978" id="menu-item-74978"><a href="https://www.justonecookbook.com/tags/make-from-scratch/">Make from Scratch</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-3 right">
+<form action="https://www.justonecookbook.com/" class="searchform" method="get" role="search">
+<input autocomplete="on" name="s" placeholder="Search + Press Enter" type="text"/>
+</form> </div>
+</div>
+</div>
+</nav>
+<nav class="mobile-menu alt-link">
+<div class="col-3 right">
+<a class="open-menu" href="#drawer" id="open-menu" title="mobile-menu"><i class="fas fa-bars"></i></a>
+</div>
+<div class="col-3 middle">
+<p class="site-title"><a href="https://www.justonecookbook.com/" rel="home"><img alt="Just One Cookbook" data-no-lazy="1" data-pin-nopin="true" src="https://www.justonecookbook.com/wp-content/themes/justonecookbook/images/header.png"/></a></p>
+</div>
+<div class="col-3 right">
+<div class="search-link small-caps"><a href="#" title="search-dropdown"><i class="fas fa-search"></i></a>
+<div id="search">
+<div class="search-box alt-link">
+<div class="cl">
+<form action="/" method="get" name="search">
+<input autocomplete="off" id="search-input" name="s" placeholder="Search Posts" type="text"/>
+</form>
+</div>
+<div class="cr"><a class="toggle-search" href="#"><i class="fas fa-times"></i></a></div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</header><!-- #masthead -->
+<div class="site-content" id="content">
+<div class="content-area" id="primary">
+<main class="site-main" id="main">
+<article class="full post-7947 post type-post status-publish format-standard has-post-thumbnail hentry category-recipes tag-autumn tag-christmas tag-easy tag-party-food tag-pork tag-stovetop tag-thanksgiving tag-under-30-minutes tag-vegetable tag-winter" id="post-7947">
+<header class="entry-header">
+<h1 class="entry-title sans">Brussels Sprouts with Bacon Recipe</h1>
+</header>
+<div class="post-details small-caps gold">
+<a class="small-caps recipe-jump" href="https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/#wprm-recipe-container-60099"><i class="fas fa-utensils"></i> Jump to Recipe</a> <span class="post-comments"><i class="fas fa-comments"></i> <a href="https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/#llc_comments">Discussion</a> </span>
+</div>
+<div class="post-share alt-link">
+<li>
+<script>function fbs_click() {
+                    u = location.href;
+                    t = document.title;
+                    window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                    return false;
+                }</script>
+<a href="https://www.facebook.com/share.php?u=https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/&amp;t=Brussels Sprouts with Bacon Recipe" onclick="return fbs_click()" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.justonecookbook.com%2Fbrussels-sprouts-with-bacon-and-thyme%2F&amp;text=Brussels Sprouts with Bacon Recipe&amp;" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/&amp;media=https%3A%2F%2Fwww.justonecookbook.com%2Fwp-content%2Fuploads%2F2018%2F11%2FBrussels-Sprouts-with-Bacon-Recipe-9319-2.jpg&amp;description=Brussels Sprouts with Bacon Recipe" id="pin-it" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+<li><a href="mailto:?body=I thought you might enjoy this post: Brussels Sprouts with Bacon Recipe, https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/" id="email-this"><i class="fa fa-envelope"></i></a></li>
+</div>
+<div class="entry-content">
+<div class="code-block code-block-4" style="margin: 8px 0; clear: both;">
+<div id="amzn-assoc-ad-1d266645-30be-428c-9510-45b755bbdd81"></div><script async="" src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=1d266645-30be-428c-9510-45b755bbdd81"></script></div>
+<p> </p>
+<p><img alt="Brussels Sprouts with Bacon Recipe | www.justonecookbook.com" class="no_lazy aligncenter size-large wp-image-74503" data-pin-description="Brussels Sprouts with Bacon Recipe | www.justonecookbook.com" data-pin-title="Brussels Sprouts with Bacon Recipe" height="900" sizes="(max-width: 600px) 100vw, 600px" src="https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-600x900.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-600x900.jpg 600w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-233x350.jpg 233w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-768x1152.jpg 768w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-218x327.jpg 218w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-366x550.jpg 366w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319.jpg 800w" width="600"/></p>
+<p>My mom left for Japan after visiting for 2 weeks.  While she was here, we went to Monterey/Carmel the first weekend and Seattle the 2nd weekend.  During the weekdays, we spent a lot of time at parks where my son proudly rode his bicycle (ahem, still with training wheels) and my daughter showed off her monkey bar skills.  My mom also saw her granddaughter’s confident face during her very first swimming lesson, and at the same time she also learned her grandson often gets into trouble during swim lessons because he never pays attention to the teacher.  I’m glad she got to see some of our daily life and enjoyed her stay with us.</p>
+<p><img alt="Brussels Sprouts with Bacon Recipe | www.justonecookbook.com" class="aligncenter size-large wp-image-74502" data-pin-description="Brussels Sprouts with Bacon Recipe | www.justonecookbook.com" data-pin-title="Brussels Sprouts with Bacon Recipe" height="400" sizes="(max-width: 600px) 100vw, 600px" src="https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-600x400.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-600x400.jpg 600w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2.jpg 800w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-768x512.jpg 768w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-350x233.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Brussels-Sprouts-with-Bacon-Recipe-9319-2-698x465.jpg 698w" width="600"/></p>
+<p>So now that my 2-week “offline” holiday is over, I’m back 100% to my blogging world.  Today I want to share a veggie recipe.  You might have been aware that I had been sharing nothing but deep fried food and ice cream for several posts in a row.  My friend had recommended this recipe to me but I tweaked a little bit from the original recipe by adding fresh thyme, and changing the portion of seasonings.  It was really easy to make and very delicious.  In addition Brussels sprout contains lots of <a href="http://nutritiondata.self.com/facts/vegetables-and-vegetable-products/2363/2" rel="noopener noreferrer" target="_blank" title="Brussels Sprout nutrition">good nutrition and vitamins</a>!  I hope you give it a try next time you see Brussels sprouts in your neighborhood grocery store.</p><div class="ai-viewports ai-viewport-2 ai-viewport-3 ai-insert-3-83415736" data-block="3" data-code="PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTMnIHN0eWxlPSdtYXJnaW46IDhweCBhdXRvOyB0ZXh0LWFsaWduOiBjZW50ZXI7IGRpc3BsYXk6IGJsb2NrOyBjbGVhcjogYm90aDsnPgo8IS0tQWRUaHJpdmUgU2VraW5kbyBQbGF5ZXIgZm9yIE1vYmlsZS0tPgoKICAgICAgICAgIDxzY3JpcHQgaWQ9ImFkdGhyaXZlX3Nla2luZG9fc2NyaXB0X21vYmlsZSI+CgogICAgY29uc3Qgc2VraW5kb01vYmlsZUV4cGVyaW1lbnRDaGVjayA9IHNldEludGVydmFsKGZ1bmN0aW9uKCl7CiAgICAgIGlmKHdpbmRvdy5hZHRocml2ZSAmJiB0eXBlb2Ygd2luZG93LmFkdGhyaXZlLnZpZGVvRXhwZXJpbWVudEFjdGl2ZSAhPT0gJ3VuZGVmaW5lZCcpewogICAgICAgIGlmKCF3aW5kb3cuYWR0aHJpdmUudmlkZW9FeHBlcmltZW50QWN0aXZlKSB7CiAgICAgICAgICBjb25zdCBkaXYgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdkaXYnKTsKICAgICAgICAgIGNvbnN0IHN0cm9uZyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3N0cm9uZycpOwogICAgICAgICAgc3Ryb25nLmlubmVySFRNTCA9ICdNWSBPVEhFUiBSRUNJUEVTJzsKICAgICAgICAgIGNvbnN0IGNlbnRlciA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2NlbnRlcicpOwoKICAgICAgICAgIGNvbnN0IHNla2luZG9TY3JpcHQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsKICAgICAgICAgIHNla2luZG9TY3JpcHQudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOwogICAgICAgICAgc2VraW5kb1NjcmlwdC5zcmMgPSAnaHR0cHM6Ly9saXZlLnNla2luZG8uY29tL2xpdmUvbGl2ZVZpZXcucGhwP3M9ODc0OTMmY2J1c3Rlcj0lJUNBQ0hFQlVTVEVSJSUmcHViVXJsPSUlUkVGRVJSRVJfVVJMX0VTQ19FU0MlJSZ4PTM0MCZ5PTI2MCZ2cF9jb250ZW50RmVlZElkPU1zajNaQWZOJnN1YklkPTU1YmE5MTZjOGFkYzZmYTYxYWJhOTg2YSc7CiAgICAgICAgICBzZWtpbmRvU2NyaXB0LmRlZmVyID0gdHJ1ZTsKCiAgICAgICAgICBkaXYuYXBwZW5kQ2hpbGQoc3Ryb25nKTsKICAgICAgICAgIGRpdi5hcHBlbmRDaGlsZChzZWtpbmRvU2NyaXB0KTsKICAgICAgICAgIGNlbnRlci5hcHBlbmRDaGlsZChkaXYpOwogICAgICAgICAgY29uc3QgcE5vZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnYWR0aHJpdmVfc2VraW5kb19zY3JpcHRfbW9iaWxlJykucGFyZW50Tm9kZTsKCiAgICAgICAgICBwTm9kZS5hcHBlbmRDaGlsZChjZW50ZXIpOwogICAgICAgIH0KICAgICAgICBjbGVhckludGVydmFsKHNla2luZG9Nb2JpbGVFeHBlcmltZW50Q2hlY2spOwogICAgICB9CiAgICB9LCA1MCk7CgogICAgPC9zY3JpcHQ+CiAgICAgICAgCjwhLS1FbmQgQWRUaHJpdmUgU2VraW5kbyBQbGF5ZXIgZm9yIE1vYmlsZS0tPjwvZGl2Pgo=" data-insertion="after" data-insertion-no-dbg="" data-selector=".ai-insert-3-83415736"></div>
+<p>Have a wonderful week everyone.  Enjoy the rest of summer with kids before school starts this month!</p>
+<p><img alt="Brussels Sprouts with Bacon and Thyme on a plate." class="aligncenter wp-image-10083 size-full" data-pin-description="Brussels Sprouts with Bacon Recipe - Brussels sprouts are full of nutrition and vitamins, here's a simple and delicious way to prepare Brussels sprouts with bacon. #brusselssproutsrecipe #appetizer #baconbitsrecipes #simpleveggiesides #warmsaladrecipes | Easy Japanese Recipes at JustOneCookbook.com" data-pin-title="Brussels Sprouts with Bacon Recipe" height="635" sizes="(max-width: 550px) 100vw, 550px" src="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme.jpg 550w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-303x350.jpg 303w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-150x173.jpg 150w" title="Brussels Sprouts with Bacon and Thyme" width="550"/></p><div class="ai-viewports ai-viewport-1 ai-insert-2-21808607" data-block="2" data-code="PGRpdiBjbGFzcz0nY29kZS1ibG9jayBjb2RlLWJsb2NrLTInIHN0eWxlPSdtYXJnaW46IDhweCAwOyBjbGVhcjogYm90aDsnPgo8IS0tIEFkVGhyaXZlIEpXIENvbGxhcHNpYmxlIFBsYXllciAtLT4KCiAgICAgICAgPHNjcmlwdCBpZD0iYWR0aHJpdmVfY29sbGFwc2Vfc2NyaXB0X2Rlc2t0b3AiPgoKICAgIGNvbnN0IGNvbGxhcHNlRXhwZXJpbWVudENoZWNrID0gc2V0SW50ZXJ2YWwoZnVuY3Rpb24oKXsKICAgICAgaWYod2luZG93LmFkdGhyaXZlICYmIHR5cGVvZiB3aW5kb3cuYWR0aHJpdmUudmlkZW9FeHBlcmltZW50QWN0aXZlICE9PSAndW5kZWZpbmVkJyl7CiAgICAgICAgaWYoIXdpbmRvdy5hZHRocml2ZS52aWRlb0V4cGVyaW1lbnRBY3RpdmUpIHsKICAgICAgICAgIGNvbnN0IGp3U2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7CiAgICAgICAgICBqd1NjcmlwdC50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7CiAgICAgICAgICBqd1NjcmlwdC5zcmMgPSAnaHR0cHM6Ly9jb250ZW50Lmp3cGxhdGZvcm0uY29tL2xpYnJhcmllcy9kbHUwckFidy5qcyc7CiAgICAgICAgICBqd1NjcmlwdC5vbmxvYWQgPSBmdW5jdGlvbigpewogICAgICAgICAgICB3aW5kb3cuandDb2xsYXBzZURlZmF1bHRzID0gd2luZG93Lmp3cGxheWVyLmRlZmF1bHRzOwogICAgICAgICAgICBjb25zdCBjb2xsYXBzZVNjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgICAgICBjb2xsYXBzZVNjcmlwdC50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7CiAgICAgICAgICAgIGNvbGxhcHNlU2NyaXB0LnNyYyA9ICdodHRwczovL2Fkcy5hZHRocml2ZS5jb20vdmlkZW8vNTViYTkxNmM4YWRjNmZhNjFhYmE5ODZhLmpzJzsKICAgICAgICAgICAgcE5vZGUuYXBwZW5kQ2hpbGQoY29sbGFwc2VTY3JpcHQpOwogICAgICAgICAgfQoKICAgICAgICAgIGNvbnN0IGRpdiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgICAgICAgZGl2LmNsYXNzTmFtZSA9ICdwbGF5ZXItY29udGFpbmVyJzsKICAgICAgICAgIGRpdi5zZXRBdHRyaWJ1dGUoJ3N0eWxlJywgJ21hcmdpbjogMHB4IGF1dG87d2lkdGg6IDEwMCUnKTsKCiAgICAgICAgICBjb25zdCBpbm5lckRpdiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwogICAgICAgICAgaW5uZXJEaXYuY2xhc3NOYW1lID0gJ3BsYXllci1wb3NpdGlvbic7CgogICAgICAgICAgY29uc3QgcGxheWVyRGl2ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CiAgICAgICAgICBwbGF5ZXJEaXYuaWQgPSAncGxheWVyJzsKICAgICAgICAgIHBsYXllckRpdi5kYXRhc2V0LnBsaWQgPSAnTXNqM1pBZk4nOwogICAgICAgICAgcGxheWVyRGl2LmRhdGFzZXQuc3RpY2t5ID0gIiI7CiAgICAgICAgICBwbGF5ZXJEaXYuZGF0YXNldC5zaHVmZmxlID0gIiI7CiAgICAgICAgICAKCiAgICAgICAgICBjb25zdCBzcGFuID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc3BhbicpOwogICAgICAgICAgc3Bhbi5pbm5lckhUTUwgPSAnPGltZyBzcmM9Imh0dHBzOi8vd3d3Lmp1c3RvbmVjb29rYm9vay5jb20vd3AtY29udGVudC91cGxvYWRzLzIwMTgvMTEvam9jLWxvZ28tY29sb3Itc3RhY2tlZC5wbmciPk1ZIE9USEVSIFJFQ0lQRVMnOwogICAgICAgICAgc3Bhbi5jbGFzc05hbWUgPSAnY29weSc7CgogICAgICAgICAgaW5uZXJEaXYuYXBwZW5kQ2hpbGQoc3Bhbik7CiAgICAgICAgICBpbm5lckRpdi5hcHBlbmRDaGlsZChwbGF5ZXJEaXYpOwogICAgICAgICAgZGl2LmFwcGVuZENoaWxkKGlubmVyRGl2KTsKCiAgICAgICAgICBjb25zdCBwTm9kZSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdhZHRocml2ZV9jb2xsYXBzZV9zY3JpcHRfZGVza3RvcCcpLnBhcmVudE5vZGU7CgogICAgICAgICAgcE5vZGUuYXBwZW5kQ2hpbGQoandTY3JpcHQpOwogICAgICAgICAgcE5vZGUuYXBwZW5kQ2hpbGQoZGl2KTsKICAgICAgICB9CiAgICAgICAgY2xlYXJJbnRlcnZhbChjb2xsYXBzZUV4cGVyaW1lbnRDaGVjayk7CiAgICAgIH0KICAgIH0sIDUwKTsKCiAgICA8L3NjcmlwdD4KICAgICAgCjxzdHlsZT4KLmNvcHl7CmNvbG9yOiAjOTA3MjVhICFpbXBvcnRhbnQ7Cn0KLnBsYXllclRvcHsKICB0b3A6IDU2cHggIWltcG9ydGFudDsgCn0KPC9zdHlsZT4KPCEtLSBFbmQgQWRUaHJpdmUgSlcgQ29sbGFwc2libGUgUGxheWVyIC0tPjwvZGl2Pgo=" data-insertion="after" data-insertion-no-dbg="" data-selector=".ai-insert-2-21808607"></div>
+<p style="text-align: left;">Don’t want to miss a recipe? Sign up for the <a href="https://www.justonecookbook.com/subscribe/">FREE Just One Cookbook newsletter</a> delivered to your inbox! And stay in touch on <a class="ext-link" data-wpel-target="_blank" href="https://www.facebook.com/justonecookbook" rel="external nofollow" title="">Facebook</a>, <a class="ext-link" data-wpel-target="_blank" href="https://plus.google.com/+NamikoChen/posts" rel="external nofollow" title="">Google+</a>, <a class="ext-link" data-wpel-target="_blank" href="https://www.pinterest.com/justonecookbook/" rel="external nofollow" title="">Pinterest</a>, and <a class="ext-link" data-wpel-target="_blank" href="https://instagram.com/justonecookbook" rel="external nofollow" title="">Instagram</a> for all the latest updates. Thank you so much for reading, and till next time!</p>
+<div class="wprm-recipe-container" data-recipe-id="60099" id="wprm-recipe-container-60099"><div class="wprm-recipe wprm-recipe-tastefully-simple">
+<div class="wprm-recipe-image-container">
+<div class="wprm-recipe-rating wprm-user-rating wprm-user-rating-allowed" data-average="5" data-count="1" data-total="5" data-user="0"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">5</span> from <span class="wprm-recipe-rating-count">1</span> vote</div></div> <div class="wprm-recipe-image"><img alt="Brussels Sprouts with Bacon and Thyme on a plate." class="attachment-200x200 size-200x200" data-pin-description="Brussels Sprouts with Bacon Recipe - Brussels sprouts are full of nutrition and vitamins, here's a simple and delicious way to prepare Brussels sprouts with bacon. #brusselssproutsrecipe #appetizer #baconbitsrecipes #simpleveggiesides #warmsaladrecipes | Easy Japanese Recipes at JustOneCookbook.com" height="200" sizes="(max-width: 200px) 100vw, 200px" src="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-225x225.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-225x225.jpg 225w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-400x400.jpg 400w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-500x500.jpg 500w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-182x182.jpg 182w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-115x115.jpg 115w" width="200"/></div>
+<div class="wprm-recipe-buttons">
+<a class="wprm-recipe-print wprm-color-accent" href="https://www.justonecookbook.com/wprm_print/60099" rel="nofollow" target="_blank">Print</a>
+</div>
+</div>
+<div class="wprm-recipe-name wprm-color-header">Brussels Sprouts with Bacon and Thyme</div>
+<div class="wprm-recipe-times-container wprm-color-border">
+<div class="wprm-recipe-time-container wprm-color-border">
+<div class="wprm-recipe-time-header">Prep Time</div>
+<div class="wprm-recipe-time"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">mins</span></div>
+</div>
+<div class="wprm-recipe-time-container wprm-color-border">
+<div class="wprm-recipe-time-header">Cook Time</div>
+<div class="wprm-recipe-time"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">25</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">mins</span></div>
+</div>
+<div class="wprm-recipe-time-container wprm-color-border">
+<div class="wprm-recipe-time-header">Total Time</div>
+<div class="wprm-recipe-time"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">30</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">mins</span></div>
+</div>
+<div class="wprm-clear-left"> </div>
+</div>
+<div class="wprm-recipe-summary">
+<p>My friend had recommended this recipe to me but I tweaked a little bit from the original recipe by adding fresh thyme, and changing the portion of seasonings.  It was really easy to make and very delicious.  In addition Brussels sprout contains lots of good nutrition and vitamins!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Course:</span>
+<span class="wprm-recipe-course">
+					Side Dish				</span>
+</div>
+<div class="wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					American, Japanese				</span>
+</div>
+<div class="wprm-recipe-keyword-container">
+<span class="wprm-recipe-details-name wprm-recipe-keyword-name">Keyword:</span>
+<span class="wprm-recipe-keyword">
+					caramelized brussel sprout, roasted brussel sprout				</span>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details-name wprm-recipe-servings-name">Servings</span>: <span class="wprm-recipe-details wprm-recipe-servings wprm-recipe-servings-60099">2</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit"></span>
+</div>
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details-name wprm-recipe-author-name">Author</span>: <span class="wprm-recipe-details wprm-recipe-author">Nami</span>
+</div>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<div class="wprm-recipe-header wprm-color-header">Ingredients</div>
+<div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">10</span>
+<span class="wprm-recipe-ingredient-name">Brussels Sprouts</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">extra virgin olive oil</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">slices</span>
+<span class="wprm-recipe-ingredient-name">applewood smoked bacon</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2-3</span>
+<span class="wprm-recipe-ingredient-unit">strings</span>
+<span class="wprm-recipe-ingredient-name">thymes</span>
+<span class="wprm-recipe-ingredient-notes">(fresh)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">apple cider vinegar</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-unit">Small pinch</span>
+<span class="wprm-recipe-ingredient-name">kosher/sea salt (use half for table salt)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-name">Freshly ground black pepper</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<div class="wprm-recipe-header wprm-color-header">Instructions</div>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Gather all the ingredients.</p><p>Bring a large pot of water to a boil and salt it generously.</p></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 1" class="attachment-700 size-700" height="233" sizes="(max-width: 350px) 100vw, 350px" src="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193-205x135.jpg 205w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-1-e1312148853193-150x100.jpg 150w" width="350"/></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Trim the bottom of Brussel sprouts, leaving the core intact, and cut in half. Cut bacon crosswise into ½ -inch strips.<br/></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 2" class="attachment-700 size-700" height="233" sizes="(max-width: 350px) 100vw, 350px" src="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769-205x135.jpg 205w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-2-e1312149176769-150x100.jpg 150w" width="350"/></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">When the water boils, throw in the Brussel sprouts and cook uncovered for 6 minutes, until crisp-tender. Drain in a colander and set aside.<br/></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 3" class="attachment-700 size-700" height="233" sizes="(max-width: 350px) 100vw, 350px" src="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371-205x135.jpg 205w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-3-e1312149268371-150x100.jpg 150w" width="350"/></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Meanwhile in a large frying pan, heat a tablespoon of oil on medium high heat. Cook bacon, stirring occasionally, until it gets crispy. Then remove the bacon to plate and set aside.<br/></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 4" class="attachment-700 size-700" height="183" sizes="(max-width: 550px) 100vw, 550px" src="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-4-e1312149428617.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-4-e1312149428617.jpg 550w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-4-e1312149428617-350x116.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-4-e1312149428617-150x50.jpg 150w" width="550"/></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Heat the pan to medium high heat and add Brussels sprouts and thyme in the same pan. Cook, stirring occasionally, for 5 minutes or until they brown.<br/></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 5" class="attachment-700 size-700" height="184" sizes="(max-width: 550px) 100vw, 550px" src="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-5-e1312149454953.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-5-e1312149454953.jpg 550w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-5-e1312149454953-350x117.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/07/Brussels-Sprouts-with-Bacon-and-Thyme-5-e1312149454953-150x50.jpg 150w" width="550"/></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Stir in the apple cider vinegar, (salt,) pepper, and bacon and serve warm.<br/></div>
+<div class="wprm-recipe-instruction-image"><img alt="Brussels Sprouts with Bacon and Thyme 6" class="attachment-700 size-700" height="233" sizes="(max-width: 350px) 100vw, 350px" src="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383-205x135.jpg 205w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2011/05/Brussels-Sprouts-with-Bacon-and-Thyme-6-e1312149657383-150x100.jpg 150w" width="350"/></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-notes-container">
+<div class="wprm-recipe-header wprm-color-header">Recipe Notes</div>
+<p><em>Adapted from <a href="http://www.foodnetwork.com/recipes/food-network-kitchens/brussels-sprouts-with-bacon-recipe.html" title="Food Network">Food Network</a>.</em></p>
+<p> </p>
+<p> </p>
+<p><i><span style="font-weight: 400"> All images and content on this site are copyright protected. Please do not use my images without my permission. If you’d like to share this recipe on your site, please re-write the recipe in your own words and link to this post as the original source. Thank you.</span></i></p>
+<p> </p>
+</div>
+</div>
+</div>
+<p> </p>
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span> </div>
+<div class="social-cta">
+<div class="icon">
+<a href="https://www.justonecookbook.com/" rel="home"><img alt="Just One Cookbook" content="nopin" src="https://www.justonecookbook.com/wp-content/themes/justonecookbook/images/favicon.png"/></a>
+</div>
+<h5>Did You Make This Recipe?</h5>
+<div class="content-meta"><p>If you make this recipe, snap a pic and hashtag it <a href="https://www.instagram.com/explore/tags/justonecookbook/" rel="nofollow noopener" target="_blank">#justonecookbook</a> — We love to see your creations on <a href="https://www.instagram.com/explore/tags/justonecookbook/" rel="nofollow noopener" target="_blank">Instagram</a>, <a href="https://www.facebook.com/hashtag/justonecookbook" rel="nofollow noopener" target="_blank">Facebook</a>, and <a href="https://twitter.com/hashtag/justonecookbook" rel="nofollow noopener" target="_blank">Twitter</a>!</p>
+</div>
+</div>
+<div class="post-related">
+<h3 class="gold">Make It Into A Meal</h3> <div class="relatedposts">
+<article class="grid thumb post-6495">
+<div class="grid-post">
+<div class="featured-image">
+<a href="https://www.justonecookbook.com/chicken-curry/" title="Chicken Curry チキンカレー"><img alt="Chicken Curry | www.justonecookbook.com" class="attachment-vertical-small size-vertical-small" data-pin-description="Chicken Curry | www.justonecookbook.com" height="375" sizes="(max-width: 250px) 100vw, 250px" src="https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2.jpg 800w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2-233x350.jpg 233w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2-768x1152.jpg 768w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2-600x900.jpg 600w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2-218x327.jpg 218w, https://www.justonecookbook.com/wp-content/uploads/2018/11/Chicken-Curry-6925-2-366x550.jpg 366w" width="250"/></a>
+</div>
+<div class="thumb-info">
+<div class="abbr-info-group">
+<h4 class="alt-link"><a href="https://www.justonecookbook.com/chicken-curry/" rel="bookmark">Chicken Curry チキンカレー</a></h4>
+</div>
+</div>
+</div>
+</article>
+<article class="grid thumb post-30817">
+<div class="grid-post">
+<div class="featured-image">
+<a href="https://www.justonecookbook.com/how-to-cook-rice/" title="How To Cook Japanese Rice on the Stove"><img alt="How To Cook Rice | Easy Japanese Recipes at JustOneCookbook.com" class="attachment-vertical-small size-vertical-small" height="375" sizes="(max-width: 250px) 100vw, 250px" src="https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II.jpg 600w, https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II-233x350.jpg 233w, https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II-150x225.jpg 150w, https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II-218x327.jpg 218w, https://www.justonecookbook.com/wp-content/uploads/2013/12/How-To-Cook-Rice-II-366x550.jpg 366w" width="250"/></a>
+</div>
+<div class="thumb-info">
+<div class="abbr-info-group">
+<h4 class="alt-link"><a href="https://www.justonecookbook.com/how-to-cook-rice/" rel="bookmark">How To Cook Japanese Rice on the Stove</a></h4>
+</div>
+</div>
+</div>
+</article>
+<article class="grid thumb post-3194">
+<div class="grid-post">
+<div class="featured-image">
+<a href="https://www.justonecookbook.com/spinach-with-sesame-sauce/" title="Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae) ほうれん草の胡麻和え"><img alt="Spinach Gomaae (Japanese Spinach Salad with Sesame Dressing) | Easy Japanese Recipes at JustOneCookbook.com" class="attachment-vertical-small size-vertical-small" height="375" sizes="(max-width: 250px) 100vw, 250px" src="https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1.jpg 600w, https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1-233x350.jpg 233w, https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1-150x225.jpg 150w, https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1-218x327.jpg 218w, https://www.justonecookbook.com/wp-content/uploads/2011/03/Spinach-Gomaae-II-1-366x550.jpg 366w" width="250"/></a>
+</div>
+<div class="thumb-info">
+<div class="abbr-info-group">
+<h4 class="alt-link"><a href="https://www.justonecookbook.com/spinach-with-sesame-sauce/" rel="bookmark">Japanese Spinach Salad with Sesame Dressing (Horenso Gomaae) ほうれん草の胡麻和え</a></h4>
+</div>
+</div>
+</div>
+</article>
+<article class="grid thumb post-23384">
+<div class="grid-post">
+<div class="featured-image">
+<a href="https://www.justonecookbook.com/pickled-daikon/" title="Pickled Daikon 大根の漬物"><img alt="Japanese Pickled Daikon in a Japanese blue ceramic bowl." class="attachment-vertical-small size-vertical-small" data-pin-description="Make the popular Pickled Daikon from Japanese restaurants right in your own kitchen! #tsukemono #pickle | Easy Japanese Recipes at JustOneCookbook.com" height="375" sizes="(max-width: 250px) 100vw, 250px" src="https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II-250x375.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II-250x375.jpg 250w, https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II-533x800.jpg 533w, https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II-768x1152.jpg 768w, https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II.jpg 800w, https://www.justonecookbook.com/wp-content/uploads/2019/08/Pickled-Daikon-1636-II-400x600.jpg 400w" width="250"/></a>
+</div>
+<div class="thumb-info">
+<div class="abbr-info-group">
+<h4 class="alt-link"><a href="https://www.justonecookbook.com/pickled-daikon/" rel="bookmark">Pickled Daikon 大根の漬物</a></h4>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<footer class="entry-footer alt-link big-serif">
+<div class="post-cat col-3 left">
+<div class="small-caps gold">posted on:</div>
+                Aug 01, 2011            </div>
+<div class="post-cat col-3 middle">
+<div class="small-caps gold">filed in:</div>
+                · <a href="https://www.justonecookbook.com/categories/recipes/" rel="category tag">Recipes</a> · <a href="https://www.justonecookbook.com/tags/autumn/" rel="tag">Autumn</a> · <a href="https://www.justonecookbook.com/tags/christmas/" rel="tag">Christmas</a> · <a href="https://www.justonecookbook.com/tags/easy/" rel="tag">Easy</a> · <a href="https://www.justonecookbook.com/tags/party-food/" rel="tag">Party Food</a> · <a href="https://www.justonecookbook.com/tags/pork/" rel="tag">Pork</a> · <a href="https://www.justonecookbook.com/tags/stovetop/" rel="tag">Stovetop</a> · <a href="https://www.justonecookbook.com/tags/thanksgiving/" rel="tag">Thanksgiving</a> · <a href="https://www.justonecookbook.com/tags/under-30-minutes/" rel="tag">Under 30 Minutes</a> · <a href="https://www.justonecookbook.com/tags/vegetable/" rel="tag">Vegetable</a> · <a href="https://www.justonecookbook.com/tags/winter/" rel="tag">Winter</a>  ·
+            </div>
+<div class="post-cat col-3 right">
+<div class="small-caps gold">Written By:</div>
+<a href="https://www.justonecookbook.com/author/administrator/" rel="author" title="Posts by Nami">Nami</a> </div>
+</footer>
+<div class="post-thumb-nav">
+<div class="prev-post">
+<div class="post-preview">
+<div class="post-preview-img">
+<a href="https://www.justonecookbook.com/cantinetta-luca-carmel-by-the-sea/">
+<img alt="Cantinetta Luca" class="attachment-horizontal size-horizontal wp-post-image" data-pin-url="https://www.justonecookbook.com/cantinetta-luca-carmel-by-the-sea/" height="400" src="https://www.justonecookbook.com/wp-content/uploads/2011/07/IMG_5107-e1311925879625-550x400.jpg" width="550"/> </a>
+</div>
+<div class="post-preview-info">
+<div class="small-caps gold"><a href="https://www.justonecookbook.com/cantinetta-luca-carmel-by-the-sea/" rel="prev">Previous Post</a></div>
+<h5 class="alt-link"><a class="post-nav-title" href="https://www.justonecookbook.com/?p=9976">Cantinetta Luca @ Carmel-by-the-sea</a>
+</h5>
+</div>
+</div>
+</div>
+<div class="next-post">
+<div class="post-preview">
+<div class="post-preview-img">
+<a href="https://www.justonecookbook.com/spaghetti-meat-sauce/">
+<img alt="Spaghetti Meat Sauce III" class="attachment-horizontal size-horizontal wp-post-image" data-pin-url="https://www.justonecookbook.com/spaghetti-meat-sauce/" height="366" sizes="(max-width: 550px) 100vw, 550px" src="https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189.jpg" srcset="https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189.jpg 550w, https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189-300x200.jpg 300w, https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189-350x233.jpg 350w, https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189-205x135.jpg 205w, https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189-259x173.jpg 259w, https://www.justonecookbook.com/wp-content/uploads/2011/06/Spaghetti-Meat-Sauce-III-e1307860649189-150x100.jpg 150w" width="550"/> </a>
+</div>
+<div class="post-preview-info">
+<div class="small-caps gold"><a href="https://www.justonecookbook.com/cantinetta-luca-carmel-by-the-sea/" rel="prev">Next Post </a></div>
+<h5 class="alt-link"><a class="post-nav-title" href="https://www.justonecookbook.com/blog1/?p=2309">Spaghetti Meat Sauce</a>
+</h5>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-post-share">
+<div class="post-share alt-link">
+<li>
+<script>function fbs_click() {
+                    u = location.href;
+                    t = document.title;
+                    window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+                    return false;
+                }</script>
+<a href="https://www.facebook.com/share.php?u=https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/&amp;t=Brussels Sprouts with Bacon Recipe" onclick="return fbs_click()" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+<li>
+<a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.justonecookbook.com%2Fbrussels-sprouts-with-bacon-and-thyme%2F&amp;text=Brussels Sprouts with Bacon Recipe&amp;" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/&amp;media=https%3A%2F%2Fwww.justonecookbook.com%2Fwp-content%2Fuploads%2F2018%2F11%2FBrussels-Sprouts-with-Bacon-Recipe-9319-2.jpg&amp;description=Brussels Sprouts with Bacon Recipe" id="pin-it" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+<li><a href="mailto:?body=I thought you might enjoy this post: Brussels Sprouts with Bacon Recipe, https://www.justonecookbook.com/brussels-sprouts-with-bacon-and-thyme/" id="email-this"><i class="fa fa-envelope"></i></a></li>
+</div>
+</div>
+<div class="brand-cta">
+<div class="cl">
+<div class="cookbook-cta">
+<div id="cookbook-cta">
+<div class="cookbook-content">
+<a href="https://www.justonecookbook.com/just-one-cookbook-essential-japanese-recipes/"><img alt="Just One Cookbook Essential Japanese Recipes" src="https://www.justonecookbook.com/wp-content/uploads/2019/04/Just-One-Cookbook-Essential-Japanese-Recipes.jpg"/></a>
+<h4> <a href="https://www.justonecookbook.com/just-one-cookbook-essential-japanese-recipes/">Love Our Recipes?</a></h4>
+<div class="content-meta"><p>Buy our best-selling e-cookbook for 33 more easy and simple recipes!</p>
+</div>
+<div class="subscribe-button small-caps">
+<a href="https://www.justonecookbook.com/just-one-cookbook-essential-japanese-recipes/">Purchase Today!</a>
+</div>
+</div>
+</div>
+</div></div>
+<div class="cr"><div class="subscribe post-subscribe">
+<div class="subscribe-box white">
+<h4>5 Secrets to Japanese Cooking!</h4>
+<div class="content-meta"><p><strong>free email series</strong></p>
+<p>Simple Meals &amp; Authentic Flavors!</p>
+</div>
+<div class="subscribe-form"><p><center></center></p>
+<div style="display: block; margin: 10px auto 0; background: #8f7259; color: #fff; font-size: 12px; font-weight:800;line-height: 1;padding: 15px 20px; max-width: 200px;"> <a href="https://www.justonecookbook.com/subscribe/" style="color:#fff;">Subscribe</a></div>
+<p></p></div></div></div></div></div></article></main></div></div></div></body>

@@ -1,0 +1,354 @@
+<body class="post-template-default single single-post postid-51101 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-51101 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-30-minutes-or-less category-7-ingredients-or-less category-breakfast category-dairy-free category-egg-free category-fall category-gluten-free category-grain-free category-no-bake category-nut-free category-oil-free category-one-bowl category-recipes category-refined-sugar-free category-sauce category-snacks category-soy-free category-spring category-sweet-things category-vegan category-vegetarian category-winter tag-apples tag-applesauce tag-cinnamon tag-lemon entry"><header class="entry-header"><h1 class="entry-title">3-Ingredient Applesauce (No Sugar Added)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Spoon in a jar of our No Sugar Added Applesauce recipe" class="tasty-pins-hidden-image" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2020/02/MB-Applesauce-Pinterest.jpg" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" src="https://minimalistbaker.com/wp-content/uploads/2020/02/MB-Applesauce-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Spoon in a jar of homemade applesauce beside a lemon wedge, cinnamon sticks, and an apple" class="wp-image-51128" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15-680x1020.jpg 680w"/></figure>
+<p>If you’ve never made your own applesauce, you’re missing out! It’s one of those foods that tastes better homemade than store-bought. </p>
+<p>Plus, it’s super simple to make! Our <strong>3-ingredient</strong> applesauce requires just <strong>25 minutes</strong> and <strong>1 pan</strong> to prepare. And it’s made without any added sugar. Just apples, lemon, and cinnamon. Let’s do this!</p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/yoYCdy_Hmv8" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Cutting board with apples, lemon, and cinnamon for making homemade applesauce" class="wp-image-51129" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-680x1020.jpg 680w"/></figure>
+<span id="more-51101"></span>
+<h2>How to Make Applesauce</h2>
+<p>We told you it’s easy, but “<em>How eas</em>y?” you might ask!</p>
+<ol><li>Peel and chop apples. You don’t even <em>need</em> to peel them if that’s more your style!</li><li>Add to a saucepan with cinnamon.</li><li>Cook 15-20 minutes, stirring occasionally.</li><li>Mash with a spoon or potato masher and add lemon juice.</li></ol>
+<p>That’s it!</p>
+<h2>Best Apples for Applesauce</h2>
+<p>We prefer applesauce that doesn’t need any sugar added. Honeycrisps (or other sweet varieties) work well for creating a naturally sweet sauce.</p>
+<p>For a tart applesauce, you can choose Granny Smith apples instead.</p>
+<figure class="wp-block-image"><img alt="Diced apples and cinnamon in a saucepan for making our simple homemade applesauce recipe" class="wp-image-51115" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-2-680x1020.jpg 680w"/></figure>
+<p>We hope you LOVE this applesauce. It’s:<br/><br/>Naturally sweet<br/>Super simple<br/>Quick<br/>Versatile<br/>Great for freezing<br/>&amp; SO delicious!</p>
+<p>It’s incredible by the spoonful but would also pair well with <a aria-label="coconut yogurt (opens in a new tab)" href="https://minimalistbaker.com/easy-2-ingredient-coconut-yogurt/" rel="noreferrer noopener" target="_blank">coconut yogurt</a>, <a aria-label="vegan vanilla ice cream (opens in a new tab)" href="https://minimalistbaker.com/vanilla-bean-coconut-ice-cream/" rel="noreferrer noopener" target="_blank">vegan vanilla ice cream</a>, <a aria-label="coconut whipped cream (opens in a new tab)" href="https://minimalistbaker.com/how-to-make-coconut-whipped-cream/" rel="noreferrer noopener" target="_blank">coconut whipped cream</a>, <a aria-label="oats (opens in a new tab)" href="https://minimalistbaker.com/brown-sugar-pear-steel-cut-oats/" rel="noreferrer noopener" target="_blank">oats</a>, <a aria-label="waffles (opens in a new tab)" href="https://minimalistbaker.com/the-best-vegan-gluten-free-waffles/" rel="noreferrer noopener" target="_blank">waffles</a>, <a aria-label="pancakes (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-grain-free-pancakes/" rel="noreferrer noopener" target="_blank">pancakes</a> (or <a aria-label="vegan pancakes (opens in a new tab)" href="https://minimalistbaker.com/toasted-coconut-pancakes/" rel="noreferrer noopener" target="_blank">vegan pancakes</a>), and so much more! We think you could even use it as an alternative topping for our <a aria-label="Caramel Apple Cheesecake Tart (opens in a new tab)" href="https://minimalistbaker.com/caramel-apple-cheesecake-tart/" rel="noreferrer noopener" target="_blank">Caramel Apple Cheesecake Tart</a>.</p>
+<figure class="wp-block-image"><img alt="Using a potato masher to smash apples in a saucepan for easy homemade applesauce" class="wp-image-51122" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-9-680x1020.jpg 680w"/></figure>
+<h2>Recipes with Applesauce</h2>
+<p>Some of our vegan baking recipes use applesauce as an egg replacement. To use this homemade applesauce in such recipes, <strong>we recommend puréeing into a smoother texture</strong>.</p>
+<ul><li><a aria-label="Vegan Gluten-Free Apple Cider Donuts  (opens in a new tab)" href="https://minimalistbaker.com/vegan-gluten-free-apple-cider-donuts/" rel="noreferrer noopener" target="_blank">Vegan Gluten-Free Apple Cider Donuts</a></li><li><a aria-label="1-Bowl Vegan Gluten-Free Vanilla Cake (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-vegan-gluten-free-vanilla-cake/" rel="noreferrer noopener" target="_blank">1-Bowl Vegan Gluten-Free Vanilla Cake</a></li><li><a aria-label="1-Bowl Chocolate Zucchini Bread (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-chocolate-zucchini-bread/" rel="noreferrer noopener" target="_blank">1-Bowl Chocolate Zucchini Bread</a></li><li><a aria-label="1-Bowl Vegan Gluten-Free Carrot Cake  (opens in a new tab)" href="https://minimalistbaker.com/1-bowl-vegan-gluten-free-carrot-cake/" rel="noreferrer noopener" target="_blank">1-Bowl Vegan Gluten-Free Carrot Cake</a></li><li><a aria-label="1-Bowl Carrot Apple Muffins (Vegan + GF) (opens in a new tab)" href="https://minimalistbaker.com/one-bowl-carrot-apple-muffins-vegan-gf/" rel="noreferrer noopener" target="_blank">1-Bowl Carrot Apple Muffins (Vegan + GF)</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a pot of homemade unsweetened applesauce" class="wp-image-51125" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-title="3-Ingredient Applesauce (No Sugar Added)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-12-680x1020.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="51103" id="wprm-recipe-container-51103"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/51103" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Using a wooden spoon to stir a pan of our easy Applesauce recipe" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-400x400.jpg" data-pin-description="DELICIOUS 3-Ingredient Applesauce! No sugar added, stovetop, 1 pan, 20 minutes, SO satisfying! #recipe #minimalistbaker #apples #plantbased #glutenfree" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-768x768.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-680x680.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-600x600.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2020/01/3-Ingredient-Applesauce-SQUARE.jpg 1445w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+</div>
+</div>
+<h2 class="wprm-recipe-name">3-Ingredient Applesauce (No Sugar Added)</h2>
+<div class="wprm-recipe-summary">
+<p>Unbelievably simple applesauce made right on the stovetop with 3 ingredients. Ready in less than 30 minutes, no added sugar, delicious applesauce every time.</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">5</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">20</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">25</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">4</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(1/4-cup servings)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Condiment, Snack				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					American, Gluten-Free, Grain-Free, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					1 month				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					4-5 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="51103" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="51103" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">medium</span>
+<span class="wprm-recipe-ingredient-name">honeycrisp apples, peeled, cored, and chopped in bite-size pieces</span>
+<span class="wprm-recipe-ingredient-notes">(sweet apples are best // for tart applesauce, use Granny Smith // organic when possible)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">ground cinnamon</span>
+<span class="wprm-recipe-ingredient-notes">(plus more to taste)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">lemon juice </span>
+<span class="wprm-recipe-ingredient-notes">(for preserving / keeping fresh longer)</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>To a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QogvOAdKEEbgsrF1J9WF9FcAAAFvkYrAKQEAAAFKAT0sVQU/https://www.amazon.com/Dansk-833300-Kobenstyle-Saucepan-Medium/dp/B009SQIW2K/?creativeASIN=B009SQIW2K&amp;linkCode=w61&amp;imprToken=0JEqSJpS0h84uQpsrCevPw&amp;slotNum=27&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">medium saucepan</a> add apples and cinnamon. <strong>Cover</strong> and cook over medium heat until it simmers, then reduce heat to low / medium-low and continue cooking until the apples are tender and very slightly caramelized — about 15-20 minutes. Stir occasionally. </p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Once cooked, add lemon juice and stir. Then use the back of your spoon or a potato masher to mash into a loose sauce. You could also blend in a <a href="https://aax-us-east.amazon-adsystem.com/x/c/QuIW8Q-yYzFoghduLBCmsM4AAAFvkcNxnAEAAAFKAVD2MBU/https://www.amazon.com/dp/B00LBZOYAK/?creativeASIN=B00LBZOYAK&amp;linkCode=w61&amp;imprToken=aOROMdQwVEAI0-3HPnU4LA&amp;slotNum=9&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">food processor</a> for smoother texture (optional). </p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Enjoy fresh, or store cooled leftovers in the refrigerator up to 4-5 days, or in the freezer up to 1 month. We enjoy it cold, but it could also be heated in the microwave or on the stovetop over low heat until hot.</p></div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/yoYCdy_Hmv8" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Nutrition information is a rough estimate.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 4 quarter-cup servings) </h3><ul><li><strong>Calories:</strong> 21 <li><strong>Potassium:</strong> 45mg <li><strong>Carbohydrates:</strong> 5.7g <li><strong>Fiber:</strong> 0.5g <li><strong>Sugar:</strong> 4g <li><strong>Vitamin A:</strong> 26IU <li><strong>Vitamin C:</strong> 2.31mg <li><strong>Calcium:</strong> 1.71mg <li><strong>Iron:</strong> 0.1mg</li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="3-Ingredient Applesauce (No Sugar Added)" data-jpibfi-post-url="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2F3-ingredient-applesauce-no-sugar-added%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=3-Ingredient%20Applesauce%20(No%20Sugar%20Added)&amp;url=https%3A%2F%2Fminimalistbaker.com%2F3-ingredient-applesauce-no-sugar-added%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2F3-ingredient-applesauce-no-sugar-added%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2020/01/DELICIOUS-3-Ingredient-Applesauce-No-sugar-added-stovetop-1-pan-20-minutes-SO-satisfying-recipe-minimalistbaker-apples-plantbased-glutenfree-15.jpg&amp;description=3-Ingredient%20Applesauce%20(No%20Sugar%20Added)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/#comments">8 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/30-minutes-or-less/" rel="category tag">30 minutes or less</a>, <a href="https://minimalistbaker.com/recipes/7-ingredients-or-less/" rel="category tag">7 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/breakfast/" rel="category tag">Breakfast</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/grain-free/" rel="category tag">Grain-Free</a>, <a href="https://minimalistbaker.com/recipes/no-bake/" rel="category tag">No Bake</a>, <a href="https://minimalistbaker.com/recipes/nut-free/" rel="category tag">Nut-Free</a>, <a href="https://minimalistbaker.com/recipes/oil-free/" rel="category tag">Oil-Free</a>, <a href="https://minimalistbaker.com/recipes/one-bowl/" rel="category tag">One Bowl</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/refined-sugar-free/" rel="category tag">Refined Sugar-Free</a>, <a href="https://minimalistbaker.com/recipes/sauce/" rel="category tag">Sauce</a>, <a href="https://minimalistbaker.com/recipes/snacks/" rel="category tag">Snacks</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/spring/" rel="category tag">Spring</a>, <a href="https://minimalistbaker.com/recipes/sweet-things/" rel="category tag">Sweet (dessert)</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/perfect-hard-boiled-eggs-every-time-3-ways/" rel="prev">Perfect Hard Boiled Eggs Every Time (3 Ways!)</a></div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/3-ingredient-applesauce-no-sugar-added/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=51101&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="51101">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="52a7b4f202"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="29"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-864958">
+<article id="article-comment-864958">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Lori" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7f815df514fa6b06040b256b2f75d354?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7f815df514fa6b06040b256b2f75d354?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Lori" width="96"><span itemprop="name">Lori</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864958">February 21, 2020 at 4:41 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Do you suppose this would work in the microwave?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Lori" class="comment-reply-link" data-belowelement="comment-864958" data-commentid="864958" data-postid="51101" data-respondelement="respond" href="#comment-864958" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864966">
+<article id="article-comment-864966">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864966">February 21, 2020 at 5:24 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hmm, we aren’t sure! It would likely take quite a bit of time for them to fully soften. Let us know if you try it!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864966" data-commentid="864966" data-postid="51101" data-respondelement="respond" href="#comment-864966" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="comment-864945">
+<article id="article-comment-864945">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Lisa S" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9bd0d5681aec1e714a598b38673efaa0?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9bd0d5681aec1e714a598b38673efaa0?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Lisa S" width="96"><span itemprop="name">Lisa S</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864945">February 21, 2020 at 2:48 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yum! I love homemade applesauce. Chunky applesauce is especially good too. When I’m in a hurry though, I will core and chop my apples without peeling before cooking. Then I put the cooked apple sauce in my food mill – it takes out all the peels and leaves me with a smooth sauce great for baking recipes or whatever. Could also use an electric pressure cooker to reduce cooking time.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Lisa S" class="comment-reply-link" data-belowelement="comment-864945" data-commentid="864945" data-postid="51101" data-respondelement="respond" href="#comment-864945" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864949">
+<article id="article-comment-864949">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864949">February 21, 2020 at 3:14 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Great ideas! Thanks for sharing, Lisa!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864949" data-commentid="864949" data-postid="51101" data-respondelement="respond" href="#comment-864949" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-864936">
+<article id="article-comment-864936">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Sonja" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/0546da4d2f47f6a746f28d987023365e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/0546da4d2f47f6a746f28d987023365e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Sonja" width="96"><span itemprop="name">Sonja</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864936">February 21, 2020 at 2:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>So, you don’t need to add any water or anything to the pan with the apples? They won’t burn or stick to the pan?<br>
+I’ve made applesauce before but have always added water, but this dilutes the flavour and the sweetness, so I am curious to try this.</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Sonja" class="comment-reply-link" data-belowelement="comment-864936" data-commentid="864936" data-postid="51101" data-respondelement="respond" href="#comment-864936" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864943">
+<article id="article-comment-864943">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864943">February 21, 2020 at 2:37 pm</a></time></p> </header>
+<div class="comment-content">
+<p>We find that covering them with a lid produces enough steam to prevent sticking/burning. But perhaps if your apples are a variety with less moisture that could be more of an issue? Let us know if you try it!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864943" data-commentid="864943" data-postid="51101" data-respondelement="respond" href="#comment-864943" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1" id="comment-864927">
+<article id="article-comment-864927">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Naomi Winkel" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/08abe2a69bda6539d44da6e0ff33ba79?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/08abe2a69bda6539d44da6e0ff33ba79?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Naomi Winkel" width="96"><span itemprop="name">Naomi Winkel</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864927">February 21, 2020 at 1:53 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This looks good and easy. I would put this in my Bendtec because I like smooth apple sauce.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Naomi Winkel" class="comment-reply-link" data-belowelement="comment-864927" data-commentid="864927" data-postid="51101" data-respondelement="respond" href="#comment-864927" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864930">
+<article id="article-comment-864930">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/3-ingredient-applesauce-no-sugar-added/?t=1582400104#comment-864930">February 21, 2020 at 2:13 pm</a></time></p> </header>
+<div class="comment-content">
+<p>That should work well! Let us know how it goes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864930" data-commentid="864930" data-postid="51101" data-respondelement="respond" href="#comment-864930" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_51103 = {"ingredients":[{"amount":"2","unit":"medium","name":"honeycrisp apples, peeled, cored, and chopped in bite-size pieces","notes":"(sweet apples are best \/\/ for tart applesauce, use Granny Smith \/\/ organic when possible)","converted":{"2":{"amount":"2","unit":"medium"}},"id":29031},{"amount":"1\/4","unit":"tsp","name":"ground cinnamon","notes":"(plus more to taste)","converted":{"2":{"amount":"1\/4","unit":"tsp"}},"id":13366},{"amount":"1","unit":"tsp","name":"lemon juice ","notes":"(for preserving \/ keeping fresh longer)","converted":{"2":{"amount":"1","unit":"tsp"}},"id":13491}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":332,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>

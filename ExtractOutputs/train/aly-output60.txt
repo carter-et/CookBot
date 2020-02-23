@@ -1,0 +1,809 @@
+<body class="post-template-default single single-post postid-49414 single-format-standard theme-genesis woocommerce-no-js header-full-width content-sidebar genesis-breadcrumbs-hidden mb"><div class="site-container"><header class="site-header"><div class="wrap"><div class="title-area"><p class="site-title"><a href="https://minimalistbaker.com/" title="Minimalist Baker"><img alt="Minimalist Baker" height="103px" src="https://minimalistbaker.com/wp-content/themes/baker/images/logo.png" title="Minimalist Baker" width="300px"/></a></p><p class="site-description">Simple Food, Simply Delicious</p></div></div></header><nav aria-label="Main" class="nav-primary"><div class="wrap"><ul class="menu genesis-nav-menu menu-primary" id="menu-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813" id="menu-item-3813"><a href="https://minimalistbaker.com/about/"><span>about</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5093" id="menu-item-5093"><a href="https://minimalistbaker.com/recipe-index/"><span>recipes</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19184" id="menu-item-19184"><a href="https://minimalistbaker.com/everyday-cooking/"><span>Cookbook</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19580" id="menu-item-19580"><a href="https://minimalistbaker.com/shop/"><span>Shop</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5094" id="menu-item-5094"><a href="https://minimalistbaker.com/resources/"><span>blogger resources</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30298" id="menu-item-30298"><a href="https://minimalistbaker.com/subscribe/"><span>Subscribe</span></a></li>
+<li class="right search"><form action="https://minimalistbaker.com/" class="search-form" method="get" role="search"><input class="search-form-input" id="searchform-1" name="s" placeholder="Search Minimalist Baker..." type="search"/><input class="search-form-submit" type="submit" value="Search"/><meta content="https://minimalistbaker.com/?s={s}"/></form></li><li class="custom-social menu-item"><aside class="widget-area"><section class="widget simple-social-icons" id="simple-social-icons-4"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-4" class="social-facebook" role="img"><title id="social-facebook-4">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-4" class="social-instagram" role="img"><title id="social-instagram-4">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-4" class="social-pinterest" role="img"><title id="social-pinterest-4">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-4" class="social-rss" role="img"><title id="social-rss-4">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-4" class="social-twitter" role="img"><title id="social-twitter-4">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-4" class="social-youtube" role="img"><title id="social-youtube-4">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+</aside></li></ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-49414 post type-post status-publish format-standard has-post-thumbnail category-10-ingredients-or-less category-dairy-free category-dinner category-egg-free category-entree category-fall category-gluten-free category-italian-inspired category-lunch category-recipes category-salad category-savory category-sides category-soy-free category-spring category-summer category-vegan category-vegetarian category-winter tag-basil tag-black-pepper tag-broccoli tag-garlic tag-hemp-seeds tag-lemon tag-nutritional-yeast tag-olive-oil tag-pasta tag-sea-salt tag-sun-dried-tomato tag-vegan-cheese entry"><header class="entry-header"><h1 class="entry-title">Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)</h1>
+</header><div class="entry-content"><div class="tasty-pins-hidden-image-container" style="display:none;"><img alt="Bowls of our Roasted Broccoli Pasta Salad recipe beside ingredients used to make it" class="tasty-pins-hidden-image" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-media="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-BroccoliPastaSalad-Pinterest.jpg" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" src="https://minimalistbaker.com/wp-content/uploads/2020/01/MB-BroccoliPastaSalad-Pinterest-200x200.jpg"/></div>
+<input class="jpibfi" type="hidden"/>
+<figure class="wp-block-image"><img alt="Gluten-free noodles and nutritional yeast beside bowls of our Roasted Broccoli &amp; Pasta Salad with Hemp Pesto" class="wp-image-49396" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-14-680x1020.jpg 680w"/></figure>
+<p>We recently realized that our <em>favorite</em> pasta salad had only been featured in <a aria-label="a video (opens in a new tab)" href="https://minimalistbaker.com/how-to-roast-vegetables/" rel="noreferrer noopener" target="_blank">a video</a> and not as a recipe on the blog. That obviously needed to change. The people need this recipe.</p>
+<p>Not only is it delicious, it’s also <strong>gluten-free</strong> and <strong>vegan</strong> and comes together in just <strong>30 minutes</strong> with <strong>10 ingredients</strong>! </p>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/Zc_rfGt86Ww" width="680"></iframe>
+<figure class="wp-block-image"><img alt="Broccoli, sun-dried tomatoes, basil, and other ingredients for making our easy Gluten-Free Pasta Salad recipe" class="wp-image-49398" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-213x300.jpg 213w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-768x1080.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-728x1024.jpg 728w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-600x844.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-680x956.jpg 680w"/></figure>
+<span id="more-49414"></span>
+<p>It starts with roasting broccoli with olive oil, salt, and pepper until browned and tender.</p>
+<p>Then comes cooking the pasta. We like to use Trader Joe’s Gluten-Free Brown Rice Quinoa Fusili as we’ve found it has the best taste and texture without compromising quality of ingredients.</p>
+<figure class="wp-block-image"><img alt="Broccoli on a parchment-lined baking sheet for making our Roasted Broccoli &amp; Pesto Pasta Salad recipe" class="wp-image-49384" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-2-680x1020.jpg 680w"/></figure>
+<p>The pesto is made in a <a aria-label="food processor (opens in a new tab)" href="https://aax-us-east.amazon-adsystem.com/x/c/Qj92WMVvfXvLYUG_NEDk7ToAAAFurf24BwEAAAFKAelh6rI/https://www.amazon.com/dp/B00LBZOYAK/?creativeASIN=B00LBZOYAK&amp;linkCode=w61&amp;imprToken=qGUN0MLXfnrJrW2LeAMlYg&amp;slotNum=7&amp;tag=minimalistbaker-20" rel="noreferrer noopener nofollow" target="_blank">food processor</a> by mixing basil, garlic, hemp seeds, lemon juice, nutritional yeast, and sea salt, then drizzling in olive oil to achieve a creamy paste. Excuse us while we jump in for a swim.</p>
+<figure class="wp-block-image"><img alt="Food processor filled with homemade pesto for making Pesto Pasta Salad" class="wp-image-49386" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4-213x300.jpg 213w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4-768x1081.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4-728x1024.jpg 728w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4-600x844.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-4-680x957.jpg 680w"/></figure>
+<p>Finally, it’s time to assemble! Add your roasted broccoli, cooked pasta, and fresh pesto to a bowl along with sun-dried tomatoes and <a aria-label="macadamia nut cheese (opens in a new tab)" href="https://minimalistbaker.com/5-minute-macadamia-cheese-vegan-crudite/" rel="noreferrer noopener" target="_blank">macadamia nut cheese</a> (optional). Major swoon.</p>
+<figure class="wp-block-image"><img alt="Using a wooden spoon to stir a bowl of Roasted Broccoli and Pesto Pasta Salad" class="wp-image-49388" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-6-680x1020.jpg 680w"/></figure>
+<p>The result is a <em>delicious</em> pasta salad perfect for make-ahead lunches, potlucks, picnics, or when you’re craving something nutrient-packed and comforting.</p>
+<figure class="wp-block-image"><img alt="Bowl of Pesto Broccoli Pasta Salad with Sun-Dried Tomatoes and Vegan Macadamia Nut Cheese" class="wp-image-49394" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12-202x300.jpg 202w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12-768x1143.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12-688x1024.jpg 688w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12-600x893.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-12-680x1012.jpg 680w"/></figure>
+<p>We hope you LOVE this pasta salad. It’s:<br/><br/>Comforting<br/>Flavor-packed<br/>Quick &amp; easy<br/>Versatile<br/>&amp; Incredibly delicious</p>
+<h3>More Pasta Salad Recipes:</h3>
+<ul><li><a aria-label="Vegan Macaroni Salad (opens in a new tab)" href="https://minimalistbaker.com/vegan-macaroni-salad/" rel="noreferrer noopener" target="_blank">Vegan Macaroni Salad</a></li><li><a aria-label="Penne Pasta Salad (30 Minutes!) (opens in a new tab)" href="https://minimalistbaker.com/penne-pasta-salad-30-minutes/" rel="noreferrer noopener" target="_blank">Penne Pasta Salad (30 Minutes!)</a></li><li><a aria-label="Pea Pesto Pasta with Sun-dried Tomatoes (opens in a new tab)" href="https://minimalistbaker.com/pea-pesto-pasta-with-sun-dried-tomatoes-arugula-vegan-gf/" rel="noreferrer noopener" target="_blank">Pea Pesto Pasta with Sun-Dried Tomatoes</a></li></ul>
+<p>If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo <a href="https://www.instagram.com/minimalistbaker/" rel="noreferrer noopener" target="_blank">#minimalistbaker</a> on Instagram. Cheers, friends!</p>
+<figure class="wp-block-image"><img alt="Bowls of Pesto Broccoli Salad beside dry pasta, lemon juice, and sun-dried tomatoes" class="wp-image-49397" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" sizes="(max-width: 960px) 100vw, (max-width: 1149px) 590px, 720px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15.jpg 1456w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15-200x300.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15-768x1152.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15-683x1024.jpg 683w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15-600x900.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15-680x1020.jpg 680w"/></figure>
+<div class="wprm-recipe-container" data-recipe-id="49488" id="wprm-recipe-container-49488"><div class="wprm-recipe wprm-recipe-baker">
+<div class="wprm-recipe-image-container">
+<a class="wprm-recipe-print" href="https://minimalistbaker.com/wprm_print/49488" rel="nofollow" target="_blank"> Print</a>
+<div class="wprm-recipe-image nopin"><img alt="Bowls of Broccoli Pesto Pasta Salad made with gluten-free pasta" class="attachment-square-400c size-square-400c" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-400x400.jpg" data-pin-description="AMAZING Pesto Broccoli Salad with Sun-Dried Tomatoes! 10 ing, 30 min, BIG flavor! #glutenfree #plantbased #minimalistbaker #pesto #salad #broccoli #recipe" data-pin-nopin="true" height="400" sizes="(max-width: 400px) 100vw, 400px" src="https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-400x400.jpg" srcset="https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-400x400.jpg 400w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-200x200.jpg 200w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-300x300.jpg 300w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-768x769.jpg 768w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-1024x1024.jpg 1024w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-680x681.jpg 680w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-500x500.jpg 500w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-100x100.jpg 100w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-600x601.jpg 600w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE-340x340.jpg 340w, https://minimalistbaker.com/wp-content/uploads/2019/11/Pesto-Broccoli-Salad-SQUARE.jpg 1455w" width="400"/></div>
+<div class="wprm-recipe-buttons">
+<div class="wprm-recipe-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-full" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-full" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-full" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-full" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-full" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><div class="wprm-recipe-rating-details"><span class="wprm-recipe-rating-average">5</span> from <span class="wprm-recipe-rating-count">10</span> votes</div></div> </div>
+</div>
+<h2 class="wprm-recipe-name">Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)</h2>
+<div class="wprm-recipe-summary">
+<p>A simple, flavorful, plant-based salad with roasted broccoli, gluten-free pasta, sun-dried tomatoes, and vegan pesto! 10 ingredients, 30 minutes, BIG flavor!</p> </div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-author-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-author-name">Author:</span> <span class="wprm-recipe-details wprm-recipe-author">Minimalist Baker</span>
+</div>
+</div>
+<div class="wprm-recipe-details-container">
+<div class="wprm-recipe-times-container">
+<div class="wprm-recipe-prep-time-container">
+<span class="wprm-recipe-prep-time-name">Prep Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">15</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-cook-time-container">
+<span class="wprm-recipe-cook-time-name">Cook Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">35</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes">minutes</span> </div>
+<div class="wprm-recipe-total-time-container">
+<span class="wprm-recipe-total-time-name">Total Time</span> <span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">50</span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes">minutes</span> </div>
+</div>
+</div>
+<div class="wprm-recipe-servings-container">
+<span class="wprm-recipe-details wprm-recipe-details-name wprm-recipe-servings-name">Servings:</span> <span class="wprm-recipe-details wprm-recipe-servings">8</span> <span class="wprm-recipe-details-unit wprm-recipe-servings-unit">(~1-cup servings)</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-course-container">
+<span class="wprm-recipe-details-name wprm-recipe-course-name">Category:</span>
+<span class="wprm-recipe-course">
+					Entrée or Side				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-cuisine-container">
+<span class="wprm-recipe-details-name wprm-recipe-cuisine-name">Cuisine:</span>
+<span class="wprm-recipe-cuisine">
+					Gluten-Free, Vegan				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-freezer-friendly-container">
+<span class="wprm-recipe-details-name wprm-recipe-freezer-friendly-name">Freezer Friendly</span>
+<span class="wprm-recipe-freezer-friendly">
+					No				</span>
+</div>
+<div class="wprm-recipe-details wprm-recipe-does-it-keep-container">
+<span class="wprm-recipe-details-name wprm-recipe-does-it-keep-name">Does it keep?</span>
+<span class="wprm-recipe-does-it-keep">
+					3-4 Days				</span>
+</div>
+<div class="wprm-recipe-ingredients-container">
+<h3 class="wprm-recipe-header">Ingredients</h3>
+<div class="wprm-unit-conversion-container"><a class="wprm-unit-conversion wprmpuc-active" data-recipe="49488" data-system="1" href="#">US Customary</a> – <a class="wprm-unit-conversion" data-recipe="49488" data-system="2" href="#">Metric</a></div> <div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">BROCCOLI</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">small heads</span>
+<span class="wprm-recipe-ingredient-name">organic broccoli, chopped </span>
+<span class="wprm-recipe-ingredient-notes">(~7 cups chopped)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1-2</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">olive oil</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">each sea salt and black pepper</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">PASTA</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">salt </span>
+<span class="wprm-recipe-ingredient-notes">(for salting water)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1 ½</span>
+<span class="wprm-recipe-ingredient-unit">cups</span>
+<span class="wprm-recipe-ingredient-name">(dry) gluten-free pasta </span>
+<span class="wprm-recipe-ingredient-notes">(we like Trader Joe’s brown rice quinoa fusilli)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">PESTO</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">(heaping) cups packed </span>
+<span class="wprm-recipe-ingredient-name">basil</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">4</span>
+<span class="wprm-recipe-ingredient-unit">cloves</span>
+<span class="wprm-recipe-ingredient-name">garlic, skins removed </span>
+<span class="wprm-recipe-ingredient-notes">(4 cloves yield ~2 Tbsp)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">hemp seeds </span>
+<span class="wprm-recipe-ingredient-notes">(or pine nuts)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">lemon juice</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3-4</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://aax-us-east.amazon-adsystem.com/x/c/QupHUusXpvPZ71U-x_orPOMAAAFjjnW7lwEAAAFKAfeT5h4/https://www.amazon.com/Bragg-Nutritional-Yeast-Seasoning-Premium/dp/B002863BIW/ref=as_at/?creativeASIN=B002863BIW&amp;imprToken=SdjvNmOFGURtdnxHQcztoQ&amp;slotNum=14&amp;ie=UTF8&amp;qid=1461084690&amp;sr=8-2&amp;keywords=nutritional+yeast&amp;linkCode=w61&amp;tag=minimalistbaker-20&amp;linkId=12fe6e68ab29a48c6d7eb87837ef3c4b" rel="nofollow" target="_blank">nutritional yeast</a></span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/4</span>
+<span class="wprm-recipe-ingredient-unit">tsp</span>
+<span class="wprm-recipe-ingredient-name">sea salt (plus more to taste)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">3-4</span>
+<span class="wprm-recipe-ingredient-unit">Tbsp</span>
+<span class="wprm-recipe-ingredient-name">olive oil </span>
+<span class="wprm-recipe-ingredient-notes">(if avoiding oil, sub water)</span>
+</li>
+</ul>
+</div>
+<div class="wprm-recipe-ingredient-group">
+<h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name">FOR SERVING</h4>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">2/3</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name">sun-dried tomatoes </span>
+<span class="wprm-recipe-ingredient-notes">(if in oil, pat dry // we like Trader Joe’s brand)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1/2</span>
+<span class="wprm-recipe-ingredient-unit">cup</span>
+<span class="wprm-recipe-ingredient-name"><a href="https://minimalistbaker.com/5-minute-macadamia-cheese-vegan-crudite/" target="_blank">macadamia nut cheese</a></span>
+<span class="wprm-recipe-ingredient-notes">(<em>optional</em>)</span>
+</li>
+<li class="wprm-recipe-ingredient">
+<span class="wprm-recipe-ingredient-amount">1</span>
+<span class="wprm-recipe-ingredient-unit">sprinkle</span>
+<span class="wprm-recipe-ingredient-name">red pepper flake</span>
+<span class="wprm-recipe-ingredient-notes">(<em>optional</em>)</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="wprm-recipe-instructions-container">
+<h3 class="wprm-recipe-header">Instructions</h3>
+<div class="wprm-recipe-instruction-group">
+<ol class="wprm-recipe-instructions">
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Heat oven to 400 degrees F (204 C). Line a baking sheet with parchment paper. Add broccoli and toss with oil, salt, and pepper. Once oven is preheated, add broccoli and cook for 15 minutes or until lightly golden browned.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>In the meantime, bring a small pot of water to a boil and add salt (to season the water and the pasta). Once boiling, add the pasta, stir, and cook according to package instructions or until al dente. Drain and set aside.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>In the meantime, prepare pesto. Add basil, garlic, hemp seeds, lemon juice, nutritional yeast, and sea salt to a <a href="https://www.amazon.com/dp/B00LBZOYAK/?creativeASIN=B00LBZOYAK&amp;linkCode=w61&amp;imprToken=UBrLJzl2MywOrjpFp-V66w&amp;slotNum=6&amp;tag=minimalistbaker-20" rel="nofollow" target="_blank">food processor</a> and mix to combine. Then stream in olive oil a little at a time until a creamy paste is achieved. Scrape down sides as needed. Taste and adjust flavor as needed, adding more salt to taste, nutritional yeast for cheesiness, hemp seeds or basil to thicken, garlic for kick, or lemon juice for acidity. Cover with lid and set aside.</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text"><p>Once broccoli is roasted, cool slightly then add to a large serving / mixing bowl. Then add cooked drained pasta, sun-dried tomatoes, little spoonfuls of macadamia nut cheese (optional), and red pepper flake (optional). Top with pesto and toss gently to combine (being careful to not break the pasta).</p></div>
+</li>
+<li class="wprm-recipe-instruction">
+<div class="wprm-recipe-instruction-text">Enjoy immediately or refrigerate up to 3-4 days (not freezer friendly). Enjoy chilled or at room temperature.</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="wprm-recipe-video-container">
+<h3 class="wprm-recipe-header"></h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="380" src="https://www.youtube.com/embed/Zc_rfGt86Ww" width="680"></iframe> </div>
+<div class="wprm-recipe-notes-container">
+<h3 class="wprm-recipe-header">Notes</h3>
+<p>*Nutrition information is a rough estimate calculated with the lesser amount of olive oil and nutritional yeast, without salt added to the water, and without optional ingredients.</p>
+</div>
+<div class="wprm-recipe-nutrition-container">
+<h3 class="wprm-recipe-header">Nutrition Per Serving (1 of 8 one-cup servings) </h3><ul><li><strong>Calories:</strong> 224 <li><strong>Fat:</strong> 10.2g <li><strong>Saturated fat:</strong> 1.2g <li><strong>Trans fat:</strong> 0.01g <li><strong>Polyunsaturated fat:</strong> 2.69g <li><strong>Monounsaturated fat:</strong> 5.21g <li><strong>Sodium:</strong> 182mg <li><strong>Potassium:</strong> 358mg <li><strong>Carbohydrates:</strong> 27.5g <li><strong>Fiber:</strong> 4.2g <li><strong>Sugar:</strong> 3.9g <li><strong>Protein:</strong> 7.9g <li><strong>Vitamin A:</strong> 948IU <li><strong>Vitamin C:</strong> 61.39mg <li><strong>Calcium:</strong> 57.18mg <li><strong>Iron:</strong> 1.91mg</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul> </div>
+<footer class="wprm-recipe-baker-entry-footer">
+<div class="wprm-recipe-baker-footer-content">
+<a href="https://www.instagram.com/minimalistbaker" target="_blank"><img alt="instagram camera" class="svg-instagram" data-jpibfi-post-excerpt="" data-jpibfi-post-title="Roasted Broccoli Pasta Salad with Hemp Pesto (V/GF)" data-jpibfi-post-url="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/" data-jpibfi-src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png" data-pin-nopin="true" src="../wp-content/themes/baker/wprm-templates/recipe/baker/instagram.png"/></a>
+<h3>Did you make this recipe?</h3>
+<p>Tag <a href="https://www.instagram.com/minimalistbaker/" target="_blank">@minimalistbaker</a> on Instagram and hashtag it <a href="https://www.instagram.com/explore/tags/minimalistbaker/" target="_blank">#minimalistbaker</a>.</p>
+</div>
+</footer>
+</div>
+</div><div class="mb-social"><a class="mb-link mb-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fminimalistbaker.com%2Froasted-broccoli-pasta-salad-with-hemp-pesto-v-gf%2F" target="_blank">Facebook</a><a class="mb-link mb-twitter" href="https://twitter.com/intent/tweet?text=Roasted%20Broccoli%20Pasta%20Salad%20with%20Hemp%20Pesto%20(V/GF)&amp;url=https%3A%2F%2Fminimalistbaker.com%2Froasted-broccoli-pasta-salad-with-hemp-pesto-v-gf%2F&amp;via=minimalistbaker" target="_blank">Twitter</a><a class="mb-link mb-pinterest" data-pin-custom="true" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fminimalistbaker.com%2Froasted-broccoli-pasta-salad-with-hemp-pesto-v-gf%2F&amp;media=https://minimalistbaker.com/wp-content/uploads/2019/11/AMAZING-Pesto-Broccoli-Salad-with-Sun-Dried-Tomatoes-10-ing-30-min-BIG-flavor-glutenfree-plantbased-minimalistbaker-pesto-salad-broccoli-recipe-15.jpg&amp;description=Roasted%20Broccoli%20Pasta%20Salad%20with%20Hemp%20Pesto%20(V/GF)" target="_blank">Pin It</a></div></div><footer class="entry-footer"><p class="entry-meta"><span class="entry-comments-link"><a href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/#comments">34 Comments</a></span> <span class="entry-categories"><a href="https://minimalistbaker.com/recipes/10-ingredients-or-less/" rel="category tag">10 ingredients or less</a>, <a href="https://minimalistbaker.com/recipes/dairy-free/" rel="category tag">Dairy-Free</a>, <a href="https://minimalistbaker.com/recipes/dinner/" rel="category tag">Dinner</a>, <a href="https://minimalistbaker.com/recipes/egg-free/" rel="category tag">Egg-Free</a>, <a href="https://minimalistbaker.com/recipes/entree/" rel="category tag">Entree</a>, <a href="https://minimalistbaker.com/recipes/fall/" rel="category tag">Fall</a>, <a href="https://minimalistbaker.com/recipes/gluten-free/" rel="category tag">Gluten Free</a>, <a href="https://minimalistbaker.com/recipes/italian-inspired/" rel="category tag">Italian-Inspired</a>, <a href="https://minimalistbaker.com/recipes/lunch/" rel="category tag">Lunch</a>, <a href="https://minimalistbaker.com/recipes/" rel="category tag">Recipes</a>, <a href="https://minimalistbaker.com/recipes/salad/" rel="category tag">Salad</a>, <a href="https://minimalistbaker.com/recipes/savory/" rel="category tag">Savory</a>, <a href="https://minimalistbaker.com/recipes/sides/" rel="category tag">Sides</a>, <a href="https://minimalistbaker.com/recipes/soy-free/" rel="category tag">Soy-Free</a>, <a href="https://minimalistbaker.com/recipes/spring/" rel="category tag">Spring</a>, <a href="https://minimalistbaker.com/recipes/summer/" rel="category tag">Summer</a>, <a href="https://minimalistbaker.com/recipes/vegan/" rel="category tag">Vegan</a>, <a href="https://minimalistbaker.com/recipes/vegetarian/" rel="category tag">Vegetarian</a>, <a href="https://minimalistbaker.com/recipes/winter/" rel="category tag">Winter</a></span></p><div class="prev-next-navigation"><div class="previous">← <a href="https://minimalistbaker.com/cozy-turmeric-porridge-1-pot/" rel="prev">Cozy Turmeric Porridge (1 Pot!)</a></div><div class="next"><a href="https://minimalistbaker.com/fudgy-sweet-potato-brownies-v-gf/" rel="next">Fudgy Sweet Potato Brownies (V/GF)</a> →</div></div><!-- .prev-next-navigation --></footer></article><div class="after-entry widget-area"><section class="widget_text widget widget_custom_html" id="custom_html-3"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB-Ebook-Horizontal-Banner.jpg"/></a></div></div></section>
+<section class="widget widget_text" id="text-85"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><span class="alignleft"><img alt="dana" class="avatar avatar-220 photo" height="220" src="/wp-content/themes/baker/images/d220.png" width="220"/></span>Hi, I'm Dana! I am a food stylist, photographer, and author of <a href="//minimalistbaker.com/everyday-cooking/" rel="noopener noreferrer" target="_blank">Everyday Cooking</a>.</p><p>Follow us on <a href="https://twitter.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Twitter</a>, <a href="https://instagram.com/minimalistbaker" rel="noopener noreferrer" target="_blank">Instagram</a>, <a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank">Pinterest</a>, and <a href="https://minimalistbaker.com/about/" rel="noopener noreferrer" target="_blank">read more about us here</a>!</p></div></div>
+</div></section>
+</div> <div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Comment &amp; Rating <small><a href="/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://minimalistbaker.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><strong>Have a question?</strong> Use ctrl+f or ⌘+f on your computer or the "find on page" function on your phone browser to search existing comments! <strong>Need help?</strong> <a href="https://support.minimalistbaker.com/article/139-how-to-use-your-browsers-find-function" target="_blank">Check out this tutorial!</a></p><p class="comment-form-wprm-rating" data-color="#ffe64c">
+<label for="wprm-rating">Rate this recipe (after you've made it):</label>
+<span class="wprm-rating-stars">
+<span class="wprm-rating-star" data-rating="1"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="2"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="3"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="4"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span><span class="wprm-rating-star" data-rating="5"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g transform="translate(0, 0)"><polygon fill="none" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke="#343434" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="2"></polygon></g></svg></span> </span>
+<input id="wprm-comment-rating" name="wprm-comment-rating" type="hidden" value="0"/>
+</p>
+<p class="comment-form-comment"><label for="comment">Comment:</label><textarea aria-required="true" cols="45" id="comment" name="comment" placeholder="The most useful comments include feedback and ratings on the recipe, ingredients you modified, or helping other commenters. Insults, disrespectful comments, and links not pertinent to the discussion are not accepted.
+
+ Please be kind. All eaters welcome." rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<div class="comment-form-wpr-list"><p class="comment-form-wpr_madethis"><input id="wpr_madethis" name="wpr_madethis" type="checkbox"/><label for="wpr_madethis">I Made this</label></p><p class="comment-form-wpr_havequestion"><input id="wpr_havequestion" name="wpr_havequestion" type="checkbox"/><label for="wpr_havequestion">I Have a Question</label></p></div><!-- Subscribe to Comments Reloaded version 200205 --><!-- Subscribe to comments Reloaded MP: '/comment-subscriptions/' --><!-- BEGIN: subscribe to comments reloaded --><p class="comment-form-subscriptions"><label for="subscribe-reloaded"><input checked="checked" id="subscribe-reloaded" name="subscribe-reloaded" style="width:30px" type="checkbox" value="replies"> <span class="comment-notes">Notify me of followup comments via e-mail. You can also <a href="https://minimalistbaker.com/comment-subscriptions/?srp=49414&amp;srk=d1a7f9e669d2fae1e05ab5467b048d6a&amp;sra=s&amp;srsrc=f">subscribe</a> without commenting. <em>You will not be subscribed to our newsletter list.</em></span></input></label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="49414">
+<input id="comment_parent" name="comment_parent" type="hidden" value="0">
+</input></input></input></p><p style="display: none;"><input id="akismet_comment_nonce" name="akismet_comment_nonce" type="hidden" value="28ab0e36e0"/></p><p style="display: none;"><input id="ak_js" name="ak_js" type="hidden" value="103"/></p></form> </div><!-- #respond -->
+<div class="entry-comments" id="comments"><div class="wpr-comment-filters"><a class="wpr-active-tab" href="#" id="wpr_display_all">All comments</a><a href="#" id="wpr_madethis_li">I made this</a><a href="#" id="wpr_havequestion_li">Questions</a></div><ol class="comment-list">
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-864829">
+<article id="article-comment-864829">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Renée" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/44087eb845de3a94e4805b22635d7ff4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/44087eb845de3a94e4805b22635d7ff4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Renée" width="96"><span itemprop="name">Renée</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-864829">February 20, 2020 at 7:28 pm</a></time></p> </header>
+<div class="comment-content">
+<p>My boyfriend said this might be the “best thing he’s ever had” and that’s really saying something!!</p>
+<p>It’s so deceiving you good!</p>
+<p>I added more lemon juice and a bit of pasta water to make it easier to mix in the pesto. I also did half pine nuts and half hemp! So glorious and healthy.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Renée" class="comment-reply-link" data-belowelement="comment-864829" data-commentid="864829" data-postid="49414" data-respondelement="respond" href="#comment-864829" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-864884">
+<article id="article-comment-864884">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-864884">February 21, 2020 at 9:59 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Renée. We are so glad he enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-864884" data-commentid="864884" data-postid="49414" data-respondelement="respond" href="#comment-864884" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-862650">
+<article id="article-comment-862650">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Corey" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/3b5ca43b6227165ad2c35f6d371ad061?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/3b5ca43b6227165ad2c35f6d371ad061?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Corey" width="96"><span itemprop="name">Corey</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-862650">February 12, 2020 at 9:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi! This recipe looks amazing! I have a question about the pasta serving size of 1 1/2 cups. The recipe is set for 8 servings (with the broccoli/pesto, etc.), but was wondering if that measurement is off? It seems like a very small amount of pasta for 8 servings. Maybe I’m just a pasta fanatic! Thanks.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Corey" class="comment-reply-link" data-belowelement="comment-862650" data-commentid="862650" data-postid="49414" data-respondelement="respond" href="#comment-862650" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-862811">
+<article id="article-comment-862811">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-862811">February 13, 2020 at 10:23 am</a></time></p> </header>
+<div class="comment-content">
+<p>Hi Corey, you can enjoy more than that if you’d like! A 1 cup serving is about 224 calories, so that would be more of a side portion. Hope that helps!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862811" data-commentid="862811" data-postid="49414" data-respondelement="respond" href="#comment-862811" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even depth-2 wpr_madethis_li" id="comment-864830">
+<article id="article-comment-864830">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Renee" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/44087eb845de3a94e4805b22635d7ff4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/44087eb845de3a94e4805b22635d7ff4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Renee" width="96"><span itemprop="name">Renee</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-864830">February 20, 2020 at 7:30 pm</a></time></p> </header>
+<div class="comment-content">
+<p>If you type in 10-11 servings in the calculator about the recipe, it gives you roughly what you need for a normal 1 lb bag of pasta.</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Renee" class="comment-reply-link" data-belowelement="comment-864830" data-commentid="864830" data-postid="49414" data-respondelement="respond" href="#comment-864830" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-862406">
+<article id="article-comment-862406">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Bonnie" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/bf706e6cf7d1283b107ed5e21caca229?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/bf706e6cf7d1283b107ed5e21caca229?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Bonnie" width="96"><span itemprop="name">Bonnie</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-862406">February 11, 2020 at 7:25 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I suspect your site will become my version of ‘Julie &amp; Julia’</p>
+<p>I made this tonight without any substitutions and it was fantastic! Never made pesto before and even my husband who is an amazing cook and cooks almost every day, was impressed. Currently he and I are on different culinary paths- he is all pork belly and steak and I’m not- so I was actively looking for easy, healthy dishes that I could make on my own. </p>
+<p>Glad to have found you. I’ll tag and post my pictures.</p>
+<p>Bonnie</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Bonnie" class="comment-reply-link" data-belowelement="comment-862406" data-commentid="862406" data-postid="49414" data-respondelement="respond" href="#comment-862406" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-862522">
+<article id="article-comment-862522">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-862522">February 12, 2020 at 10:19 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed it, Bonnie! Thanks so much for the lovely review! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-862522" data-commentid="862522" data-postid="49414" data-respondelement="respond" href="#comment-862522" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-860837">
+<article id="article-comment-860837">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Jenny" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/85ba7627c74a90367cb99a09a6ea832c?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/85ba7627c74a90367cb99a09a6ea832c?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Jenny" width="96"><span itemprop="name">Jenny</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-860837">February 5, 2020 at 9:50 am</a></time></p> </header>
+<div class="comment-content">
+<p>My husband and I made this last night and couldn’t stop talking about how delicious it was. The fresh pesto is so flavorful and amazing! We used fresh made pasta from the farmers market and it complemented this recipe really well. Can’t wait for the leftovers today! Thank you for always having such delicious recipes on your blog. I started visiting your site when I was trying to learn to cook more things and now most things I make are your recipes.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Jenny" class="comment-reply-link" data-belowelement="comment-860837" data-commentid="860837" data-postid="49414" data-respondelement="respond" href="#comment-860837" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-860868">
+<article id="article-comment-860868">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-860868">February 5, 2020 at 10:29 am</a></time></p> </header>
+<div class="comment-content">
+<p>Aw, we’re so glad you enjoy our recipes, Jenny! Thanks so much for sharing! xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-860868" data-commentid="860868" data-postid="49414" data-respondelement="respond" href="#comment-860868" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-859665">
+<article id="article-comment-859665">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Linsey" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7d55be96690e5a9f7f913436d4b391ce?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7d55be96690e5a9f7f913436d4b391ce?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Linsey" width="96"><span itemprop="name">Linsey</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-859665">February 3, 2020 at 11:15 am</a></time></p> </header>
+<div class="comment-content">
+<p>Left out the nutritional yeast and this turned out AMAZING. I could see this being good hot or cold! Thanks for another great recipe!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Linsey" class="comment-reply-link" data-belowelement="comment-859665" data-commentid="859665" data-postid="49414" data-respondelement="respond" href="#comment-859665" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-859568">
+<article id="article-comment-859568">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Linsey" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/7d55be96690e5a9f7f913436d4b391ce?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/7d55be96690e5a9f7f913436d4b391ce?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Linsey" width="96"><span itemprop="name">Linsey</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-859568">February 2, 2020 at 10:50 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I made a huge batch of roasted broccoli to use for other meals this week, so didn’t measure out specifically for this recipe. Any idea how much roasted broccoli this recipe would need? Thanks! Excited to finish this up and eat it for lunch tomorrow!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Linsey" class="comment-reply-link" data-belowelement="comment-859568" data-commentid="859568" data-postid="49414" data-respondelement="respond" href="#comment-859568" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-859806">
+<article id="article-comment-859806">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </img></p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-859806">February 3, 2020 at 2:44 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I’d say roughly 3 cups cooked?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-859806" data-commentid="859806" data-postid="49414" data-respondelement="respond" href="#comment-859806" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_madethis_li" id="comment-859106">
+<article id="article-comment-859106">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Debra" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a6e218db12c87174bc4dc134006f1800?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a6e218db12c87174bc4dc134006f1800?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Debra" width="96"/><span itemprop="name">Debra</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-859106">February 1, 2020 at 2:20 am</a></time></p> </header>
+<div class="comment-content">
+<p>Wow! Loved it and so filling. I used edamame pasta (for the first time) which as really tasty and my meat eating husband said he loved it…..happy days :0)<br>
+Thanks Dana, loving every recipe of yours I have made ?</br></p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Debra" class="comment-reply-link" data-belowelement="comment-859106" data-commentid="859106" data-postid="49414" data-respondelement="respond" href="#comment-859106" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-859621">
+<article id="article-comment-859621">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-859621">February 3, 2020 at 9:55 am</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks so much for the lovely review, Debra. We are so glad you both enjoyed it! Next time, would you mind leaving a rating with your review? It’s super helpful for us and other readers. Thanks so much! Xo</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-859621" data-commentid="859621" data-postid="49414" data-respondelement="respond" href="#comment-859621" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-858071">
+<article id="article-comment-858071">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Tina" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/0a2cecf2e7901ff5a27d210a4e98bf5e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/0a2cecf2e7901ff5a27d210a4e98bf5e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Tina" width="96"/><span itemprop="name">Tina</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-858071">January 27, 2020 at 3:00 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Excellent! Halved the recipe first time because i didn’t know if my family would like it. Well it was a hit. Will make a full batch next time. Delicious!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Tina" class="comment-reply-link" data-belowelement="comment-858071" data-commentid="858071" data-postid="49414" data-respondelement="respond" href="#comment-858071" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-858246">
+<article id="article-comment-858246">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-858246">January 28, 2020 at 11:26 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad everyone enjoyed it! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-858246" data-commentid="858246" data-postid="49414" data-respondelement="respond" href="#comment-858246" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-even depth-1 wpr_havequestion_li" id="comment-858070">
+<article id="article-comment-858070">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Susan LAPENSEE" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/87b6b0c93f628beb9ebbbefefd5e7000?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/87b6b0c93f628beb9ebbbefefd5e7000?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Susan LAPENSEE" width="96"/><span itemprop="name">Susan LAPENSEE</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-858070">January 27, 2020 at 2:52 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hi, can I substitut the nutritional yeast with yeast free cashew parmesan in this recipe ?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Susan LAPENSEE" class="comment-reply-link" data-belowelement="comment-858070" data-commentid="858070" data-postid="49414" data-respondelement="respond" href="#comment-858070" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support odd alt depth-2" id="comment-858245">
+<article id="article-comment-858245">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-858245">January 28, 2020 at 11:25 am</a></time></p> </header>
+<div class="comment-content">
+<p>Sure!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-858245" data-commentid="858245" data-postid="49414" data-respondelement="respond" href="#comment-858245" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-857799">
+<article id="article-comment-857799">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Annie" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/a1a3a7314f6b44e7d79518993583b5d6?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/a1a3a7314f6b44e7d79518993583b5d6?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Annie" width="96"/><span itemprop="name">Annie</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857799">January 26, 2020 at 3:59 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This was so delicious! I served the roasted broccoli and pesto with some quinoa instead of pasta (because I had leftovers to use up) and wilted some spinach through it. The pesto is soooo good and the sun-dried tomatoes add a lovely kick. Sprinkled some of your vegan parmesan on top too. Can’t wait to do it all again tomorrow but with brown rice pasta! Thank you for sharing.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Annie" class="comment-reply-link" data-belowelement="comment-857799" data-commentid="857799" data-postid="49414" data-respondelement="respond" href="#comment-857799" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-857389">
+<article id="article-comment-857389">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Krystle" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/338657b78a912316fe28127b9de44a24?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/338657b78a912316fe28127b9de44a24?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Krystle" width="96"/><span itemprop="name">Krystle</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857389">January 23, 2020 at 9:49 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Can I use frozen broccoli for this recipe?</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Krystle" class="comment-reply-link" data-belowelement="comment-857389" data-commentid="857389" data-postid="49414" data-respondelement="respond" href="#comment-857389" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-857451">
+<article id="article-comment-857451">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857451">January 24, 2020 at 10:26 am</a></time></p> </header>
+<div class="comment-content">
+<p>Fresh is best as frozen won’t get crispy in the oven. But it will technically still work!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857451" data-commentid="857451" data-postid="49414" data-respondelement="respond" href="#comment-857451" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-857381">
+<article id="article-comment-857381">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Wendy" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/e93605381058e70e6ebd218ceaf9bb73?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/e93605381058e70e6ebd218ceaf9bb73?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Wendy" width="96"/><span itemprop="name">Wendy</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857381">January 23, 2020 at 9:05 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I realized last minute I didn’t have nutritional yeast. It was still delicious. I used less garlic, like half a clove. We ate it warm as a meal but excited to eat the leftovers cold tomorrow. Thanks for inspiring me to make something besides tacos for dinner.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Wendy" class="comment-reply-link" data-belowelement="comment-857381" data-commentid="857381" data-postid="49414" data-respondelement="respond" href="#comment-857381" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-857448">
+<article id="article-comment-857448">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857448">January 24, 2020 at 10:24 am</a></time></p> </header>
+<div class="comment-content">
+<p>We’re so glad you enjoyed it, Wendy! Thanks for sharing!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857448" data-commentid="857448" data-postid="49414" data-respondelement="respond" href="#comment-857448" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-857154">
+<article id="article-comment-857154">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dustin" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/03f2be9a0609d9a52f93d94612acbde4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/03f2be9a0609d9a52f93d94612acbde4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dustin" width="96"/><span itemprop="name">Dustin</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857154">January 22, 2020 at 9:00 pm</a></time></p> </header>
+<div class="comment-content">
+<p>You outdid yourself. Best pasta dish ever! Used extra basil &amp; nutritional yeast for sauce. Sooo yummy!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dustin" class="comment-reply-link" data-belowelement="comment-857154" data-commentid="857154" data-postid="49414" data-respondelement="respond" href="#comment-857154" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-support even depth-2" id="comment-857227">
+<article id="article-comment-857227">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Support @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/9501d522e8b6b56b741d5c9b17c76182?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Support @ Minimalist Baker" width="96"/><span itemprop="name">Support @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857227">January 23, 2020 at 10:31 am</a></time></p> </header>
+<div class="comment-content">
+<p>=) We’re so glad you enjoyed it, Dustin!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Support @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857227" data-commentid="857227" data-postid="49414" data-respondelement="respond" href="#comment-857227" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-856964">
+<article id="article-comment-856964">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Tami" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/52e4b680102d53f73ee3233194b972e4?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/52e4b680102d53f73ee3233194b972e4?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Tami" width="96"/><span itemprop="name">Tami</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856964">January 21, 2020 at 9:11 pm</a></time></p> </header>
+<div class="comment-content">
+<p>This has to be the easiest pesto meal to make! So if you’re thinking about it, don’t think just DO IT?  Love that it  is packed with flavor and nutrients. the addition of sun dried tomatoes ties it together, also  I didn’t use much oil, mostly water and it turned out YUMMY!!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Tami" class="comment-reply-link" data-belowelement="comment-856964" data-commentid="856964" data-postid="49414" data-respondelement="respond" href="#comment-856964" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-857043">
+<article id="article-comment-857043">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-857043">January 22, 2020 at 12:14 pm</a></time></p> </header>
+<div class="comment-content">
+<p>SO kind! We love it, too. Thanks, Tami!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-857043" data-commentid="857043" data-postid="49414" data-respondelement="respond" href="#comment-857043" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_madethis_li" id="comment-856821">
+<article id="article-comment-856821">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Maneesha" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/b9225558ee60ad6a7c2bd2ce94c82e2e?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/b9225558ee60ad6a7c2bd2ce94c82e2e?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Maneesha" width="96"/><span itemprop="name">Maneesha</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856821">January 21, 2020 at 9:09 am</a></time></p> </header>
+<div class="comment-content">
+<p>I made this for dinner last night and loved it!! Hands down best pesto recipe ever! You can’t even tell it’s vegan!</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Maneesha" class="comment-reply-link" data-belowelement="comment-856821" data-commentid="856821" data-postid="49414" data-respondelement="respond" href="#comment-856821" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-856898">
+<article id="article-comment-856898">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856898">January 21, 2020 at 1:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Thanks, Maneesha!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856898" data-commentid="856898" data-postid="49414" data-respondelement="respond" href="#comment-856898" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-odd thread-alt depth-1 wpr_madethis_li" id="comment-856809">
+<article id="article-comment-856809">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Verity Krall" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/4073d2e3fd09fcdc28f54138a5a78469?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/4073d2e3fd09fcdc28f54138a5a78469?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Verity Krall" width="96"/><span itemprop="name">Verity Krall</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856809">January 21, 2020 at 6:15 am</a></time></p> </header>
+<div class="comment-content">
+<p>Saw this on Instagram in the morning, headed to the kitchen to make it that evening. Pesto, broccoli and pasta are three of the best things in the world so I knew this would be good! I made my pesto with pine nuts and also skipped the tomatoes and cheese. It turned out great! Adding a generous sprinkle of chilli pulls the whole thing together. A great work lunch box.</p>
+<div class="wprm-comment-rating">
+<span class="wprm-rating-stars"><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span><span class="wprm-rating-star"><svg height="16px" viewbox="0 0 24 24" width="16px" x="0px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px"><g><path d="M12.712,1.942l2.969,6.015l6.638,0.965c0.651,0.095,0.911,0.895,0.44,1.354l-4.804,4.682l1.134,6.612c0.111,0.649-0.57,1.143-1.152,0.837L12,19.286l-5.938,3.122C5.48,22.714,4.799,22.219,4.91,21.57l1.134-6.612l-4.804-4.682c-0.471-0.459-0.211-1.26,0.44-1.354l6.638-0.965l2.969-6.015C11.579,1.352,12.421,1.352,12.712,1.942z" fill="#343434"></path></g></svg></span></span>
+</div>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Verity Krall" class="comment-reply-link" data-belowelement="comment-856809" data-commentid="856809" data-postid="49414" data-respondelement="respond" href="#comment-856809" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor even depth-2" id="comment-856899">
+<article id="article-comment-856899">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856899">January 21, 2020 at 1:35 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Wonderful! Thanks for sharing, Verity!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856899" data-commentid="856899" data-postid="49414" data-respondelement="respond" href="#comment-856899" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+<li class="comment odd alt thread-even depth-1 wpr_havequestion_li" id="comment-856678">
+<article id="article-comment-856678">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for David" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/126a4c0c5554bd4131d2b07ddf6780c9?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/126a4c0c5554bd4131d2b07ddf6780c9?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for David" width="96"/><span itemprop="name">David</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856678">January 20, 2020 at 12:36 pm</a></time></p> </header>
+<div class="comment-content">
+<p>I’m so excited to try this ! I’m new to the world of sun dried tomatoes so I wasn’t sure if they need to be cooked prior to adding. The ones I am able to find are from whole foods and they come in oil. Thanks for the help !</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to David" class="comment-reply-link" data-belowelement="comment-856678" data-commentid="856678" data-postid="49414" data-respondelement="respond" href="#comment-856678" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+<li class="comment even thread-odd thread-alt depth-1 wpr_havequestion_li" id="comment-856674">
+<article id="article-comment-856674">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Joan" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/73cc61f57ba1ab4f06bd996f2d90bea9?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/73cc61f57ba1ab4f06bd996f2d90bea9?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Joan" width="96"/><span itemprop="name">Joan</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856674">January 20, 2020 at 12:11 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Hello! If I used vegan ricotta (which I believe from Kite Hill is cashew based) would that be the most similar product to the macadamia cheese that would be store available? Thank you!!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Joan" class="comment-reply-link" data-belowelement="comment-856674" data-commentid="856674" data-postid="49414" data-respondelement="respond" href="#comment-856674" rel="nofollow">Reply</a></div>
+</article>
+<ul class="children">
+<li class="comment byuser comment-author-dana bypostauthor odd alt depth-2" id="comment-856682">
+<article id="article-comment-856682">
+<header class="comment-header">
+<p class="comment-author">
+<img alt="Avatar for Dana @ Minimalist Baker" class="avatar avatar-96 photo" height="96" src="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=96&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/c7caa94d71e10eb485999d00c6e9b624?s=192&amp;d=mm&amp;r=g 2x" title="Gravatar for Dana @ Minimalist Baker" width="96"/><span itemprop="name">Dana @ Minimalist Baker</span> <span class="says">says</span> </p>
+<p class="comment-meta"><time class="comment-time"><a class="comment-time-link" href="https://minimalistbaker.com/roasted-broccoli-pasta-salad-with-hemp-pesto-v-gf/?t=1582409812#comment-856682">January 20, 2020 at 1:05 pm</a></time></p> </header>
+<div class="comment-content">
+<p>Yes!</p>
+</div>
+<div class="comment-reply"><a aria-label="Reply to Dana @ Minimalist Baker" class="comment-reply-link" data-belowelement="comment-856682" data-commentid="856682" data-postid="49414" data-respondelement="respond" href="#comment-856682" rel="nofollow">Reply</a></div>
+</article>
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div></main><aside aria-label="Primary Sidebar" class="sidebar sidebar-primary widget-area" role="complementary"><section class="widget widget_text" id="text-86"><div class="widget-wrap"> <div class="textwidget"><div class="widget-wrap"><p><img alt="mb" class="avatar avatar-200 photo" height="200" src="/wp-content/themes/baker/images/mb.png" width="200"/></p><div class="sidebarabout">Minimalist Baker is a place for recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. All eaters are welcome.</div><div class="sidebaraboutlink"><a href="https://minimalistbaker.com/about/">Learn More About Us →</a></div></div></div>
+</div></section>
+<section class="widget simple-social-icons" id="simple-social-icons-2"><div class="widget-wrap"><ul class="aligncenter"><li class="ssi-facebook"><a href="https://www.facebook.com/MinimalistBaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-facebook-2" class="social-facebook" role="img"><title id="social-facebook-2">Facebook</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-instagram-2" class="social-instagram" role="img"><title id="social-instagram-2">Instagram</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="https://www.pinterest.com/minimalistbaker/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-pinterest-2" class="social-pinterest" role="img"><title id="social-pinterest-2">Pinterest</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="https://minimalistbaker.com/feed/" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-rss-2" class="social-rss" role="img"><title id="social-rss-2">RSS</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-twitter-2" class="social-twitter" role="img"><title id="social-twitter-2">Twitter</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/c/Minimalistbaker" rel="noopener noreferrer" target="_blank"><svg aria-labelledby="social-youtube-2" class="social-youtube" role="img"><title id="social-youtube-2">YouTube</title><use xlink:href="https://minimalistbaker.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section class="widget_text widget widget_custom_html" id="custom_html-2"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><a href="https://app.monstercampaigns.com/c/aww4yswiqffe3w1mirpt/" rel="noopener noreferrer" target="_blank"><img alt="Get Our Fan Favorites eBook Here!" nopin="nopin" src="https://minimalistbaker.com/wp-content/uploads/2018/03/MB_Fan-Favorites-Vertical-Banner.jpg" style="cursor:pointer;"/></a></div></div></section>
+</aside></div></div><footer class="site-footer"><div class="wrap"><p>©<a href="https://minimalistbaker.com">Minimalistbaker.com</a> <a href="https://minimalistbaker.com/terms/">Terms</a> <a href="https://minimalistbaker.com/privacy/">Privacy</a> <a href="https://minimalistbaker.com/resources/">Blogger Resources</a></p></div></footer></div> <script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&amp;adInstanceId=c1f3593d-afd6-4040-99eb-8057ea57eefb"></script><style media="screen" type="text/css"> #simple-social-icons-4 ul li a, #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-4 ul li a:hover, #simple-social-icons-4 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-4 ul li a:focus { outline: 1px dotted #ffffff !important; } #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-radius: 25px; color: #333333 !important; border: 0px #ffffff solid !important; font-size: 14px; padding: 7px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #cccccc !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }</style> <script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.css?ver=5.10.1" id="wprm-public-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.css?ver=5.10.0" id="wprmp-public-css" media="all" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Minimalist Baker","image_selector":".jpibfi_container img","disabled_classes":"wp-smiley;nopin;ssba;ssba_twitter_share;ssba_facebook_share;ssba_google_share;ssba_pinterest_share;ssba_email_share;ERSTopRight;easyrecipe;div.easyrecipe;ERSTopRight.img;gallery-icon,gallery-item,gallery","enabled_classes":"","min_image_height":357,"min_image_height_small":279,"min_image_width":357,"min_image_width_small":279,"show_on":"[front],[home],[single],[page],","disable_on":"30291","show_button":"always","button_margin_bottom":20,"button_margin_top":20,"button_margin_left":20,"button_margin_right":20,"button_position":"bottom-right","description_option":["data_pin_description","img_title"],"transparency_value":0,"pin_image":"old_default","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"","scale_pin_image":false,"pin_linked_url":true,"pinLinkedImages":true,"pinImageWidth":65,"pinImageHeight":41,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/jquery-pin-it-button-for-images-pro/js/jpibfi.client.js?ver=3.0.5" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.9.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wpr-extend-comment-form/assets/js/wpr-custom-comments.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/comment-reply.min.js?ver=5.3.2" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-content/themes/baker/js/global.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="https://minimalistbaker.com/wp-includes/js/wp-embed.min.js?ver=5.3.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprm_public = {"settings":{"features_comment_ratings":true},"home_url":"https:\/\/minimalistbaker.com\/","permalinks":"\/%postname%\/","ajax_url":"https:\/\/minimalistbaker.com\/wp-admin\/admin-ajax.php","nonce":"c9e44917cf","api_nonce":"8551e0e8fa","translations":[]};
+var wprmpuc_recipe_49488 = {"ingredients":[{"amount":"2","unit":"small heads","name":"organic broccoli, chopped ","notes":"(~7 cups chopped)","converted":{"2":{"amount":"2","unit":"small heads"}},"id":28792},{"amount":"1-2","unit":"Tbsp","name":"olive oil","notes":"","converted":{"2":{"amount":"15-30","unit":"ml"}},"id":14078},{"amount":"1\/4","unit":"tsp","name":"each sea salt and black pepper","notes":"","converted":{"2":{"amount":"1\/4","unit":"tsp"}},"id":14531},{"amount":"2","unit":"tsp","name":"salt ","notes":"(for salting water)","converted":{"2":{"amount":"2","unit":"tsp"}},"id":13272},{"amount":"1 \u00bd","unit":"cups","name":"(dry) gluten-free pasta ","notes":"(we like Trader Joe\u2019s brown rice quinoa fusilli)","converted":{"2":{"amount":"168","unit":"g"}},"id":28793},{"amount":"2","unit":"(heaping) cups packed ","name":"basil","notes":"","converted":{"2":{"amount":"~85","unit":"g"}},"id":21945},{"amount":"4","unit":"cloves","name":"garlic, skins removed ","notes":"(4 cloves yield ~2 Tbsp)","converted":{"2":{"amount":"4","unit":"cloves"}},"id":15350},{"amount":"1\/4","unit":"cup","name":"hemp seeds ","notes":"(or pine nuts)","converted":{"2":{"amount":"40","unit":"g"}},"id":13362},{"amount":"2","unit":"Tbsp","name":"lemon juice","notes":"","converted":{"2":{"amount":"30","unit":"ml"}},"id":13491},{"amount":"3-4","unit":"Tbsp","name":"nutritional yeast","notes":"","converted":{"2":{"amount":"9-12","unit":"g"}},"id":13492},{"amount":"1\/4","unit":"tsp","name":"sea salt (plus more to taste)","notes":"","converted":{"2":{"amount":"1\/4","unit":"tsp"}},"id":13502},{"amount":"3-4","unit":"Tbsp","name":"olive oil ","notes":"(if avoiding oil, sub water)","converted":{"2":{"amount":"45-60","unit":"ml"}},"id":14078},{"amount":"2\/3","unit":"cup","name":"sun-dried tomatoes ","notes":"(if in oil, pat dry \/\/ we like Trader Joe\u2019s brand)","converted":{"2":{"amount":"75","unit":"g"}},"id":13999},{"amount":"1\/2","unit":"cup","name":"macadamia nut cheese","notes":"(<em>optional<\/em>)","converted":{"2":{"amount":"54","unit":"g"}},"id":14539},{"amount":"1","unit":"sprinkle","name":"red pepper flake","notes":"(<em>optional<\/em>)","converted":{"2":{"amount":"1","unit":"sprinkle"}},"id":13998}]};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker/dist/public-legacy.js?ver=5.10.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wprmp_public = {"endpoints":[],"settings":{"recipe_template_mode":"legacy","features_adjustable_servings":true,"adjustable_servings_round_to_decimals":"2","features_comment_ratings":true,"features_user_ratings":false,"user_ratings_force_comment":"never","servings_changer_display":"text_field","template_ingredient_list_style":"disc","template_instruction_list_style":"decimal","template_color_icon":"#343434"},"timer":{"sound_dir":"https:\/\/minimalistbaker.com\/wp-content\/plugins\/wp-recipe-maker-premium\/dist\/","text":{"start_timer":"Click to Start Timer"},"icons":{"pause":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M9,2H4C3.4,2,3,2.4,3,3v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C10,2.4,9.6,2,9,2z\"\/><path fill=\"#fffefe\" d=\"M20,2h-5c-0.6,0-1,0.4-1,1v18c0,0.6,0.4,1,1,1h5c0.6,0,1-0.4,1-1V3C21,2.4,20.6,2,20,2z\"\/><\/g><\/svg>","play":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M6.6,2.2C6.3,2,5.9,1.9,5.6,2.1C5.2,2.3,5,2.6,5,3v18c0,0.4,0.2,0.7,0.6,0.9C5.7,22,5.8,22,6,22c0.2,0,0.4-0.1,0.6-0.2l12-9c0.3-0.2,0.4-0.5,0.4-0.8s-0.1-0.6-0.4-0.8L6.6,2.2z\"\/><\/g><\/svg>","close":"<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" width=\"24px\" height=\"24px\" viewBox=\"0 0 24 24\"><g ><path fill=\"#fffefe\" d=\"M22.7,4.3l-3-3c-0.4-0.4-1-0.4-1.4,0L12,7.6L5.7,1.3c-0.4-0.4-1-0.4-1.4,0l-3,3c-0.4,0.4-0.4,1,0,1.4L7.6,12l-6.3,6.3c-0.4,0.4-0.4,1,0,1.4l3,3c0.4,0.4,1,0.4,1.4,0l6.3-6.3l6.3,6.3c0.2,0.2,0.5,0.3,0.7,0.3s0.5-0.1,0.7-0.3l3-3c0.4-0.4,0.4-1,0-1.4L16.4,12l6.3-6.3C23.1,5.3,23.1,4.7,22.7,4.3z\"\/><\/g><\/svg>"}},"recipe_submission":{"max_file_size":2097152,"text":{"image_size":"The image file is too large","drop_image":"Drop an image"}}};
+/* ]]> */
+</script>
+<script src="https://minimalistbaker.com/wp-content/plugins/wp-recipe-maker-premium/dist/public-pro.js?ver=5.10.0" type="text/javascript"></script>
+<script async="async" src="https://minimalistbaker.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.3" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"52e5c3f6d8","applicationID":"148459619","transactionName":"NFQEYxBSVhAEARZRCQ0eJ1QWWlcNShELVgEPVA==","queueTime":0,"applicationTime":289,"atts":"GBMHFVhIRR4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
