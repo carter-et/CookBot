@@ -1,0 +1,2307 @@
+<body class="template-recipe mdex-test karma-site-container no-js" data-add-slash="true" data-caas-sitename="etg" data-content-graph-id="cms/allrecipes_recipe_etg_278428" data-current-env="production" data-dynamic-nav-id="cms/onecms_posts_etg_explore" data-faceted-search-api-url="" data-recipe-reviews-url="https://ugc-review-query-api.ugc.meredithcorp.io/v1/reviews/byparentid/cms/allrecipes_recipe_etg_278428?sort=udf.last_updated%2Cdesc&amp;skip=80&amp;take=20" data-recommendations-aggregates-url="https://recommendation.meredith.services/v2/Aggregates" data-recommendations-contains-url="https://recommendation.meredith.services/v2/Contains" data-recommendations-proximity-url="https://recommendation.meredith.services/v2/Proximity" data-search-api-url="https://search.meredith.services/v2/search">
+<header class="component navigation-test">
+<div class="component adhesion-ad mobile-ad">
+<div class="adhesion-ad-container">
+<div aria-hidden="true" class="ad ad-container ad-wrapper type-320-flex mobile-ad karma-ad" data-tier="1" id="div-gpt-mob-adhesive-banner-fixed" role="complementary" tabindex="-1"></div>
+</div>
+</div>
+<div class="ad-wrapper outer tablet-ad desktop-ad full-column karma-leaderboard-docking-element">
+<div class="ad-sticky-container desktop-ad tablet-ad karma-ad">
+<div aria-hidden="true" class="ad ad-container ad-wrapper type-banner type-970x90-flex margin-16-tb desktop-ad tablet-ad karma-ad" data-tier="1" id="div-gpt-leaderboard-flex-1" role="complementary" tabindex="-1"></div>
+</div>
+</div>
+<nav aria-label="Top" class="main-new new-navigation karma-below-banner no-secondary-ribbon no-utility-ribbon" data-tracking-zone="nav-bar">
+<h2 class="sr-heading" id="top-nav-heading">Top Navigation</h2>
+<div class="container primary">
+<div class="subcontainer">
+<button aria-label="Explore EatingWell" class="menu">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 24 24" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2.016H3V6zm0 6.984v-1.969h18v1.969H3zM3 18v-2.016h18V18H3z"></path></svg>
+<span aria-hidden="true" class="menu-explore">Explore</span>
+</button>
+<div class="logo">
+<a class="full-logo mobile-only" data-action="primary-nav-logo" data-tracking-label="brand logo" href="/">
+<span class="svg-label">EatingWell</span>
+<span aria-hidden="true" class="svg-logo">
+<svg height="64" viewbox="0 0 215 64" width="215" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 63.847h214.497V0H0z" id="eating-well-logo-a"></path></defs><g fill="none" fill-rule="evenodd"><path d="M61.203 9.883a3.707 3.707 0 1 0 7.413 0 3.707 3.707 0 0 0-7.413 0z" fill="#639A3A"></path><mask fill="#fff" id="eating-well-logo-b"><use xlink:href="#eating-well-logo-a"></use></mask><path d="M188.897 52.697h6.502V.387h-6.502zm11.129.047h6.5V.434h-6.5z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path><path d="M211.01 48.097c-1.323 0-2.331 1.008-2.331 2.332 0 1.324 1.008 2.332 2.332 2.332 1.324 0 2.332-1.008 2.332-2.332 0-1.387-1.008-2.332-2.332-2.332m.01 4.296c-1.135 0-1.954-.82-1.954-1.954 0-1.135.82-1.954 1.954-1.954s1.954.82 1.954 1.954-.82 1.954-1.954 1.954" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M211.956 50.05c0-.503-.378-.755-.819-.755h-1.072v2.269h.505v-.82h.252l.693.82h.567V51.5l-.693-.694c.315-.189.567-.378.567-.756m-.819.315h-.504v-.693h.504c.19 0 .378.126.378.378-.063.189-.189.315-.378.315" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M113.13 39.451c-.064-.001-.124-.008-.187-.008.063-.034.124-.027.186.008m-2.93-1.58c-2.974 0-5.804-2.757-5.804-8.996 0-5.441 2.395-8.851 5.803-8.851 3.556 0 5.879 3.41 5.879 8.923 0 5.441-2.25 8.924-5.879 8.924m-4.797 1.287c.02-.033.046-.042.085-.021l-.085.021m11.698.965c3.314-1.838 5.423-5.764 5.423-10.668 0-3.984-1.333-7.306-3.265-9.308 2.519.182 4.267-.396 4.267-.396l-1.118-4.748s-1.91.45-4.608.45c-2.792 0-4.933-.653-7.6-.653-7.775 0-11.94 5.25-11.94 13.371 0 5.048 1.891 9.569 5.261 11.714-1.6.855-3.161 2.205-4.097 3.203l3.667 4.07c1.57-1.714 4.362-3.553 7.994-3.553 4.468 0 7.878 3.048 7.878 7.471 0 4.608-3.69 7.122-8.437 7.122-5.492 0-9.328-3.742-9.328-3.742l-3.739 4.02c2.85 3.003 7.761 5.371 13.283 5.371 7.93 0 14.365-4.533 14.365-12.26 0-5.619-3.305-9.88-8.006-11.464M30.4 48.151c-2.649 0-4.977-2.01-4.977-8.104 0-5.168 1.71-8.103 4.839-8.103 3.41 0 5.513 3.377 5.513 8.031 0 4.172-2.375 8.176-5.376 8.176m13.508-.984c-1.396-.28-2.19-1.071-2.19-3.491V27.859c0-9.926-3.462-13.422-11.23-13.422-4.672 0-8.138 1.98-8.138 1.98l.107 5.312s3.712-1.756 7.061-1.756c4.507 0 6.258 2.99 6.258 7.088v2.756c-1.523-2.248-4.23-3.046-6.696-3.046-5.659 0-10.157 4.498-10.157 13.204 0 8.851 4.883 13.566 10.397 13.566 2.283 0 5.396-1.25 7.478-4.643.5 2.109 2.066 4.134 5.993 4.134 2.164 0 3.328-.35 3.328-.35v-5.47s-.814.234-2.211-.045M54.22 7.958l-6.502 2.039v5.456h-3.982v5.993h3.982v22.157c0 6.746 2.874 9.503 8.532 9.503.871 0 1.379-.073 2.25-.362V47.28c-.508.145-.726.145-1.161.145-2.612 0-3.12-.798-3.12-4.498V21.446h4.28v-5.993h-4.28V7.958m7.451 44.786h6.5V15.453h-6.5zm24.877-38.307c-2.55 0-5.777 1.357-8.002 4.896v-3.88h-5.97v37.29h6.5V28.7c0-4.28 3.4-8.56 6.49-8.56 2.56 0 3.333 1.852 3.333 5.03v27.574h6.5v-27.86c0-3.627-.798-5.949-2.321-7.69-1.524-1.814-3.918-2.757-6.53-2.757M159.177.435l-7.028 34.277L145.99 0h-5.066l-6.24 34.687-7.24-34.252h-6.573l12.045 52.889h3.858l6.701-36.209 6.52 36.209h3.931L165.968.434zm15.369 19.392c3.202 0 4.818 3.446 4.818 10.716h-10.215c0-7.402 2.385-10.716 5.397-10.716m.592 27.961c-3.731 0-6.232-4.06-6.232-10.283 0-.926-.005-1.29-.005-1.508l16.49-.007c.072-2.22.11-2.907.11-4.068 0-10.834-3.213-17.485-10.955-17.485-7.948 0-11.825 7.247-11.825 19.734 0 12.536 5.043 19.37 12.234 19.37 4.958 0 8.524-3.061 10.618-8.364l-4.61-2.64c-1.523 2.978-3.046 5.251-5.825 5.251M0 52.744h18.271v-6.427H6.646v-17.37h10.04v-6.428H6.647V6.863H18.41V.435H0z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path></g></svg>
+</span>
+</a>
+<a class="full-logo desktop-only" data-action="primary-nav-logo" data-tracking-label="brand logo" href="/">
+<span class="svg-label">EatingWell</span>
+<span aria-hidden="true" class="svg-logo">
+<svg height="64" viewbox="0 0 215 64" width="215" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 63.847h214.497V0H0z" id="eating-well-logo-a"></path></defs><g fill="none" fill-rule="evenodd"><path d="M61.203 9.883a3.707 3.707 0 1 0 7.413 0 3.707 3.707 0 0 0-7.413 0z" fill="#639A3A"></path><mask fill="#fff" id="eating-well-logo-b"><use xlink:href="#eating-well-logo-a"></use></mask><path d="M188.897 52.697h6.502V.387h-6.502zm11.129.047h6.5V.434h-6.5z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path><path d="M211.01 48.097c-1.323 0-2.331 1.008-2.331 2.332 0 1.324 1.008 2.332 2.332 2.332 1.324 0 2.332-1.008 2.332-2.332 0-1.387-1.008-2.332-2.332-2.332m.01 4.296c-1.135 0-1.954-.82-1.954-1.954 0-1.135.82-1.954 1.954-1.954s1.954.82 1.954 1.954-.82 1.954-1.954 1.954" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M211.956 50.05c0-.503-.378-.755-.819-.755h-1.072v2.269h.505v-.82h.252l.693.82h.567V51.5l-.693-.694c.315-.189.567-.378.567-.756m-.819.315h-.504v-.693h.504c.19 0 .378.126.378.378-.063.189-.189.315-.378.315" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M113.13 39.451c-.064-.001-.124-.008-.187-.008.063-.034.124-.027.186.008m-2.93-1.58c-2.974 0-5.804-2.757-5.804-8.996 0-5.441 2.395-8.851 5.803-8.851 3.556 0 5.879 3.41 5.879 8.923 0 5.441-2.25 8.924-5.879 8.924m-4.797 1.287c.02-.033.046-.042.085-.021l-.085.021m11.698.965c3.314-1.838 5.423-5.764 5.423-10.668 0-3.984-1.333-7.306-3.265-9.308 2.519.182 4.267-.396 4.267-.396l-1.118-4.748s-1.91.45-4.608.45c-2.792 0-4.933-.653-7.6-.653-7.775 0-11.94 5.25-11.94 13.371 0 5.048 1.891 9.569 5.261 11.714-1.6.855-3.161 2.205-4.097 3.203l3.667 4.07c1.57-1.714 4.362-3.553 7.994-3.553 4.468 0 7.878 3.048 7.878 7.471 0 4.608-3.69 7.122-8.437 7.122-5.492 0-9.328-3.742-9.328-3.742l-3.739 4.02c2.85 3.003 7.761 5.371 13.283 5.371 7.93 0 14.365-4.533 14.365-12.26 0-5.619-3.305-9.88-8.006-11.464M30.4 48.151c-2.649 0-4.977-2.01-4.977-8.104 0-5.168 1.71-8.103 4.839-8.103 3.41 0 5.513 3.377 5.513 8.031 0 4.172-2.375 8.176-5.376 8.176m13.508-.984c-1.396-.28-2.19-1.071-2.19-3.491V27.859c0-9.926-3.462-13.422-11.23-13.422-4.672 0-8.138 1.98-8.138 1.98l.107 5.312s3.712-1.756 7.061-1.756c4.507 0 6.258 2.99 6.258 7.088v2.756c-1.523-2.248-4.23-3.046-6.696-3.046-5.659 0-10.157 4.498-10.157 13.204 0 8.851 4.883 13.566 10.397 13.566 2.283 0 5.396-1.25 7.478-4.643.5 2.109 2.066 4.134 5.993 4.134 2.164 0 3.328-.35 3.328-.35v-5.47s-.814.234-2.211-.045M54.22 7.958l-6.502 2.039v5.456h-3.982v5.993h3.982v22.157c0 6.746 2.874 9.503 8.532 9.503.871 0 1.379-.073 2.25-.362V47.28c-.508.145-.726.145-1.161.145-2.612 0-3.12-.798-3.12-4.498V21.446h4.28v-5.993h-4.28V7.958m7.451 44.786h6.5V15.453h-6.5zm24.877-38.307c-2.55 0-5.777 1.357-8.002 4.896v-3.88h-5.97v37.29h6.5V28.7c0-4.28 3.4-8.56 6.49-8.56 2.56 0 3.333 1.852 3.333 5.03v27.574h6.5v-27.86c0-3.627-.798-5.949-2.321-7.69-1.524-1.814-3.918-2.757-6.53-2.757M159.177.435l-7.028 34.277L145.99 0h-5.066l-6.24 34.687-7.24-34.252h-6.573l12.045 52.889h3.858l6.701-36.209 6.52 36.209h3.931L165.968.434zm15.369 19.392c3.202 0 4.818 3.446 4.818 10.716h-10.215c0-7.402 2.385-10.716 5.397-10.716m.592 27.961c-3.731 0-6.232-4.06-6.232-10.283 0-.926-.005-1.29-.005-1.508l16.49-.007c.072-2.22.11-2.907.11-4.068 0-10.834-3.213-17.485-10.955-17.485-7.948 0-11.825 7.247-11.825 19.734 0 12.536 5.043 19.37 12.234 19.37 4.958 0 8.524-3.061 10.618-8.364l-4.61-2.64c-1.523 2.978-3.046 5.251-5.825 5.251M0 52.744h18.271v-6.427H6.646v-17.37h10.04v-6.428H6.647V6.863H18.41V.435H0z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path></g></svg>
+</span>
+</a>
+</div>
+<div class="primary-links desktop-only">
+<ul class="primary-text-links">
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-1">
+<a aria-controls="submenu-1" href="#">Healthy Recipes
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-2">
+<a aria-controls="submenu-2" href="#">Special Diets
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-3">
+<a aria-controls="submenu-3" href="#">Diabetes
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-4">
+<a aria-controls="submenu-4" href="#">Healthy Meal Plans
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-5">
+<a aria-controls="submenu-5" href="#">Healthy Eating
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-6">
+<a aria-controls="submenu-6" href="#">Healthy Lifestyle
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-7">
+<a aria-controls="submenu-7" href="#">Healthy Cooking
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item has-submenu" data-nav-pos="pos-8">
+<a aria-controls="submenu-8" href="#">Shop
+                            </a>
+</li>
+<li class="header-primary-links heading-list menu-list-item" data-nav-pos="pos-9">
+<a href="http://www.eatingwell.com/category/4328/news/">News
+                            </a>
+</li>
+</ul>
+</div>
+<div class="auth-icons mobile-only">
+<!-- TO DO : 
+                          We have to wait for the auth api to return the data
+                        -->
+<a aria-label="Log In" class="logged-out profile-image-container" href="https://www.eatingwell.com/Account/SignUp?regSource=27520" title="Log In">
+<img class="profile-img" src="/img/profile.png"/>
+</a>
+<a aria-label="Account Details" class="logged-in profile-image-container" href="https://www.eatingwell.com/profile/my/profile-settings/" title="Account Details">
+<img class="profile-img" src="/img/profile.png"/>
+</a>
+</div>
+<div class="menu-search">
+<div class="buttons">
+<button aria-label="Open search box" class="icon search js-activate" data-action="nav-close-search"><span class="icon icon-search utility-icon color-navigation">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 24 24" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg>
+</span>
+</button>
+<div class="component site-search search-container">
+<form action="        /search/" class="" data-tracking-zone="search-form" method="GET">
+<label class="hidden-label" for="search-a">
+                                Search
+                              </label>
+<input aria-label="Search" class="search-field" id="search-a" name="q" placeholder="Search EatingWell" type="text" value=""/>
+</form>
+<button aria-label="Close search box" class="icon close close-search" data-action="nav-close-search">
+<span class="icon icon-close utility-icon color-navigation">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+</div>
+</div>
+<section class="container secondary-links secondary-menu">
+<h2 class="sr-heading">Profile Menu</h2>
+<div class="secondary-text-links">
+<div class="heading-menu menu-list-item secondary-item has-submenu" data-action="secondary-nav-pos-1">
+<button aria-expanded="false" class="menu-link expand-trigger has-auth" data-tracking-label="your account">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<!-- TO DO : 
+                                    We have to wait for the auth api to return the data
+                                  -->
+<span class="profile-image-container logged-out"><img class="profile-img" src="/img/profile.png"/></span>
+<span class="profile-image-container logged-in"><img class="profile-img" src="/img/profile.png"/></span>
+<span class="secondary-menu-label">Your Account</span> <span class="icon desktop-only"><span class="icon icon-down-triangle utility-icon color-gray-6">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</span>
+</span>
+<span class="icon accordion-arrow mobile-only"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span>
+</button>
+<div class="submenu-children-wrapper">
+<div class="sub-menu-header">
+<button aria-label="Close" class="icon back-button mobile-only">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<span class="main-channel mobile-only">Your Account</span>
+</div>
+<div class="dropdown-links-list">
+<h3 class="sub-menu__heading-label">Account</h3> <ul class="secondary-nav-submenu-children">
+<li class="menu-item heading-menu logged-out join-now">
+<a class="menu-link" data-tracking-label="your account &gt; join now" href="https://www.eatingwell.com/Account/SignUp?regSource=27520&amp;actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+                                            Join Now</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; email preferences" href="https://secure.eatingwell.com/common/profile/member/optout/">
+                                            Email Preferences</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; favorites" href="https://www.eatingwell.com/profile/my/">
+                                            Favorites</a>
+</li>
+<li class="menu-item heading-menu logged-out">
+<a class="menu-link" data-tracking-label="your account &gt; newsletters" href="https://x.specialoffers.meredith.com/ats/show.aspx?cr=588&amp;fm=301&amp;regSource=27538">
+                                            Newsletters</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; manage your subscription" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=ETG" target="_blank">
+                                            Manage Your Subscription<span class="hidden-label"> this link opens in a new tab</span>
+</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; help" href="http://www.eatingwell.com/article/290690/customer-service/">
+                                            Help</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; logout" href="http://www.eatingwell.com/account/SignOut?successPage=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+                                            Logout</a>
+</li>
+</ul>
+<hr class="secondary-nav-divider desktop-only"/>
+<h3 class="sub-menu__heading-label">More</h3> <ul class="secondary-nav-submenu-children">
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; give a gift subscription" href="https://www.magazine.store/eatingwell/">
+                                            Give a Gift Subscription</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; cooking light diet" href="https://learn.cookinglightdiet.com/?utm_source=un_display_etg_b907etr1b204">
+                                            Cooking Light Diet</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="heading-menu menu-list-item secondary-item logged-out" data-action="secondary-nav-pos-2">
+<a class="menu-link" data-tracking-label="login" href="https://www.eatingwell.com/account/signin/?actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<span class="secondary-menu-label">Login</span> </a>
+</div>
+<div class="heading-menu menu-list-item secondary-item sweepstakes hide-menu" data-action="secondary-nav-pos-3">
+<a class="menu-link" data-tracking-label="sweepstakes" href="http://my.eatingwell.com/sweepstakes/?regSource=27550">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<span class="secondary-menu-label">Sweepstakes</span> </a>
+</div>
+</div>
+</section>
+</div>
+<div class="menu-subscribe" id="homepageHeaderMonetateTargeter">
+<span class="subscribe-link">
+<a aria-describedby="external-disclaimer" href="https://www.magazine.store/eatingwell/?utm_source=eatingwell.com&amp;utm_medium=owned&amp;utm_campaign=i907etr1w1657">
+                              Subscribe
+                            </a>
+</span>
+</div>
+<div class="contextual-social-links mobile-only">
+<div class="component share-new square" data-tracking-zone="sticky nav">
+<span class="icon icon-pinterest social-icon padding-8-right" data-social-service="pinterest">
+<a aria-label="Pin this (opens in a new window)" class="display-block component popup" href="https://www.pinterest.com/pin/create/link/?url=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/%3Futm_source=pinterest.com%26utm_medium=social%26utm_campaign=social-share-recipe%26utm_content=20200223%26utm_term=278428&amp;media=https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7671174.jpg&amp;description=Creamy%20Spinach%20Pasta%20" target="_blank" title="pinterest share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-pinterest" height="36" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M11.018 14.094l-.028.096c-.455 1.786-.506 2.183-.975 3.011a9.21 9.21 0 0 1-.753 1.126c-.031.04-.061.092-.124.08-.068-.015-.074-.077-.08-.131a9.552 9.552 0 0 1-.1-1.635c.025-.714.113-.959 1.033-4.827a.267.267 0 0 0-.022-.162c-.22-.594-.263-1.197-.071-1.808.416-1.32 1.912-1.42 2.173-.331.162.673-.265 1.554-.592 2.856-.27 1.075.994 1.84 2.075 1.054.997-.723 1.385-2.456 1.311-3.685-.144-2.45-2.832-2.98-4.536-2.191-1.955.904-2.398 3.326-1.516 4.432.112.142.198.227.16.37-.056.222-.106.445-.167.666-.046.164-.183.224-.349.156a2.005 2.005 0 0 1-.816-.611c-.75-.928-.964-2.764.027-4.317 1.098-1.721 3.139-2.417 5.004-2.206 2.226.253 3.632 1.774 3.896 3.5.12.786.034 2.724-1.07 4.094-1.27 1.575-3.327 1.679-4.277.713-.073-.074-.132-.162-.203-.25" fill="#685F55"></path></svg>
+<span class="icon-text">Pin</span>
+</a>
+</span>
+<span class="icon icon-favorite default-icon padding-8-right" data-social-service="favorite" data-tracking-zone="save-heart">
+<a aria-label="Save this" class="display-block shareicon-favorite-link-tag shareicon-favorite-link" data-content-id="278428" data-content-login-url="https://www.eatingwell.com/account/authenticationwelcome?actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F" href="javascript:void(0);" title="favorite share">
+<svg aria-hidden="true" class="icon-share icon-share-favorite" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg>
+<span class="icon-text">Save</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</nav>
+<div class="docking-nav-placeholder"></div>
+<div class="main has-promo-tout notification-banner-wrapper" data-embed-type="notification-banner">
+</div>
+<div aria-hidden="true" class="partial modal hamburger static" id="dialog-086687b5-32ab-49c3-8f1a-7c6a3d517e4c" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="hamburger_dialog" class="dialog-wrap" role="dialog">
+<button aria-label="Close this dialog window" class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="nav-hamburger" type="button">
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="hamburger_dialog">Explore EatingWell</h2>
+<div class="content">
+<div class="hamburger-header modal-header" data-tracking-zone="nav-hamburger">
+<div class="logo">
+<a class="full-logo mobile-only" data-action="primary-nav-logo" data-tracking-label="brand logo" href="/">
+<span class="svg-label">EatingWell</span>
+<span aria-hidden="true" class="svg-logo">
+<svg height="64" viewbox="0 0 215 64" width="215" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 63.847h214.497V0H0z" id="eating-well-logo-a"></path></defs><g fill="none" fill-rule="evenodd"><path d="M61.203 9.883a3.707 3.707 0 1 0 7.413 0 3.707 3.707 0 0 0-7.413 0z" fill="#639A3A"></path><mask fill="#fff" id="eating-well-logo-b"><use xlink:href="#eating-well-logo-a"></use></mask><path d="M188.897 52.697h6.502V.387h-6.502zm11.129.047h6.5V.434h-6.5z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path><path d="M211.01 48.097c-1.323 0-2.331 1.008-2.331 2.332 0 1.324 1.008 2.332 2.332 2.332 1.324 0 2.332-1.008 2.332-2.332 0-1.387-1.008-2.332-2.332-2.332m.01 4.296c-1.135 0-1.954-.82-1.954-1.954 0-1.135.82-1.954 1.954-1.954s1.954.82 1.954 1.954-.82 1.954-1.954 1.954" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M211.956 50.05c0-.503-.378-.755-.819-.755h-1.072v2.269h.505v-.82h.252l.693.82h.567V51.5l-.693-.694c.315-.189.567-.378.567-.756m-.819.315h-.504v-.693h.504c.19 0 .378.126.378.378-.063.189-.189.315-.378.315" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M113.13 39.451c-.064-.001-.124-.008-.187-.008.063-.034.124-.027.186.008m-2.93-1.58c-2.974 0-5.804-2.757-5.804-8.996 0-5.441 2.395-8.851 5.803-8.851 3.556 0 5.879 3.41 5.879 8.923 0 5.441-2.25 8.924-5.879 8.924m-4.797 1.287c.02-.033.046-.042.085-.021l-.085.021m11.698.965c3.314-1.838 5.423-5.764 5.423-10.668 0-3.984-1.333-7.306-3.265-9.308 2.519.182 4.267-.396 4.267-.396l-1.118-4.748s-1.91.45-4.608.45c-2.792 0-4.933-.653-7.6-.653-7.775 0-11.94 5.25-11.94 13.371 0 5.048 1.891 9.569 5.261 11.714-1.6.855-3.161 2.205-4.097 3.203l3.667 4.07c1.57-1.714 4.362-3.553 7.994-3.553 4.468 0 7.878 3.048 7.878 7.471 0 4.608-3.69 7.122-8.437 7.122-5.492 0-9.328-3.742-9.328-3.742l-3.739 4.02c2.85 3.003 7.761 5.371 13.283 5.371 7.93 0 14.365-4.533 14.365-12.26 0-5.619-3.305-9.88-8.006-11.464M30.4 48.151c-2.649 0-4.977-2.01-4.977-8.104 0-5.168 1.71-8.103 4.839-8.103 3.41 0 5.513 3.377 5.513 8.031 0 4.172-2.375 8.176-5.376 8.176m13.508-.984c-1.396-.28-2.19-1.071-2.19-3.491V27.859c0-9.926-3.462-13.422-11.23-13.422-4.672 0-8.138 1.98-8.138 1.98l.107 5.312s3.712-1.756 7.061-1.756c4.507 0 6.258 2.99 6.258 7.088v2.756c-1.523-2.248-4.23-3.046-6.696-3.046-5.659 0-10.157 4.498-10.157 13.204 0 8.851 4.883 13.566 10.397 13.566 2.283 0 5.396-1.25 7.478-4.643.5 2.109 2.066 4.134 5.993 4.134 2.164 0 3.328-.35 3.328-.35v-5.47s-.814.234-2.211-.045M54.22 7.958l-6.502 2.039v5.456h-3.982v5.993h3.982v22.157c0 6.746 2.874 9.503 8.532 9.503.871 0 1.379-.073 2.25-.362V47.28c-.508.145-.726.145-1.161.145-2.612 0-3.12-.798-3.12-4.498V21.446h4.28v-5.993h-4.28V7.958m7.451 44.786h6.5V15.453h-6.5zm24.877-38.307c-2.55 0-5.777 1.357-8.002 4.896v-3.88h-5.97v37.29h6.5V28.7c0-4.28 3.4-8.56 6.49-8.56 2.56 0 3.333 1.852 3.333 5.03v27.574h6.5v-27.86c0-3.627-.798-5.949-2.321-7.69-1.524-1.814-3.918-2.757-6.53-2.757M159.177.435l-7.028 34.277L145.99 0h-5.066l-6.24 34.687-7.24-34.252h-6.573l12.045 52.889h3.858l6.701-36.209 6.52 36.209h3.931L165.968.434zm15.369 19.392c3.202 0 4.818 3.446 4.818 10.716h-10.215c0-7.402 2.385-10.716 5.397-10.716m.592 27.961c-3.731 0-6.232-4.06-6.232-10.283 0-.926-.005-1.29-.005-1.508l16.49-.007c.072-2.22.11-2.907.11-4.068 0-10.834-3.213-17.485-10.955-17.485-7.948 0-11.825 7.247-11.825 19.734 0 12.536 5.043 19.37 12.234 19.37 4.958 0 8.524-3.061 10.618-8.364l-4.61-2.64c-1.523 2.978-3.046 5.251-5.825 5.251M0 52.744h18.271v-6.427H6.646v-17.37h10.04v-6.428H6.647V6.863H18.41V.435H0z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path></g></svg>
+</span>
+</a>
+<a class="full-logo desktop-only" data-action="primary-nav-logo" data-tracking-label="brand logo" href="/">
+<span class="svg-label">EatingWell</span>
+<span aria-hidden="true" class="svg-logo">
+<svg height="64" viewbox="0 0 215 64" width="215" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 63.847h214.497V0H0z" id="eating-well-logo-a"></path></defs><g fill="none" fill-rule="evenodd"><path d="M61.203 9.883a3.707 3.707 0 1 0 7.413 0 3.707 3.707 0 0 0-7.413 0z" fill="#639A3A"></path><mask fill="#fff" id="eating-well-logo-b"><use xlink:href="#eating-well-logo-a"></use></mask><path d="M188.897 52.697h6.502V.387h-6.502zm11.129.047h6.5V.434h-6.5z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path><path d="M211.01 48.097c-1.323 0-2.331 1.008-2.331 2.332 0 1.324 1.008 2.332 2.332 2.332 1.324 0 2.332-1.008 2.332-2.332 0-1.387-1.008-2.332-2.332-2.332m.01 4.296c-1.135 0-1.954-.82-1.954-1.954 0-1.135.82-1.954 1.954-1.954s1.954.82 1.954 1.954-.82 1.954-1.954 1.954" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M211.956 50.05c0-.503-.378-.755-.819-.755h-1.072v2.269h.505v-.82h.252l.693.82h.567V51.5l-.693-.694c.315-.189.567-.378.567-.756m-.819.315h-.504v-.693h.504c.19 0 .378.126.378.378-.063.189-.189.315-.378.315" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M113.13 39.451c-.064-.001-.124-.008-.187-.008.063-.034.124-.027.186.008m-2.93-1.58c-2.974 0-5.804-2.757-5.804-8.996 0-5.441 2.395-8.851 5.803-8.851 3.556 0 5.879 3.41 5.879 8.923 0 5.441-2.25 8.924-5.879 8.924m-4.797 1.287c.02-.033.046-.042.085-.021l-.085.021m11.698.965c3.314-1.838 5.423-5.764 5.423-10.668 0-3.984-1.333-7.306-3.265-9.308 2.519.182 4.267-.396 4.267-.396l-1.118-4.748s-1.91.45-4.608.45c-2.792 0-4.933-.653-7.6-.653-7.775 0-11.94 5.25-11.94 13.371 0 5.048 1.891 9.569 5.261 11.714-1.6.855-3.161 2.205-4.097 3.203l3.667 4.07c1.57-1.714 4.362-3.553 7.994-3.553 4.468 0 7.878 3.048 7.878 7.471 0 4.608-3.69 7.122-8.437 7.122-5.492 0-9.328-3.742-9.328-3.742l-3.739 4.02c2.85 3.003 7.761 5.371 13.283 5.371 7.93 0 14.365-4.533 14.365-12.26 0-5.619-3.305-9.88-8.006-11.464M30.4 48.151c-2.649 0-4.977-2.01-4.977-8.104 0-5.168 1.71-8.103 4.839-8.103 3.41 0 5.513 3.377 5.513 8.031 0 4.172-2.375 8.176-5.376 8.176m13.508-.984c-1.396-.28-2.19-1.071-2.19-3.491V27.859c0-9.926-3.462-13.422-11.23-13.422-4.672 0-8.138 1.98-8.138 1.98l.107 5.312s3.712-1.756 7.061-1.756c4.507 0 6.258 2.99 6.258 7.088v2.756c-1.523-2.248-4.23-3.046-6.696-3.046-5.659 0-10.157 4.498-10.157 13.204 0 8.851 4.883 13.566 10.397 13.566 2.283 0 5.396-1.25 7.478-4.643.5 2.109 2.066 4.134 5.993 4.134 2.164 0 3.328-.35 3.328-.35v-5.47s-.814.234-2.211-.045M54.22 7.958l-6.502 2.039v5.456h-3.982v5.993h3.982v22.157c0 6.746 2.874 9.503 8.532 9.503.871 0 1.379-.073 2.25-.362V47.28c-.508.145-.726.145-1.161.145-2.612 0-3.12-.798-3.12-4.498V21.446h4.28v-5.993h-4.28V7.958m7.451 44.786h6.5V15.453h-6.5zm24.877-38.307c-2.55 0-5.777 1.357-8.002 4.896v-3.88h-5.97v37.29h6.5V28.7c0-4.28 3.4-8.56 6.49-8.56 2.56 0 3.333 1.852 3.333 5.03v27.574h6.5v-27.86c0-3.627-.798-5.949-2.321-7.69-1.524-1.814-3.918-2.757-6.53-2.757M159.177.435l-7.028 34.277L145.99 0h-5.066l-6.24 34.687-7.24-34.252h-6.573l12.045 52.889h3.858l6.701-36.209 6.52 36.209h3.931L165.968.434zm15.369 19.392c3.202 0 4.818 3.446 4.818 10.716h-10.215c0-7.402 2.385-10.716 5.397-10.716m.592 27.961c-3.731 0-6.232-4.06-6.232-10.283 0-.926-.005-1.29-.005-1.508l16.49-.007c.072-2.22.11-2.907.11-4.068 0-10.834-3.213-17.485-10.955-17.485-7.948 0-11.825 7.247-11.825 19.734 0 12.536 5.043 19.37 12.234 19.37 4.958 0 8.524-3.061 10.618-8.364l-4.61-2.64c-1.523 2.978-3.046 5.251-5.825 5.251M0 52.744h18.271v-6.427H6.646v-17.37h10.04v-6.428H6.647V6.863H18.41V.435H0z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path></g></svg>
+</span>
+</a>
+</div>
+</div>
+<div class="modal-wrapper" data-tracking-zone="nav-hamburger">
+<div class="modal-navigation">
+<nav aria-label="main" class="hamburger-menu">
+<ul class="top-menu">
+<li class="menu-item-main search-menu-item">
+<div class="search-container search-open">
+<form action="/search" data-tracking-zone="search-form" method="GET">
+<label class="hidden-label" for="explore-search">Search</label>
+<input aria-label="Search" class="search-field" id="explore-search" name="q" placeholder="Search" title="Search" type="text" value=""/>
+<button aria-label="Search" class="icon search js-activate" title="Search" type="submit"><span class="icon icon-search utility-icon color-navigation">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path></svg>
+</span>
+</button>
+</form>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-0 has-submenu" data-nav-pos="pos-0">
+<a aria-controls="submenu-0" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-0">Explore</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span>
+</a>
+<div class="submenu-children-wrapper" id="submenu-0">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Explore</h3>
+</div>
+<ul aria-labelledby="submenu-label-0" class="navigation-content explore navigation-recirc not-indexed">
+<li class="tile">
+<a class="media-img" data-tracking-label="Explore &gt; What's in Your Shamrock Shake?" href="http://www.eatingwell.com/article/290041/whats-in-your-shamrock-shake/">
+<div class="component lazy-image lazy-image-udf aspect_1x1" data-alt="" data-crop-percentage="100" data-height="230" data-high-density="true" data-main-recipe="" data-orientation="default" data-original-height="960" data-original-width="960" data-shop-image="false" data-src="https://static.onecms.io/wp-content/uploads/sites/44/2019/02/27195429/shamrock-comparison.jpg" data-title="shamrock-comparison.jpg" data-tracking-zone="image" data-width="      230
+                                                    ">
+<noscript>
+<img alt="" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F02%2F27195429%2Fshamrock-comparison.jpg"/>
+</noscript>
+<div class="lazy-image__loadingPlaceholder">
+<img alt="" class="loadingPlaceholder" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E">
+</img></div>
+<div class="inner-container js-inner-container">
+</div>
+</div>
+<span class="exploreMenuItemImageText">
+                                                What's in Your Shamrock Shake?
+                                              </span>
+</a>
+<div class="media-body article-info bucket-margin margin-24-bottom clearfix">
+<h3 class="headline heading-3">
+<a aria-hidden="true" class="heading-3 heading-content margin-8-bottom media-heading headline" data-tracking-label="Explore &gt; What's in Your Shamrock Shake?" href="http://www.eatingwell.com/article/290041/whats-in-your-shamrock-shake/" tabindex="-1">
+                                                  
+                                                  What's in Your Shamrock Shake?
+                                                </a>
+</h3>
+<span class="summary margin-8-bottom">
+                                                  Can you guess how many calories are in a Shamrock Shake? Don't let that green color fool you, these shakes are nowhere near green-smoothie status when it comes to nutrition and ingredients. Try our healthier recipe instead.
+                                                </span>
+<a class="read-more" data-tracking-label="Explore &gt; What's in Your Shamrock Shake?" href="http://www.eatingwell.com/article/290041/whats-in-your-shamrock-shake/">
+                                                  Read More <svg aria-hidden="true" class="icon-arrow-right" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Next</title>
+<path d="M12 3.984l8.016 8.016-8.016 8.016-1.406-1.406 5.578-5.625h-12.188v-1.969h12.188l-5.578-5.625z"></path>
+</svg>
+</a>
+</div>
+</li>
+<li class="tile">
+<a class="media-img" data-tracking-label="Explore &gt; Can Elderberry Help Treat the Cold and Flu?" href="http://www.eatingwell.com/article/291504/can-elderberry-help-treat-the-cold-and-flu/">
+<div class="component lazy-image lazy-image-udf aspect_1x1" data-alt="" data-crop-percentage="100" data-height="230" data-high-density="true" data-main-recipe="" data-orientation="default" data-original-height="960" data-original-width="960" data-shop-image="false" data-src="https://static.onecms.io/wp-content/uploads/sites/44/2019/02/elderberry-square.jpg" data-title="elderberry-square" data-tracking-zone="image" data-width="      230
+                                                    ">
+<noscript>
+<img alt="" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F02%2Felderberry-square.jpg"/>
+</noscript>
+<div class="lazy-image__loadingPlaceholder">
+<img alt="" class="loadingPlaceholder" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E">
+</img></div>
+<div class="inner-container js-inner-container">
+</div>
+</div>
+<span class="exploreMenuItemImageText">
+                                                Can Elderberry Help Treat the Cold and Flu?
+                                              </span>
+</a>
+<div class="media-body article-info bucket-margin margin-24-bottom clearfix">
+<h3 class="headline heading-3">
+<a aria-hidden="true" class="heading-3 heading-content margin-8-bottom media-heading headline" data-tracking-label="Explore &gt; Can Elderberry Help Treat the Cold and Flu?" href="http://www.eatingwell.com/article/291504/can-elderberry-help-treat-the-cold-and-flu/" tabindex="-1">
+                                                  
+                                                  Can Elderberry Help Treat the Cold and Flu?
+                                                </a>
+</h3>
+<span class="summary margin-8-bottom">
+                                                  This natural remedy can actually help your symptoms. Here's what the research says about the health benefits of elderberry and how you can use it to stay well this season.
+                                                </span>
+<a class="read-more" data-tracking-label="Explore &gt; Can Elderberry Help Treat the Cold and Flu?" href="http://www.eatingwell.com/article/291504/can-elderberry-help-treat-the-cold-and-flu/">
+                                                  Read More <svg aria-hidden="true" class="icon-arrow-right" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Next</title>
+<path d="M12 3.984l8.016 8.016-8.016 8.016-1.406-1.406 5.578-5.625h-12.188v-1.969h12.188l-5.578-5.625z"></path>
+</svg>
+</a>
+</div>
+</li>
+<li class="tile">
+<a class="media-img" data-tracking-label="Explore &gt; 20 Easter Side Dishes You Can Make Ahead" href="http://www.eatingwell.com/gallery/7651198/easter-side-dishes-make-ahead/">
+<div class="component lazy-image lazy-image-udf aspect_1x1" data-alt="" data-crop-percentage="100" data-height="230" data-high-density="true" data-main-recipe="" data-orientation="default" data-original-height="960" data-original-width="960" data-shop-image="false" data-src="https://static.onecms.io/wp-content/uploads/sites/44/2019/08/26231059/4478963.jpg" data-title="Artichokes with Lemon &amp; Dill" data-tracking-zone="image" data-width="      230
+                                                    ">
+<noscript>
+<img alt="" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F08%2F26231059%2F4478963.jpg"/>
+</noscript>
+<div class="lazy-image__loadingPlaceholder">
+<img alt="" class="loadingPlaceholder" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E">
+</img></div>
+<div class="inner-container js-inner-container">
+</div>
+</div>
+<span class="exploreMenuItemImageText">
+                                                20 Easter Side Dishes You Can Make Ahead
+                                              </span>
+</a>
+<div class="media-body article-info bucket-margin margin-24-bottom clearfix">
+<h3 class="headline heading-3">
+<a aria-hidden="true" class="heading-3 heading-content margin-8-bottom media-heading headline" data-tracking-label="Explore &gt; 20 Easter Side Dishes You Can Make Ahead" href="http://www.eatingwell.com/gallery/7651198/easter-side-dishes-make-ahead/" tabindex="-1">
+                                                  
+                                                  20 Easter Side Dishes You Can Make Ahead
+                                                </a>
+</h3>
+<span class="summary margin-8-bottom">
+                                                  Save yourself time and make your Easter meal on your terms. These make-ahead side dish recipes can help you plan for a delicious holiday meal, without spending the entire day in the kitchen. Delicious classics like our Meringue-Topped Sweet Potato Casserole and crowd-pleasers like Artichokes with Lemon &amp; Dill are sure to satisfy any guest and allow you to focus on quality time with your loved ones.
+                                                </span>
+<a class="read-more" data-tracking-label="Explore &gt; 20 Easter Side Dishes You Can Make Ahead" href="http://www.eatingwell.com/gallery/7651198/easter-side-dishes-make-ahead/">
+                                                  Read More <svg aria-hidden="true" class="icon-arrow-right" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Next</title>
+<path d="M12 3.984l8.016 8.016-8.016 8.016-1.406-1.406 5.578-5.625h-12.188v-1.969h12.188l-5.578-5.625z"></path>
+</svg>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-1 has-submenu" data-nav-pos="pos-1">
+<a aria-controls="submenu-1" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-1">Healthy Recipes</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-1">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Healthy Recipes</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/recipes/">See all Healthy Recipes </a>
+</div>
+<ul aria-labelledby="submenu-label-1" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy breakfast &amp; brunch recipes" href="http://www.eatingwell.com/recipes/17916/mealtimes/breakfast-brunch/">
+                                                Healthy Breakfast &amp; Brunch Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy lunch recipes" href="http://www.eatingwell.com/recipes/17963/mealtimes/lunch/">
+                                                Healthy Lunch Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy dinner recipes" href="http://www.eatingwell.com/recipes/17947/mealtimes/dinner/">
+                                                Healthy Dinner Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy snack recipes" href="http://www.eatingwell.com/recipes/17990/mealtimes/snacks/">
+                                                Healthy Snack Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy dessert recipes" href="http://www.eatingwell.com/recipes/18044/desserts/">
+                                                Healthy Dessert Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy soup recipes" href="http://www.eatingwell.com/recipes/18042/soup/">
+                                                Healthy Soup Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy salad recipes" href="http://www.eatingwell.com/recipes/17981/salad/">
+                                                Healthy Salad Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy smoothie recipes" href="http://www.eatingwell.com/recipes/17989/drinks/smoothies/">
+                                                Healthy Smoothie Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy quick &amp; easy recipes" href="http://www.eatingwell.com/recipes/18258/cooking-methods-styles/quick-easy/">
+                                                Healthy Quick &amp; Easy Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy slow-cooker &amp; crockpot recipes" href="http://www.eatingwell.com/recipes/17987/cooking-methods-styles/slow-cooker-crockpot/">
+                                                Healthy Slow-Cooker &amp; Crockpot Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy kids recipes" href="http://www.eatingwell.com/recipes/18049/healthy-kids/">
+                                                Healthy Kids Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy holiday recipes" href="http://www.eatingwell.com/recipes/17959/holidays-occasions/">
+                                                Healthy Holiday Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy vegan recipes" href="http://www.eatingwell.com/recipes/18003/lifestyle-diets/vegan/">
+                                                Healthy Vegan Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy vegetarian recipes" href="http://www.eatingwell.com/recipes/18005/lifestyle-diets/vegetarian/">
+                                                Healthy Vegetarian Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy mediterranean diet recipes" href="http://www.eatingwell.com/recipes/18314/cuisines-regions/mediterranean/">
+                                                Healthy Mediterranean Diet Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy diabetes-friendly recipes" href="http://www.eatingwell.com/recipes/17899/health-condition/diabetic/">
+                                                Healthy Diabetes-Friendly Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy low-calorie recipes" href="http://www.eatingwell.com/recipes/18012/low-calorie/">
+                                                Healthy Low-Calorie Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; healthy weight loss &amp; diet recipes" href="http://www.eatingwell.com/recipes/18045/weight-loss-diet/">
+                                                Healthy Weight Loss &amp; Diet Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; more lifestyle diet recipes" href="http://www.eatingwell.com/recipes/18024/lifestyle-diets/">
+                                                More Lifestyle Diet Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; more health condition recipes" href="http://www.eatingwell.com/recipes/22823/health-condition/">
+                                                More Health Condition Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; more dietary restriction recipes" href="http://www.eatingwell.com/recipes/22824/dietary-restrictions/">
+                                                More Dietary Restriction Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy recipes &gt; more nutrient focused recipes" href="http://www.eatingwell.com/recipes/22825/nutrient-focused-diets/">
+                                                More Nutrient Focused Recipes
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-2 has-submenu" data-nav-pos="pos-2">
+<a aria-controls="submenu-2" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-2">Special Diets</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-2">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Special Diets</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4243/special-diets/">See all Special Diets </a>
+</div>
+<ul aria-labelledby="submenu-label-2" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; clean eating diet center" href="http://www.eatingwell.com/category/4244/clean-eating-diet-center/">
+                                                Clean Eating Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; mediterranean diet center" href="http://www.eatingwell.com/category/4274/mediterranean-diet-center/">
+                                                Mediterranean Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; low-carb diet center" href="http://www.eatingwell.com/category/4267/low-carb-diet-center/">
+                                                Low-Carb Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; weight loss center" href="http://www.eatingwell.com/category/4236/weight-loss/">
+                                                Weight Loss Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; dairy-free diet center" href="http://www.eatingwell.com/category/4247/dairy-free-diet-center/">
+                                                Dairy-Free Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; gluten-free diet center" href="http://www.eatingwell.com/category/4251/gluten-free-diet-center/">
+                                                Gluten-Free Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; high-fiber diet center" href="http://www.eatingwell.com/category/4262/high-fiber-diet-center/">
+                                                High-Fiber Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; vegan diet center" href="http://www.eatingwell.com/category/4280/vegan-diet-center/">
+                                                Vegan Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; vegetarian diet center" href="http://www.eatingwell.com/category/4283/vegetarian-diet-center/">
+                                                Vegetarian Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; heart-healthy diet center" href="http://www.eatingwell.com/category/4256/heart-healthy-diet-center/">
+                                                Heart-Healthy Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; cholesterol diet center" href="http://www.eatingwell.com/category/4268/cholesterol-diet-center/">
+                                                Cholesterol Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; diabetes diet center" href="http://www.eatingwell.com/category/4248/diabetes-diet-center/">
+                                                Diabetes Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; high blood pressure diet center" href="http://www.eatingwell.com/category/4259/high-blood-pressure-diet-center/">
+                                                High Blood Pressure Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; low sodium diet center" href="http://www.eatingwell.com/category/4271/low-sodium-diet-center/">
+                                                Low Sodium Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; healthy aging diet center" href="http://www.eatingwell.com/category/4254/healthy-aging-diet-center/">
+                                                Healthy Aging Diet Center
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="special diets &gt; pregnancy diet center" href="http://www.eatingwell.com/category/4277/pregnancy-diet-center/">
+                                                Pregnancy Diet Center
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-3 has-submenu" data-nav-pos="pos-3">
+<a aria-controls="submenu-3" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-3">Diabetes</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-3">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Diabetes</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4248/diabetes-diet-center/">See all Diabetes </a>
+</div>
+<ul aria-labelledby="submenu-label-3" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="diabetes &gt; diabetic living magazine" href="http://www.eatingwell.com/category/4324/diabetic-living-magazine/">
+                                                Diabetic Living Magazine
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="diabetes &gt; diabetes-friendly recipes" href="http://www.eatingwell.com/recipes/17899/health-condition/diabetic/">
+                                                Diabetes-Friendly Recipes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="diabetes &gt; diabetes diet center" href="http://www.eatingwell.com/category/4248/diabetes-diet-center/">
+                                                Diabetes Diet Center
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-4 has-submenu" data-nav-pos="pos-4">
+<a aria-controls="submenu-4" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-4">Healthy Meal Plans</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-4">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Healthy Meal Plans</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4286/meal-plans/">See all Healthy Meal Plans </a>
+</div>
+<ul aria-labelledby="submenu-label-4" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; meal planning 101" href="http://www.eatingwell.com/category/4287/meal-planning-101/">
+                                                Meal Planning 101
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; dinner plans" href="http://www.eatingwell.com/category/4288/dinner-plans/">
+                                                Dinner Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; clean eating meal plans" href="http://www.eatingwell.com/category/4289/clean-eating-meal-plans/">
+                                                Clean Eating Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; mediterranean diet meal plans" href="http://www.eatingwell.com/category/4300/mediterranean-diet-meal-plans/">
+                                                Mediterranean Diet Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; low-carb meal plans" href="http://www.eatingwell.com/category/4298/low-carb-meal-plans/">
+                                                Low-Carb Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; weight-loss meal plans" href="http://www.eatingwell.com/category/4305/weight-loss-meal-plans/">
+                                                Weight-Loss Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; dairy-free meal plans" href="http://www.eatingwell.com/category/4290/dairy-free-meal-plans/">
+                                                Dairy-Free Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; gluten-free meal plans" href="http://www.eatingwell.com/category/4294/gluten-free-meal-plans/">
+                                                Gluten-Free Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; high-fiber meal plans" href="http://www.eatingwell.com/category/4293/high-fiber-meal-plans/">
+                                                High-Fiber Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; vegan meal plans" href="http://www.eatingwell.com/category/4303/vegan-meal-plans/">
+                                                Vegan Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; vegetarian meal plans" href="http://www.eatingwell.com/category/4304/vegetarian-meal-plans/">
+                                                Vegetarian Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; heart-healthy meal plans" href="http://www.eatingwell.com/category/4297/heart-healthy-meal-plans/">
+                                                Heart-Healthy Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; low cholesterol meal plans" href="http://www.eatingwell.com/category/4299/low-cholesterol-meal-plans/">
+                                                Low Cholesterol Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; meal plans for diabetes" href="http://www.eatingwell.com/category/4291/meal-plans-for-diabetes/">
+                                                Meal Plans for Diabetes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; blood pressure meal plans" href="http://www.eatingwell.com/category/4292/blood-pressure-meal-plans/">
+                                                Blood Pressure Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; low sodium meal plans" href="http://www.eatingwell.com/category/4302/low-sodium-meal-plans/">
+                                                Low Sodium Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; anti-aging meal plans" href="http://www.eatingwell.com/category/4295/healthy-aging-meal-plans/">
+                                                Anti-Aging Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; pregnancy meal plans" href="http://www.eatingwell.com/category/4301/pregnancy-meal-plans/">
+                                                Pregnancy Meal Plans
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy meal plans &gt; healthy kids meal plans" href="http://www.eatingwell.com/category/4296/healthy-kids-meal-plans/">
+                                                Healthy Kids Meal Plans
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-5 has-submenu" data-nav-pos="pos-5">
+<a aria-controls="submenu-5" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-5">Healthy Eating</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-5">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Healthy Eating</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4306/healthy-eating-101/">See all Healthy Eating </a>
+</div>
+<ul aria-labelledby="submenu-label-5" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; healthy eating 101" href="http://www.eatingwell.com/category/4306/healthy-eating-101/">
+                                                Healthy Eating 101
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; eat more vegetables" href="http://www.eatingwell.com/category/4319/eat-more-vegetables/">
+                                                Eat More Vegetables
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; 30-day challenges" href="http://www.eatingwell.com/category/4317/30-day-challenges/">
+                                                30-Day Challenges
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; good food fast" href="http://www.eatingwell.com/category/4325/good-food-fast/">
+                                                Good Food Fast
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; healthy eating for kids" href="http://www.eatingwell.com/category/4311/healthy-eating-for-kids/">
+                                                Healthy Eating for Kids
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; best healthy foods" href="http://www.eatingwell.com/category/4308/best-healthy-foods/">
+                                                Best Healthy Foods
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy eating &gt; green and sustainable eating" href="http://www.eatingwell.com/category/4316/green-and-sustainable-eating/">
+                                                Green and Sustainable Eating
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-6 has-submenu" data-nav-pos="pos-6">
+<a aria-controls="submenu-6" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-6">Healthy Lifestyle</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-6">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Healthy Lifestyle</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4318/eatingwell-in-real-life/">See all Healthy Lifestyle </a>
+</div>
+<ul aria-labelledby="submenu-label-6" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; wine, beer &amp; spirits guide" href="http://www.eatingwell.com/category/4313/wine-beer-spirits-guide/">
+                                                Wine, Beer &amp; Spirits Guide
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; entertaining" href="http://www.eatingwell.com/category/4310/entertaining/">
+                                                Entertaining
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; eatingwell in real life" href="http://www.eatingwell.com/category/4318/eatingwell-in-real-life/">
+                                                EatingWell in Real Life
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; plant your plate" href="http://www.eatingwell.com/category/4320/plant-your-plate/">
+                                                Plant Your Plate
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; healthy pets" href="http://www.eatingwell.com/category/4315/healthy-pets/">
+                                                Healthy Pets
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; american food heroes" href="http://www.eatingwell.com/category/4323/american-food-heroes/">
+                                                American Food Heroes
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; future of food" href="http://www.eatingwell.com/category/4327/future-of-food/">
+                                                Future of Food
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy lifestyle &gt; food with purpose" href="http://www.eatingwell.com/category/4321/food-with-purpose/">
+                                                Food with Purpose
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-7 has-submenu" data-nav-pos="pos-7">
+<a aria-controls="submenu-7" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-7">Healthy Cooking</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-7">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Healthy Cooking</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/category/4309/healthy-cooking-how-tos/">See all Healthy Cooking </a>
+</div>
+<ul aria-labelledby="submenu-label-7" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy cooking &gt; healthy cooking how-to's" href="http://www.eatingwell.com/category/4309/healthy-cooking-how-tos/">
+                                                Healthy Cooking How-To's
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy cooking &gt; ask the test kitchen" href="http://www.eatingwell.com/category/4312/ask-the-test-kitchen/">
+                                                Ask the Test Kitchen
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="healthy cooking &gt; budget cooking guide" href="http://www.eatingwell.com/category/4314/budget-cooking-guide/">
+                                                Budget Cooking Guide
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-8 has-submenu" data-nav-pos="pos-8">
+<a aria-controls="submenu-8" class="submenu-link main-link expand-trigger" href="#">
+<span id="submenu-label-8">Shop</span>
+<span class="icon accordion accordion-arrow"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span></a>
+<div class="submenu-children-wrapper" id="submenu-8">
+<div class="sub-menu-header">
+<button aria-label="Back to main menu" class="back-button mobile-only" type="button">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<h3 class="main-channel">Shop</h3>
+<a class="see-all-heading" href="http://www.eatingwell.com/article/283588/the-eatingwell-bookstore-cookbooks-more/">See all Shop </a>
+</div>
+<ul aria-labelledby="submenu-label-8" class="submenu-children">
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="shop &gt; eatingwell cookbooks &amp; more" href="http://www.eatingwell.com/article/283588/the-eatingwell-bookstore-cookbooks-more/">
+                                                EatingWell Cookbooks &amp; More
+                                                
+                                              </a>
+</li>
+<li class="menu-item-main heading-menu">
+<a class="submenu-link child-link" data-tracking-label="shop &gt; eatingwell frozen meals" href="http://frozenfresh.eatingwell.com/">
+                                                EatingWell Frozen Meals
+                                                
+                                              </a>
+</li>
+</ul>
+</div>
+</li>
+<li class="menu-item-main heading-menu parent-menu pos-9" data-nav-pos="pos-9">
+<a class="submenu-link main-link" href="http://www.eatingwell.com/category/4328/news/">
+<span id="submenu-label-9">News</span>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="hamburger-auth-section">
+<section class="container secondary-links hamburger static">
+<h2 class="sr-heading">Profile Menu</h2>
+<div class="secondary-text-links">
+<div class="heading-menu menu-list-item secondary-item">
+<a aria-describedby="external-disclaimer" class="menu-link external-link-warning" data-tracking-label="subscribe" href="https://www.magazine.store/eatingwell/?utm_source=eatingwell.com&amp;utm_medium=owned&amp;utm_campaign=i907etr5w1657" target="_blank">
+<span>Subscribe<span class="hidden-label"> this link opens in a new tab</span>
+<span aria-hidden="true" class="external-link-icon">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M8 16h8v-3h1v4H7V7h4v1H8v8zm5-10h5v5h-1V8l-5 5-1-1 5-5h-3V6z" fill="#685F55"></path></svg></span>
+</span>
+</a>
+</div>
+<div class="heading-menu menu-list-item secondary-item has-submenu" data-action="secondary-nav-pos-1">
+<button aria-expanded="false" class="menu-link expand-trigger has-auth" data-tracking-label="your account">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<!-- TO DO : 
+                                        We have to wait for the auth api to return the data
+                                      -->
+<span class="profile-image-container logged-out"><img class="profile-img" src="/img/profile.png"/></span>
+<span class="profile-image-container logged-in"><img class="profile-img" src="/img/profile.png"/></span>
+<span class="secondary-menu-label">Your Account</span> <span class="icon desktop-only"><span class="icon icon-down-triangle utility-icon color-gray-6">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</span>
+</span>
+<span class="icon accordion-arrow mobile-only"><span class="icon icon-down utility-icon">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M12 2L10.59.59 6 5.17 1.41.59 0 2l6 6z"></path></svg>
+</span>
+</span>
+</button>
+<div class="submenu-children-wrapper">
+<div class="sub-menu-header">
+<button aria-label="Close" class="icon back-button mobile-only">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+</button>
+<span class="main-channel mobile-only">Your Account</span>
+</div>
+<div class="dropdown-links-list">
+<h3 class="sub-menu__heading-label">Account</h3> <ul class="secondary-nav-submenu-children">
+<li class="menu-item heading-menu logged-out join-now">
+<a class="menu-link" data-tracking-label="your account &gt; join now" href="https://www.eatingwell.com/Account/SignUp?regSource=27520&amp;actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+                                                Join Now</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; email preferences" href="https://secure.eatingwell.com/common/profile/member/optout/">
+                                                Email Preferences</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; favorites" href="https://www.eatingwell.com/profile/my/">
+                                                Favorites</a>
+</li>
+<li class="menu-item heading-menu logged-out">
+<a class="menu-link" data-tracking-label="your account &gt; newsletters" href="https://x.specialoffers.meredith.com/ats/show.aspx?cr=588&amp;fm=301&amp;regSource=27538">
+                                                Newsletters</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; manage your subscription" href="https://w1.buysub.com/servlet/CSGateway?cds_mag_code=ETG" target="_blank">
+                                                Manage Your Subscription<span class="hidden-label"> this link opens in a new tab</span>
+</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; help" href="http://www.eatingwell.com/article/290690/customer-service/">
+                                                Help</a>
+</li>
+<li class="menu-item heading-menu logged-in">
+<a class="menu-link" data-tracking-label="your account &gt; logout" href="http://www.eatingwell.com/account/SignOut?successPage=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+                                                Logout</a>
+</li>
+</ul>
+<hr class="secondary-nav-divider desktop-only"/>
+<h3 class="sub-menu__heading-label">More</h3> <ul class="secondary-nav-submenu-children">
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; give a gift subscription" href="https://www.magazine.store/eatingwell/">
+                                                Give a Gift Subscription</a>
+</li>
+<li class="menu-item heading-menu">
+<a class="menu-link" data-tracking-label="your account &gt; cooking light diet" href="https://learn.cookinglightdiet.com/?utm_source=un_display_etg_b907etr1b204">
+                                                Cooking Light Diet</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="heading-menu menu-list-item secondary-item logged-out" data-action="secondary-nav-pos-2">
+<a class="menu-link" data-tracking-label="login" href="https://www.eatingwell.com/account/signin/?actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<span class="secondary-menu-label">Login</span> </a>
+</div>
+<div class="heading-menu menu-list-item secondary-item sweepstakes" data-action="secondary-nav-pos-3">
+<a class="menu-link" data-tracking-label="sweepstakes" href="http://my.eatingwell.com/sweepstakes/?regSource=27550">
+<!-- This is for auth partial core has empty partial override the content in brands -->
+<span class="secondary-menu-label">Sweepstakes</span> </a>
+</div>
+</div>
+</section>
+<section class="social-share">
+<h3 class="heading-follow-up">Follow us</h3>
+<div class="menu-item-styled social-items no-pad-top">
+<link href="https://www.facebook.com/EatingWell/" rel="dns-prefetch"/>
+<span class="icon icon-facebook social-icon margin-4-right" data-social-service="facebook">
+<a aria-label="Share on facebook (opens in a new window)" class="display-block" href="https://www.facebook.com/EatingWell/" target="_blank" title="facebook share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-facebook" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M13.774 8.824c.355-.012.71-.003 1.066-.003h.147V7.079c-.19-.018-.388-.043-.587-.052-.364-.015-.73-.033-1.094-.025-.557.01-1.084.139-1.544.45-.528.358-.818.86-.928 1.454a4.708 4.708 0 0 0-.064.747c-.01.39-.002.78-.002 1.172v.146H9v1.945h1.758v4.889h2.148v-4.88h1.752l.27-1.955h-.394c-.498.002-1.643 0-1.643 0s.006-.964.018-1.382c.017-.573.378-.748.865-.764" fill="#685F55"></path></svg>
+</a>
+</span>
+<link href="https://twitter.com/EatingWell" rel="dns-prefetch"/>
+<span class="icon icon-twitter social-icon margin-4-right" data-social-service="twitter">
+<a aria-label="Share on twitter (opens in a new window)" class="display-block" href="https://twitter.com/EatingWell" target="_blank" title="twitter share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-twitter" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M9.793 15.25c-1.336-.049-2.17-1.041-2.392-1.847.372.073.739.058 1.103-.035.009-.002.018-.009.036-.017a2.571 2.571 0 0 1-1.669-1.222 2.65 2.65 0 0 1-.376-1.415c.36.2.738.311 1.144.323-.545-.406-.91-.937-1.059-1.615a2.72 2.72 0 0 1 .276-1.928c1.392 1.697 3.153 2.628 5.301 2.781-.016-.105-.031-.197-.041-.291a2.65 2.65 0 0 1 .375-1.74c.41-.664.993-1.077 1.743-1.204.864-.146 1.619.109 2.25.742.042.042.077.056.137.042a5.05 5.05 0 0 0 1.494-.595c.012-.006.023-.013.035-.018.002-.002.006-.001.017-.001a2.709 2.709 0 0 1-1.1 1.448 4.769 4.769 0 0 0 1.43-.399l.01.012c-.097.134-.193.27-.295.399a5.128 5.128 0 0 1-.933.92c-.03.022-.044.044-.044.084.015.395 0 .79-.047 1.182a8.026 8.026 0 0 1-.663 2.37 7.686 7.686 0 0 1-1.388 2.098 6.815 6.815 0 0 1-3.533 2.038 7.4 7.4 0 0 1-1.431.177 7.069 7.069 0 0 1-4.113-1.144l-.06-.04a5.039 5.039 0 0 0 3.793-1.105" fill="#685F55"></path></svg>
+</a>
+</span>
+<link href="https://www.pinterest.com/eatingwell/" rel="dns-prefetch"/>
+<span class="icon icon-pinterest social-icon margin-4-right" data-social-service="pinterest">
+<a aria-label="Share on pinterest (opens in a new window)" class="display-block" href="https://www.pinterest.com/eatingwell/" target="_blank" title="pinterest share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-pinterest" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11.018 14.094l-.028.096c-.455 1.786-.506 2.183-.975 3.011a9.21 9.21 0 0 1-.753 1.126c-.031.04-.061.092-.124.08-.068-.015-.074-.077-.08-.131a9.552 9.552 0 0 1-.1-1.635c.025-.714.113-.959 1.033-4.827a.267.267 0 0 0-.022-.162c-.22-.594-.263-1.197-.071-1.808.416-1.32 1.912-1.42 2.173-.331.162.673-.265 1.554-.592 2.856-.27 1.075.994 1.84 2.075 1.054.997-.723 1.385-2.456 1.311-3.685-.144-2.45-2.832-2.98-4.536-2.191-1.955.904-2.398 3.326-1.516 4.432.112.142.198.227.16.37-.056.222-.106.445-.167.666-.046.164-.183.224-.349.156a2.005 2.005 0 0 1-.816-.611c-.75-.928-.964-2.764.027-4.317 1.098-1.721 3.139-2.417 5.004-2.206 2.226.253 3.632 1.774 3.896 3.5.12.786.034 2.724-1.07 4.094-1.27 1.575-3.327 1.679-4.277.713-.073-.074-.132-.162-.203-.25" fill="#685F55"></path></svg>
+</a>
+</span>
+<link href="http://instagram.com/eatingwell/" rel="dns-prefetch"/>
+<span class="icon icon-instagram social-icon margin-4-right" data-social-service="instagram">
+<a aria-label="Share on instagram (opens in a new window)" class="display-block" href="http://instagram.com/eatingwell/" target="_blank" title="instagram share (opens in a new window)">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11.998 6c1.63 0 1.833.007 2.473.036.639.03 1.075.13 1.456.279a2.94 2.94 0 0 1 1.063.692c.333.333.538.668.691 1.062.149.382.25.818.28 1.456.028.64.035.844.035 2.473 0 1.63-.007 1.833-.036 2.473-.029.639-.13 1.075-.279 1.456a2.94 2.94 0 0 1-.692 1.063 2.94 2.94 0 0 1-1.062.691c-.381.149-.817.25-1.456.28-.64.028-.844.035-2.473.035s-1.833-.007-2.473-.036c-.638-.029-1.074-.13-1.456-.279a2.94 2.94 0 0 1-1.062-.692 2.94 2.94 0 0 1-.692-1.062c-.148-.381-.25-.817-.279-1.456-.03-.64-.036-.844-.036-2.473s.007-1.833.036-2.473c.03-.638.13-1.074.279-1.456a2.94 2.94 0 0 1 .692-1.062 2.94 2.94 0 0 1 1.062-.692c.382-.148.818-.25 1.456-.279.64-.03.844-.036 2.473-.036zm0 1.08c-1.601 0-1.791.007-2.424.036-.584.026-.902.124-1.113.206-.28.109-.48.239-.69.449-.21.21-.34.41-.449.69-.082.211-.18.529-.206 1.113-.03.633-.035.823-.035 2.424 0 1.602.006 1.791.035 2.424.026.585.124.902.206 1.114.109.28.239.48.449.69.21.21.41.34.69.448.211.082.529.18 1.113.207.633.028.822.034 2.424.034 1.602 0 1.791-.006 2.424-.034.585-.027.902-.125 1.114-.207.28-.109.48-.239.69-.449.21-.21.34-.41.448-.69.082-.21.18-.528.207-1.113.028-.633.034-.822.034-2.424 0-1.601-.006-1.791-.034-2.424-.027-.584-.125-.902-.207-1.113a1.858 1.858 0 0 0-.449-.69c-.21-.21-.41-.34-.69-.449-.21-.082-.528-.18-1.113-.206-.633-.03-.822-.035-2.424-.035zm0 1.838a3.08 3.08 0 1 1 0 6.16 3.08 3.08 0 0 1 0-6.16zm0 5.08a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm3.922-5.202a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0z" fill="#685F55"></path></svg>
+</a>
+</span>
+<link href="https://www.youtube.com/user/eatingwell" rel="dns-prefetch"/>
+<span class="icon icon-youtube social-icon margin-4-right" data-social-service="youtube">
+<a aria-label="Share on youtube (opens in a new window)" class="display-block" href="https://www.youtube.com/user/eatingwell" target="_blank" title="youtube share (opens in a new window)">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10.227 13.95l4.307-2.233-4.307-2.248v4.482zm-3.8 2.487a1.613 1.613 0 0 1-1.064-1.035c-.462-1.268-.598-6.57.29-7.615a1.718 1.718 0 0 1 1.158-.616c2.393-.257 9.784-.22 10.636.086.5.18.854.506 1.046 1.006.505 1.31.522 6.079-.066 7.34-.16.344-.42.585-.75.758-.892.468-10.077.462-11.25.076z" fill="#685F55"></path></svg>
+</a>
+</span>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu-overlay" data-action="close-hamburger-menu" data-tracking-zone="nav-hamburger"></div>
+</header>
+<!-- Print Preview -->
+<div class="docked-sharebar-content-container">
+<div class="container-full-width template-two-col with-sidebar-right karma-below-banner karma-site-container recipe-wrapper">
+<main class="inner-container two-col-inner">
+<div class="recipe-container two-col-container">
+<!-- Breadcrumbs -->
+<div class="content content-breadcrumbs">
+<div class="component breadcrumbs">
+<nav aria-label="Breadcrumb" class="breadcrumbs__container">
+<ol class="breadcrumbs__list">
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="/">
+<span class="breadcrumbs__title">
+                                  Home
+                              </span>
+<span class="icon breadcrumbs__icon">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>Chevron Right</title><path d="M8.578 16.359l4.594-4.594-4.594-4.594 1.406-1.406 6 6-6 6z"></path></svg> </span>
+</a>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="http://www.eatingwell.com/recipes/">
+<span class="breadcrumbs__title">
+                                  Recipes
+                              </span>
+<span class="icon breadcrumbs__icon">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>Chevron Right</title><path d="M8.578 16.359l4.594-4.594-4.594-4.594 1.406-1.406 6 6-6 6z"></path></svg> </span>
+</a>
+</li>
+<li class="breadcrumbs__item">
+<a class="breadcrumbs__link" href="http://www.eatingwell.com/recipes/17942/cooking-methods-styles/">
+<span class="breadcrumbs__title">
+                                  Cooking Methods &amp; Styles
+                              </span>
+<span class="icon breadcrumbs__icon">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>Chevron Right</title><path d="M8.578 16.359l4.594-4.594-4.594-4.594 1.406-1.406 6 6-6 6z"></path></svg> </span>
+</a>
+</li>
+<li class="breadcrumbs__item breadcrumbs__item--last">
+<a class="breadcrumbs__link" href="http://www.eatingwell.com/recipes/18258/cooking-methods-styles/quick-easy/">
+<span class="breadcrumbs__title">
+                                  Quick &amp; Easy
+                              </span>
+<span class="icon breadcrumbs__icon breadcrumbs__icon--last">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>Chevron Right</title><path d="M8.578 16.359l4.594-4.594-4.594-4.594 1.406-1.406 6 6-6 6z"></path></svg> </span>
+</a>
+</li>
+<li aria-current="page" class="breadcrumbs__item visually-hidden">
+                          Creamy Spinach Pasta
+                        </li>
+</ol>
+</nav>
+<span class="breadcrumbs-align-shift"></span>
+</div>
+</div>
+<div class="content two-col-main-content karma-content-container">
+<div class="recipe-content two-col-content karma-main-column">
+<div class="main-header recipe-main-header" data-path="/recipe/278428/creamy-spinach-pasta/">
+<!-- Headline -->
+<div class="intro article-info">
+<div class="headline-wrapper">
+<h1 class="headline heading-content">Creamy Spinach Pasta</h1>
+<div class="sponsor-logo" id="karma-lazy-sponsorLogo"></div>
+</div>
+</div>
+<!-- Ratings and Reviews Bubble-->
+<div class="recipe-review-container">
+<div class="component recipe-ratings">
+<a class="add-rating-reviews-link ugc-ratings-link review-stars-container" data-login-url="https://www.eatingwell.com/account/authenticationwelcome?actionsource=recipe&amp;loginreferrerurl=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/" href="#">
+<span class="review-star-text">
+                              Rating: Unrated
+                            </span>
+<span aria-hidden="true" class="rating-star" data-rating="1">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>1 – Couldn't eat it</title><defs><path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" id="recipe-rating-star-empty-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="recipe-rating-star-empty-b"><use xlink:href="#recipe-rating-star-empty-a"></use></mask><g fill="#000" mask="url(#recipe-rating-star-empty-b)"><path class="rating-star-filled" d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+<span aria-hidden="true" class="rating-star" data-rating="2">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>2 – Didn't like it</title><defs><path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" id="recipe-rating-star-empty-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="recipe-rating-star-empty-b"><use xlink:href="#recipe-rating-star-empty-a"></use></mask><g fill="#000" mask="url(#recipe-rating-star-empty-b)"><path class="rating-star-filled" d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+<span aria-hidden="true" class="rating-star" data-rating="3">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>3 – It was OK</title><defs><path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" id="recipe-rating-star-empty-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="recipe-rating-star-empty-b"><use xlink:href="#recipe-rating-star-empty-a"></use></mask><g fill="#000" mask="url(#recipe-rating-star-empty-b)"><path class="rating-star-filled" d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+<span aria-hidden="true" class="rating-star" data-rating="4">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>4 – Liked it</title><defs><path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" id="recipe-rating-star-empty-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="recipe-rating-star-empty-b"><use xlink:href="#recipe-rating-star-empty-a"></use></mask><g fill="#000" mask="url(#recipe-rating-star-empty-b)"><path class="rating-star-filled" d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+<span aria-hidden="true" class="rating-star" data-rating="5">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>5 – Loved it</title><defs><path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z" id="recipe-rating-star-empty-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="recipe-rating-star-empty-b"><use xlink:href="#recipe-rating-star-empty-a"></use></mask><g fill="#000" mask="url(#recipe-rating-star-empty-b)"><path class="rating-star-filled" d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+</a>
+</div>
+<div class="partial ugc-ratings">
+<ul class="ugc-ratings-list">
+<li class="partial ugc-ratings-list-item">
+<a class="ugc-ratings-link no-ratings" href="#reviewSection">
+                                Be the first to rate &amp; review!
+                              </a>
+</li>
+</ul>
+</div>
+</div>
+<!-- Recipe Summary -->
+<div class="recipe-summary margin-8-bottom">
+<p class="margin-0-auto">This might be one of the creamiest light pasta dishes you've ever had! The mascarpone cheese adds a richness to the spinach pasta that's unexpected--especially in a healthy pasta recipe. <span class="recipe-source">Source: 400 Calorie Recipes</span></p>
+</div>
+<!-- Author and Source -->
+<div class="author scale-12 padded margin-24-tb clearfix">
+<div class="author-text" data-tracking-zone="author">
+<span class="author-block">
+<div class="component lazy-image lazy-image-udf profile-pic" data-alt="" data-high-density="true" data-main-recipe="" data-orientation="" data-original-height="60" data-original-width="60" data-shop-image="false" data-src="https://images.media-allrecipes.com/mobile/allrecipes/images/icon-user-default_v2.png" data-title="" data-tracking-zone="image">
+<noscript>
+<img alt="" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fmobile%2Fallrecipes%2Fimages%2Ficon-user-default_v2.png"/>
+</noscript>
+<div class="lazy-image__loadingPlaceholder">
+<img alt="" class="loadingPlaceholder" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E">
+</img></div>
+<div class="inner-container js-inner-container">
+</div>
+</div>
+<span class="author-name-title">
+<span class="author-name">Cooking Light</span>
+</span>
+</span>
+</div>
+</div>
+</div>
+<div class="two-col-content-wrapper">
+<div class="two-col-social docked-sharebar-docking-container">
+<div class="component docked-sharebar" data-tracking-zone="share">
+<div class="component share-new vertical square" data-tracking-zone="share bar">
+<span class="icon icon-favorite default-icon padding-8-right" data-social-service="favorite" data-tracking-zone="save-heart">
+<a aria-label="Save this" class="display-block shareicon-favorite-link-tag shareicon-favorite-link" data-content-id="278428" data-content-login-url="https://www.eatingwell.com/account/authenticationwelcome?actionsource=recipe&amp;loginreferrerurl=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F" href="javascript:void(0);" title="favorite share">
+<svg aria-hidden="true" class="icon-share icon-share-favorite" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg>
+<span class="icon-text">Save</span>
+</a>
+</span>
+<span class="icon icon-pinterest social-icon padding-8-right" data-social-service="pinterest">
+<a aria-label="Pin this (opens in a new window)" class="display-block component popup" href="https://www.pinterest.com/pin/create/link/?url=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/%3Futm_source=pinterest.com%26utm_medium=social%26utm_campaign=social-share-recipe%26utm_content=20200223%26utm_term=278428&amp;media=https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7671174.jpg&amp;description=Creamy%20Spinach%20Pasta%20" target="_blank" title="pinterest share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-pinterest" height="36" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M11.018 14.094l-.028.096c-.455 1.786-.506 2.183-.975 3.011a9.21 9.21 0 0 1-.753 1.126c-.031.04-.061.092-.124.08-.068-.015-.074-.077-.08-.131a9.552 9.552 0 0 1-.1-1.635c.025-.714.113-.959 1.033-4.827a.267.267 0 0 0-.022-.162c-.22-.594-.263-1.197-.071-1.808.416-1.32 1.912-1.42 2.173-.331.162.673-.265 1.554-.592 2.856-.27 1.075.994 1.84 2.075 1.054.997-.723 1.385-2.456 1.311-3.685-.144-2.45-2.832-2.98-4.536-2.191-1.955.904-2.398 3.326-1.516 4.432.112.142.198.227.16.37-.056.222-.106.445-.167.666-.046.164-.183.224-.349.156a2.005 2.005 0 0 1-.816-.611c-.75-.928-.964-2.764.027-4.317 1.098-1.721 3.139-2.417 5.004-2.206 2.226.253 3.632 1.774 3.896 3.5.12.786.034 2.724-1.07 4.094-1.27 1.575-3.327 1.679-4.277.713-.073-.074-.132-.162-.203-.25" fill="#685F55"></path></svg>
+<span class="icon-text">Pin</span>
+</a>
+</span>
+<span class="icon icon-print social-icon padding-8-right" data-social-service="print">
+<a aria-label="Print this page" class="display-block" data-tracking-label="print preview" href="?printview" title="print share">
+<svg aria-hidden="true" height="36" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M19 8h-2V5H7v3H5v7h2v4h10v-4h2V8zM8 6h8v2H8V6zm0 12v-5h8v5H8zm9-7c-.533 0-1-.467-1-1 0-.533.467-1 1-1s1 .467 1 1c0 .533-.467 1-1 1zm-2 4v1H9v-1h6z" fill="#685F55"></path></svg>
+<span class="icon-text">Print</span>
+</a>
+</span>
+<button aria-label="More Share Options" class="icon shareicon-modal-toggle" data-tracking-do-not-track="1">
+<span class="icon icon-ellipsis default-icon">
+<svg aria-hidden="true" height="36" role="img" tabindex="-1" version="1.1" viewbox="0 0 20 20" width="36" xmlns="http://www.w3.org/2000/svg"><title>ellipsis</title><path d="M10.001 7.8c-1.215 0-2.201 0.985-2.201 2.2s0.986 2.2 2.201 2.2c1.215 0 2.199-0.985 2.199-2.2s-0.984-2.2-2.199-2.2zM3.001 7.8c-1.215 0-2.201 0.985-2.201 2.2s0.986 2.2 2.201 2.2c1.215 0 2.199-0.986 2.199-2.2s-0.984-2.2-2.199-2.2zM17.001 7.8c-1.215 0-2.201 0.985-2.201 2.2s0.986 2.2 2.201 2.2c1.215 0 2.199-0.985 2.199-2.2s-0.984-2.2-2.199-2.2z"></path></svg>
+<span class="icon-text">More</span>
+</span>
+</button>
+</div>
+<div class="sharebar-modal hidden">
+<div class="component share-new square" data-tracking-zone="share bar">
+<span class="icon icon-facebook social-icon padding-8-right" data-social-service="facebook">
+<a aria-label="Share this on Facebook (opens in a new window)" class="display-block component popup" href="https://www.facebook.com/sharer/sharer.php?u=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/%3Futm_source=facebook.com%26utm_medium=social%26utm_campaign=social-share-recipe%26utm_content=20200223" target="_blank" title="facebook share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-facebook" height="36" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M13.774 8.824c.355-.012.71-.003 1.066-.003h.147V7.079c-.19-.018-.388-.043-.587-.052-.364-.015-.73-.033-1.094-.025-.557.01-1.084.139-1.544.45-.528.358-.818.86-.928 1.454a4.708 4.708 0 0 0-.064.747c-.01.39-.002.78-.002 1.172v.146H9v1.945h1.758v4.889h2.148v-4.88h1.752l.27-1.955h-.394c-.498.002-1.643 0-1.643 0s.006-.964.018-1.382c.017-.573.378-.748.865-.764" fill="#685F55"></path></svg>
+<span class="icon-text">Facebook</span>
+</a>
+</span>
+<span class="icon icon-twitter social-icon" data-social-service="twitter">
+<a aria-label="Tweet this (opens in a new window)" class="display-block component popup" href="https://www.twitter.com/intent/tweet?text=Creamy%20Spinach%20Pasta%20http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/%3Futm_source=twitter.com%26utm_medium=social%26utm_campaign=social-share-recipe" target="_blank" title="twitter share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-twitter" height="36" role="img" tabindex="-1" viewbox="0 0 24 24" width="36" xmlns="http://www.w3.org/2000/svg"><path d="M9.793 15.25c-1.336-.049-2.17-1.041-2.392-1.847.372.073.739.058 1.103-.035.009-.002.018-.009.036-.017a2.571 2.571 0 0 1-1.669-1.222 2.65 2.65 0 0 1-.376-1.415c.36.2.738.311 1.144.323-.545-.406-.91-.937-1.059-1.615a2.72 2.72 0 0 1 .276-1.928c1.392 1.697 3.153 2.628 5.301 2.781-.016-.105-.031-.197-.041-.291a2.65 2.65 0 0 1 .375-1.74c.41-.664.993-1.077 1.743-1.204.864-.146 1.619.109 2.25.742.042.042.077.056.137.042a5.05 5.05 0 0 0 1.494-.595c.012-.006.023-.013.035-.018.002-.002.006-.001.017-.001a2.709 2.709 0 0 1-1.1 1.448 4.769 4.769 0 0 0 1.43-.399l.01.012c-.097.134-.193.27-.295.399a5.128 5.128 0 0 1-.933.92c-.03.022-.044.044-.044.084.015.395 0 .79-.047 1.182a8.026 8.026 0 0 1-.663 2.37 7.686 7.686 0 0 1-1.388 2.098 6.815 6.815 0 0 1-3.533 2.038 7.4 7.4 0 0 1-1.431.177 7.069 7.069 0 0 1-4.113-1.144l-.06-.04a5.039 5.039 0 0 0 3.793-1.105" fill="#685F55"></path></svg>
+<span class="icon-text">Twitter</span>
+</a>
+</span>
+<span class="icon icon-email-solid default-icon padding-8-right" data-social-service="email">
+<a aria-label="Email this" class="display-block" href="mailto:?subject=Creamy%20Spinach%20Pasta%20&amp;body=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/%3Futm_source=emailshare%26utm_medium=email%26utm_campaign=email-share-recipe%26utm_content=20200223" title="email share">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>Mail</title><path d="M20.016 8.016v-2.016l-8.016 5.016-8.016-5.016v2.016l8.016 4.969zM20.016 3.984c1.078 0 1.969 0.938 1.969 2.016v12c0 1.078-0.891 2.016-1.969 2.016h-16.031c-1.078 0-1.969-0.938-1.969-2.016v-12c0-1.078 0.891-2.016 1.969-2.016h16.031z"></path></svg>
+<span class="icon-text">Email</span>
+</a>
+</span>
+<span class="icon icon-sms utility-icon" data-social-service="sms">
+<a aria-label="Text message this" class="display-block" href="sms://?&amp;body=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/?utm_source=smsshare&amp;utm_medium=sms&amp;utm_campaign=sms-share-recipe&amp;utm_content=20200223" title="sms share">
+<svg aria-hidden="true" class="icon-share icon-share-sms" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><title>iphone</title><path d="M15.984 18v-14.016h-9v14.016h9zM11.484 21.984c0.844 0 1.5-0.656 1.5-1.5s-0.656-1.5-1.5-1.5-1.5 0.656-1.5 1.5 0.656 1.5 1.5 1.5zM15.516 0.984c1.359 0 2.484 1.172 2.484 2.531v16.969c0 1.359-1.125 2.531-2.484 2.531h-8.016c-1.359 0-2.484-1.172-2.484-2.531v-16.969c0-1.359 1.125-2.531 2.484-2.531h8.016z"></path></svg>
+<span class="icon-text">Send Text Message</span>
+</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="recipe-content-container" data-tracking-zone="body">
+<!-- Lead Media -->
+<div class="lead-content-wrapper two-col-style">
+<aside class="primary-media-section">
+<h2 class="hidden-label">Gallery</h2>
+<div class="image-container">
+<div class="component lazy-image lazy-image-udf lead-media padding-24-bottom ugc-photos-link aspect_1x1" data-alt="Creamy Spinach Pasta Cooking Light" data-crop-percentage="100" data-high-density="true" data-main-recipe="true" data-orientation="" data-original-height="0" data-original-width="0" data-shop-image="false" data-src="https://images.media-allrecipes.com/userphotos/7671174.jpg" data-title="" data-tracking-zone="image">
+<noscript>
+<img alt="Creamy Spinach Pasta Cooking Light" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7671174.jpg"/>
+</noscript>
+<div class="lazy-image__loadingPlaceholder">
+<img alt="" class="loadingPlaceholder" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E">
+</img></div>
+<div class="inner-container js-inner-container image-overlay">
+<span class="icon icon-pinterest-circle-solid social-icon pinterest-transparent" data-social-service="pinterest">
+<a aria-label="Pin this image" class="display-block component popup" href="https://www.pinterest.com/pin/create/link/?url=http%3A%2F%2Fwww.eatingwell.com%2Frecipe%2F278428%2Fcreamy-spinach-pasta%2F%3Futm_source%3Dpinterest.com%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-share-recipe%26utm_content%3D20200223%26utm_term%3D278428&amp;media=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fimages.media-allrecipes.com%252Fuserphotos%252F7671174.jpg&amp;description=Creamy%20Spinach%20Pasta" title="pinterest share">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path d="M32 16c0 8.837-7.163 16-16 16S0 24.837 0 16 7.163 0 16 0s16 7.163 16 16" fill="#E54A59"></path><path d="M15.164 18.532c-.011.039-.022.072-.03.106-.503 1.97-.56 2.408-1.076 3.322-.246.436-.524.847-.832 1.242-.034.044-.067.102-.136.088-.076-.016-.082-.084-.09-.145-.083-.599-.128-1.2-.108-1.803.026-.788.123-1.058 1.139-5.327a.295.295 0 0 0-.024-.178c-.244-.656-.291-1.32-.079-1.995.459-1.456 2.11-1.567 2.398-.366.178.743-.292 1.716-.653 3.152-.299 1.186 1.097 2.03 2.29 1.163 1.1-.798 1.527-2.71 1.446-4.067-.16-2.703-3.125-3.287-5.005-2.417-2.157.997-2.647 3.67-1.673 4.891.123.156.219.25.177.408-.062.245-.117.49-.185.734-.05.182-.202.247-.385.173a2.212 2.212 0 0 1-.9-.675c-.827-1.024-1.064-3.049.03-4.763 1.21-1.9 3.463-2.668 5.52-2.435 2.457.28 4.01 1.958 4.3 3.863.133.867.038 3.006-1.18 4.518-1.402 1.737-3.672 1.852-4.72.786-.08-.082-.145-.178-.224-.275" fill="#FFF"></path></g></svg>
+</a>
+</span>
+<button aria-label="Make image larger" class="icon icon-image-zoom" data-alt="Creamy Spinach Pasta Cooking Light" data-caption="" data-credit="" data-headline="" data-image="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7671174.jpg" data-title="" data-tracking-do-not-track="1">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Image zoom</title>
+<path d="M2.667 21.333h8v2.667h-10.667v-10.667h2.667v8zM21.333 0h2.667v10.667h-2.667v-8h-8v-2.667h8z"></path>
+</svg>
+</button>
+</div>
+</div>
+</div>
+<!-- For video that is rendered as a image with the play button and a link to the video content page -->
+<!-- Image Filmstrip -->
+</aside>
+<div class="lead-content-aside-wrapper">
+<!-- Recipe Meta -->
+<aside class="recipe-info-section">
+<h2 class="hidden-label">Recipe Summary</h2>
+<span aria-hidden="true" class="time-stats icon-background-round">
+<svg aria-hidden="true" height="32px" role="img" tabindex="-1" width="32px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M11.026 13.974V9.25a4.724 4.724 0 0 1 4.724 4.724h-4.724zm0 5.833a5.834 5.834 0 1 0 0-11.667 5.834 5.834 0 0 0 0 11.667zm9.103-10.975a.562.562 0 0 1-.121.785l-.283.207a.561.561 0 0 1-.784-.121l-.39-.533-.73.534A8.026 8.026 0 1 1 9.97 6.02V4.69H8.3a.561.561 0 0 1-.562-.562V2.561c0-.31.252-.561.561-.561h5.456c.31 0 .56.251.56.561v1.566a.56.56 0 0 1-.56.561h-1.67V6.02a8.01 8.01 0 0 1 5.051 2.752l.73-.535-.39-.533a.561.561 0 0 1 .12-.785l.283-.207a.561.561 0 0 1 .784.121l1.467 2z" id="timer-a"></path></defs><g fill="none" fill-rule="evenodd"><mask fill="#fff" id="timer-b"><use xlink:href="#timer-a"></use></mask><g fill="#000" mask="url(#timer-b)"><path d="M0 0h24v24H0z"></path></g></g></svg>
+</span>
+<section class="recipe-meta-container two-subcol-content clearfix">
+<div class="two-subcol-content-wrapper">
+<div class="recipe-meta-item">
+<div class="recipe-meta-item-header">
+                                          active:
+                                        </div>
+<div class="recipe-meta-item-body">
+                                          15 mins
+                                          
+                                          
+                                          
+                                        </div>
+</div>
+<div class="recipe-meta-item">
+<div class="recipe-meta-item-header">
+                                          total:
+                                        </div>
+<div class="recipe-meta-item-body">
+                                          15 mins
+                                          
+                                          
+                                          
+                                        </div>
+</div>
+<div class="recipe-meta-item">
+<div class="recipe-meta-item-header">
+                                        Servings:
+                                      </div>
+<div class="recipe-meta-item-body">
+                                        4
+                                        
+                                        
+                                        
+                                      </div>
+</div>
+</div>
+<div class="two-subcol-content-wrapper">
+<div class="recipe-meta-item">
+<div class="recipe-meta-item-header">
+                                        Servings:
+                                      </div>
+<div class="recipe-meta-item-body">
+                                        4
+                                        
+                                        
+                                        
+                                      </div>
+</div>
+</div>
+</section>
+<div class="nutrition-info">
+<a class="nutrition-link" data-label="nutritional value clicked" data-tracking-zone="recipe-interaction" href="#nutrition">Nutrition
+                                Info</a>
+</div>
+</aside>
+<!-- Tout Image -->
+</div>
+</div>
+<div class="recipe-ad-container mobile-ad tablet-ad">
+<div aria-hidden="true" class="ad ad-container ad-wrapper mobile-ad karma-ad" data-lazy-scroll="true" data-tier="1" id="div-gpt-mob-square-flex-1" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper tablet-ad karma-ad" data-lazy-scroll="true" data-tier="1" id="div-gpt-square-fixed-1" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper tablet-ad karma-ad" data-lazy-scroll="true" data-tier="2" id="div-gpt-square-fixed-2" role="complementary" tabindex="-1"></div>
+</div>
+<div class="recipe-ad-container ad-title mobile-ad tablet-ad">Advertisement</div>
+<!-- Ingredients -->
+<div class="recipe-shopper-wrapper" id="recipe-body">
+<section class="component recipe-ingredients-new container" data-login-url="https://www.eatingwell.com/account/authenticationwelcome?actionsource=recipe&amp;loginreferrerurl=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/" data-recipe-id="278428" data-servings="4">
+<div class="section-headline">
+<h2>Ingredients</h2>
+</div>
+<fieldset class="ingredients-section__fieldset">
+<legend class="visually-hidden ingredients-section__legend">
+                                      Ingredient Checklist
+                                  </legend>
+<ul class="ingredients-section">
+<li class="ingredients-item" data-id="0">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-0">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-0" type="checkbox" value=" ">
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                  12 ounces uncooked tube-shaped chickpea pasta (about 3 1/2 cups) (such as Banza)
+                                            </span>
+</span>
+</input></label>
+</li>
+<li class="ingredients-item" data-id="4342">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-1">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-1" type="checkbox" value="clove garlic, whole">
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                1 clove garlic, thinly sliced (about 1 tsp.)
+                                            </span>
+</span>
+</input></label>
+</li>
+<li class="ingredients-item" data-id="4663">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-2">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-2" type="checkbox" value=" shallot"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                2 tablespoons thinly sliced shallots
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="19360">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-3">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-3" type="checkbox" value="(8 ounce) container mascarpone cheese"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                3 ¼ ounces mascarpone cheese
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="20496">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-4">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-4" type="checkbox" value=" baby spinach"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                4 ounces fresh baby spinach
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="18866">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-5">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-5" type="checkbox" value="pinch kosher salt"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                1 teaspoon kosher salt
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="16406">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-6">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-6" type="checkbox" value=" black pepper"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                ½ teaspoon black pepper
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="5110">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-7">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-7" type="checkbox" value=" lemon (for zesting)"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                1 teaspoon lemon zest (from 1 lemon)
+                                            </span>
+</span>
+</label>
+</li>
+<li class="ingredients-item" data-id="16407">
+<label class="checkbox-list" for="recipe-ingredients-label-278428-0-8">
+<input class="checkbox-list-input" id="recipe-ingredients-label-278428-0-8" type="checkbox" value=" cayenne pepper"/>
+<span class="checkbox-list-checkmark">
+<span class="ingredients-item-name">
+                                                  Crushed red pepper (optional)
+                                            </span>
+</span>
+</label>
+</li>
+</ul>
+</fieldset>
+</section>
+<!-- Shopper -->
+<section class="recipe-shopper-container">
+<div class="recipe-shopper" id="recipe-shopper"></div>
+</section>
+</div>
+<section class="recipe-instructions recipe-instructions-new component container">
+<h2 class="section-headline">
+<span aria-hidden="true" class="section-icon icon-background-round">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M21.616 13.945c.663 0 1.175.651 1.068 1.37C21.958 20.22 18.514 24 11.85 24c-6.664 0-10.108-3.78-10.835-8.685-.106-.719.405-1.37 1.068-1.37h19.534zM5.894 15.947h-2.72c.406 1.662 1.207 3.046 2.348 4.042.919.802 2.057 1.364 3.399 1.687-1.95-1.138-2.655-3.543-3.027-5.729zm9.857-9.09l.048-.14.009-.028 1.323-.876.05.077c.143.215.429.28.65.148l5.425-3.228A1.511 1.511 0 1 0 21.589.293l-5.09 3.734a.483.483 0 0 0-.117.656l.05.076-1.267.84a13.78 13.78 0 0 0-.112-.01l-.15-.01c-1.716-.119-6.94-.273-8.355 2.079-.634 1.054-.426 2.388.618 3.965 1.044 1.576 2.191 2.289 3.409 2.116 2.717-.385 4.615-5.255 5.176-6.881M7.58 8.278c.539-.896 2.251-1.327 4.075-1.481l-.12.046C9.542 7.63 8.19 8.55 7.491 9.59c-.15-.522-.122-.96.089-1.31zm2.826 4.269c-.404.057-.819-.087-1.24-.43 1.23-.237 2.604-1.123 4.106-2.652l.09-.092c-.855 1.62-1.92 3.028-2.956 3.174zM8.181 10.95c.374-1.63 3.075-2.832 5.32-3.522-1.512 1.797-3.672 3.815-5.32 3.522z"></path></svg>
+</span>
+                          Directions
+                        </h2>
+<fieldset class="instructions-section__fieldset">
+<legend class="visually-hidden instructions-section__legend">
+                                Instructions Checklist
+                            </legend>
+<ul class="instructions-section">
+<li class="subcontainer instructions-section-item">
+<label class="checkbox-list" for="recipe-instructions-label-0-0">
+<input class="checkbox-list-input" id="recipe-instructions-label-0-0" type="checkbox" value=""/>
+<span class="checkbox-list-checkmark">
+<span class="checkbox-list-text">
+                                      Step 1
+                                    </span>
+</span>
+</label>
+<div class="section-body">
+<p>Cook pasta according to package directions, omitting salt. Drain, reserving 1 cup cooking water.</p>
+</div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper mobile-ad karma-ad" data-lazy-scroll="true" data-tier="2" id="div-gpt-mob-square-fixed-1" role="complementary" tabindex="-1"></div>
+<div class="ad-title mobile-ad">Advertisement</div>
+</li>
+<li class="subcontainer instructions-section-item">
+<label class="checkbox-list" for="recipe-instructions-label-0-1">
+<input class="checkbox-list-input" id="recipe-instructions-label-0-1" type="checkbox" value=""/>
+<span class="checkbox-list-checkmark">
+<span class="checkbox-list-text">
+                                      Step 2
+                                    </span>
+</span>
+</label>
+<div class="section-body">
+<p>Transfer pasta to a large bowl; add garlic, shallot, mascarpone, spinach, salt, pepper, and 1/2 cup of the reserved cooking liquid. Stir until cheese has melted and mixture is combined, about 1 1/2 minutes. Add additional cooking liquid as needed to loosen sauce. Divide pasta among 4 bowls. Sprinkle with lemon zest and, if desired, crushed red pepper. Serve immediately.</p>
+</div>
+</li>
+</ul>
+</fieldset>
+</section>
+<!-- Nutrition -->
+<section class="nutrition-section container">
+<h2 class="section-headline">
+<a id="nutrition"></a>
+<span aria-hidden="true" class="section-icon icon-background-round">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" width="32" xmlns="http://www.w3.org/2000/svg"><path d="M5 9.2h3V19H5V9.2zM10.6 5h2.8v14h-2.8V5zm5.6 8H19v6h-2.8v-6z"></path></svg>
+</span>
+                        Nutrition Facts 
+                        </h2>
+<div class="partial recipe-nutrition-section">
+<div class="section-label">Serving Size: <span class="section-body"> about 2 cups</span>
+</div>
+<div class="section-label">Per Serving:</div>
+<div class="section-body">          395 calories;           16 g total fat;           6 g saturated fat;           604 mg sodium.          50 g carbohydrates;           13 g fiber;           8 g sugar;           23 g protein;     </div>
+</div>
+</section>
+<div class="karma-lazy-seriesDetails"></div>
+</div>
+</div>
+</div>
+<div class="recipe-right-rail two-col-right-rail karma-sticky-rail">
+<div aria-hidden="true" class="monetate" id="Reciperightrail" role="complementary"></div>
+<div class="karma-rail-docking-element">
+<div class="recipe-ad-wrapper">
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad karma-ad" data-lazy-scroll="true" data-tier="1" id="div-gpt-square-flex-1" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad karma-ad" data-lazy-scroll="true" data-tier="2" id="div-gpt-square-fixed-3" role="complementary" tabindex="-1"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="content last">
+<!-- Syndication Attribution -->
+<div class="div-sm-inStream"></div>
+<div class="recirculation-wrapper">
+<div class="component recirculation loading" data-endpoint="/element-api/content-proxy/recommendations" data-inject-content="recipe-in-recirc-outbrain" data-recirc="closed" data-recommendations-request-data="%7B%22provider%22%3A%22cms%22%2C%22brand%22%3A%22etg%22%2C%22id%22%3A%22278428%22%2C%22matchFactor%22%3A%22%22%2C%22contentType%22%3A%22recipe%22%2C%22parent%22%3A%22%22%2C%22entity%22%3A%22cms%2Fonecms_terms_etg_544%22%2C%22category%22%3A%22Healthy%20Cooking%20Methods%20%26amp%3B%20Styles%22%2C%22content_graph_id%22%3A%22cms%2Fallrecipes_recipe_etg_278428%22%7D" data-show-toaster="">
+</div>
+</div>
+</div>
+</div>
+<div class="div-sm-highImpact"></div>
+<div class="component recipe-reviews container-full-width template-two-col with-sidebar-right main-reviews" data-headline="" data-id="278428" data-page="" data-rating-counts="[]" data-ratings-average="0" data-ratings-count="0" data-reviews-count="0" data-reviews-sort="udf.last_updated,desc">
+<div class="inner-container two-col-inner">
+<div class="content two-col-main-content karma-content-container">
+<div class="two-col-content karma-main-column">
+<div class="two-col-content-wrapper">
+<div class="two-col-social docked-sharebar-docking-container"></div>
+<div class="recipe-content-container">
+<div class="component loader main-reviews"></div>
+<section class="recipes-reviews-container container">
+<div class="recipe-review-overall-rating">
+<h2 class="section-headline">
+<a id="reviewSection"></a>
+<span class="review-headline">Reviews</span>
+</h2>
+</div>
+<div class="recipe-review-top-reviews">
+<div class="recipe-review-top-reviews-inner">
+<div class="recipe-review-my-review">
+<div class="recipe-review-add-review-icon"><svg aria-hidden="true" height="64" role="img" tabindex="-1" viewbox="0 0 24 24" width="64" xmlns="http://www.w3.org/2000/svg"><path d="M12.007 5.876c-.374 0-.744.07-1.109.212a4.102 4.102 0 0 0-.985.54 3.148 3.148 0 0 0-.705.712c-.178.256-.267.497-.267.725v2.19c0 .429.108.976.322 1.642s.55 1.182 1.006 1.547a.869.869 0 0 1 .328.794c-.027.146-.084.28-.17.403a.835.835 0 0 1-.336.28l-3.846 1.82a.959.959 0 0 0-.225.13c-.096.07-.144.195-.144.377v.89l12.248-.014v-.848c0-.238-.057-.386-.17-.445a1.43 1.43 0 0 0-.186-.09l-3.818-1.806a.887.887 0 0 1-.445-1.142.844.844 0 0 1 .267-.35c.475-.364.81-.882 1.006-1.552.196-.671.294-1.216.294-1.636v-2.19c0-.237-.09-.483-.273-.739-.183-.255-.418-.49-.705-.704s-.616-.393-.985-.534a3.065 3.065 0 0 0-1.102-.212z" fill="#685F55"></path></svg></div>
+<button class="recipe-review-add-review" data-label="Recipe Rating Clicked" data-login-url="https://www.eatingwell.com/account/authenticationwelcome?actionsource=recipe&amp;loginreferrerurl=http://www.eatingwell.com/recipe/278428/creamy-spinach-pasta/" data-tracking-zone="recipe-interaction">Add Rating &amp; Review</button>
+</div>
+<div class="recipe-review-top-reviews-row">
+</div>
+</div>
+</div>
+<div class="component recipe-reviews-sort sort-tabs">
+<div class="sort-title">
+<span class="sort-title-reviews">Reviews: </span>
+<a aria-expanded="false" aria-label="Select a sort option" class="sort-title-trigger" href="#" role="button">
+<span class="sort-title-selected">Most Helpful
+                                  </span>
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</a>
+</div>
+<div class="sort-options">
+<a class="sort-option active" data-sort="helpful_count,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Most Helpful (Selected)" class="sort-option-title">Most Helpful</span>
+</a>
+<a class="sort-option" data-sort="rating,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Most Positive" class="sort-option-title">Most Positive</span>
+</a>
+<a class="sort-option" data-sort="rating,asc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Least Positive" class="sort-option-title">Least Positive</span>
+</a>
+<a class="sort-option" data-sort="last_updated,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Newest" class="sort-option-title">Newest</span>
+</a>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="recipe-reviews-right-rail two-col-right-rail karma-sticky-rail">
+<div class="karma-rail-docking-element">
+<div class="recipe-ad-wrapper">
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad main-reviews karma-ad" data-lazy-scroll="true" data-tier="3" id="div-gpt-square-fixed-4" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad main-reviews karma-ad" data-lazy-scroll="true" data-tier="4" id="div-gpt-square-fixed-5" role="complementary" tabindex="-1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<div class="component recipe-reviews container-full-width template-two-col with-sidebar-right hidden" data-headline="Creamy Spinach Pasta" data-id="278428" data-page="" data-rating-counts="[]" data-ratings-average="0" data-ratings-count="0" data-reviews-count="0" data-reviews-sort="udf.last_updated,desc">
+<div class="inner-container two-col-inner">
+<div class="content two-col-main-content karma-content-container">
+<div class="two-col-content karma-main-column">
+<div class="two-col-content-wrapper">
+<div class="recipe-content-container">
+<div class="component loader hidden"></div>
+<section class="recipes-reviews-container container">
+<a class="recipe-review-back" href="#">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" version="1.1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<title>Previous</title>
+<path d="M20.016 11.016v1.969h-12.188l5.578 5.625-1.406 1.406-8.016-8.016 8.016-8.016 1.406 1.406-5.578 5.625h12.188z"></path>
+</svg>
+<span class="recipe-review-back-text">Back to Creamy Spinach Pasta</span>
+</a>
+<div class="recipe-review-overall-rating">
+<h2 class="section-headline">
+<span class="review-headline">All Reviews for <span class="review-page-title">Creamy Spinach Pasta</span></span>
+</h2>
+<div class="component recipe-ratings">
+<a aria-expanded="false" aria-label="Select to view ratings" class="icon arrow-down ratings-dropdown-button" href="#" role="button">
+<span class="icon-down-triangle">
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</span>
+</a>
+</div>
+</div>
+<div class="recipe-reviews-info">
+<div class="recipe-reviews-counter">- of  Reviews</div>
+<div class="component recipe-reviews-sort sort-dropdown">
+<div class="sort-title">
+<span class="sort-title-reviews">Reviews: </span>
+<a aria-expanded="false" aria-label="Select a sort option" class="sort-title-trigger" href="#" role="button">
+<span class="sort-title-selected">Most Helpful
+                          </span>
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</a>
+</div>
+<div class="sort-options">
+<a class="sort-option active" data-sort="helpful_count,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Most Helpful (Selected)" class="sort-option-title">Most Helpful</span>
+</a>
+<a class="sort-option" data-sort="rating,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Most Positive" class="sort-option-title">Most Positive</span>
+</a>
+<a class="sort-option" data-sort="rating,asc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Least Positive" class="sort-option-title">Least Positive</span>
+</a>
+<a class="sort-option" data-sort="last_updated,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Newest" class="sort-option-title">Newest</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+<div class="recipe-reviews-right-rail two-col-right-rail karma-sticky-rail">
+<div class="karma-rail-docking-element">
+<div class="recipe-ad-wrapper">
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad hidden karma-ad" data-lazy-scroll="true" data-tier="3" id="div-gpt-square-fixed-6" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad hidden karma-ad" data-lazy-scroll="true" data-tier="4" id="div-gpt-square-fixed-7" role="complementary" tabindex="-1"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="recipe-ad-wrapper full-width recipe-main-ad">
+<div aria-hidden="true" class="ad ad-container ad-wrapper mobile-ad karma-ad" data-lazy-scroll="true" data-tier="3" id="div-gpt-mob-square-fixed-2" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper mobile-ad karma-ad" data-lazy-scroll="true" data-tier="4" id="div-gpt-mob-square-fixed-3" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper tablet-ad karma-ad" data-lazy-scroll="true" data-tier="3" id="div-gpt-square-fixed-8" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper tablet-ad karma-ad" data-lazy-scroll="true" data-tier="4" id="div-gpt-square-fixed-9" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad karma-ad" data-lazy-scroll="true" data-tier="3" id="div-gpt-square-fixed-10" role="complementary" tabindex="-1"></div>
+<div aria-hidden="true" class="ad ad-container ad-wrapper desktop-ad karma-ad" data-lazy-scroll="true" data-tier="4" id="div-gpt-square-fixed-11" role="complementary" tabindex="-1"></div>
+</div>
+<div aria-hidden="true" class="partial modal share-icons" id="dialog-43593312-1ab4-4031-b7c3-591fff770e9c" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="share_dialog" class="dialog-wrap" role="dialog">
+<button aria-label="Close this dialog window" class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="do-not-track" type="button">
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="share_dialog">Share options</h2>
+<div class="content">
+</div>
+</div>
+</div>
+<div aria-hidden="true" class="partial modal ugc-modal static" id="dialog-a1d82907-05dd-47cd-888c-e7811fd734f3" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="ugc_reviews" class="dialog-wrap" role="dialog">
+<button class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="do-not-track" type="button">
+<span class="dialog-close-text">Back to Recipe</span>
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="ugc_reviews">UGC Reviews Modal</h2>
+<div class="content">
+<div class="component ugc-reviews" data-author="[object Object]" data-headline="Creamy Spinach Pasta" data-id="278428" data-page="" data-photos-count="0" data-reviews-count="0">
+<div class="ugc-content">
+<h3 class="ugc-heading">
+<span class="ugc-heading-reviews reviews-content">
+                      Reviews for:
+                    </span>
+<span class="photos-content">
+                      Photos of
+                    </span>Creamy Spinach Pasta</h3>
+<div class="component recipe-reviews-sort sort-dropdown">
+<div class="sort-title">
+<span class="sort-title-reviews">Reviews: </span>
+<a aria-expanded="false" aria-label="Select a sort option" class="sort-title-trigger" href="#" role="button">
+<span class="sort-title-selected">Most Helpful
+                        </span>
+<svg aria-hidden="true" height="8" role="img" tabindex="-1" viewbox="0 0 255 255" width="12" xmlns="http://www.w3.org/2000/svg"><title>Down Triangle</title><path d="M0 63.75l127.5 127.5L255 63.75z"></path></svg>
+</a>
+</div>
+<div class="sort-options">
+<a class="sort-option active" data-sort="helpful_count,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Most Helpful (Selected)" class="sort-option-title">Most Helpful</span>
+</a>
+<a class="sort-option" data-sort="rating,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Most Positive" class="sort-option-title">Most Positive</span>
+</a>
+<a class="sort-option" data-sort="rating,asc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Least Positive" class="sort-option-title">Least Positive</span>
+</a>
+<a class="sort-option" data-sort="last_updated,desc" href="#" role="button">
+<span class="sort-option-check"><svg aria-hidden="true" class="icon-check icon-share-check" height="20" role="img" tabindex="-1" viewbox="0 0 24 24" width="20" xmlns="http://www.w3.org/2000/svg"><path d="M9 16.172L19.594 5.578 21 6.984l-12 12-5.578-5.578L4.828 12z"></path></svg>
+</span>
+<span aria-label="Sort by Newest" class="sort-option-title">Newest</span>
+</a>
+</div>
+</div>
+<div class="ugc-recipe-reviews">
+<div class="recipe-review-index reviews-content">
+<span class="recipe-review-index-of">
+<span class="review-index">1</span> of 0
+                      </span>
+<span class="recipe-review-sort"></span>
+</div>
+<div class="ugc-review-nav">
+<span class="ugc-review-prev">
+<span class="icon">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 24 24" width="32" xmlns="http://www.w3.org/2000/svg"><polygon points="15.41 7.41 14 6 8 12 14 18 15.41 16.59 10.83 12"></polygon></svg>
+</span>
+</span>
+<a class="ugc-review-all-link reviews-content" href="?page=2">
+                          All Reviews
+                        </a>
+<div class="ugc-review-all-link photos-content">
+</div>
+<span class="ugc-review-next">
+<span class="icon">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 24 24" width="32" xmlns="http://www.w3.org/2000/svg"><polygon points="10 6 8.59 7.41 13.17 12 8.59 16.59 10 18 16 12"></polygon></svg>
+</span>
+</span>
+</div>
+<div class="js-container reviews-content" data-type="reviews">
+</div>
+<div class="js-container photos-content" data-type="photos">
+</div>
+</div>
+</div>
+<div class="right-column">
+<div class="recipe-ad-wrapper">
+<div class="karma-lazy-loaded-ad ad-container karma-ad ad-wrapper desktop-ad" data-breakpoints="narrow-desktop,wide-desktop,super-wide-desktop" data-refreshable="true" data-slot-name="div-gpt-lazy-square-fixed-tier1" tabindex="-1">
+</div>
+<div class="karma-lazy-loaded-ad ad-container karma-ad ad-wrapper desktop-ad" data-breakpoints="narrow-desktop,wide-desktop,super-wide-desktop" data-refreshable="true" data-slot-name="div-gpt-lazy-square-fixed-tier2" tabindex="-1">
+</div>
+<div class="karma-lazy-loaded-ad ad-container karma-ad ad-wrapper tablet-ad" data-breakpoints="tablet" data-slot-name="div-gpt-lazy-square-fixed-tier3" tabindex="-1">
+</div>
+<div class="karma-lazy-loaded-ad ad-container karma-ad ad-wrapper tablet-ad" data-breakpoints="tablet" data-slot-name="div-gpt-lazy-square-fixed-tier4" tabindex="-1">
+</div>
+<div class="karma-lazy-loaded-ad ad-container karma-ad ad-wrapper mobile-ad" data-breakpoints="mobile" data-refreshable="true" data-slot-name="div-gpt-lazy-mob-square-fixed-tier1" tabindex="-1">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-hidden="true" class="partial modal ugc-upload-modal static" id="dialog-d69ca65d-c2ed-463e-bd28-728fd291da92" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="ugc_upload" class="dialog-wrap" role="dialog">
+<button class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="do-not-track" type="button">
+<span class="dialog-close-text">Back to Recipe</span>
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="ugc_upload">Review this recipe</h2>
+<div class="content">
+<div class="component ugc-upload" data-cms-id="278428" data-headline="Creamy Spinach Pasta" data-ugc-comments="" data-uuid="">
+<div class="ugc-upload-inner">
+<div class="ugc-upload-banner">
+<svg aria-hidden="true" height="32" role="img" tabindex="-1" viewbox="0 0 24 20" width="32" xmlns="http://www.w3.org/2000/svg"><title>Rate Review</title><path d="M12.726 10.694L9.998 9.267l-2.719 1.43.52-3.025-2.205-2.15 3.04-.446L9.998 2.32l1.363 2.756 3.042.44-2.196 2.15.52 3.028zM18.236 0H1.761C.001 0 .001 1.606.001 1.606V12.16s-.057 1.587 1.524 1.587h1.638v5.476l5.475-5.476h9.836c1.579 0 1.526-1.587 1.526-1.587V1.606S20 0 18.236 0z"></path></svg>
+               Review this recipe
+                  </div>
+<div class="component alert-banner type-error hidden">
+<div class="alert-icon"></div>
+<div class="alert-text">
+</div>
+<button aria-label="Close this alert" class="alert-close">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg> </button>
+</div>
+<form class="ugc-upload-content">
+<div class="ugc-upload-header">
+<div class="ugc-upload-headline">
+                        Creamy Spinach Pasta
+                      </div>
+</div>
+<div class="ugc-upload-rating">
+<div class="component recipe-ratings interactive">
+<fieldset class="ratings-text ratings-input">
+<legend class="ratings-legend">Rate this recipe</legend>
+<input checked="" class="rating-star-input visually-hidden star0" id="star0" name="ugc-rating" type="radio" value="">
+<label class="rating-star rating-star-label" for="star0">
+<span class="ratings-text-label" data-rating="0">Your rating</span>
+</label>
+<input class="rating-star-input visually-hidden star1" id="star1" name="ugc-rating" type="radio" value="1">
+<label class="rating-star rating-star-label" for="star1">
+<span class="visually-hidden">Rate this a 1: </span>
+<svg aria-hidden="true" height="44" role="img" tabindex="-1" viewbox="0 0 24 24" width="44" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+<span class="ratings-text-label" data-rating="1">Couldn't eat it</span>
+</label>
+<input class="rating-star-input visually-hidden star2" id="star2" name="ugc-rating" type="radio" value="2"/>
+<label class="rating-star rating-star-label" for="star2">
+<span class="visually-hidden">Rate this a 2: </span>
+<svg aria-hidden="true" height="44" role="img" tabindex="-1" viewbox="0 0 24 24" width="44" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+<span class="ratings-text-label" data-rating="2">Didn't like it</span>
+</label>
+<input class="rating-star-input visually-hidden star3" id="star3" name="ugc-rating" type="radio" value="3"/>
+<label class="rating-star rating-star-label" for="star3">
+<span class="visually-hidden">Rate this a 3: </span>
+<svg aria-hidden="true" height="44" role="img" tabindex="-1" viewbox="0 0 24 24" width="44" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+<span class="ratings-text-label" data-rating="3">It was OK</span>
+</label>
+<input class="rating-star-input visually-hidden star4" id="star4" name="ugc-rating" type="radio" value="4"/>
+<label class="rating-star rating-star-label" for="star4">
+<span class="visually-hidden">Rate this a 4: </span>
+<svg aria-hidden="true" height="44" role="img" tabindex="-1" viewbox="0 0 24 24" width="44" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+<span class="ratings-text-label" data-rating="4">Liked it</span>
+</label>
+<input class="rating-star-input visually-hidden star5" id="star5" name="ugc-rating" type="radio" value="5"/>
+<label class="rating-star rating-star-label" for="star5">
+<span class="visually-hidden">Rate this a 5: </span>
+<svg aria-hidden="true" height="44" role="img" tabindex="-1" viewbox="0 0 24 24" width="44" xmlns="http://www.w3.org/2000/svg"><path class="rating-star-filled" d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path></svg>
+<span class="ratings-text-label" data-rating="5">Loved it</span>
+</label>
+</input></input></fieldset>
+</div>
+</div>
+<div class="ugc-upload-text">
+<label class="visually-hidden" for="ugc-text">What did you think about this recipe? Did you make any changes or notes?</label>
+<textarea id="ugc-text" name="ugc-text" placeholder="What did you think about this recipe? Did you make any changes or notes? "></textarea>
+</div>
+<button class="ugc-upload-submit" type="submit">Submit</button>
+</form>
+</div>
+<div class="ugc-upload-thankyou">
+<svg aria-hidden="true" height="112" role="img" tabindex="-1" width="112" xmlns="http://www.w3.org/2000/svg"><path d="M21.616 13.945c.663 0 1.175.651 1.068 1.37C21.958 20.22 18.514 24 11.85 24c-6.664 0-10.108-3.78-10.835-8.685-.106-.719.405-1.37 1.068-1.37h19.534zM5.894 15.947h-2.72c.406 1.662 1.207 3.046 2.348 4.042.919.802 2.057 1.364 3.399 1.687-1.95-1.138-2.655-3.543-3.027-5.729zm9.857-9.09l.048-.14.009-.028 1.323-.876.05.077c.143.215.429.28.65.148l5.425-3.228A1.511 1.511 0 1 0 21.589.293l-5.09 3.734a.483.483 0 0 0-.117.656l.05.076-1.267.84a13.78 13.78 0 0 0-.112-.01l-.15-.01c-1.716-.119-6.94-.273-8.355 2.079-.634 1.054-.426 2.388.618 3.965 1.044 1.576 2.191 2.289 3.409 2.116 2.717-.385 4.615-5.255 5.176-6.881M7.58 8.278c.539-.896 2.251-1.327 4.075-1.481l-.12.046C9.542 7.63 8.19 8.55 7.491 9.59c-.15-.522-.122-.96.089-1.31zm2.826 4.269c-.404.057-.819-.087-1.24-.43 1.23-.237 2.604-1.123 4.106-2.652l.09-.092c-.855 1.62-1.92 3.028-2.956 3.174zM8.181 10.95c.374-1.63 3.075-2.832 5.32-3.522-1.512 1.797-3.672 3.815-5.32 3.522z"></path></svg>
+<div class="ugc-upload-thankyou-text">Thanks for adding your feedback.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="component footer-test">
+<div class="footer-test main" data-tracking-zone="mdex-footer">
+<div class="footer-links-wrapper">
+<div class="footer-logo">
+<a class="full-logo" data-action="footer-logo" href="/">
+<span class="svg-label">EatingWell</span>
+<span aria-hidden="true" class="svg-logo">
+<svg height="64" viewbox="0 0 215 64" width="215" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path d="M0 63.847h214.497V0H0z" id="eating-well-logo-a"></path></defs><g fill="none" fill-rule="evenodd"><path d="M61.203 9.883a3.707 3.707 0 1 0 7.413 0 3.707 3.707 0 0 0-7.413 0z" fill="#639A3A"></path><mask fill="#fff" id="eating-well-logo-b"><use xlink:href="#eating-well-logo-a"></use></mask><path d="M188.897 52.697h6.502V.387h-6.502zm11.129.047h6.5V.434h-6.5z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path><path d="M211.01 48.097c-1.323 0-2.331 1.008-2.331 2.332 0 1.324 1.008 2.332 2.332 2.332 1.324 0 2.332-1.008 2.332-2.332 0-1.387-1.008-2.332-2.332-2.332m.01 4.296c-1.135 0-1.954-.82-1.954-1.954 0-1.135.82-1.954 1.954-1.954s1.954.82 1.954 1.954-.82 1.954-1.954 1.954" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M211.956 50.05c0-.503-.378-.755-.819-.755h-1.072v2.269h.505v-.82h.252l.693.82h.567V51.5l-.693-.694c.315-.189.567-.378.567-.756m-.819.315h-.504v-.693h.504c.19 0 .378.126.378.378-.063.189-.189.315-.378.315" fill="#639A3A" fill-rule="nonzero" mask="url(#eating-well-logo-b)"></path><path d="M113.13 39.451c-.064-.001-.124-.008-.187-.008.063-.034.124-.027.186.008m-2.93-1.58c-2.974 0-5.804-2.757-5.804-8.996 0-5.441 2.395-8.851 5.803-8.851 3.556 0 5.879 3.41 5.879 8.923 0 5.441-2.25 8.924-5.879 8.924m-4.797 1.287c.02-.033.046-.042.085-.021l-.085.021m11.698.965c3.314-1.838 5.423-5.764 5.423-10.668 0-3.984-1.333-7.306-3.265-9.308 2.519.182 4.267-.396 4.267-.396l-1.118-4.748s-1.91.45-4.608.45c-2.792 0-4.933-.653-7.6-.653-7.775 0-11.94 5.25-11.94 13.371 0 5.048 1.891 9.569 5.261 11.714-1.6.855-3.161 2.205-4.097 3.203l3.667 4.07c1.57-1.714 4.362-3.553 7.994-3.553 4.468 0 7.878 3.048 7.878 7.471 0 4.608-3.69 7.122-8.437 7.122-5.492 0-9.328-3.742-9.328-3.742l-3.739 4.02c2.85 3.003 7.761 5.371 13.283 5.371 7.93 0 14.365-4.533 14.365-12.26 0-5.619-3.305-9.88-8.006-11.464M30.4 48.151c-2.649 0-4.977-2.01-4.977-8.104 0-5.168 1.71-8.103 4.839-8.103 3.41 0 5.513 3.377 5.513 8.031 0 4.172-2.375 8.176-5.376 8.176m13.508-.984c-1.396-.28-2.19-1.071-2.19-3.491V27.859c0-9.926-3.462-13.422-11.23-13.422-4.672 0-8.138 1.98-8.138 1.98l.107 5.312s3.712-1.756 7.061-1.756c4.507 0 6.258 2.99 6.258 7.088v2.756c-1.523-2.248-4.23-3.046-6.696-3.046-5.659 0-10.157 4.498-10.157 13.204 0 8.851 4.883 13.566 10.397 13.566 2.283 0 5.396-1.25 7.478-4.643.5 2.109 2.066 4.134 5.993 4.134 2.164 0 3.328-.35 3.328-.35v-5.47s-.814.234-2.211-.045M54.22 7.958l-6.502 2.039v5.456h-3.982v5.993h3.982v22.157c0 6.746 2.874 9.503 8.532 9.503.871 0 1.379-.073 2.25-.362V47.28c-.508.145-.726.145-1.161.145-2.612 0-3.12-.798-3.12-4.498V21.446h4.28v-5.993h-4.28V7.958m7.451 44.786h6.5V15.453h-6.5zm24.877-38.307c-2.55 0-5.777 1.357-8.002 4.896v-3.88h-5.97v37.29h6.5V28.7c0-4.28 3.4-8.56 6.49-8.56 2.56 0 3.333 1.852 3.333 5.03v27.574h6.5v-27.86c0-3.627-.798-5.949-2.321-7.69-1.524-1.814-3.918-2.757-6.53-2.757M159.177.435l-7.028 34.277L145.99 0h-5.066l-6.24 34.687-7.24-34.252h-6.573l12.045 52.889h3.858l6.701-36.209 6.52 36.209h3.931L165.968.434zm15.369 19.392c3.202 0 4.818 3.446 4.818 10.716h-10.215c0-7.402 2.385-10.716 5.397-10.716m.592 27.961c-3.731 0-6.232-4.06-6.232-10.283 0-.926-.005-1.29-.005-1.508l16.49-.007c.072-2.22.11-2.907.11-4.068 0-10.834-3.213-17.485-10.955-17.485-7.948 0-11.825 7.247-11.825 19.734 0 12.536 5.043 19.37 12.234 19.37 4.958 0 8.524-3.061 10.618-8.364l-4.61-2.64c-1.523 2.978-3.046 5.251-5.825 5.251M0 52.744h18.271v-6.427H6.646v-17.37h10.04v-6.428H6.647V6.863H18.41V.435H0z" fill="#639A3A" mask="url(#eating-well-logo-b)"></path></g></svg>
+</span>
+</a>
+</div>
+<nav aria-label="Footer" class="footer-sections">
+<section class="footer-section footer-magazines-more">
+<h2 class="footer-title">Magazines &amp; More</h2>
+<div id="footermagmore"></div>
+</section>
+<section class="footer-section footer-learn-more">
+<h2 class="footer-title">Learn More</h2>
+<ul class="footer-learn-more-links">
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="about us" href="http://www.eatingwell.com/article/14869/about-eatingwell/">
+                                  About Us
+                                  
+                                </a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="subscribe" href="https://www.magazine.store/eatingwell/" rel="noopener" target="_blank">
+                                  Subscribe
+                                   <span class="hidden-label"> this link opens in a new tab</span>
+</a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="contact us" href="http://www.eatingwell.com/article/14867/contact-us/">
+                                  Contact Us
+                                  
+                                </a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="advertise" href="https://www.meredith.com/national-media/digital">
+                                  Advertise
+                                  
+                                </a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="content licensing" href="https://www.meredithcontentlicensing.com">
+                                  Content Licensing
+                                  
+                                </a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="recipe index" href="http://www.eatingwell.com/article/290682/eatingwells-annual-recipe-index-archive/">
+                                  Recipe Index
+                                  
+                                </a>
+</li>
+<li class="footer-link-item">
+<a class="footer-link" data-tracking-label="jobs" href="http://www.eatingwell.com/article/14865/jobs-internships/">
+                                  Jobs
+                                  
+                                </a>
+</li>
+</ul>
+</section>
+<section class="footer-section footer-connect">
+<h2 class="footer-title">Connect</h2>
+<div class="footer-follow-us">Follow Us</div>
+<div class="footer-social-container">
+<span class="icon icon-facebook social-icon margin-4-right" data-social-service="facebook">
+<a aria-label="Share on facebook (opens in a new window)" class="display-block" href="https://www.facebook.com/EatingWell/" target="_blank" title="facebook share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-facebook" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M13.774 8.824c.355-.012.71-.003 1.066-.003h.147V7.079c-.19-.018-.388-.043-.587-.052-.364-.015-.73-.033-1.094-.025-.557.01-1.084.139-1.544.45-.528.358-.818.86-.928 1.454a4.708 4.708 0 0 0-.064.747c-.01.39-.002.78-.002 1.172v.146H9v1.945h1.758v4.889h2.148v-4.88h1.752l.27-1.955h-.394c-.498.002-1.643 0-1.643 0s.006-.964.018-1.382c.017-.573.378-.748.865-.764" fill="#685F55"></path></svg>
+</a>
+</span>
+<span class="icon icon-twitter social-icon margin-4-right" data-social-service="twitter">
+<a aria-label="Share on twitter (opens in a new window)" class="display-block" href="https://twitter.com/EatingWell" target="_blank" title="twitter share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-twitter" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M9.793 15.25c-1.336-.049-2.17-1.041-2.392-1.847.372.073.739.058 1.103-.035.009-.002.018-.009.036-.017a2.571 2.571 0 0 1-1.669-1.222 2.65 2.65 0 0 1-.376-1.415c.36.2.738.311 1.144.323-.545-.406-.91-.937-1.059-1.615a2.72 2.72 0 0 1 .276-1.928c1.392 1.697 3.153 2.628 5.301 2.781-.016-.105-.031-.197-.041-.291a2.65 2.65 0 0 1 .375-1.74c.41-.664.993-1.077 1.743-1.204.864-.146 1.619.109 2.25.742.042.042.077.056.137.042a5.05 5.05 0 0 0 1.494-.595c.012-.006.023-.013.035-.018.002-.002.006-.001.017-.001a2.709 2.709 0 0 1-1.1 1.448 4.769 4.769 0 0 0 1.43-.399l.01.012c-.097.134-.193.27-.295.399a5.128 5.128 0 0 1-.933.92c-.03.022-.044.044-.044.084.015.395 0 .79-.047 1.182a8.026 8.026 0 0 1-.663 2.37 7.686 7.686 0 0 1-1.388 2.098 6.815 6.815 0 0 1-3.533 2.038 7.4 7.4 0 0 1-1.431.177 7.069 7.069 0 0 1-4.113-1.144l-.06-.04a5.039 5.039 0 0 0 3.793-1.105" fill="#685F55"></path></svg>
+</a>
+</span>
+<span class="icon icon-pinterest social-icon margin-4-right" data-social-service="pinterest">
+<a aria-label="Share on pinterest (opens in a new window)" class="display-block" href="https://www.pinterest.com/eatingwell/" target="_blank" title="pinterest share (opens in a new window)">
+<svg aria-hidden="true" class="icon-share icon-share-pinterest" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11.018 14.094l-.028.096c-.455 1.786-.506 2.183-.975 3.011a9.21 9.21 0 0 1-.753 1.126c-.031.04-.061.092-.124.08-.068-.015-.074-.077-.08-.131a9.552 9.552 0 0 1-.1-1.635c.025-.714.113-.959 1.033-4.827a.267.267 0 0 0-.022-.162c-.22-.594-.263-1.197-.071-1.808.416-1.32 1.912-1.42 2.173-.331.162.673-.265 1.554-.592 2.856-.27 1.075.994 1.84 2.075 1.054.997-.723 1.385-2.456 1.311-3.685-.144-2.45-2.832-2.98-4.536-2.191-1.955.904-2.398 3.326-1.516 4.432.112.142.198.227.16.37-.056.222-.106.445-.167.666-.046.164-.183.224-.349.156a2.005 2.005 0 0 1-.816-.611c-.75-.928-.964-2.764.027-4.317 1.098-1.721 3.139-2.417 5.004-2.206 2.226.253 3.632 1.774 3.896 3.5.12.786.034 2.724-1.07 4.094-1.27 1.575-3.327 1.679-4.277.713-.073-.074-.132-.162-.203-.25" fill="#685F55"></path></svg>
+</a>
+</span>
+<span class="icon icon-instagram social-icon margin-4-right" data-social-service="instagram">
+<a aria-label="Share on instagram (opens in a new window)" class="display-block" href="http://instagram.com/eatingwell/" target="_blank" title="instagram share (opens in a new window)">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M11.998 6c1.63 0 1.833.007 2.473.036.639.03 1.075.13 1.456.279a2.94 2.94 0 0 1 1.063.692c.333.333.538.668.691 1.062.149.382.25.818.28 1.456.028.64.035.844.035 2.473 0 1.63-.007 1.833-.036 2.473-.029.639-.13 1.075-.279 1.456a2.94 2.94 0 0 1-.692 1.063 2.94 2.94 0 0 1-1.062.691c-.381.149-.817.25-1.456.28-.64.028-.844.035-2.473.035s-1.833-.007-2.473-.036c-.638-.029-1.074-.13-1.456-.279a2.94 2.94 0 0 1-1.062-.692 2.94 2.94 0 0 1-.692-1.062c-.148-.381-.25-.817-.279-1.456-.03-.64-.036-.844-.036-2.473s.007-1.833.036-2.473c.03-.638.13-1.074.279-1.456a2.94 2.94 0 0 1 .692-1.062 2.94 2.94 0 0 1 1.062-.692c.382-.148.818-.25 1.456-.279.64-.03.844-.036 2.473-.036zm0 1.08c-1.601 0-1.791.007-2.424.036-.584.026-.902.124-1.113.206-.28.109-.48.239-.69.449-.21.21-.34.41-.449.69-.082.211-.18.529-.206 1.113-.03.633-.035.823-.035 2.424 0 1.602.006 1.791.035 2.424.026.585.124.902.206 1.114.109.28.239.48.449.69.21.21.41.34.69.448.211.082.529.18 1.113.207.633.028.822.034 2.424.034 1.602 0 1.791-.006 2.424-.034.585-.027.902-.125 1.114-.207.28-.109.48-.239.69-.449.21-.21.34-.41.448-.69.082-.21.18-.528.207-1.113.028-.633.034-.822.034-2.424 0-1.601-.006-1.791-.034-2.424-.027-.584-.125-.902-.207-1.113a1.858 1.858 0 0 0-.449-.69c-.21-.21-.41-.34-.69-.449-.21-.082-.528-.18-1.113-.206-.633-.03-.822-.035-2.424-.035zm0 1.838a3.08 3.08 0 1 1 0 6.16 3.08 3.08 0 0 1 0-6.16zm0 5.08a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm3.922-5.202a.72.72 0 1 1-1.44 0 .72.72 0 0 1 1.44 0z" fill="#685F55"></path></svg>
+</a>
+</span>
+<span class="icon icon-youtube social-icon margin-4-right" data-social-service="youtube">
+<a aria-label="Share on youtube (opens in a new window)" class="display-block" href="https://www.youtube.com/user/eatingwell" target="_blank" title="youtube share (opens in a new window)">
+<svg aria-hidden="true" height="24" role="img" tabindex="-1" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M10.227 13.95l4.307-2.233-4.307-2.248v4.482zm-3.8 2.487a1.613 1.613 0 0 1-1.064-1.035c-.462-1.268-.598-6.57.29-7.615a1.718 1.718 0 0 1 1.158-.616c2.393-.257 9.784-.22 10.636.086.5.18.854.506 1.046 1.006.505 1.31.522 6.079-.066 7.34-.16.344-.42.585-.75.758-.892.468-10.077.462-11.25.076z" fill="#685F55"></path></svg>
+</a>
+</span>
+</div>
+<div class="footer-newsletter-signup">
+<div class="footer-newsletter-signup-heading">Subscribe to Our Newsletters</div>
+<div id="signup"></div>
+</div>
+</section>
+</nav>
+</div>
+<div class="container-full-width footer-other-sites">
+<div class="footer-other-sites-wrapper">
+<a class="footer-other-sites-link" href="#" id="otherMeredithSites" role="button">
+                        Other Meredith Sites
+                      </a>
+<div aria-hidden="true" class="partial modal other-sites static" id="dialog-0532249d-b5c6-46c7-8586-5d3f4cf01972" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="other_dialog" class="dialog-wrap" role="dialog">
+<button aria-label="Close this dialog window" class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="do-not-track" type="button">
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="other_dialog">Other Meredith Sites</h2>
+<div class="content">
+<ul>
+<li><a href="https://www.allrecipes.com/" rel="noopener" target="_blank">Allrecipes <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.allpeoplequilt.com/" rel="noopener" target="_blank">All People Quilt <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.bhg.com/" rel="noopener" target="_blank">Better Homes &amp; Gardens <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.coastalliving.com/" rel="noopener" target="_blank">Coastal Living <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.cookinglight.com/" rel="noopener" target="_blank">Cooking Light <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.eatingwell.com/category/4248/diabetes-diet-center/" rel="noopener" target="_blank">Diabetic Living <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.eatingwell.com/" rel="noopener" target="_blank">EatingWell <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.eatthis.com/" rel="noopener" target="_blank">Eat This, Not That <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://ew.com/" rel="noopener" target="_blank">Entertainment Weekly <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.myrecipes.com/extracrispy/" rel="noopener" target="_blank">Extra Crispy <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.familycircle.com/" rel="noopener" target="_blank">Family Circle <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.fitnessmagazine.com/" rel="noopener" target="_blank">Fitness Magazine <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.fitpregnancy.com/" rel="noopener" target="_blank">Fit Pregnancy <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.foodandwine.com/" rel="noopener" target="_blank">Food &amp; Wine <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.health.com/" rel="noopener" target="_blank">Health <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://hellogiggles.com/" rel="noopener" target="_blank">Hello Giggles <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.instyle.com/" rel="noopener" target="_blank">Instyle <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.marthastewart.com/" rel="noopener" target="_blank">Martha Stewart <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.midwestliving.com/" rel="noopener" target="_blank">Midwest Living <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.marthastewartweddings.com/" rel="noopener" target="_blank">Martha Stewart Weddings <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.more.com/" rel="noopener" target="_blank">More <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.myrecipes.com/" rel="noopener" target="_blank">Myrecipes <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.mywedding.com/" rel="noopener" target="_blank">Mywedding <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.myfoodandfamily.com" rel="noopener" target="_blank">My Food and Family <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.parents.com/" rel="noopener" target="_blank">Parents <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.parenting.com/" rel="noopener" target="_blank">Parenting <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://people.com/" rel="noopener" target="_blank">People <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://peopleenespanol.com/" rel="noopener" target="_blank">People en Español <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.rachaelraymag.com/" rel="noopener" target="_blank">Rachael Ray Magazine <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.realsimple.com/" rel="noopener" target="_blank">Real Simple <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.shape.com/" rel="noopener" target="_blank">Shape <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://serpadres.com/" rel="noopener" target="_blank">Ser Padres <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://siempremujer.com/" rel="noopener" target="_blank">Siempre Mujer <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.southernliving.com/" rel="noopener" target="_blank">Southern Living <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="http://www.traditionalhome.com/" rel="noopener" target="_blank">Traditional Home <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+<li><a href="https://www.travelandleisure.com/" rel="noopener" target="_blank">Travel &amp; Leisure <span class="hidden-label"> this link opens in a new tab</span>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="footer-copyright">
+<span class="footer-copyright-logo">
+<svg height="24" viewbox="0 4 139 24" width="104" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="nonzero">
+<path d="M59.26 16.047V16c0-3.604 2.533-6.562 6.107-6.562 3.977 0 5.99 3.148 5.99 6.776 0 .264-.025.527-.048.811h-9.186c.31 2.053 1.753 3.198 3.6 3.198 1.396 0 2.39-.525 3.386-1.503l1.68 1.503c-1.184 1.432-2.818 2.364-5.114 2.364-3.622 0-6.416-2.649-6.416-6.539zm9.256-.931c-.19-1.861-1.279-3.318-3.173-3.318-1.752 0-2.984 1.361-3.243 3.318h6.416zm13.502.931V16c0-3.604 2.532-6.562 6.107-6.562 3.977 0 5.99 3.148 5.99 6.776 0 .264-.025.527-.048.811h-9.185c.306 2.053 1.75 3.198 3.597 3.198 1.397 0 2.392-.525 3.386-1.503l1.68 1.503c-1.183 1.432-2.817 2.364-5.112 2.364-3.622 0-6.415-2.649-6.415-6.539zm9.255-.931c-.189-1.861-1.278-3.318-3.172-3.318-1.752 0-2.984 1.361-3.243 3.318h6.415zm4.453.906v-.048c0-4.176 2.818-6.537 5.8-6.537 2.798 0 4.097 1.54 4.262 1.7v-6.24h2.862V22.3h-2.862v-1.456c-.238.242-1.51 1.72-4.263 1.72-2.934 0-5.799-2.365-5.799-6.542zm10.109 0v-.048c0-2.433-1.706-4.032-3.623-4.032-1.965 0-3.599 1.527-3.599 4.032v.048c0 2.435 1.658 4.034 3.6 4.034 1.916 0 3.622-1.624 3.622-4.034zm18.233 6.537c-3.681 0-5.704-1.15-5.704-4.701V4.898h2.864v4.801h2.841v2.481h-2.841v5.39c0 2.32 1.351 2.507 2.84 2.507v2.482zm2.514-17.662h2.864v6.252c.158-.2 1.259-1.712 3.59-1.712 3.018 0 4.767 2.003 4.767 4.843v8.02h-2.864v-7.137c0-1.891-1.04-3.102-2.745-3.102-1.657 0-2.748 1.146-2.748 3.102V22.3h-2.865V4.897h.001zM112.075 9.7h2.863v12.6h-2.863zM114.919 6.627v1.12h-2.844v-2.85h2.844zM38.002 9.7h2.864v1.493c.135-.16 1.407-1.756 3.692-1.756 2.6 0 3.531 1.63 3.835 2.218.215-.351 1.417-2.218 3.94-2.218 2.72 0 4.678 2.003 4.678 4.82V22.3h-2.864v-7.137c0-1.924-.995-3.102-2.604-3.102-1.563 0-2.604 1.129-2.604 3.102V22.3h-2.865v-7.137c0-1.956-1.017-3.102-2.604-3.102-1.58 0-2.604 1.146-2.604 3.102V22.3h-2.864V9.7zm35.75 0h2.863v2.042c.249-.424 1.224-2.283 4.428-2.283v2.97h-.61c-2.48 0-3.818 1.593-3.818 3.95v5.922h-2.862V9.699z" fill="#695E4A"></path>
+<path d="M15.918 7.413l-3.232 3.232-2.082-2.082 3.232-3.232zM21.207 19.258l2.066 2.082 3.232-3.258-2.066-2.083zM19.628 3.65a2.265 2.265 0 0 1 3.232 0c.941.949.856 2.395 0 3.26l-1.653 1.666 2.065 2.082 1.654-1.666c1.016-1.025 2.454-.785 3.233 0 .979.987.805 2.447 0 3.257l-1.654 1.668 2.065 2.082 1.654-1.667c2.09-2.107 1.989-5.417 0-7.422a5.183 5.183 0 0 0-3.775-1.537 5.236 5.236 0 0 0-1.523-3.806c-1.954-1.97-5.26-2.12-7.363 0l-1.654 1.668 2.066 2.082 1.653-1.667zM15.91 13.917l2.065 2.082 3.232-3.258-2.066-2.083z" fill="#009BDA"></path>
+<path d="M10.611 23.422l3.233 3.26 2.065-2.083-3.232-3.259zM28.57 16l-2.066 2.082 1.654 1.667c.805.811.98 2.27 0 3.258-.778.785-2.217 1.025-3.232 0l-1.654-1.667-2.066 2.082 1.653 1.666c.857.864.942 2.311 0 3.26a2.265 2.265 0 0 1-3.232 0l-1.654-1.668-2.065 2.083 1.654 1.667c2.102 2.12 5.408 1.97 7.362 0a5.239 5.239 0 0 0 1.524-3.805 5.182 5.182 0 0 0 3.775-1.537c1.988-2.006 2.09-5.315 0-7.423L28.57 16zM15.91 18.082l3.232 3.258 2.065-2.082-3.232-3.259zM23.273 10.658l-2.066 2.083 3.232 3.258 2.066-2.082-3.232-3.259z" fill="#6FBE44"></path>
+<path d="M15.9 24.584l3.233-3.232 2.081 2.081-3.232 3.233zM12.19 28.348c-.805.811-2.253.987-3.232 0-.778-.784-1.016-2.234 0-3.258v-.002l1.653-1.666-2.066-2.082-1.653 1.666c-.856.863-2.291.949-3.232 0a2.31 2.31 0 0 1 0-3.259l1.652-1.666-2.064-2.082-1.653 1.667c-2.103 2.12-1.954 5.452 0 7.422a5.146 5.146 0 0 0 3.774 1.536c-.015.768.143 2.414 1.524 3.806 1.99 2.006 5.273 2.108 7.362 0l1.654-1.667-2.065-2.082-1.654 1.667zM13.844 16l-3.233 3.258 2.066 2.082 3.232-3.258L13.844 16zM8.546 10.658l-3.232 3.259 2.065 2.082 3.232-3.258z" fill="#F7901E"></path>
+<path d="M10.611 19.258l-3.232-3.26-2.066 2.083 3.233 3.259zM3.66 12.25a2.31 2.31 0 0 1 0-3.258c.942-.95 2.377-.864 3.233 0l1.653 1.666 2.066-2.082L8.959 6.91v-.001c-1.016-1.023-.778-2.474 0-3.259.979-.987 2.427-.81 3.231 0l1.654 1.667 2.066-2.081-1.654-1.667c-2.09-2.107-5.373-2.006-7.362 0C5.512 2.96 5.354 4.607 5.37 5.374A5.145 5.145 0 0 0 1.595 6.91c-1.953 1.97-2.102 5.303 0 7.424L3.25 16l2.065-2.082L3.66 12.25zM17.983 5.33l3.232 3.232-2.082 2.081L15.9 7.412zM13.844 15.999l2.066-2.082-3.233-3.259-2.066 2.083 3.233 3.258z" fill="#ED174C"></path>
+<path d="M17.985 5.324L15.92 7.39l-2.082-2.083 2.065-2.064z" fill="#583357"></path>
+<path d="M5.323 13.926l2.065 2.065-2.082 2.082-2.066-2.065z" fill="#BF272E"></path>
+<path d="M26.5 18.074l-2.066-2.065 2.083-2.082 2.065 2.065z" fill="#008F4C"></path>
+<path d="M13.833 26.675L15.9 24.61l2.081 2.081-2.065 2.066z" fill="#7A783E"></path>
+<path d="M23.281 10.667l-2.064 2.065-2.083-2.082L21.2 8.585z" fill="#443639"></path>
+<path d="M10.618 19.263l2.066 2.066L10.6 23.41l-2.065-2.065z" fill="#803136"></path>
+<path d="M10.62 8.585l2.066 2.065-2.083 2.083-2.066-2.065z" fill="#5A3438"></path>
+<path d="M13.835 15.992l2.066-2.066 2.081 2.082-2.065 2.066z" fill="#443639"></path>
+<path d="M23.283 21.35l-2.065 2.065-2.083-2.083 2.066-2.065z" fill="#2B6442"></path>
+</g>
+</svg> </span>
+<span class="footer-copyright-text">
+                      © 2019 EatingWell.com is part of the Allrecipes Food Group. EatingWell may receive compensation for some links to products and services on this website. Offers may be subject to change without notice. All Right Reserved. Use of this site constitutes acceptance of our
+                          <span class="footer__legalLink">
+<a href="https://www.meredith.com/nmg/privacy" target="_blank">Privacy Policy<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+<span class="footer__legalLink">
+<a href="https://www.meredith.com/datapolicy.html" target="_blank">Data Policy<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+<span class="footer__legalLink">
+<a href="http://info.evidon.com/pub_info/282?v=1" target="_blank">Ad Choices<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+<span class="footer__legalLink">
+<a href="https://www.meredith.com/legal/terms" target="_blank">Terms of Service<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+<span class="footer__legalLink">
+<a href="https://www.meredith.com/legal/privacy" target="_blank">Your California Privacy Rights<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+<span class="footer__legalLink ot-sdk-show-settings-parent">
+<a class="ot-sdk-show-settings" href="#" target="_blank">Cookie Preferences<span class="hidden-label">this link opens a modal window</span></a>
+</span>
+<span class="footer__legalLink">
+<a href="https://www.meredith.com/legal/web-accessibility" target="_blank">Web Accessibility<span class="hidden-label">this link opens in a new tab</span></a>
+</span>
+</span>
+</div>
+</div>
+</div>
+</footer>
+<div class="print-footer">
+<span class="print-footer-copyright">© Copyright 2020 <span class="recipe-copyright-text__brand">eatingwell.com</span>. All rights reserved. </span>
+<span class="print-footer-from">Printed from <span class="recipe-copyright-text__brand">https://eatingwell.com</span>  02/23/2020</span>
+</div>
+<div id="page-segment-values">
+<div class="keyvals" data-affiliate_link_count="0" data-content_ad_keys="27,51,117,125,135,139,150,178,195,201,221,241,261,680,714,718,719,742" data-content_author_name="cooking light" data-content_channel="healthy cooking methods &amp;amp; styles" data-content_cms_id="278428" data-content_cms_sub_category="" data-content_cms_tags="spinach|eating well meal types|spinach, fresh|dinner|main dishes|stovetop|boiled|beginner|5 to 30 minutes|cheese|pasta and noodles|vegetable protein|vegetable|mascarpone cheese|pasta and noodles main dishes|greens|recipe types|dry pasta|quick and easy|weeknight" data-content_featured_image="https://images.media-allrecipes.com/userphotos/7671174.jpg" data-content_graph_id="cms/allrecipes_recipe_etg_278428" data-content_headline="creamy spinach pasta" data-content_is_post="post" data-content_modified_date="2020-02-01T16:10:29.000Z" data-content_modified_date_formatted="20200201" data-content_nlp_categories="/food &amp; drink/cooking &amp; recipes|/food &amp; drink/food/grains &amp; pasta" data-content_nlp_entities="spinach pasta|pasta dishes" data-content_nlp_sentiment_label="positive" data-content_nlp_sentiment_magnitude="7.9" data-content_nlp_sentiment_score="0.2" data-content_published_date="2020/02/02" data-content_published_date_formatted="20200202" data-content_shown_on_platform="own" data-content_source="" data-content_syndicated="none" data-content_syndicated_brand="" data-content_syndicated_url="" data-content_taxonomy="" data-content_type="recipe" data-karma_id="278428" data-meredith_application="front end" data-meredith_brand="eatingwell.com" data-path="/recipe/278428/creamy-spinach-pasta/" data-recipe_convenience="" data-recipe_courses="" data-recipe_cuisine="" data-recipe_dietary_considerations="" data-recipe_food_main_ingredients="12 ounces uncooked tube-shaped chickpea pasta (about 3 1/2 cups) (such as banza),garlic, thinly sliced (about 1 tsp.),thinly sliced shallots,mascarpone cheese,fresh baby spinach,kosher salt,black pepper,lemon zest (from 1 lemon),crushed red pepper (optional)" data-referrer="" data-title="creamy spinach pasta" data-video_id="" data-video_version="v3"></div>
+</div>
+<div data-brand-async="" data-brand-sync="auth" data-core-async="video,feed,gallery,gallery-test,breadcrumbs,docked-sharebar,gallery-view-all,gallery-everything-in,dropdown,autofill-content-container,expander,outbrain,newsletter-signup-modal,vertical-gallery,search-results-form,embed-playbuzz,pinterest-board,pinterest-pin,topic-sub-nav,embed-facebook,embed-instagram,embed-twitter,build-a-meal,ecommerce-hub,content-loader,before-after,burst-text,bucket,progress-bar,amazon-price,image-zoom,embed-apester,glossary-header,embed-omnivirt,map-overlay,tabs,recirculation,share-new,circular-countdown,fancy-chart,auto-advance,navigation-test,footer-test,topics-carousel,category-page-videos,category-page-list,recipe-ratings,ugc-reviews,ugc-upload,recipe-reviews,recipe-reviews-sort,recipe-ingredients-new,recipe-instructions-new,recipe-nutrition,print-preview,faceted-search-filters,image-link,saga,saga-ribbon,slider,search-results,alert-banner,entity-summary,sticky-action-bar,faceted-search-widget,ugc-comments,project-ratings,ugc-photo-upload,button-pdf,buying-information,recirculation-toaster,social-stories,call-to-action,category-page-promo-entity,node-interactive-content,tout-cards,popup-overlay,entity-full" data-core-sync="navigation,lazy-image,overlay,popup,line-clamp,gdpr,atg,search-by-ingredient,user-auth,registration-login" id="site-components"></div>
+<div aria-hidden="true" class="partial modal zoom-image image-modal static" id="dialog-0bd510ca-410c-4c90-aa6c-725e4bd3b220" role="dialog">
+<div data-a11y-dialog-hide="" tabindex="0"></div>
+<div aria-labelledby="overlays_zoom_image" class="dialog-wrap" role="dialog">
+<button aria-label="Close this dialog window" class="close" data-a11y-dialog-hide="" data-action="close-hamburger-menu" data-tracking-zone="do-not-track" type="button">
+<span class="icon icon-close utility-icon">
+<svg aria-hidden="true" height="14" role="img" tabindex="-1" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg"><title>Close</title><path d="M14 1.41L12.59 0 7 5.59 1.41 0 0 1.41 5.59 7 0 12.59 1.41 14 7 8.41 12.59 14 14 12.59 8.41 7z" fill="#F0F1F3"></path></svg>
+</span>
+</button>
+<h2 class="dialogTitle" id="overlays_zoom_image">View image</h2>
+<div class="content">
+<div class="component image-zoom">
+<div class="inner-container">
+<div class="media-img">
+</div>
+<div class="image-wrap-container clearfix">
+<div class="credit body-caption padding-4-top">Creamy Spinach Pasta</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-hidden="true" class="component external-disclaimer" id="external-disclaimer">
+        this link is to an external site that may or may not meet accessibility guidelines.
+      </div>
+<div class="js-css-fonts" data-index="0" data-woff="/dist/fontWoff.css" data-woff2="/dist/fontWoff2.css"></div>
+<script src="/dist/loadCssFonts.js"></script>
+</body>
