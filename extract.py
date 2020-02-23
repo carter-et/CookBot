@@ -11,14 +11,12 @@ def extract():
     """
     # read input
     url = read_input()
-    # get current working directory
-    cwd = os.getcwd()
     # get the next file number
-    next_file = find_next_available_file(cwd)
+    next_file = find_next_available_file()
     # get <body> data </body> from url
     data = connect_to_url(url)
     # write it to a file
-    write_file(data, next_file, name="aly")
+    write_file(data, next_file, name="ethan")
 
 
 def read_input():
@@ -52,7 +50,7 @@ def connect_to_url(url):
     """
     response = requests.get(url)
     if not response.ok:
-        print('That was a bad url! Try it in your browser first please.')
+        print('That was a bad url! :( \nTry it in your browser first please. :) ')
         sys.exit(2)
 
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -61,11 +59,8 @@ def connect_to_url(url):
     return data
 
 
-def find_next_available_file(cwd):
+def find_next_available_file():
     """Determine the next filename for writing text into
-
-    Args:
-        cwd: the current working directory
 
     Returns:
         int: the next number to use for filenames
@@ -87,12 +82,15 @@ def write_file(data, next_file, name='0'):
     # open a file for writing
     file = open(f"./ExtractOutputs/train/{name}-output{next_file}.txt", "w+")
     open(f"./ExtractOutputs/results/{name}-output{next_file}.txt", "w+")
+    plain = open(f"./ExtractOutputs/train-plain/{name}-output{next_file}.txt", "w+")
 
     #write the data
     file.write(str(data))
+    plain.write(data.get_text())
 
     #close the file
     file.close()
+    plain.close()
 
 
 if __name__ == "__main__":
