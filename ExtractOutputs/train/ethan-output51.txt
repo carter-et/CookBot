@@ -1,0 +1,796 @@
+<body class="recipe-template-default single single-recipe postid-80906 header-full-width full-width-content"><div class="site-container"><section><span class="screen-reader-text">Skip links</span><ul class="genesis-skip-link"><li><a class="screen-reader-shortcut" href="#genesis-content"> Skip to content</a></li></ul></section>
+<div class="white-out"></div>
+<div class="sticky-recipe-header sticky">
+<div class="share-stick-wrapper">
+<a class="srf-link" data-analytics-metrics='{"link_name":"share","link_module":"content engagement","link_pos":"share - sticky unit"}' href="javascript: void(0)" id="sm-recipe-social-share-header">
+<div class="social-srf-container">
+<i class="dashicons dashicons-share"></i>
+</div>
+<div class="share-text">Share</div>
+</a>
+<a class="srf-link login-verify" data-analytics-metrics='{"link_name":"save","link_module":"content engagement","link_pos":"share - sticky unit"}' href="#recipe-save-popup" id="sm-recipe-save-header" style="display: none;">
+<div class="srf-container">
+<i class="dashicons dashicons-heart"></i>
+<span id="recipe-saved-sticky">Save</span>
+</div>
+</a><a class="srf-link adobe-tracking" data-analytics-metrics='{"link_name":"facebook","link_module":"content engagement","link_pos":"facebook - sticky unit"}' href="javascript: void(0)" id="sm-recipe-facebook-header" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;tKey+Lime+Pie+Cupcakes=&amp;v=3','sharer','toolbar=0,status=0,width=548,height=325');" style="display: none;">
+<div class="srf-container srf-facebook">
+<i class="dashicons dashicons-facebook"></i>
+<span id="recipe-facebook-sticky">Share on Facebook</span>
+</div>
+</a><a class="srf-link adobe-tracking" data-analytics-metrics='{"link_name":"pinterest","link_module":"content engagement","link_pos":"share - sticky unit"}' href="javascript: void(0)" id="sm-recipe-pinterest-header" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;media=http%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2017%2F10%2FKey-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1.jpg&amp;description=Key+Lime+Pie+Cupcakes','sharer','toolbar=0,status=0,width=548,height=325');" style="display: none;">
+<div class="srf-container srf-pinterest">
+<svg height="21px" version="1.1" viewbox="0 0 172 172" width="21px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill="none" fill-rule="nonzero" font-family="none" font-size="none" font-weight="normal" stroke="none" stroke-dasharray="" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-width="1" style="mix-blend-mode: normal" text-anchor="start"><path d="M0,172v-172h172v172z" fill="#c92228"></path><g fill="#ffffff"><g id="surface1"><path d="M86,1.24038c-46.79868,0 -84.75962,37.96094 -84.75962,84.75962c0,35.86779 22.30108,66.46394 53.77584,78.84195c-0.12921,-2.89423 -0.12921,-17.90805 10.3107,-62.69111c1.39544,-14.93629 -0.54267,-20.23377 -0.54267,-26.43569c0,-14.08354 7.3131,-17.05529 11.60276,-17.05529c6.09856,0 14.49699,2.32572 14.49699,12.14543c0,11.24099 -9.17367,14.21274 -9.17367,14.21274c0,0 -0.64604,2.86838 -1.42128,10.85337c-0.7494,8.01081 2.45493,16.69351 15.50481,16.69351c20.93149,0 24.16166,-29.07151 24.16166,-37.08233c0,-11.03425 -8.08835,-33.46454 -33.23197,-33.46454c-33.51622,0 -39.27885,30.02764 -39.27885,38.03846c0,3.4369 0.93029,9.48377 1.57632,12.0679c6.33113,1.03365 5.6851,9.69051 2.97176,12.14544c-2.9976,2.71334 -18.47656,5.94351 -18.47656,-28.01202c0,-32.32753 28.8131,-48.99519 54.11178,-48.99519c24.08413,0 50.28726,16.61599 50.28726,48.60757c0,28.58053 -20.51803,51.0625 -42.09555,51.0625c-12.94651,0 -19.82031,-10.67247 -19.82031,-10.67247c0,10.0006 -18.34735,44.31791 -20.69892,48.6851c9.53546,3.69531 19.87199,5.8143 30.69952,5.8143c46.82452,0 84.75962,-37.9351 84.75962,-84.75962c0,-46.82452 -37.96094,-84.75962 -84.75962,-84.75962z"></path></g></g><path d="M86,172c-47.49649,0 -86,-38.50351 -86,-86v0c0,-47.49649 38.50351,-86 86,-86v0c47.49649,0 86,38.50351 86,86v0c0,47.49649 -38.50351,86 -86,86z" fill="none"></path><path d="M86,168.56c-45.59663,0 -82.56,-36.96337 -82.56,-82.56v0c0,-45.59663 36.96337,-82.56 82.56,-82.56v0c45.59663,0 82.56,36.96337 82.56,82.56v0c0,45.59663 -36.96337,82.56 -82.56,82.56z" fill="none"></path><path d="M0,172v-172h172v172z" fill="none"></path><path d="M3.44,168.56v-165.12h165.12v165.12z" fill="none"></path><path d="M86,172c-47.49649,0 -86,-38.50351 -86,-86v0c0,-47.49649 38.50351,-86 86,-86v0c47.49649,0 86,38.50351 86,86v0c0,47.49649 -38.50351,86 -86,86z" fill="none"></path><path d="M86,168.56c-45.59663,0 -82.56,-36.96337 -82.56,-82.56v0c0,-45.59663 36.96337,-82.56 82.56,-82.56v0c45.59663,0 82.56,36.96337 82.56,82.56v0c0,45.59663 -36.96337,82.56 -82.56,82.56z" fill="none"></path></g></svg>
+<span id="recipe-pinterest-sticky">Save on Pinterest</span>
+</div>
+</a><a class="srf-link adobe-tracking" data-analytics-metrics='{"link_name":"twitter","link_module":"content engagement","link_pos":"share - sticky unit"}' href="javascript: void(0)" id="sm-recipe-twitter-header" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;text=Key+Lime+Pie+Cupcakes&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');" style="display: none;">
+<div class="srf-container srf-twitter">
+<i class="dashicons dashicons-twitter"></i>
+<span id="recipe-twitter-sticky">Tweet this</span>
+</div>
+</a><a class="srf-link adobe-tracking" data-analytics-metrics='{"link_name":"email","link_module":"content engagement","link_pos":"share - sticky unit"}' href="javascript: void(0)" id="sm-recipe-email-header" onclick="window.open('mailto:?subject=Key Lime Pie Cupcakes&amp;body=I thought you might like this...%0D%0A %0D%0AKey Lime Pie Cupcakes %0D%0A %0D%0Ahttps://www.tasteofhome.com/recipes/key-lime-pie-cupcakes/?_cmp=stf%0D%0A%0D%0AHappy Cooking, %0D%0AYour friends from Taste of Home %0D%0A %0D%0A-- %0D%0A %0D%0AFor more great recipes and cooking inspiration signup for our newsletters https://bit.ly/2RcXV7b');" style="display: none;">
+<div class="srf-container srf-email">
+<i class="dashicons dashicons-email"></i>
+<span id="recipe-twitter-sticky">Email</span>
+</div>
+</a><a class="srf-link next-recipe-button" href="#" id="">
+<div class="srf-container next-recipe next">
+<span>Next Recipe</span>
+<span aria-hidden="true" class="dashicons dashicons-arrow-right-alt2"></span>
+</div>
+</a>
+</div>
+<div class="sticky-social-share-menu" style="display:none;">
+<div class="arrow-up"></div>
+<div class="toh-sharing social-sharing post recipe-sticky"><div class="social-share"> <a data-analytics-metrics='{"link_name":"facebook","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="fb-share" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;tKey+Lime+Pie+Cupcakes=&amp;v=3','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="facebook" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/facebook-letter-logo.svg" width=""/></a> <a data-analytics-metrics='{"link_name":"flipboard","link_module":"content engagement","link_pos":"social share-below main image"}' data-flip-widget="shareflip" href="https://flipboard.com" id="flipboard-share"><img src="https://cdn.flipboard.com/badges/flipboard_mrrw.png"/></a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+<a data-analytics-metrics='{"link_name":"twitter","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="twitter-share" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;text=Key+Lime+Pie+Cupcakes&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="twitter" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/twitter-logo.svg"/></a> <a data-analytics-metrics='{"link_name":"pinterest","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="pinterest-share" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;media=http%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2017%2F10%2FKey-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1.jpg&amp;description=Key+Lime+Pie+Cupcakes','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="Pinterest" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/pinterest-social-visual-website-logotype.svg"/></a> <a data-analytics-metrics='{"link_name":"email","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="email_a_friend" onclick="window.open('mailto:?subject=Key Lime Pie Cupcakes&amp;body=I thought you might like this...%0D%0A %0D%0AKey Lime Pie Cupcakes %0D%0A %0D%0Ahttps%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F%3F_cmp%3Dstf %0D%0A %0D%0AHappy Cooking, %0D%0AYour friends from Taste of Home %0D%0A %0D%0A-- %0D%0A %0D%0AFor more great recipes and cooking inspiration signup for our newsletters https://bit.ly/2RcXV7b','_self')"> <img alt="Email" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/envelope.svg"/></a> <a class="srf-link" data-analytics-metrics="" href="#recipe-save-popup" id="share-save"><i class="dashicons dashicons-heart save-button"></i></a> </div></div> </div>
+</div>
+<header class="site-header"><div class="wrap"> <div class="desktop-upper-wrapper">
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<div class="menu-upper-right-menu-container"><ul class="desktop-upper-menu" id="menu-upper-right-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677176"><a data-analytics-metrics='{"link_name":"Submit a recipe","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/recipes/add">Submit a recipe</a></li>
+<li class="login-class menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677178"><a data-analytics-metrics='{"link_name":"Login","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/login/index?returnurl=https://www.tasteofhome.com/recipes/key-lime-pie-cupcakes/">Login</a></li>
+<li class="join-link menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677179"><a data-analytics-metrics='{"link_name":"Join","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/login/index?returnurl=https://www.tasteofhome.com/recipes/key-lime-pie-cupcakes/">Join</a></li>
+</ul></div><div id="subscribe-to-magazine"><a class="subscribe-header-cta" data-analytics-metrics='{"link_name":"subscribe","link_module":"header","link_pos":"secondary navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=217957&amp;cds_response_key=IVKADU101" rel="noopener" target="_blank"><img alt="Subscribe" class="subscribe-logo" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/subscribe-to-the-magazine.png"/></a></div> </div>
+<!-- .desktop-upper-wrapper -->
+<button aria-controls="toh-menu-wrapper" aria-expanded="false" class="toh-menu-toggle" id="toh-menu-toggle">
+<div aria-hidden="true" class="toh-menu-icon">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</div>
+<div class="menu-close">Menu</div>
+<div class="menu-open">Close</div>
+</button>
+<!-- .toh-menu-toggle -->
+<div aria-hidden="true" class="toh-menu-wrapper" id="toh-menu-wrapper">
+<div class="toh-site-menu-wrapper">
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<div class="menu-hamburger-menu-container"><ul class="toh-site-menu" id="menu-hamburger-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" id="menu-item-677193"><a href="#">Recipes</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677199"><a data-analytics-metrics='{"link_name":"Recipes:Appetizers","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/course/appetizers/">Appetizers</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677208"><a data-analytics-metrics='{"link_name":"Recipes:Breakfast","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/course/breakfast-recipes/">Breakfast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677213"><a data-analytics-metrics='{"link_name":"Recipes:Desserts","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/course/desserts/">Desserts</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677215"><a data-analytics-metrics='{"link_name":"Recipes:Dinner","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/course/dinner-recipes/">Dinner</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-690634"><a data-analytics-metrics='{"link_name":"Recipes:Partner Recipes","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/partner-recipes/">Partner Recipes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677219"><a data-analytics-metrics='{"link_name":"Recipes:See All Recipes","link_module":"header","link_pos":"drop down navigation"}' href="https://www.tasteofhome.com/recipes/">See All Recipes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677221"><a data-analytics-metrics='{"link_name":"Holidays","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/holidays-celebrations/">Holidays</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677226"><a data-analytics-metrics='{"link_name":"Food News","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/food-news/">Food News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-690639"><a data-analytics-metrics='{"link_name":"Home &amp; Living","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/home-living/">Home &amp; Living</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-690636"><a data-analytics-metrics='{"link_name":"Kitchen","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/kitchen/">Kitchen</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-810401"><a data-analytics-metrics='{"link_name":"Videos","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/videos/">Videos</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677227"><a data-analytics-metrics='{"link_name":"Contests","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/contests">Contests</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677228"><a data-analytics-metrics='{"link_name":"Magazine","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/article/subscribe-to-our-magazines/">Magazine</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677233"><a data-analytics-metrics='{"link_name":"Shop","link_module":"header","link_pos":"main navigation"}' href="https://www.shoptasteofhome.com/?utm_source=toh.com&amp;utm_medium=website&amp;utm_campaign=homepagemenu1805">Shop</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1278883"><a data-analytics-metrics='{"link_name":"Subscription Box","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhomebox.com/?utm_medium=site&amp;utm_source=site_toh&amp;utm_campaign=sml-toh-nav-20191031-tohNAV">Subscription Box</a></li>
+<li class="login-class menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677238"><a data-analytics-metrics='{"link_name":"Log In \/ Join","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/login">Log In / Join</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677242"><a data-analytics-metrics='{"link_name":"Submit a Recipe","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/recipes/add">Submit a Recipe</a></li>
+<li class="non-logged-in-subscribe menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677246"><a data-analytics-metrics='{"link_name":"Subscribe","link_module":"header","link_pos":"main navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=217957&amp;cds_response_key=IW7ADU101">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-730861"><a data-analytics-metrics='{"link_name":"Newsletters","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/newslettersignuppage?OptID=82&amp;OrgSource=CMHeader&amp;pmcode=CMHeader">Newsletters</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" id="menu-item-1050888"><a href="#">Follow Us</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1050893"><a data-analytics-metrics='{"link_name":"Follow Us:Facebook","link_module":"header","link_pos":"drop down navigation"}' href="https://www.facebook.com/tasteofhome/" target="_blank">Facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1050898"><a data-analytics-metrics='{"link_name":"Follow Us:Pinterest","link_module":"header","link_pos":"drop down navigation"}' href="https://www.pinterest.com/taste_of_home/" target="_blank">Pinterest</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1050903"><a data-analytics-metrics='{"link_name":"Follow Us:Instagram","link_module":"header","link_pos":"drop down navigation"}' href="https://www.instagram.com/tasteofhome/" target="_blank">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1050908"><a data-analytics-metrics='{"link_name":"Follow Us:Twitter","link_module":"header","link_pos":"drop down navigation"}' href="https://twitter.com/tasteofhome/" target="_blank">Twitter</a></li>
+</ul>
+</li>
+</ul></div> </div>
+<!-- .toh-site-menu-wrapper -->
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<div class="menu-logged-in-menu-container"><ul class="toh-secondary-menu" id="menu-logged-in-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677249"><a data-analytics-metrics='{"link_name":"My Recipe Box","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/recipe-box">My Recipe Box</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677253"><a data-analytics-metrics='{"link_name":"My Newsletters","link_module":"header","link_pos":"main navigation"}' href="http://pages.email.rd.com/page.aspx?QS=c76003443ff9837d8be7f695a15a349a7fa004aee9d157b6&amp;bn=TasteofHome">My Newsletters</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677255"><a data-analytics-metrics='{"link_name":"My Account","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/myaccount/index">My Account</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677260"><a data-analytics-metrics='{"link_name":"Customer Care","link_module":"header","link_pos":"main navigation"}' href="http://goto.tasteofhome.com/redirects/23040">Customer Care</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677262"><a data-analytics-metrics='{"link_name":"Subscribe","link_module":"header","link_pos":"main navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=212916&amp;cds_response_key=IW7ADU101">Subscribe</a></li>
+<li class="user-logout menu-item menu-item-type-custom menu-item-object-custom menu-item-home" id="menu-item-677265"><a data-analytics-metrics='{"link_name":"Log out","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/">Log out</a></li>
+</ul></div> <!-- .toh-secondary-menu -->
+</div>
+<!-- .toh-menu-wrapper -->
+<a class="header-logo" data-analytics-metrics='{"link_name":"home logo","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com"><span class="screen-reader-text">Home</span></a>
+<!-- .header-logo -->
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<div class="menu-desktop-focus-menu-container"><ul class="focus-menu" id="menu-desktop-focus-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677187"><a data-analytics-metrics='{"link_name":"Recipes","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677189"><a data-analytics-metrics='{"link_name":"Dinner","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/course/dinner-recipes/">Dinner</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677184"><a data-analytics-metrics='{"link_name":"Potlucks","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/cooking-style/potluck-recipes/">Potlucks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677192"><a data-analytics-metrics='{"link_name":"Win Cookware","link_module":"header","link_pos":"main navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=232271&amp;cds_response_key=IWMAJUA02">Win Cookware</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-816046"><a data-analytics-metrics='{"link_name":"Videos","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/videos/">Videos</a></li>
+</ul></div> <!-- .focus-menu -->
+<div class="toh-search-form">
+<form action="https://www.tasteofhome.com/search/index" data-analytics-metrics='{"link_name":"search","link_module":"header","link_pos":"search bar"}' id="toh-search-form-wrapper">
+<label class="screen-reader-text" for="search">Search</label>
+<input id="search" name="search" type="text"/>
+<button class="submit_search"></button>
+<div class="close-btn"><span class="dashicons dashicons-no"></span> </div>
+</form>
+<button class="toh-search-button" id="toh-search-toggle"><span class="screen-reader-text">Toggle Search</span></button>
+</div>
+<!-- .toh-search-form -->
+<div class="toh-logged-in-wrapper" style="display:none">
+<button aria-controls="toh-logged-in-menu-wrapper" aria-expanded="false" class="toh-logged-in-menu-toggle" id="toh-logged-in-menu-toggle">Hi, <span class="toh-logged-username"></span></button>
+<div aria-hidden="true" class="toh-logged-in-menu-wrapper" id="toh-logged-in-menu-wrapper">
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<div class="menu-logged-in-menu-container"><ul class="toh-logged-in-menu" id="menu-logged-in-menu-1"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677249"><a data-analytics-metrics='{"link_name":"My Recipe Box","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/recipe-box">My Recipe Box</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677253"><a data-analytics-metrics='{"link_name":"My Newsletters","link_module":"header","link_pos":"secondary navigation"}' href="http://pages.email.rd.com/page.aspx?QS=c76003443ff9837d8be7f695a15a349a7fa004aee9d157b6&amp;bn=TasteofHome">My Newsletters</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677255"><a data-analytics-metrics='{"link_name":"My Account","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/myaccount/index">My Account</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677260"><a data-analytics-metrics='{"link_name":"Customer Care","link_module":"header","link_pos":"secondary navigation"}' href="http://goto.tasteofhome.com/redirects/23040">Customer Care</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677262"><a data-analytics-metrics='{"link_name":"Subscribe","link_module":"header","link_pos":"secondary navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=212916&amp;cds_response_key=IW7ADU101">Subscribe</a></li>
+<li class="user-logout menu-item menu-item-type-custom menu-item-object-custom menu-item-home" id="menu-item-677265"><a data-analytics-metrics='{"link_name":"Log out","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/">Log out</a></li>
+</ul></div> </div>
+</div>
+<!-- NOTE: Output only for logged-OUT users -->
+<a class="header-login-link appears-on-stick" data-analytics-metrics='{"link_name":"login","link_module":"header","link_pos":"secondary navigation"}' href="https://www.tasteofhome.com/login">
+		Log In
+	</a>
+<div id="subscribe-to-magazine-sticky">
+<a class="subscribe-header-cta appears-on-stick" data-analytics-metrics='{"link_name":"subscribe","link_module":"header","link_pos":"secondary navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=217957&amp;cds_response_key=IVKADU101">
+<img alt="Subscribe" class="subscribe-logo" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/subscribe-to-the-magazine.png"/>
+</a>
+</div>
+<!-- .subscribe-header-cta.appears-on-stick END logged-out users -->
+</div></header><div class="header-banner-container"><a data-analytics-metrics='{"link_name":"Sign up for Our Newsletters","link_module":"header","link_pos":"internal promotion"}' href="https://www.tasteofhome.com/newslettersignuppage/?OptID=82&amp;OrgSource=CMHeader&amp;pmcode=CMHeader" target="_blank"><span class="header-banner-text">Sign up for Our Newsletters<span class="chevron">›</span></span></a></div><div class="site-inner">
+<!-- Ad Start:BILLBOARD_PLACEMENT -->
+<div class="ad-wrapper mobile_billboard" data-ad="mobile_prearticle">
+<div class="ad-container" id="div-gpt-ad-1370019314148-05" style="display:none; margin: 0 auto;">
+</div>
+</div>
+<!-- Ad End:BILLBOARD_PLACEMENT -->
+<!-- Ad Start:BEFORE_CONTENT_PLACEMENT -->
+<div class="ad-wrapper ad-leaderboard" data-ad="prearticle">
+<div class="ad-container" id="div-gpt-ad-1370019314148-25" style="display:none; margin: 0 auto;">
+</div>
+</div>
+<!-- Ad End:BEFORE_CONTENT_PLACEMENT -->
+<!-- Ad Start:LEADER_BOARD_PLACEMENT -->
+<div class="ad-wrapper-sticky" data-ad="leaderboard">
+<div class="ad-container" id="div-gpt-ad-1370019314148-20" style="display:none; margin: 0 auto;">
+</div>
+</div>
+<!-- Ad End:LEADER_BOARD_PLACEMENT -->
+<div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="post-80906 recipe type-recipe status-publish has-post-thumbnail course-cake-frosting course-cakes course-cupcake-frosting course-cupcake-frosting-recipes course-cupcake-recipes course-desserts course-easter-cupcake-recipes course-frosting-recipes course-homemade-cupcakes course-sweet-finger-food-recipes winning-recipes-grand-prize-winning-recipes winning-recipes-winning-dessert-recipes holidays-celebrations-baby-shower-recipes holidays-celebrations-bridal-shower-recipes holidays-celebrations-easter-desserts holidays-celebrations-easter-recipes holidays-celebrations-fathers-day-recipes holidays-celebrations-mothers-day-dessert-recipes holidays-celebrations-mothers-day-recipes ingredient-berry-recipes ingredient-cheese-recipes ingredient-cream-cheese-recipes ingredient-raspberry-cakes ingredient-raspberry-recipes publication-all-taste-of-home-magazine-recipes publication-taste-of-home-magazine-dessert-recipes publication-taste-of-home-magazine-recipes cooking-style-cake-recipes cooking-style-cupcakes cooking-style-potluck-desserts cooking-style-potluck-recipes entry"><p id="breadcrumbs"></p><div class="entry-content"><div class="recipe-full-container recipe-content featured"> <div class="left-container">
+<div class="recipe-single-container recipe_page_left_bar">
+<h1 class="recipe-title">Key Lime Pie Cupcakes</h1>
+<div class="recipe-tagline">
+<div class="recipe-tagline__image">
+<img src="https://cdn2.tmbi.com/TOH/Images/Photos/76/100x100/CP_Herrera_37504_a.jpg" style="background: #fff;">
+</img></div>
+<div class="recipe-tagline__text">
+		I bake over 200 of these cupcakes for our church suppers, and we always run out. If you can't find Key lime juice, use lime juice. Just add a tad more sugar. —Julie Herrera-Lemler, Rochester, Minnesota
+	</div>
+</div>
+<div class="toh-sharing social-sharing post recipe-sticky"><div class="social-share"> <a data-analytics-metrics='{"link_name":"facebook","link_module":"content engagement","link_pos":"social share-left sticky nav"}' href="javascript: void(0)" id="fb-share" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;tKey+Lime+Pie+Cupcakes=&amp;v=3','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="facebook" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/facebook-letter-logo.svg" width=""/></a> <a data-analytics-metrics='{"link_name":"flipboard","link_module":"content engagement","link_pos":"social share-left sticky nav"}' data-flip-widget="shareflip" href="https://flipboard.com" id="flipboard-share"><img src="https://cdn.flipboard.com/badges/flipboard_mrrw.png"/></a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+<a data-analytics-metrics='{"link_name":"twitter","link_module":"content engagement","link_pos":"social share-left sticky nav"}' href="javascript: void(0)" id="twitter-share" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;text=Key+Lime+Pie+Cupcakes&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="twitter" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/twitter-logo.svg"/></a> <a data-analytics-metrics='{"link_name":"pinterest","link_module":"content engagement","link_pos":"social share-left sticky nav"}' href="javascript: void(0)" id="pinterest-share" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;media=http%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2017%2F10%2FKey-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1.jpg&amp;description=Key+Lime+Pie+Cupcakes','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="Pinterest" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/pinterest-social-visual-website-logotype.svg"/></a> <a data-analytics-metrics='{"link_name":"email","link_module":"content engagement","link_pos":"social share-left sticky nav"}' href="javascript: void(0)" id="email_a_friend" onclick="window.open('mailto:?subject=Key Lime Pie Cupcakes&amp;body=I thought you might like this...%0D%0A %0D%0AKey Lime Pie Cupcakes %0D%0A %0D%0Ahttps%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F%3F_cmp%3Dstf %0D%0A %0D%0AHappy Cooking, %0D%0AYour friends from Taste of Home %0D%0A %0D%0A-- %0D%0A %0D%0AFor more great recipes and cooking inspiration signup for our newsletters https://bit.ly/2RcXV7b','_self')"> <img alt="Email" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/envelope.svg"/></a> </div></div> <div id="sponsor_ad_section"><div class="ad-wrapper" data-ad="sponsor-logo" id="sponsor-ad-3852495052"></div></div>
+<div class="recipe-image-and-meta-sidebar">
+<div class="recipe-image-and-meta-sidebar__container">
+<div class="recipe-image-and-meta-sidebar__featured-image">
+<div class="recipe-image-and-meta-sidebar__featured-container">
+<img alt="Key Lime Pie Cupcakes" class="-image" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2017/10/Key-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1-696x696.jpg"/>
+</div>
+<div class="recipe-image-and-meta-sidebar__image-caption">
+	Key Lime Pie Cupcakes Recipe photo by Taste of Home
+</div>
+</div>
+</div>
+<a class="recipe-image-and-meta-sidebar__next-recipe-link" href="%s">Next Recipe <span aria-hidden="true" class="dashicons dashicons-arrow-right-alt2"></span></a>
+<div class="recipe-image-and-meta-sidebar__sidebar">
+<div class="recipe-meta">
+<ul>
+<li class="approved"><img src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/test-kitchen-approved-check.png"/> <a data-analytics-metrics='{"link_name":"test kitchen approved","link_module":"content reciculation","link_pos":"recipe status"}' href="https://www.tasteofhome.com/article/test-kitchen-approved/">Test Kitchen Approved</a></li><li class="contest-winner"><img src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/medal.png"/> <a href="https://www.tasteofhome.com/recipes/winning-recipes/">Contest Winner</a></li><li class="rating"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-half"></i> <a class="recipe-comments-scroll">15 reviews</a></li>
+</ul>
+</div>
+<div class="recipe-recommended">
+<h5>Featured In</h5>
+<div class="recipe-recommended-group">
+<img src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Raspberry-Moscow-Mule-Cake_EXPS_TOHAM19_202310_B11_06_2b-150x150.jpg"/>
+<a data-analytics-metrics='{"link_name":"75 Light Cakes to Make All Spring Long","link_module":"content reciculation","link_pos":"recommended"}' href="https://www.tasteofhome.com/collection/light-spring-cake-recipes/">75 Light Cakes to Make All Spring Long</a>
+</div>
+</div>
+<div class="recipe-share">
+<ul class="recipe-toolbar__social-mob">
+<li>
+<a class="recipe-comments-scroll" data-analytics-metrics='{"link_name":"rate","link_module":"recipe engagement","link_pos":"below main image"}'>
+<i class="dashicons dashicons-star-filled"></i>
+<span class="recipe-toolbar__social-action">Rate</span>
+</a>
+</li>
+<li>
+<a class="recipe-comments-scroll" data-analytics-metrics='{"link_name":"comment","link_module":"recipe engagement","link_pos":"below main image"}'>
+<i class="dashicons dashicons-admin-comments"></i>
+<span class="recipe-toolbar__social-action">Comment</span>
+</a>
+</li>
+<li>
+<a data-analytics-metrics='{"link_name":"save","link_module":"recipe engagement","link_pos":"below main image"}' href="#recipe-save-popup" id="recipeSave">
+<i class="dashicons dashicons-heart"></i>
+<span class="recipe-toolbar__social-action">Save</span>
+</a>
+</li>
+<li>
+<a data-analytics-metrics='{"link_name":"print","link_module":"recipe engagement","link_pos":"below main image"}' href="https://www.tasteofhome.com/recipes/key-lime-pie-cupcakes/print/">
+<i class="dashicons dashicons-media-text"></i>
+<span class="recipe-toolbar__social-action">Print</span>
+</a>
+</li>
+</ul><!-- end of social-mob -->
+</div>
+<div class="social-sharing-mob" id="share_buttons">
+<div class="social-sharing__container">
+<div class="srf-socials">
+<div class="toh-sharing social-sharing post recipe-sticky"><div class="social-share"> <a data-analytics-metrics='{"link_name":"facebook","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="fb-share" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;tKey+Lime+Pie+Cupcakes=&amp;v=3','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="facebook" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/facebook-letter-logo.svg" width=""/></a> <a data-analytics-metrics='{"link_name":"flipboard","link_module":"content engagement","link_pos":"social share-below main image"}' data-flip-widget="shareflip" href="https://flipboard.com" id="flipboard-share"><img src="https://cdn.flipboard.com/badges/flipboard_mrrw.png"/></a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+<a data-analytics-metrics='{"link_name":"twitter","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="twitter-share" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;text=Key+Lime+Pie+Cupcakes&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="twitter" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/twitter-logo.svg"/></a> <a data-analytics-metrics='{"link_name":"pinterest","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="pinterest-share" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;media=http%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2017%2F10%2FKey-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1.jpg&amp;description=Key+Lime+Pie+Cupcakes','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="Pinterest" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/pinterest-social-visual-website-logotype.svg"/></a> <a data-analytics-metrics='{"link_name":"email","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="email_a_friend" onclick="window.open('mailto:?subject=Key Lime Pie Cupcakes&amp;body=I thought you might like this...%0D%0A %0D%0AKey Lime Pie Cupcakes %0D%0A %0D%0Ahttps%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F%3F_cmp%3Dstf %0D%0A %0D%0AHappy Cooking, %0D%0AYour friends from Taste of Home %0D%0A %0D%0A-- %0D%0A %0D%0AFor more great recipes and cooking inspiration signup for our newsletters https://bit.ly/2RcXV7b','_self')"> <img alt="Email" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/envelope.svg"/></a> </div></div> </div>
+</div> <!-- /.social-sharing__container  --->
+</div>
+<a class="next-recipe-btn-mobile" href="#" onclick="set_local_data(event);">Next Recipe <span class="dashicons dashicons-arrow-right-alt2" style="font-size: 17px;position: relative;top: 6px; width: 10px;"></span></a>
+</div>
+</div>
+<div class="recipe-toolbar">
+<ul class="recipe-toolbar__social">
+<li>
+<a class="recipe-comments-scroll" data-analytics-metrics='{"link_name":"rate","link_module":"recipe engagement","link_pos":"below main image"}'>
+<i class="dashicons dashicons-star-filled"></i>
+<span class="recipe-toolbar__social-action">Rate</span>
+</a>
+</li>
+<li>
+<a class="recipe-comments-scroll" data-analytics-metrics='{"link_name":"comment","link_module":"recipe engagement","link_pos":"below main image"}'>
+<i class="dashicons dashicons-admin-comments"></i>
+<span class="recipe-toolbar__social-action">Comment</span>
+</a>
+</li>
+<li>
+<a data-analytics-metrics='{"link_name":"save","link_module":"recipe engagement","link_pos":"below main image"}' href="#recipe-save-popup" id="recipeSave" rel="nofollow">
+<i class="dashicons dashicons-heart"></i>
+<span class="recipe-toolbar__social-action">Save</span>
+</a>
+</li>
+<li class="recipe-toolbar__share-container">
+<a data-analytics-metrics='{"link_name":"share","link_module":"recipe engagement","link_pos":"below main image"}' href="#" id="social-share-toggle" rel="nofollow">
+<i class="dashicons dashicons-share"></i>
+<span class="recipe-toolbar__social-action">Share</span>
+</a>
+<div class="recipe-toolbar__share-buttons social_tool_tip">
+<div class="toh-sharing social-sharing post recipe-sticky"><div class="social-share"> <a data-analytics-metrics='{"link_name":"facebook","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="fb-share" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;tKey+Lime+Pie+Cupcakes=&amp;v=3','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="facebook" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/facebook-letter-logo.svg" width=""/></a> <a data-analytics-metrics='{"link_name":"flipboard","link_module":"content engagement","link_pos":"social share-below main image"}' data-flip-widget="shareflip" href="https://flipboard.com" id="flipboard-share"><img src="https://cdn.flipboard.com/badges/flipboard_mrrw.png"/></a><script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
+<a data-analytics-metrics='{"link_name":"twitter","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="twitter-share" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;text=Key+Lime+Pie+Cupcakes&amp;hashtags=','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="twitter" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/twitter-logo.svg"/></a> <a data-analytics-metrics='{"link_name":"pinterest","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="pinterest-share" onclick="window.open('https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F&amp;media=http%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2017%2F10%2FKey-Lime-Pie-Cupcakes_exps173750_TH143190B09_25_6bC_RMS-1.jpg&amp;description=Key+Lime+Pie+Cupcakes','sharer','toolbar=0,status=0,width=548,height=325');"><img alt="Pinterest" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/pinterest-social-visual-website-logotype.svg"/></a> <a data-analytics-metrics='{"link_name":"email","link_module":"content engagement","link_pos":"social share-below main image"}' href="javascript: void(0)" id="email_a_friend" onclick="window.open('mailto:?subject=Key Lime Pie Cupcakes&amp;body=I thought you might like this...%0D%0A %0D%0AKey Lime Pie Cupcakes %0D%0A %0D%0Ahttps%3A%2F%2Fwww.tasteofhome.com%2Frecipes%2Fkey-lime-pie-cupcakes%2F%3F_cmp%3Dstf %0D%0A %0D%0AHappy Cooking, %0D%0AYour friends from Taste of Home %0D%0A %0D%0A-- %0D%0A %0D%0AFor more great recipes and cooking inspiration signup for our newsletters https://bit.ly/2RcXV7b','_self')"> <img alt="Email" src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/./images/envelope.svg"/></a> </div></div> </div>
+</li>
+<li>
+<a data-analytics-metrics='{"link_name":"print","link_module":"recipe engagement","link_pos":"below main image"}' href="https://www.tasteofhome.com/recipes/key-lime-pie-cupcakes/print/" rel="nofollow">
+<i class="dashicons dashicons-media-text"></i>
+<span class="recipe-toolbar__social-action">Print</span>
+</a>
+</li>
+</ul>
+<ul class="recipe-time-yield">
+<li class="recipe-time-yield__item">
+<img src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/clock.png"/>
+<div>
+<h5 class="recipe-time-yield__label">Total Time</h5>
+<div class="recipe-time-yield__label-prep">
+				Prep: 45 min. Bake: 20 min. + cooling </div>
+</div>
+</li>
+<li class="recipe-time-yield__item">
+<img src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/servings.png"/>
+<div>
+<h5 class="recipe-time-yield__label">Makes</h5>
+<div class="recipe-time-yield__label-servings">
+				32 cupcakes			</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<aside class="right-sidebar">
+<div class="toh-singe-recipe-sidebar mobile-expand-section"><div class="container"><div class="ad-wrapper ad-sidebar-top adunit-lazy" data-ad="rail_1"><div class="ad-container" id="div-gpt-ad-1370019314148-02" style="display:none; margin: 0 auto;">
+</div>
+</div><section class="widget widget_read_next_right_rail" id="read_next_right_rail-3"><div class="widget-wrap"><h5 class="read-next-heading">Read Next</h5>
+<div class="read-next__item">
+<div class="read-next__image">
+<a data-analytics-metrics='{"link_name":"32 Recipes That Start with Frozen Berries","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/collection/recipes-with-frozen-berries/">
+<div class="rr-image-wrapper">
+<img alt="32 Recipes That Start with Frozen Berries" data-pin-nopin="true" height="75" src="https://www.tasteofhome.com/wp-content/uploads/2017/10/Easy-Crunch-Berry-Pie_EXPS_THCOM16_199550_D06_10_1b-1-150x150.jpg" width="75"/>
+</div>
+</a>
+</div>
+<span class="read-next__title">
+<a data-analytics-metrics='{"link_name":"32 Recipes That Start with Frozen Berries","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/collection/recipes-with-frozen-berries/">32 Recipes That Start with Frozen Berries</a>
+<div class="sponsored-content"></div>
+</span>
+</div>
+<div class="read-next__item">
+<div class="read-next__image">
+<a data-analytics-metrics='{"link_name":"Mango Cream Tart","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/recipes/mango-cream-tart/">
+<div class="rr-image-wrapper">
+<img alt="Mango Cream Tart" data-pin-nopin="true" height="75" src="https://www.tasteofhome.com/wp-content/uploads/2020/02/Mango-Cream-Tart_EXPS_JMZ18_224490_D03_08__5b-150x150.jpg" width="75"/>
+<img class="rr-play-icon" height="20" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/play-icon.png" width="20">
+</img></div>
+</a>
+</div>
+<span class="read-next__title">
+<a data-analytics-metrics='{"link_name":"Mango Cream Tart","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/recipes/mango-cream-tart/">Mango Cream Tart</a>
+<div class="sponsored-content"></div>
+</span>
+</div>
+<div class="read-next__item">
+<div class="read-next__image">
+<a data-analytics-metrics='{"link_name":"33 of Our Cheesiest Slow-Cooker Recipes","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/collection/cheesy-slow-cooker-recipes/">
+<div class="rr-image-wrapper">
+<img alt="33 of Our Cheesiest Slow-Cooker Recipes" data-pin-nopin="true" height="75" src="https://www.tasteofhome.com/wp-content/uploads/2018/01/French-Onion-Soup-with-Meatballs_EXPS_SBZ19_83194_E09_14_5b-150x150.jpg" width="75"/>
+</div>
+</a>
+</div>
+<span class="read-next__title">
+<a data-analytics-metrics='{"link_name":"33 of Our Cheesiest Slow-Cooker Recipes","link_module":"content recirculation","link_pos":"read next"}' href="https://www.tasteofhome.com/collection/cheesy-slow-cooker-recipes/">33 of Our Cheesiest Slow-Cooker Recipes</a>
+<div class="sponsored-content"></div>
+</span>
+</div>
+</div></section>
+<div class="ad-wrapper ad-sidebar-middle adunit-lazy" data-ad="rail_2"><div class="ad-container" id="div-gpt-ad-1370019314148-04" style="display:none;">
+</div>
+</div></div></div> </aside>
+</div><div class="recipe-full-container recipe-content top-ad"><div class="recipe-in-content-ads ad_wrapper"><div class="ad-wrapper"><div class="adunit-lazy" data-ad="content_1" id="div-gpt-ad-1370019314148-recipe-top"></div></div></div></div><div class="recipe-full-container recipe-content ingredients"> <div class="left-container">
+<div class="recipe-single-container">
+<div class="recipe-ingredients">
+<h2>Ingredients</h2>
+<ul class="recipe-ingredients__list recipe-ingredients__collection">
+<li>2 packages (14.1 ounces each) refrigerated pie pastry</li><li>1 cup butter, softened</li><li>2-1/2 cups sugar</li><li>4 large eggs</li><li>1/2 cup Key lime juice</li><li>2 cups all-purpose flour</li><li>1-1/2 cups self-rising flour</li><li>1-1/2 cups buttermilk</li><li><b class="sIngredient">FROSTING:</b></li><li>12 ounces cream cheese, softened</li><li>1-1/2 cups butter, softened</li><li>1-1/2 teaspoons vanilla extract</li><li>2-3/4 to 3 cups confectioners' sugar</li><li>6 tablespoons Key lime juice</li><li>Fresh raspberries</li>
+</ul>
+<div class="recipe-ingredients__view-more-container">
+<button id="recipe-ingredients__view-more">View Recipe</button>
+</div>
+</div>
+<div class="recipe-chicory-online mobile-expand-section">
+<div class="chicory-order-ingredients"></div>
+</div>
+<div class="ad-wrapper single-online-ad"><div class="adunit-lazy" data-ad="recipe-top-mobile" id="div-gpt-ad-1370019314150" style="display:none"></div></div>
+<div class="recipe-directions mobile-expand-section">
+<h2 class="recipe-directions__heading">Directions</h2>
+<ul class="recipe-directions__list">
+<li class="recipe-directions__item"><span>Preheat oven to 350°. Line 32 muffin cups with foil liners. On a lightly floured work surface, unroll pastry sheets. Cut 32 circles with a floured 2-1/4-in. round cookie cutter (discard remaining pastry or save for another use). Press one pastry circle into each liner. Bake 10-12 minutes or until lightly browned. Cool on wire racks.</span></li><li class="recipe-directions__item"><span>   In a large bowl, beat butter and sugar until crumbly. Add eggs, one at a time, beating well after each addition. Beat in lime juice. In another bowl, whisk flours; add to butter mixture alternately with buttermilk, beating well after each addition.</span></li><li class="recipe-directions__item"><span>   Pour batter into prepared cups. Bake 20-22 minutes or until a toothpick inserted in center comes out clean. Cool in pans 10 minutes before removing to wire racks to cool completely.</span></li><li class="recipe-directions__item"><span>   In a large bowl, beat cream cheese, butter and vanilla until blended. Beat in enough confectioners' sugar, alternately with lime juice, to reach desired consistency. Frost cupcakes; top with raspberries. Refrigerate leftovers.</span></li>
+</ul>
+</div>
+<div class="recipe-editors-note mobile-expand-section">
+<b>Editor's Note:</b> As a substitute for 1-1/2 cups self-rising flour, place 2-1/4 teaspoons baking powder and 3/4 teaspoon salt in a measuring cup. Add all-purpose flour to measure 1 cup. Combine with an additional 1/2 cup all-purpose flour.<br/><h5 class="recipe-editors-note__heading">Editor's Note</h5>As a substitute for 1-1/2 cups self-rising flour, place 2-1/4 teaspoons baking powder and 3/4 teaspoon salt in a measuring cup. Add all-purpose flour to measure 1 cup. Combine with an additional 1/2 cup all-purpose flour.<br/>
+</div>
+<div class="recipe-nutrition-facts mobile-expand-section">
+<h5 class="recipe-nutrition-facts__heading">Nutrition Facts</h5>
+		1 cupcake: 368 calories, 21g fat (13g saturated fat), 78mg cholesterol, 256mg sodium, 42g carbohydrate (27g sugars, 0 fiber), 4g protein. 
+	</div>
+<div class="mobile-expand-section">
+</div>
+<div class="mfp-hide white-popup" data-recipe-id="80906" data-rms-recipe-id="173750" id="recipe-save-popup">
+<div id="spinner" style="text-align: center; display:none"><img src="https://www.tasteofhome.com/wp-admin/images/spinner.gif"/></div>
+<div id="recipe-box-details">
+</div>
+</div>
+</div>
+<div class="recipe-video-ad">
+<div class="recipe-in-content-ads video-player">
+<div class="recipe-non-contextual-video-player">
+<h6 class="recipe-non-contextual-video-player_header">Recommended Video</h6>
+<div><div class="jwplayer" id="jwpl5e51cea75739b" style="background: url(https://content.jwplatform.com/thumbs/NhxLhSb5.jpg) no-repeat center center; min-width: 320px; min-height: 240px;"></div></div>
+</div>
+</div> </div>
+</div>
+<aside class="right-sidebar space-top">
+<div class="toh-singe-recipe-sidebar mobile-expand-section"><div class="container"><div class="ad-wrapper ad-sidebar-bottom adunit-lazy" data-ad="rail_3"><div class="ad-container" id="div-gpt-ad-1370019314148-03" style="display:none; margin: 0 auto;">
+</div>
+</div></div></div> </aside>
+</div><div class="recipe-full-container recipe-content reviews"> <div class="left-container">
+<div class="recipe-single-container">
+<div class="recipe-review">
+<div class="recipe-comments" id="recipe-comments">
+<div class="recipe-comments__wrapper">
+<h2 class="recipe-comments__header">Reviews</h2>
+<div class="recipe-comments__toolbar">
+<div class="recipe-login-comments">
+<div class="recipe-comments__login">
+<a class="login-verify" data-analytics-metrics='{"link_name":"log in to rate","link_module":"recipe engagement","link_pos":"rating and comments"}' href="#recipe-comments">Log in to rate</a>
+</div>
+</div>
+<div class="recipe-comments__submission-form" id="comments-form">
+<div class="recipe-comments__submission-form-rating">
+<i class="dashicons dashicons-star-empty" data-star="1"></i>
+<i class="dashicons dashicons-star-empty" data-star="2"></i>
+<i class="dashicons dashicons-star-empty" data-star="3"></i>
+<i class="dashicons dashicons-star-empty" data-star="4"></i>
+<i class="dashicons dashicons-star-empty" data-star="5"></i>
+<span class="recipe-comments__submission-form__rating-label">Click stars to rate</span>
+</div>
+<div class="recipe-comments__submission-form-comment">
+<input name="toh-review-submission-rating" type="hidden" value="0"/>
+<textarea id="comment-area" placeholder="Provide a review on what you thought of the recipe and how you adjusted it."></textarea>
+<button class="recipe-comments__submission-form-submit-button" data-recipe="80906" id="toh-review-submission-comment">Submit Review </button>
+</div>
+</div>
+<div id="comment-success" style="display:none">
+<i class="fa fa-check-circle"></i> Thank You! Your rating has been submitted. Please allow 24 hours for your review to appear.
+</div>
+<div id="comment-error" style="display:none">
+	Add a rating or review to submit
+</div>
+<div class="recipe-comments__average-rating">
+<span class="recipe-comments__average-rating-label">Average Rating:</span> <span class="recipe-comments__average-rating-stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-half"></i></span>
+</div>
+</div>
+<ul class="recipe-comments__collection">
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">Olena</span><br/>
+</div>
+<div class="recipe-comments__date">Nov 11, 2019</div>
+<p class="recipe-comments__comment">
+			This is a test comment for the recipe
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i></span> <span class="recipe-comments__author">veggiemama</span><br/>
+</div>
+<div class="recipe-comments__date">Apr 27, 2019</div>
+<p class="recipe-comments__comment">
+			I'm still not sure about using the pie crust at the bottom of the cupcakes, but they were very good otherwise.
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">Joel</span><br/>
+</div>
+<div class="recipe-comments__date">Nov 23, 2018</div>
+<p class="recipe-comments__comment">
+			This amazing recipe is something that you must try in order to taste something unique and healthy. It is easy to read and I am sure it will be easy to cook as well. Thanks for posting. 
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-empty"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i></span> <span class="recipe-comments__author">Azukar</span><br/>
+</div>
+<div class="recipe-comments__date">Oct 25, 2017</div>
+<p class="recipe-comments__comment">
+			Excellent flavor and easy to make. I did have trouble also with the icing. I believe the recipe is a bit off with too much liquid to dry ratio. Making according to the recipe, the frosting was far too liquidy to frost but may have been okay for a pourable on a cake. I ended up adding well over 2 pounds of powdered sugar in order to get it to stand up to frosting consistency. Love the lime flavor though!
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">isaiahnoahjacob</span><br/>
+</div>
+<div class="recipe-comments__date">Aug 3, 2015</div>
+<p class="recipe-comments__comment">
+			Best cupcake I ever tasted and very easy to make!
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i><i aria-hidden="true" class="dashicons dashicons-star-empty"></i></span> <span class="recipe-comments__author">puffybloomers</span><br/>
+</div>
+<div class="recipe-comments__date">Mar 31, 2015</div>
+<p class="recipe-comments__comment">
+			one more thing, i don't know why these would have won in a contest
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">juliec123</span><br/>
+</div>
+<div class="recipe-comments__date">Feb 13, 2015</div>
+<p class="recipe-comments__comment">
+			These are the best cupcakes I have ever eaten in my life. I LOVE them. But no one in my family liked the crust though, so I leave that out. The reason I looked at these reviews was to see if others thought that these were dense. My husband wishes they were fluffier and more cupcake like (he still scarfs them down though), but I love them dense and wouldn't change a thing. They're almost more like a muffin. I was just wondering if I was doing something wrong. Also, these cupcakes burn very very easily so if you have not made these yet, watch them closely! When the edges start to slightly turn brown, they are done.
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">Jellybug</span><br/>
+</div>
+<div class="recipe-comments__date">Sep 1, 2014</div>
+<p class="recipe-comments__comment">
+			I made these cupcakes for a brunch. I had several girlfriends coming over who expected delicious food and a decadent dessert. I then remembered setting aside this recipe for  a special occasion that would have everyone leaving happy. This wonderfully delicious cupcake filled that request. Thank you Julie, your directions were easy to follow and the finished product was beyond amazing!!
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">cshcdi</span><br/>
+</div>
+<div class="recipe-comments__date">Aug 2, 2014</div>
+<p class="recipe-comments__comment">
+			I was looking for a cupcake that would taste light and fresh for an August (it Texas) wedding.  I came across this and thought it would just fit the bill.  I did make a few changes.  I loved the idea that it had a crust at the bottom, but if it were to taste like a "true" key lime pie, the crust had to be graham cracker crust.  I put 1 1/2 cups graham crackers in my mini food processor, pushed button 2 or 3 times, added 1/4 cup sugar (white or brown) and 5 TBS melted butter; mixed for about 20 seconds- done.  I used 1 tsp for the mini cupcakes and 1 TBS for regular cupcakes.  If you want it thicker add a little more.  I pressed with a gadget I have to shape pastry dough in a mini cup.  You can use your fingers.  Oven set for 350°.  For the mini cupcakes, I cooked the crust for 5 minutes - no longer!  Regular size cupcakes, I cooked for 7 minutes.  I took them out and let them cool completely before pouring the batter.  I made an error in the batter, but I think they turned out exceptional, so I will share my "mistake".  When I got to the alternately buttermilk and and flours, I did not have a 3/4 cup, so I did 1/4 cup buttermilk, then some flour, then I accidentally picked up the key lime juice which I had already added, and added another 1/4 c. key lime juice.  Well, all I could do is just add 1/4 cup more buttermilk and be done or it would have had too much liquid.  Well... the cooked up perfectly!  They were not too strong of key lime flavor but their was no doubt what time cupcakes they were.  I used the icing in the recipe.  It was delicious but a little too soft for decorating (for August), so I just added a 1/2 cup of some thick butter cream icing I keep in the fridge and it made it stiff enough to hold up to the Texas heat.  Everyone loved them.  Their favorite part was the graham cracker crust.  It was so pretty when it came out of the liner, like a little key lime pie.
+		</p>
+</li>
+<li class="recipe-comments__single-entry" data-comment-index="0">
+<div class="recipe-comments__meta-bar">
+<span class="recipe-comments__stars"><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i><i aria-hidden="true" class="dashicons dashicons-star-filled"></i></span> <span class="recipe-comments__author">juliechl1970</span><br/>
+</div>
+<div class="recipe-comments__date">Jul 9, 2014</div>
+<p class="recipe-comments__comment">
+			Thank you everyone for your nice comments.  I am glad you like my cupcake!  Julie
+		</p>
+</li>
+</ul>
+<div class="recipe-comments__load-more">
+<script id="tmpl-toh-load-more-reviews" type="text/html">
+			<div class="recipe-comments__meta-bar">
+				<span class="recipe-comments__stars">{{{data.stars}}}</span> <span class="recipe-comments__author">{{data.author}}</span><br>
+			</div>
+			<div class="recipe-comments__date">{{data.date}}</div>
+			<p class="recipe-comments__comment">
+				{{{data.comment}}}
+			</p>
+		</script>
+<button class="recipe-comments__load-more-trigger" data-comments-count="15" data-index="11" data-recipe="80906" id="toh-load-more-reviews">View More</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<aside class="right-sidebar space-top">
+<div class="toh-singe-recipe-sidebar mobile-expand-section"><div class="container"><div class="ad-wrapper ad-sidebar-fourth adunit-lazy" data-ad="rail_4"><div class="ad-container" id="div-gpt-ad-1370019314148-21" style="display:none; margin: 0 auto;">
+</div>
+</div></div></div> </aside>
+</div><div class="recipe-full-container middle-ad"><div class="recipe-in-content-ads ad_wrapper"><div class="ad-wrapper"><div class="adunit-lazy" data-ad="content_2" id="div-gpt-ad-1370019314149"></div></div></div></div><div class="recirc-module">
+<h2 class="recirc_content_title">More from Taste of Home</h2>
+<div class="recirc-item owl-carousel owl-theme"><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"32 Recipes That Start with Frozen Berries","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/collection/recipes-with-frozen-berries/"><div class="recirc_img_wrapper"><img alt="32 Recipes That Start with Frozen Berries" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2017/10/Easy-Crunch-Berry-Pie_EXPS_THCOM16_199550_D06_10_1b-1-300x300.jpg"/></div><span class="recirc_content_item_title">32 Recipes That Start with Frozen Berries</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Mango Cream Tart","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/mango-cream-tart/"><div class="recirc_img_wrapper"><img alt="Mango Cream Tart" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2020/02/Mango-Cream-Tart_EXPS_JMZ18_224490_D03_08__5b-300x300.jpg"/><img class="recirc-play-icon" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/play-icon.png"/></div><span class="recirc_content_item_title">Mango Cream Tart</span></a></div><div class="item"><div id="reciped_nativo1"></div></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"33 of Our Cheesiest Slow-Cooker Recipes","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/collection/cheesy-slow-cooker-recipes/"><div class="recirc_img_wrapper"><img alt="33 of Our Cheesiest Slow-Cooker Recipes" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2018/01/French-Onion-Soup-with-Meatballs_EXPS_SBZ19_83194_E09_14_5b-300x300.jpg"/></div><span class="recirc_content_item_title">33 of Our Cheesiest Slow-Cooker Recipes</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"31 Chocolate and Raspberry Desserts We Love","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/collection/chocolate-raspberry-desserts/"><div class="recirc_img_wrapper"><img alt="31 Chocolate and Raspberry Desserts We Love" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2018/03/Raspberry-Chocolate-Puffs_EXPS_SDAM17_20395_B12_07_6b-300x300.jpg"/></div><span class="recirc_content_item_title">31 Chocolate and Raspberry Desserts We Love</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Pressure-Cooker Chicken and Bacon White Chili","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/pressure-cooker-chicken-and-bacon-white-chili/"><div class="recirc_img_wrapper"><img alt="Pressure-Cooker Chicken and Bacon White Chili" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2020/01/Pressure-Cooker-Chicken-and-Bacon-White-Chili_EXPS_FT20_246067_F_0110_1-300x300.jpg"/></div><span class="recirc_content_item_title">Pressure-Cooker Chicken and Bacon White Chili</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"One Pot Mac and Cheese","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/one-pot-mac-and-cheese/"><div class="recirc_img_wrapper"><img alt="One Pot Mac and Cheese" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/One-Pot-Mac-and-Cheese_EXPS_FT19_197484_F_1213_1-300x300.jpg"/></div><span class="recirc_content_item_title">One Pot Mac and Cheese</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Pressure-Cooker Buffalo Chicken Dip","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/pressure-cooker-buffalo-chicken-dip/"><div class="recirc_img_wrapper"><img alt="Pressure-Cooker Buffalo Chicken Dip" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/12/Pressure-Cooker-Buffalo-Chicken-Dip_EXPS_FT19_249173_F_1213_1-300x300.jpg"/></div><span class="recirc_content_item_title">Pressure-Cooker Buffalo Chicken Dip</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Cranberry and Bacon Swiss Cheese Dip","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/cranberry-and-bacon-swiss-cheese-dip/"><div class="recirc_img_wrapper"><img alt="Cranberry and Bacon Swiss Cheese Dip" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/12/Cranberry-and-Bacon-Swiss-Cheese-Dip-_EXPS_TOHFM20_241265_B09_19_5b-300x300.jpg"/></div><span class="recirc_content_item_title">Cranberry and Bacon Swiss Cheese Dip</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Easy Slow-Cooker Potato Soup","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/easy-slow-cooker-potato-soup/"><div class="recirc_img_wrapper"><img alt="Easy Slow-Cooker Potato Soup" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Easy-Slow-Cooker-Potato-Soup_EXPS_FT19_249168_F_1211_1-300x300.jpg"/></div><span class="recirc_content_item_title">Easy Slow-Cooker Potato Soup</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Italian Bread Salad with Olives","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/italian-bread-salad-with-olives/"><div class="recirc_img_wrapper"><img alt="Italian Bread Salad with Olives" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Italian-Bread-Salad-with-Olives_EXPS_TOHCA20_165756_B07_24_4b-300x300.jpg"/></div><span class="recirc_content_item_title">Italian Bread Salad with Olives</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Gluten-Free Vanilla Cupcakes","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/gluten-free-vanilla-cupcakes/"><div class="recirc_img_wrapper"><img alt="Gluten-Free Vanilla Cupcakes" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/12/Gluten-Free-Vanilla-Cupcakes_EXPS_FT19_247268_F_1204_1-1-300x300.jpg"/></div><span class="recirc_content_item_title">Gluten-Free Vanilla Cupcakes</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Blackberry Buttercream","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/blackberry-buttercream/"><div class="recirc_img_wrapper"><img alt="Blackberry Buttercream" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/12/EXPS_TOHAM20_245322_Blog_Adams-300x300.jpg"/></div><span class="recirc_content_item_title">Blackberry Buttercream</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Mini Cheese Balls","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/mini-cheese-balls/"><div class="recirc_img_wrapper"><img alt="Mini Cheese Balls" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Mini-Cheese-Balls_EXPS_TOHAM20_246258_E11_07_10b-300x300.jpg"/></div><span class="recirc_content_item_title">Mini Cheese Balls</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Passover Rainbow Cookies","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/passover-rainbow-cookies/"><div class="recirc_img_wrapper"><img alt="Passover Rainbow Cookies" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Passover-Rainbow-Cookies_EXPS_TOHAM20_245372_B11_13_6b-300x300.jpg"/></div><span class="recirc_content_item_title">Passover Rainbow Cookies</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Berry Curd","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/berry-curd/"><div class="recirc_img_wrapper"><img alt="Berry Curd" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Berry-Curd_EXPS_TOHAM20_244822_B11_13_8b-300x300.jpg"/></div><span class="recirc_content_item_title">Berry Curd</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Jelly Donut Cake","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/jelly-donut-cake/"><div class="recirc_img_wrapper"><img alt="Jelly Donut Cake" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/11/Jelly-Donut-Cake_EXPS_TOHAM20_198035_B11_07_6b-1-300x300.jpg"/></div><span class="recirc_content_item_title">Jelly Donut Cake</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Raspberry Moscow Mule Cake","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/raspberry-moscow-mule-cake/"><div class="recirc_img_wrapper"><img alt="Raspberry Moscow Mule Cake" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/11/Raspberry-Moscow-Mule-Cake_EXPS_TOHAM19_202310_B11_06_2b-300x300.jpg"/></div><span class="recirc_content_item_title">Raspberry Moscow Mule Cake</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Omelet Waffles with Sausage Cheese Sauce","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/omelet-waffles-with-sausage-cheese-sauce/"><div class="recirc_img_wrapper"><img alt="Omelet Waffles with Sausage Cheese Sauce" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Omelet-Waffles-With-Sausage-Cheese-Sauce-_EXPS_TOHAM20_237490_E11_07_5b-300x300.jpg"/></div><span class="recirc_content_item_title">Omelet Waffles with Sausage Cheese Sauce</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Strawberry Buttermilk Skillet Shortcake","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/strawberry-buttermilk-skillet-shortcake/"><div class="recirc_img_wrapper"><img alt="Strawberry Buttermilk Skillet Shortcake" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/0001/01/Strawberry-Buttermilk-Skillet-Shortcake_EXPS_TOHAM20_244332_E11_08_8b-300x300.jpg"/></div><span class="recirc_content_item_title">Strawberry Buttermilk Skillet Shortcake</span></a></div><div class="item"><a data-analytics-metrics='{"link_module":"Content Engagement","link_name":"Rosemary Strawberry Daiquiri","link_pos":"More from Taste of Home"}' href="https://www.tasteofhome.com/recipes/rosemary-strawberry-daiquiri/"><div class="recirc_img_wrapper"><img alt="Rosemary Strawberry Daiquiri" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/uploads/2019/11/Rosemary-Strawberry-Daiquiri_EXPS_TOHAM20_163132_B10_29_7b-300x300.jpg"/></div><span class="recirc_content_item_title">Rosemary Strawberry Daiquiri</span></a></div></div></div><div class="recipe-full-container scroll-ad"><div class="recipe-in-content-ads ad_wrapper"><div class="ad-wrapper"><div class="adunit-lazy" data-ad="content_3" id="div-gpt-ad-1370019314199"></div></div></div></div><div class="recipe-full-container taboola-container"><div class="left-container"><div id="taboola-below-recipe-thumbnails"></div>
+</div><aside class="right-sidebar space-top"><div class="ad-wrapper"><div class="adunit-lazy" data-ad="rail_5" id="div-gpt-ad-1370019314148-recipe-sidebar"></div></div></aside></div></div><div class="syndicated-post-info"><img alt="" src="https://placehold.it/32x22"><a href="#">Originally Published on sitename.com</a></img></div><footer class="entry-footer"><div class="entry-copyright"><span class="byline source"></span></div><div id="oop_adhesive"><div class="ad-wrapper oop_adhesive" data-ad="oop-adhesive" id="oop_adhesive-812321323"></div></div></footer></article><h2 class="screen-reader-text">Reader Interactions</h2><div id="toh-taboola">
+<div id="taboola-below-article-thumbnails"></div>
+</div></main></div></div><footer class="site-footer"><div class="wrap"><div class="footer-left">
+<div class="toh-newsletter footer-mobile">
+<div class="toh-newsletter-cta-wrapper">
+<div class="toh-newsletter-cta-description">
+				Sign-up for recipes to your inbox			</div>
+<a data-analytics-metrics='{"link_name":"subscribe","link_module":"footer","link_pos":"navigation"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=217957&amp;cds_response_key=IVKADU101">
+<img class="subscribe-logo" data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/subscribe-to-the-magazine.png"/>
+</a>
+</div>
+</div>
+<div class="footer-left-top">
+<div class="footer-logo-social">
+<a class="footer-logo" data-analytics-metrics='{"link_name":"footer logo","link_module":"navigation","link_pos":"footer"}' href="https://www.tasteofhome.com"></a>
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<ul class="footer-social-links" id="menu-tmbi-social-profiles"><li class="tmbi-facebook menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-86501"><a data-analytics-metrics='{"link_name":"facebook","link_module":"footer","link_pos":"follow us"}' href="https://www.facebook.com/tasteofhome/"><i class="fa fa-facebook"></i></a></li>
+<li class="tmbi-pinterest menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5334"><a data-analytics-metrics='{"link_name":"pinterest","link_module":"footer","link_pos":"follow us"}' href="https://pinterest.com/taste_of_home"><i class="fa fa-pinterest"></i></a></li>
+<li class="tmbi-twitter menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5338"><a data-analytics-metrics='{"link_name":"twitter","link_module":"footer","link_pos":"follow us"}' href="https://twitter.com/tasteofhome"><i class="fa fa-twitter"></i></a></li>
+<li class="tmbi-youtube menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5346"><a data-analytics-metrics='{"link_name":"youtube","link_module":"footer","link_pos":"follow us"}' href="https://www.youtube.com/user/tasteofhome/"><i class="fa fa-youtube"></i></a></li>
+<li class="tmbi-instagram menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5350"><a data-analytics-metrics='{"link_name":"instagram","link_module":"footer","link_pos":"follow us"}' href="https://www.instagram.com/tasteofhome/"><i class="fa fa-instagram"></i></a></li>
+</ul> </div>
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<ul class="footer-site-links" id="menu-footer-one"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46" id="menu-item-46"><a data-analytics-metrics='{"link_name":"Recipes","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/recipes/">Recipes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-47" id="menu-item-47"><a data-analytics-metrics='{"link_name":"Holidays","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/holidays-celebrations/">Holidays</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45" id="menu-item-45"><a data-analytics-metrics='{"link_name":"Food News","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/food-news/">Food News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-769700" id="menu-item-769700"><a data-analytics-metrics='{"link_name":"Home &amp; Living","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/home-living/">Home &amp; Living</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49" id="menu-item-49"><a data-analytics-metrics='{"link_name":"Kitchen","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/kitchen/" target="_blank">Kitchen</a></li>
+</ul><ul class="footer-site-links"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50" id="menu-item-50"><a data-analytics-metrics='{"link_name":"Contests","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/contests/">Contests</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-51" id="menu-item-51"><a data-analytics-metrics='{"link_name":"Magazines","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/article/subscribe-to-our-magazines/">Magazines</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48" id="menu-item-48"><a data-analytics-metrics='{"link_name":"How-To","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhome.com/kitchen/how-to/">How-To</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1278889" id="menu-item-1278889"><a data-analytics-metrics='{"link_name":"Subscription Box","link_module":"footer","link_pos":"navigation"}' href="https://www.tasteofhomebox.com/?utm_medium=site&amp;utm_source=site_toh&amp;utm_campaign=sml-toh-link-20191031-tohFOOTER">Subscription Box</a></li>
+</ul> </div>
+<div class="toh-newsletter footer-mobile">
+<div class="toh-newsletter-title">Sign-up for recipes to your inbox</div>
+<form action="https://www.tasteofhome.com/newslettersignuppage/" data-analytics-metrics='{"link_name":"newsletter signup","link_module":"newsletter signup","link_pos":"footer"}' method="post">
+<input class="toh-footer-nl" name="EmailAddress" placeholder="Email Address" type="text"/>
+<input id="footer_email_nonce" name="footer_email_nonce" type="hidden" value="a3a0a014ee"><input name="_wp_http_referer" type="hidden" value="/recipes/key-lime-pie-cupcakes/"> <button class="toh-sign-up-btn" name="submit" type="submit">
+				Sign up			</button>
+</input></input></form>
+</div>
+<div class="footer-left-bottom">
+<div class="footer-menu-label">Our Brands</div>
+<!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<ul class="footer-brand-links" id="menu-our-brands"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677169"><a data-analytics-metrics="{&quot;link_name&quot;:&quot;Reader's Digest&quot;,&quot;link_module&quot;:&quot;navigation&quot;,&quot;link_pos&quot;:&quot;footer&quot;}" href="https://www.rd.com/">Reader’s Digest</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677170"><a data-analytics-metrics='{"link_name":"The Family Handyman","link_module":"navigation","link_pos":"footer"}' href="https://www.familyhandyman.com/">The Family Handyman</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-677174"><a data-analytics-metrics='{"link_name":"Birds &amp; Blooms","link_module":"navigation","link_pos":"footer"}' href="http://www.birdsandblooms.com/">Birds &amp; Blooms</a></li>
+</ul><!-- Default Label -- MARK POINT assumed because &#36;value was not set. -->
+<ul class="footer-global-links" id="menu-footer-two"><li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-52"><a data-analytics-metrics='{"link_name":"About Us","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/help/about-taste-of-home">About Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-53"><a data-analytics-metrics='{"link_name":"Contests","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/contests">Contests</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-54"><a data-analytics-metrics='{"link_name":"RSS","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/rss">RSS</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-55"><a data-analytics-metrics='{"link_name":"Magazine Customer Service","link_module":"header","link_pos":"main navigation"}' href="http://goto.tasteofhome.com/redirects/25032" target="_blank">Magazine Customer Service</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5472"><a data-analytics-metrics='{"link_name":"Contact Us","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/help/contact-us">Contact Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-57"><a data-analytics-metrics='{"link_name":"Log In","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/login/index">Log In</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-58"><a data-analytics-metrics='{"link_name":"Help","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/taste-of-home-help">Help</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-5475"><a data-analytics-metrics='{"link_name":"Press Room","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/press-room">Press Room</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-60"><a data-analytics-metrics='{"link_name":"Advertising","link_module":"header","link_pos":"main navigation"}' href="https://www.trustedmediabrands.com/brands/taste-of-home/" target="_blank">Advertising</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-62"><a data-analytics-metrics='{"link_name":"Terms of Use","link_module":"header","link_pos":"main navigation"}' href="https://www.tasteofhome.com/help/terms-of-use/">Terms of Use</a></li>
+<li class="text-red menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-63"><a data-analytics-metrics='{"link_name":"Privacy Policy","link_module":"header","link_pos":"main navigation"}' href="https://www.trustedmediabrands.com/privacy-policy" target="_blank">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-375951"><a data-analytics-metrics='{"link_name":"Your CA Privacy Rights","link_module":"header","link_pos":"main navigation"}' href="https://www.trustedmediabrands.com/ca-privacy-notice/" target="_blank">Your CA Privacy Rights</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-1362324"><a data-analytics-metrics='{"link_name":"Do Not Sell My Info \u2013 CA Residents","link_module":"header","link_pos":"main navigation"}' href="https://www.trustedmediabrands.com/ccpa-form-ca-residents/" target="_blank">Do Not Sell My Info – CA Residents</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-375953"><a data-analytics-metrics='{"link_name":"About Ads","link_module":"header","link_pos":"main navigation"}' href="https://www.trustedmediabrands.com/privacy-policy/#advertising" target="_blank">About Ads</a></li>
+</ul> <div class="footer-copyright">© 2020 RDA Enthusiast Brands, LLC</div>
+</div>
+</div>
+<div class="footer-right footer-desktop">
+<div class="newsletter-signup-content-widget -footer">
+<div class="newsletter-signup-content-widget__body">
+<h3 class="newsletter-signup-content-widget__title">Sign-up for recipes to your inbox</h3>
+<div class="newsletter-signup-content-widget__byline">
+			Recipes from real home cooks, tested in our kitchens and delivered right to your inbox!		</div>
+<div class="newsletter-signup-content-widget__form">
+<form action="https://www.tasteofhome.com/newslettersignuppage/" data-analytics-metrics='{"link_name":"newsletter signup","link_module":"newsletter signup","link_pos":"footer"}' method="post">
+<input class="toh-footer-nl" name="EmailAddress" placeholder="Email Address" type="text"/>
+<input id="footer_email_nonce" name="footer_email_nonce" type="hidden" value="a3a0a014ee"><input name="_wp_http_referer" type="hidden" value="/recipes/key-lime-pie-cupcakes/"/> <button class="toh-sign-up-btn" name="submit" type="submit">
+					Sign up				</button>
+</input></form>
+</div>
+</div>
+<div class="newsletter-signup-content-widget__footer">
+<div class="newsletter-signup-content-widget__tagline">Taste of Home is America's #1 cooking magazine.</div>
+<div class="newsletter-signup-content-widget__subscribe-link">
+<a data-analytics-metrics='{"link_name":"Subscribe link","link_module":"footer","link_pos":"magazine subscription"}' href="https://order.tasteofhome.com/servlet/OrdersGateway?cds_mag_code=TOH&amp;cds_page_id=217957&amp;cds_response_key=IVKADU101">
+<img data-pin-nopin="true" src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/images/subscribe-to-the-magazine.png"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div></footer></div>
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<span data-parsely-site="tasteofhome.com" id="parsely-cfg"></span>
+</div>
+<script type="text/javascript">
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+<noscript>
+<p>
+<img alt="*" height="1" src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=6034767&amp;cv=2.0&amp;cj=1" width="1"/>
+</p>
+</noscript>
+<noscript>
+<img alt="" height="1" src="https://ct.pinterest.com/v3/?tid=2612561823788&amp;noscript=1" style="display:none;" width="1">
+</img></noscript>
+<script type="text/javascript">
+var urls = ['/article/watch-us-make-pineapple-pecan-cheese-ball/','/article/watch-us-make-pistachio-mallow-salad/',
+		'/article/watch-us-make-baked-ham-with-pineapple/', '/article/watch-us-make-pineapple-sweet-potato-casserole-with-marshmallows/',
+		'/article/watch-us-make-classic-pineapple-upside-down-cake/', '/article/watch-us-make-ambrosia-salad/'];
+
+window.onload = function(){
+	if( urls.indexOf(location.pathname) > -1 ) {
+		if( typeof(window.jw_videos !== 'undefined' )){ 
+			window.jw_videos.forEach(function(rd_video) {
+				var player_id = rd_video.player_id;
+				jwplayer(player_id).on('complete', function(index) {
+					this.playlistItem(0);
+				});
+				$('.jw-svg-icon-next').hide();
+				$('.jw-nextup').hide();
+			});
+		};
+	};
+};
+</script>
+<noscript><img height="1" src="https://www.facebook.com/tr?id=1470684766408550&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-recirc-module/js/owl-carousel-min.js?ver=2.0.1" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-recirc-module/js/re-circ.js?ver=2.0.1" type="text/javascript"></script>
+<script async="" src="https://www.tasteofhome.com/wp-content/mu-plugins/cookie-controller/js/md5.js?ver=1.2" type="text/javascript"></script>
+<script async="" src="https://www.tasteofhome.com/wp-content/mu-plugins/cookie-controller/js/sha1.js?ver=1.2" type="text/javascript"></script>
+<script async="" src="https://www.tasteofhome.com/wp-content/mu-plugins/cookie-controller/js/sha256.js?ver=1.2" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/rd-adobe-dtm/js/adobe_dtm.js?ver=1.4.11" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rd_taboola = [{"mode":"thumbnails-a","container":"taboola-below-recipe-thumbnails","placement":"toh-recipe-below recipe Thumbnails","target_type":"mix"}];
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/rd-taboola/js/rd-taboola-gallery.js?ver=0.2.1" type="text/javascript"></script>
+<script src="https://api.dmcdn.net/all.js?ver=5.0.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rd_dm_videos = [];
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/rd-video/inc/players/../js/dm-player.js?ver=1.0.7" type="text/javascript"></script>
+<script src="https://z.moatads.com/jwplayerplugin0938452/moatplugin.js?ver=5.0.3" type="text/javascript"></script>
+<script src="//cdn.watchingthat.net/wtat.plugin-jw.min.js?ver=5.0.3" type="text/javascript"></script>
+<script src="https://content.jwplatform.com/libraries/xSartojx.js?ver=5.0.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jw_settings = {"jw_videos":[{"player_id":"jwpl5e51cea75739b","video_id":"NhxLhSb5","sticky":"true","autoplay":"viewable","mute":"true","comscore":"true","ads":"true","native":"false","autoplay_mobile":"true","autopause":"true","autopause_mobile":"true","view":"0.80","jwp_sticky_offset":"50","jwp_sticky_mobile_offset":"15","jwp_sticky_mobile":"false","tab_pause":"true","embed_video":"false"}],"advertising_settings":{"requestTimeout":"20000","vastLoadTimeout":"12000","loadVideoTimeout":"15000","maxRedirects":"4","vpaidmode":"enabled","preloadAds":"true","autoplayadsmuted":"true","bids":{"settings":{"mediationLayerAdServer":"dfp","bidTimeout":"8000"},"bidders":[{"name":"SpotX","id":235491},{"name":"Telaria","id":"0","pubid":"0","type":"OpenRTB"},{"name":"EMX","id":"0","pubid":"0","type":"OpenRTB"}]}},"is_video_content_type":""};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/rd-video/inc/players/../js/jw-player.js?ver=1.2.9" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/8.0.1/lazyload.min.js?ver=8.0.1" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/smart-images/smart-images.js?ver=1.0.0" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/social-polls-by-opinionstage/public/js/shortcodes.js?ver=19.6.24" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var rd_bx = {"script_id":"934"};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-bx/js/smart-tag.js?ver=1.2" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-comscore-mmx/js/comscore-mmx.js?ver=1.0.1" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/js/krux-tracking.js?ver=1.0.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sticky_data = {"full_width_ad":".recipe-full-container.recipe-content.top-ad","prev_element":"div","is_article":"false"};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-custom-social-share/js/social-share-sticky.js?ver=1.0.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var recipe_social_settings = {"social_data":{"generic_facebook":"pinterest","generic_twitter":"pinterest","generic_pinterest":"pinterest","generic_google":"pinterest","generic_msn":"pinterest","generic_aol":"pinterest","generic_yahoo":"pinterest","generic_flipboard":"pinterest","generic_social_share_referrer":"true"}};
+var listicle_social_settings = {"social_data":{"listicle_facebook":"email","listicle_twitter":"email","listicle_pinterest":"email","listicle_google":"email","listicle_msn":"email","listicle_aol":"email","listicle_yahoo":"email","listicle_flipboard":"email","listicle_social_share_referrer":"true"}};
+var article_social_settings = {"social_data":{"article_facebook":"email","article_twitter":"email","article_pinterest":"email","article_google":"email","article_msn":"email","article_aol":"email","article_yahoo":"email","article_flipboard":"email","article_social_share_referrer":"true"}};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-recipe-social-share-referrer/js/social-share.js?ver=1.0.5" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-salesforce-dmp/js/krux-click-traking.js?ver=0.0.6" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/mu-plugins/js/eu-checker.js?ver=1.0.1" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-salesforce-dmp/js/krux-consent.js?ver=0.0.6" type="text/javascript"></script>
+<script async="" src="//www.chicoryapp.com/widget_v2/?ver=1.0" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/themes/genesis/lib/js/skip-links.min.js?ver=2.6.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var next_recipes = [{"id":416534,"link":"https:\/\/www.tasteofhome.com\/recipes\/mango-cream-tart\/","title":"Mango Cream Tart"},{"id":1391975,"link":"https:\/\/www.tasteofhome.com\/recipes\/pressure-cooker-chicken-and-bacon-white-chili\/","title":"Pressure-Cooker Chicken and Bacon White Chili"},{"id":1351357,"link":"https:\/\/www.tasteofhome.com\/recipes\/pressure-cooker-buffalo-chicken-dip\/","title":"Pressure-Cooker Buffalo Chicken Dip"},{"id":1351379,"link":"https:\/\/www.tasteofhome.com\/recipes\/cranberry-and-bacon-swiss-cheese-dip\/","title":"Cranberry and Bacon Swiss Cheese Dip"},{"id":1343237,"link":"https:\/\/www.tasteofhome.com\/recipes\/easy-slow-cooker-potato-soup\/","title":"Easy Slow-Cooker Potato Soup"},{"id":1330948,"link":"https:\/\/www.tasteofhome.com\/recipes\/gluten-free-vanilla-cupcakes\/","title":"Gluten-Free Vanilla Cupcakes"},{"id":1325519,"link":"https:\/\/www.tasteofhome.com\/recipes\/mini-cheese-balls\/","title":"Mini Cheese Balls"},{"id":1313945,"link":"https:\/\/www.tasteofhome.com\/recipes\/raspberry-moscow-mule-cake\/","title":"Raspberry Moscow Mule Cake"},{"id":1313954,"link":"https:\/\/www.tasteofhome.com\/recipes\/jelly-donut-cake\/","title":"Jelly Donut Cake"},{"id":1307130,"link":"https:\/\/www.tasteofhome.com\/recipes\/snowman-oreo-balls\/","title":"Snowman Oreo Balls"},{"id":1296720,"link":"https:\/\/www.tasteofhome.com\/recipes\/chocolate-peanut-butter-dream-bars\/","title":"Chocolate Peanut Butter Dream Bars"},{"id":1263619,"link":"https:\/\/www.tasteofhome.com\/recipes\/feta-cheese-stuffed-tomatoes\/","title":"Feta Cheese-Stuffed Tomatoes"},{"id":1255531,"link":"https:\/\/www.tasteofhome.com\/recipes\/lemon-bars-with-cream-cheese-frosting\/","title":"Lemon Bars with Cream Cheese Frosting"},{"id":1255544,"link":"https:\/\/www.tasteofhome.com\/recipes\/dilly-mini-cheese-balls\/","title":"Dilly Mini Cheese Balls"},{"id":1252891,"link":"https:\/\/www.tasteofhome.com\/recipes\/cajun-crab-poppers\/","title":"Cajun Crab Poppers"},{"id":1253006,"link":"https:\/\/www.tasteofhome.com\/recipes\/cream-cheese-stuffed-mushrooms\/","title":"Cream Cheese-Stuffed Mushrooms"},{"id":1253014,"link":"https:\/\/www.tasteofhome.com\/recipes\/brown-sugar-chocolate-swirl-cheesecake\/","title":"Brown Sugar &#038; Chocolate Swirl Cheesecake"},{"id":1243288,"link":"https:\/\/www.tasteofhome.com\/recipes\/italian-stuffed-beef-rolls\/","title":"Italian Stuffed Beef Rolls"},{"id":1243395,"link":"https:\/\/www.tasteofhome.com\/recipes\/black-forest-upside-down-cake\/","title":"Black Forest Upside-Down Cake"},{"id":1243200,"link":"https:\/\/www.tasteofhome.com\/recipes\/cherry-fudge-truffle-coconut-cheesecake\/","title":"Cherry Fudge Truffle Coconut Cheesecake"},{"id":1243329,"link":"https:\/\/www.tasteofhome.com\/recipes\/buffalo-chicken-enchiladas\/","title":"Buffalo Chicken Enchiladas"},{"id":1243358,"link":"https:\/\/www.tasteofhome.com\/recipes\/buffalo-chicken-stuffed-poblano-peppers\/","title":"Buffalo Chicken Stuffed Poblano Peppers"},{"id":1243381,"link":"https:\/\/www.tasteofhome.com\/recipes\/buffalo-chicken-crescent-rolls\/","title":"Buffalo Chicken Crescent Rolls"},{"id":1235425,"link":"https:\/\/www.tasteofhome.com\/recipes\/pork-mango-poppers\/","title":"Pork &#038; Mango Poppers"},{"id":1235401,"link":"https:\/\/www.tasteofhome.com\/recipes\/warm-onion-garlic-dip\/","title":"Warm Onion Garlic Dip"},{"id":1235356,"link":"https:\/\/www.tasteofhome.com\/recipes\/smoked-almond-cheese-ball\/","title":"Smoked Almond Cheese Ball"},{"id":1224998,"link":"https:\/\/www.tasteofhome.com\/recipes\/air-fryer-apple-pie-egg-rolls\/","title":"Air-Fryer Apple Pie Egg Rolls"},{"id":1206621,"link":"https:\/\/www.tasteofhome.com\/recipes\/wild-mushroom-pizza\/","title":"Wild Mushroom Pizza"},{"id":1166103,"link":"https:\/\/www.tasteofhome.com\/recipes\/garlic-creamed-spinach\/","title":"Garlic Creamed Spinach"},{"id":1166166,"link":"https:\/\/www.tasteofhome.com\/recipes\/mint-chocolate-cheesecake\/","title":"Mint Chocolate Cheesecake"}];
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/toh-next-recipe.js?ver=1.0.5" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var genesisSampleL10n = {"mainMenu":"Menu","subMenu":"Menu"};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/responsive-menu.js?ver=3.8.06" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/aalb-image.js?ver=3.8.06" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/enquire.js?ver=3.8.06" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/blurred-image.js?ver=3.8.06" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_analytics_plus = {"ga_id":"UA-38657577-1"};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/script.min.js?ver=3.8.06" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-includes/js/underscore.min.js?ver=1.8.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-includes/js/wp-util.min.js?ver=5.0.3" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var toh = {"ajax_url":"https:\/\/www.tasteofhome.com\/wp-admin\/admin-ajax.php","review_load_more_action":"toh_review_load_more","review_load_more_template_name":"toh-load-more-reviews","review_load_more_nonce":"eae5e63080","review_submission_action":"toh_review_submission","review_submission_nonce":"9ed5b1ed7b"};
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/themes/tmbi-theme-v3/js/reviews.js?ver=3.8.06" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-speed-curve-rum-tracking/js/speed-curve.js?ver=1.0.1" type="text/javascript"></script>
+<script async="" src="https://cdn.speedcurve.com/js/lux.js?id=128112127&amp;ver=1.0.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var LUX_label = "www.tasteofhome.com.Recipe Detail.80906";
+/* ]]> */
+</script>
+<script src="https://www.tasteofhome.com/wp-content/plugins/tmbi-speed-curve-rum-tracking/js/custom-script.js?ver=1.0.1" type="text/javascript"></script>
+<script src="https://www.tasteofhome.com/wp-includes/js/wp-embed.min.js?ver=5.0.3" type="text/javascript"></script>
+<script src="https://sb.scorecardresearch.com/c2/plugins/streamingtag_plugin_jwplayer.js?ver=1.0.1" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof _satellite !== "undefined"){
+  _satellite.pageBottom()
+}
+</script>
+</body>

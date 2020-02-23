@@ -1,0 +1,1188 @@
+
+
+/* DCI begin 301a30bc-a7d2-462c-b0d6-b156fc831099 */
+.recipePrint .recipePartIngredientGroup button,
+.recipePrint .recipePartIngredientGroup a { visibility: hidden; position: absolute; }
+
+ var ContentBase = {"$type":"VB$AnonymousType_0`3[[System.String, mscorlib],[System.String, mscorlib],[System.Object, mscorlib]], GeneralMills.CIA.Framework.Core","ContentId":"c6651cd9-7373-4f41-81b9-cc5ffc1bf032","RelatedContentSearchPhrase":"lemon garlic shrimp orzo skillet entree dinner stovetop skillet dish herbs spices flavorings garlic seafood shrimp fruit citrus fruits lemon valentines day","CompositeSearchResult":{"$type":"System.Object, mscorlib"}}; window.utag_data = {"ContentId":"c6651cd9-7373-4f41-81b9-cc5ffc1bf032","ContentType":"Recipe","Language":"en","ContentTitle":"Lemon-Garlic Shrimp Orzo Skillet","SearchRelevancyScore":"79.5999997854233","AverageRating":"0.959999978542328","RatingCount":"12","ReviewCount":"12","PublishDate":"10/18/2019","MetadataLabel":["Franchise","Franchise","Division","Brand","Marketing Impression SubCat","Meal Type","Meal Type","Cookware","Dish Type","Season","Season","Season","Key Ingredient","Key Ingredient","Key Ingredient","Occasion","Key Ingredient","Key Ingredient","Key Ingredient","Key Ingredient"],"MetadataValue":["Big G","Progresso","MEALS AND BAKING","Progresso Soup","PROGRESSO BROTH","Entree","Dinner","Stovetop","Skillet Dish","Winter","Spring","Summer","Garlic","Shrimp","Lemon","Valentines Day","Herbs, Spices & Flavorings","Seafood","Citrus Fruits","Fruit"],"RecordType":"Recipe","ProgramNumber":19307,"ProgramName":"F20 BC LSRS_Acquisition Branding Header","ProgramBrand":"BETTYCROCKER.COM","ProgramDivision":"NA","PrepTime":"15 min","TotalTime":"45 min","NumberOfServings":"4","IsMemberGenerated":"false","IngredientBase":["vegetable oil","zucchini","salt","garlic","Orzo Pasta","Progresso™ reduced sodium chicken broth","Large Shrimp","butter","Parmesan cheese","lemon juice","fresh thyme","Parsley"],"PageName":"","PageType":"Content","UserId":"c7b73959-40ac-44e6-af13-9656bacd3652","UserStatus":"Anonymous","EsrcCode":"11275"};
+
+                (function () {
+                    GeneralMills = window.GeneralMills || {};
+                    GeneralMills.Analytics = GeneralMills.Analytics || {
+                        eventQueue: [],
+                        queueInterval: 0
+                    };
+
+                    GeneralMills.Analytics.raiseEvent = function(d, o) { 
+                        var options = o || {};
+
+                        if(!window.utag) {
+                            GeneralMills.Analytics.eventQueue.push({ eventData: d, eventOptions: options });
+
+                            GeneralMills.Analytics.queueInterval = GeneralMills.Analytics.queueInterval || setInterval(function () {
+                                if(window.utag) {
+                                    clearInterval(GeneralMills.Analytics.queueInterval);
+                                    for(var i = 0; i < GeneralMills.Analytics.eventQueue.length; i++) {
+                                        var eventObj = GeneralMills.Analytics.eventQueue[i];
+                                        
+                                        if(eventObj.eventOptions.virtualPageView)
+                                            utag.view(eventObj.eventData);
+                                        else
+                                            utag.link(eventObj.eventData);
+                                    }
+
+                                    GeneralMills.Analytics.eventQueue = [];
+                                }
+                            }, 1000);
+                        } else {
+                            if(options.virtualPageView)
+                                window.utag.view(d);
+                            else
+                                window.utag.link(d);
+                        }
+
+                        if (options.redirectUrl)
+                            setTimeout(function() { window.location = options.redirectUrl }, 500);
+                    };                
+                })();
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22NewsletterCtaView_headernewslettercta_0\x22,\x22viewName\x22\x3a\x22NewsletterCtaView\x22\x7d');
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var encodedString = '\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterCtaViewModel, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Id\x22\x3a\x2264a22607bc934147b48a0d7f35d54adf\x22,\x22SettingsId\x22\x3a\x22\x7b64A22607-BC93-4147-B48A-0D7F35D54ADF\x7d\x22,\x22ShowMemberView\x22\x3afalse,\x22InPageEditorMode\x22\x3afalse,\x22HtmlTemplateName\x22\x3a\x22HeaderNewsletterCta\x22,\x22HideForSessionLinkText\x22\x3a\x22\x22,\x22TermsAndConditions\x22\x3a\x22\x22,\x22Location\x22\x3a\x22Header\x22,\x22NewsletterId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Newsletter\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.Newsletter, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ItemId\x22\x3a\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22,\x22ListId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Name\x22\x3a\x22Betty\x27s Email\x22,\x22NewsletterCtaName\x22\x3a\x22\x22,\x22Description\x22\x3a\x22From delicious hand-picked recipes to tips and tricks from the experts of the Betty Crocker Kitchens, we\u2019re bringing the best of Betty right into your inbox. \x22,\x22NewsletterCtaDescription\x22\x3a\x22\x22,\x22ThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2flegacy\x2fImages\x2fProfile\x2fBetty_Round_400x400.png\x22,\x22NewsletterCtaThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletters\x2fBC_Thumb157x157.png\x22,\x22PreviewUrl\x22\x3a\x22http\x3a\x2f\x2fwww.bettycrockercommunity.com\x2fnewsletter_archive\x2fbcd_example.html\x22,\x22SubscribedToListId\x22\x3anull,\x22SubscribedToDeliveryOption\x22\x3anull,\x22OptDownFullOptionText\x22\x3a\x22Daily\x22,\x22OptDownOneListId\x22\x3a\x22dddd01a7-8aa0-4d0b-a6f1-40391d76bcb5\x22,\x22OptDownOneOptionText\x22\x3a\x22Weekly\x22,\x22OptDownOneUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me weekly emails only\x22,\x22OptDownOneUnsubscribeMessage\x22\x3a\x22\x3cp\x3eThank you. \x26nbsp\x3bWe have updated your subscription to weekly emails only.\x3c\x2fp\x3e\x22,\x22OptDownTwoListId\x22\x3a\x22ddedf83e-7cd9-4fe5-b3a7-31c80b8cfa0b\x22,\x22OptDownTwoOptionText\x22\x3a\x22Seasonal and special occasion only\x22,\x22OptDownTwoUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me seasonal emails only \x286-10 per year\x29\x22,\x22OptDownTwoUnsubscribeMessage\x22\x3a\x22Thank-you. \x26nbsp\x3bWe have updated your subscription to seasonal emails only \x286-10 per year\x29.\x22,\x22DeliveryOptions\x22\x3a\x5b\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Daily\x22,\x22FriendlyText\x22\x3a\x22Daily inspiration\x22,\x22ProfileDeliveryCode\x22\x3a\x22DailySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Weekly\x22,\x22FriendlyText\x22\x3a\x22A few times a week\x22,\x22ProfileDeliveryCode\x22\x3a\x22WeeklySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Monthly\x22,\x22FriendlyText\x22\x3a\x22A few times a month\x22,\x22ProfileDeliveryCode\x22\x3a\x22MonthlySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Seasonal\x22,\x22FriendlyText\x22\x3a\x22A few times a year\x22,\x22ProfileDeliveryCode\x22\x3a\x22SeasonalSelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d\x5d\x7d,\x22Newsletters\x22\x3a\x5b\x5d,\x22BackgroundImageCss\x22\x3a\x22.ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_A_BC.jpg\x27\x29\x3b \x7d\x40media \x28max-width\x3a767px\x29 \x7b .ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_B_BC.jpg\x27\x29\x3b \x7d \x7d\x22,\x22EmailLabel\x22\x3a\x22\x22,\x22EmailAddressText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22RegistrationUrl\x22\x3a\x22\x2fregister\x2freg-fp\x3fRegAction\x3dSUBSCRIBERUPGRADE\x26esrc\x3d11275\x22,\x22UseRegistrationModal\x22\x3atrue,\x22InterstitialUseOnly\x22\x3afalse,\x22ThankYouForJoiningContent\x22\x3a\x22\x22,\x22PreviewText\x22\x3anull,\x22SignUpText\x22\x3a\x22Sign Up\x22,\x22SignUpTextClassName\x22\x3anull,\x22KnownThankYouContent\x22\x3anull,\x22KnownThankYouContentClassName\x22\x3anull,\x22AlreadySubscribedText\x22\x3anull,\x22BirthdayRequired\x22\x3afalse,\x22BirthdayLabel\x22\x3anull,\x22BirthdayAsDropdown\x22\x3afalse,\x22YearWatermarkText\x22\x3anull,\x22DayWatermarkText\x22\x3anull,\x22MonthWatermarkText\x22\x3anull,\x22DatePattern\x22\x3anull,\x22MonthNames\x22\x3anull,\x22ProfileQuestions\x22\x3a\x5b\x5d,\x22ProfileQuestion\x22\x3anull,\x22AnonymousHeaderText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22AnonymousSubHeaderText\x22\x3a\x22Get kitchen tested recipes, meal ideas and more \u2013 straight to your inbox\x22,\x22AnonymousThankYouContent\x22\x3a\x22\x3cp\x3eThank You\x21 You are signed up.\x26nbsp\x3b\x3c\x2fp\x3e\x22,\x22YouAreSubscribedText\x22\x3a\x22\x22,\x22JoinLinkText\x22\x3a\x22\x22,\x22PreviewLinkText\x22\x3a\x22\x22,\x22FullSubscriptionContent\x22\x3a\x22You are subscribed to all of our newsletters\x21\x22,\x22HideMemberView\x22\x3afalse,\x22MemberHeaderText\x22\x3anull,\x22MemberSubHeaderText\x22\x3anull,\x22MyAccountSubscriptionUrl\x22\x3anull,\x22IncludedNewslettersItemIds\x22\x3a\x5b\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22\x5d,\x22NotEligibleCookieName\x22\x3a\x22NotEligible\x22,\x22HideNewsletterCTACookiePrefix\x22\x3a\x22HideNewsletterCTA-\x22,\x22HideNewsletterCTACookieExpiration\x22\x3a30,\x22RegistrationStateCookieName\x22\x3a\x22Gmi.NewsletterCTA.RegState\x22,\x22RegistrationModalCancelSelector\x22\x3a\x22.ui-dialog-titlebar-close\x22,\x22EmailRequiredError\x22\x3a\x22Email address is required.\x22,\x22InvalidDateError\x22\x3anull,\x22AssumeIdentityError\x22\x3anull,\x22ControlIds\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.ControlIds, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ProfileQuestion\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_profile_question\x22,\x22EmailInputText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_email_inputText\x22,\x22AnonymousSignupButtonSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_span\x22,\x22JoinLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_link\x22,\x22JoinSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_span\x22,\x22AnonymousSignupButtonLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_link\x22,\x22NewsLetterPreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_link\x22,\x22NewsLetterPreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_span\x22,\x22ThumbnailImageLink\x22\x3anull,\x22ThumbnailImage\x22\x3anull,\x22PreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_link\x22,\x22PreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_span\x22,\x22InvalidMessageDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidMessage_div\x22,\x22InvalidAgeDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidAge_div\x22,\x22ThanksLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_link\x22,\x22ThanksSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_span\x22,\x22CloseSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_span\x22,\x22CloseLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_link\x22,\x22ExpandBtnLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_link\x22,\x22ExpandBtnSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_span\x22,\x22BirthdateMonth\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateMonth_ddl\x22,\x22BirthdateDay\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateDay_ddl\x22,\x22BirthdateYear\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateYear_ddl\x22,\x22HideLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_link\x22,\x22HideSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_span\x22,\x22YouAreSubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_youAreSubscribedText_text\x22,\x22ThankYouContent\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouContent_text\x22,\x22ThankYouForJoining\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouForJoining_content\x22,\x22TermAndCondition\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_termAndCondition_text\x22,\x22AnonymousHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousHeaderText_text\x22,\x22AnonymousSubHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSubHeaderText_text\x22,\x22AlreadySubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_alreadySubscribedText_text\x22\x7d\x7d';
+            var viewModel = JSON.parse(encodedString);
+            viewModel.CurrentYear = 2020;
+            window.GeneralMills.MyAccount.configureNewsletter(viewModel);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+MENU
+
+
+
+Join Free
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22SearchBoxView_ctl01\x22,\x22viewName\x22\x3a\x22SearchBoxView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function() {
+            var settings = {"SearchDefaultText":"Search easy, delicious recipes","SearchProcessingMessage":"Please Wait..","SearchLinkButtonText":"","SearchLinkButtonToolTip":"Search","HeaderSearchBoxTitle":"Search","SearchBoxTitle":"","AutocompleteSearchPath":"/search","AutocompleteSuggestionLimit":10,"MinimumSearchHintCharacters":3,"Language":"en","Id":"df2c5bc3-26dd-4e6d-ab9b-0533319db3f3","EnableSearchTerms":true,"ContentTypeFilter":"","DataSourceId":"d6fb75f5-d19a-49cd-9ba0-c10a6e45afb2"};
+            window.GeneralMills.SearchBox.init(settings);
+        }, componentMetadata); 
+        
+    })();
+
+
+
+
+
+
+
+Recipes
+
+Main Ingredient
+
+Chicken
+Apple
+Turkey
+Vegetables
+Beef
+See All
+
+
+Dish
+
+Cakes
+Cookies
+Cupcakes
+Bars
+Pie
+See All
+
+
+Preparation
+
+Slow Cooker
+Bread Machine
+Baking
+Stovetop
+Waffle Iron
+See All
+
+
+Meal Types
+
+Desserts
+Appetizers
+Breakfast & Brunch
+Snacks
+Side Dishes
+See All
+
+
+Global
+
+Italian
+French
+German
+Southern
+Asian
+See All
+
+
+Holidays & Entertaining
+
+Birthdays
+Game Day
+St. Patrick's Day
+Easter
+Wedding & Shower
+See All
+
+
+Health & Diet
+
+Diabetes
+Gluten Free
+Low Calorie
+High Fiber
+Heart Healthy
+See All
+
+
+Products
+
+Bisquick
+Brownie Mixes
+Super Moist™ Cake Mix
+Hamburger Helper
+Cookie Mix
+See All
+
+
+
+
+
+Everyday Meals
+
+Family Dinners
+
+Slow Cooker
+Chicken
+Gluten Free Dinners
+Turkey
+Casserole & Pot Pies
+See All
+
+
+Slow Cooker
+
+Slow Cooker Chili
+Slow Cooker Chicken
+Slow Cooker Soup
+Slow Cooker Stew
+Slow Cooker Italian
+See All
+
+
+Breakfast & Brunch
+
+Muffins
+Scones
+Egg Bakes
+Crepes
+Waffles
+See All
+
+
+Lunch
+
+Salads
+Sandwich and Wraps
+Pizza
+Soups
+Burrito
+See All
+
+
+
+
+
+Desserts
+
+Bars
+
+Super Moist™ Bars
+Pumpkin Bars
+No-Bake Bars
+Fruit Bars
+Ooey-Gooey Bars
+See All
+
+
+Brownies
+
+Frosted Brownies
+Chocolate Brownies
+Brownie Cookies
+Peanut Butter Brownies
+Caramel Brownies
+See All
+
+
+Cookies
+
+Christmas Cookies
+Halloween Cookies
+Cake Mix Cookies
+Red Velvet Cookies
+Cream Cheese Cookies
+See All
+
+
+Cupcakes
+
+Kids Cupcakes
+Birthday Cupcakes
+Super Moist™ Cupcakes
+Halloween Cupcakes
+Chocolate Cupcakes
+
+
+Pie
+
+Chocolate Pie
+Cream Pie
+Impossibly Easy Pie
+Fruit Pie
+Apple Pie
+See All
+
+
+Cakes
+
+Bundt Cakes
+Ice Cream Cakes
+Christmas Cakes
+Cake Pops
+Chocolate Cakes
+See All
+
+
+
+
+
+Holidays & Entertaining
+
+Birthdays
+
+Adult Birthday Cakes
+Gluten-Free Birthday Cake
+Birthday Desserts
+Kids Birthday Cupcakes
+Kids Birthday Cakes
+
+
+Game Day
+
+St. Patrick's Day
+
+Easter
+
+Potatoes
+Ham
+Deviled Eggs
+Easter Desserts
+Easter Sides
+See All
+
+
+Wedding & Shower
+
+Graduation
+
+Graduation Desserts
+Punch & Drinks
+
+
+July 4th
+
+Easy Entertaining
+
+Appetizers
+Graduation
+Picnics
+Game Day
+
+
+Halloween
+
+Betty's Guide to Halloween
+
+
+Thanksgiving
+
+Turkey
+Thanksgiving Side Dishes
+Gravy
+Thanksgiving Pie
+Thanksgiving Appetizers
+See All
+
+
+Christmas
+
+Christmas Cookies
+Christmas Appetizers
+Christmas Desserts
+Christmas Dinner
+Timetable for Roasting Meats
+See All
+
+
+Valentine's Day
+
+
+
+
+How-To
+
+Ask Betty
+
+Holidays & Entertaining
+
+Baking & Desserts
+
+Ingredients & Preparation
+
+Equipment
+
+Meal Planning
+
+Kids
+
+Healthy Eating
+
+
+
+
+Products
+
+Betty Crocker™ Mug Treats
+
+Betty Crocker™ Chilled Treats
+
+Betty Crocker™ Brittle Mix
+
+Betty Crocker™ Baking & Cake Mixes
+
+Bisquick™
+
+Betty Crocker™ Brownies and Bars
+
+Betty Crocker™ Cookie Mixes
+
+Betty Crocker™ Dessert Decorating & Specialty Products
+
+Betty Crocker™ Frosting
+
+Fruit Snacks
+
+Betty Crocker™ Gluten Free Baking
+
+Helper™ 
+
+Betty Crocker™ Muffin Mixes
+
+Potatoes
+
+Suddenly Salad
+
+Betty Crocker™ Baking Nuts
+
+Betty Crocker™ Kitchen Accessories
+
+
+
+
+Coupons & Sales
+
+
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+        GeneralMills.PandoSites.SimpleNavigation.initialize();
+    });
+
+
+
+
+
+
+
+Easy Soup and Side Combos
+
+
+The Best Slow-Cooker Chicken Dinners
+
+
+This Cake is Better Than Box of Doughnuts
+
+
+One-Pot Creamy Shells and Sausage
+
+
+How to Cook with Less Salt
+
+
+
+
+
+    (function () {
+        var config = {
+            controlId: "channellinks_0_ChannelLinksList"
+        };
+
+        document.addEventListener("DOMContentLoaded", function () {
+            GeneralMills.Contrib.ChannelLinks.Initialize(config);
+        });
+    })();
+
+
+
+
+
+
+Print
+4K
+
+
+Save
+1K
+
+
+
+Pinterest
+1K
+
+
+
+Email
+336
+
+
+
+Facebook
+106
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22ActionToolbarView_floatingactiontoolbar_0\x22,\x22viewName\x22\x3a\x22ActionToolbarView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var config = {"Id":"0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonText":"More","LessButtonText":"Less","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"UseModalRegistration":true,"NamePassedToEvents":"RDPToolbarRAIL","Buttons":[{"LayoutParameter":"p%3d1","Id":"9440f541-1622-407b-a529-9cb1f48ddf3a","AllowedForAnonymousUsers":true,"Type":"Print","DisplayName":"Print","NamePassedToEvents":"Print"},{"AddFavoriteErrorMessage":"Sorry, something went wrong. Please save again.","RemoveFavoriteErrorMessage":"Error occurred while removing from favorites","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"IsCurrentUserAnonymous":true,"IsFavoriteItem":false,"Id":"a4fff957-6f0a-4e2f-820f-3f2cfbceef64","AllowedForAnonymousUsers":false,"Type":"Favorite","DisplayName":"Save","NamePassedToEvents":"Favorite"},{"ProviderName":"pinterest","ProviderNamePassedToEvents":"Pinterest","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//pinterest.com/pin/create/link/?url={0}","Id":"58ba9650-477b-4abe-bb46-1a60912cc27c","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Pinterest","NamePassedToEvents":"Pinterest"},{"TemplateId":"49ea4ab1-767d-497f-8521-8956bf53ee30","DialogHeading":"Email Recipe","EmailCode":"BC_ContentEmail","DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","Id":"c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc","AllowedForAnonymousUsers":true,"Type":"Email","DisplayName":"Email","NamePassedToEvents":"Email"},{"ProviderName":"facebook","ProviderNamePassedToEvents":"Facebook","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//facebook.com/sharer/sharer.php?u={0}","Id":"9e7892b7-5ea2-441b-ab66-55a566402b31","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Facebook","NamePassedToEvents":"Facebook"}],"DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","ControlIds":{"ToolbarId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButton","MoreButtonTextId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButtonText","CollapsedButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_collapsedButtons","SecondaryButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_secondaryButtons"}};
+            config.IsCurrentUserAnonymous =  'True' === 'True';
+            config.IsFavoriteItem =  'False' === 'True';
+            config.ContentId = 'c6651cd9-7373-4f41-81b9-cc5ffc1bf032';
+            config.PageUrl = 'http%3a%2f%2fwww.bettycrocker.com%2frecipes%2flemon-garlic-shrimp-orzo-skillet%2fc6651cd9-7373-4f41-81b9-cc5ffc1bf032';
+
+            GeneralMills.ActionToolbar.initialize(config);
+        }, componentMetadata);
+    })();
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeTaggingView_main_1\x22,\x22viewName\x22\x3a\x22RecipeTaggingView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            jQuery('.actionToolbar').data("emailAttributes", ["RECIPE_ID%%c6651cd9-7373-4f41-81b9-cc5ffc1bf032","RECIPE_TITLE%%Lemon-Garlic Shrimp Orzo Skillet","RECIPE_DESCRIPTION%%You know that phrase, &#8220;a little goes a long way?&#8221; Well, that absolutely applies to this dish, which tastes rich and buttery but actually only includes 2 tablespoons of butter! The trick is waiting until the end to add the butter when it can enrich the orzo, which has already been flavored by cooking in broth, and the zucchini, which has a naturally buttery taste when sautéed. The shrimp, also added at the end, gets infused with all the flavors already in the pan, so the whole dish is redolent of garlic and butter and only needs a squeeze of lemon and sprinkle of fresh herbs for contrast. Garnishing with a bit of nutty Parmesan takes it all over the top. ","RECIPE_PREP_TIME%%15 min","RECIPE_TOTAL_TIME%%45 min","RECIPE_SERVINGS%%About 1 Cup","RECIPE_STARS%%stars_5.0.gif","RECIPE_RATING%%0.959999978542328","RECIPE_RATERS%%12","RECIPE_REVIEWERS%%12","RECIPE_IMAGELINK%%&lt;a class=&#39;ImageLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032&#39;&gt;&lt;img alt=&#39;Lemon-Garlic Shrimp Orzo Skillet&#39; class=&#39;ImageLinkHtml&#39;  src=&#39;//images-gmi-pmc.edge-generalmills.com/b10b46a3-3a72-4438-ab21-01a46c4d8f22.jpg&#39;/&gt;&lt;/a&gt;","RECIPE_TITLELINK%%&lt;a class=&#39;TitleLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032&#39;&gt;Lemon-Garlic Shrimp Orzo Skillet&lt;/a&gt;","RECIPE_LINK%%https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032"]);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+
+Lemon-Garlic Shrimp Orzo Skillet
+
+lemon-garlic shrimp orzo skillet
+Entree
+
+
+
+12 Ratings
+
+
+
+
+12 Comments
+
+
+
+
+
+
+
+
+
+
+
+
+Kitchen Tested
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function (window, GeneralMills) {
+        document.addEventListener("DOMContentLoaded", function () {
+            var brandingHeaderViewModel = GeneralMills.NativeAds.BrandingHeader();
+            brandingHeaderViewModel.Initialize(true, true, false);
+        });
+    })(window, window.GeneralMills || (window.GeneralMills = {}));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prep 
+15
+min
+
+
+Total
+45
+min
+
+
+Servings
+4
+
+
+
+
+
+
+
+
+
+You know that phrase, “a little goes a long way?” Well, that absolutely applies to this dish, which tastes rich and buttery but actually only includes 2 tablespoons of butter! The trick is waiting until the end to add the butter when it can enrich the orzo, which has already been flavored by cooking in broth, and the zucchini, which has a naturally buttery taste when sautéed. The shrimp, also added at the end, gets infused with all the flavors already in the pan, so the whole dish is redolent of garlic and butter and only needs a squeeze of lemon and sprinkle of fresh herbs for contrast. Garnishing with a bit of nutty Parmesan takes it all over the top. 
+
+MORE+
+LESS-
+
+
+
+
+
+
+By
+Betty Crocker Kitchens
+
+
+
+
+            Updated November 21, 2019 
+        
+
+
+
+
+
+
+Make with
+Progresso Broth
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeMadeWithBadgeView_recipecontributor_1\x22,\x22viewName\x22\x3a\x22RecipeMadeWithBadgeView\x22\x7d');
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            GeneralMills.Analytics.raiseEvent({
+                EventType: "MadeWithMetadataImpression",
+                BoostedMetadataId: "d8511348-e213-5a22-8fbd-9f4c880b6a43"
+            });
+        }, componentMetadata);
+    })();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22savings21778936\x22,\x22deferredContainerId\x22\x3a\x22SavingsByIngredient\x22,\x22deferredContainerView\x22\x3a\x22RecipeDetail\x22\x7d,\x22componentName\x22\x3a\x22Savings_savingsbyingredient_0\x22,\x22viewName\x22\x3a\x22Savings\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            GeneralMills.RecipeParts.Savings.initialize({"ContainerDivId":"recipeParts-savings-container-c1775cbe-3975-49cb-ad04-383f5ea8902a","DivId":"recipeParts-savings-c1775cbe-3975-49cb-ad04-383f5ea8902a","Ingredients":[{"Id":"393eb340-d0d6-47fd-9edf-5ae407a56d69","ExternalId":0,"Name":"vegetable oil","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":1},{"Id":"1353fbdd-c313-47bb-b594-df9a17cf2ea5","ExternalId":0,"Name":"zucchini","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":2},{"Id":"c9d9cd40-ae3a-4503-8a53-0b3a58f948e8","ExternalId":0,"Name":"salt","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":3},{"Id":"3141fcdf-deb0-4b66-9180-4eed78e048fc","ExternalId":0,"Name":"garlic","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":4},{"Id":"1abc8b62-6641-439c-9ee0-2b6fcec1f131","ExternalId":0,"Name":"Orzo Pasta","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":5},{"Id":"1e8784d3-914e-4572-a305-2e80344d14ce","ExternalId":0,"Name":"Progresso™ reduced sodium chicken broth","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":["41196-46649","41196-46644","41196-46646","41196-46648","41196-46642","41196-49321"],"SortOrder":6},{"Id":"488061ea-3ce1-4227-8c52-17da9a464205","ExternalId":0,"Name":"Large Shrimp","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":7},{"Id":"a7cba588-4717-4786-80d2-042db0301753","ExternalId":0,"Name":"butter","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":8},{"Id":"5aa24bbb-1633-4eb8-b005-b11984dab6ea","ExternalId":0,"Name":"Parmesan cheese","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":9},{"Id":"94e47ca0-c52f-4705-934a-5197511625a4","ExternalId":0,"Name":"lemon juice","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":10},{"Id":"b656ce30-0327-4030-bf4b-3788db7828d3","ExternalId":0,"Name":"fresh thyme","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":11},{"Id":"9905db8e-31df-4b44-9ba4-48b846181c68","ExternalId":0,"Name":"Parsley","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":12}],"UseModalMode":true,"IconBeforeNumberOfIngredientsWithSavings":"","TextBeforeNumberOfIngredientsWithSavings":"Savings on","TextAfterNumberOfIngredientsWithSavings":"ingredient(s)","ButtonTextForLoadingAllSavings":"View all savings","ButtonTextForHidingSavings":"Hide all savings","TextBeforeIngredientName":"Savings for","PercentagePastTopToScrollWhenRepositioning":30,"ContentToIndicateSavingsOnAnIngredient":"<span>Save $</span>","ButtonTextForLocationOrStoreChange":"Change Location/Store","ButtonTextWhenNoSavingsAreAvailable":"Try another ingredient","EnableCellfireSavings":true,"HeaderAboveCellfireSavings":"Loyalty Offers","LinkTextForCellfireOffersPage":"Go to all Store Loyalty Coupons","HeaderWhenPromptedToChangeCellfireRetailer":"Change Store","ContentWhenPromptedToChangeCellfireRetailer":"You will be redirected to the Loyalty Offers page to see offers for a different store.","TextForCancellingWhenPromptedToChangeCellfireRetailer":"No Thanks","LinkForChangingCellfireRetailer":"/coupons/loyalty/retailers","LinkTextForChangingCellfireRetailer":"Change Store Now >>","EnableCouponsIncSavings":true,"HeaderAboveCouponsIncSavings":"Printable Coupons","LinkTextForCouponsIncPage":"Go to all Printable Coupons","HeaderAboveMyGroceryDealsSavings":"In-Store Deals","NumberOfMyGroceryDealsSavingsToShowInClosedState":3,"LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","Settings":{"LabelForLocationBox":"Enter Zip to change location:","ButtonTextForLocationBox":"Go","MyGroceryDealsApiKey":"DgzaVe9YvK2PEhgoIBoS72sUJxH9IPqq1ka7ZQj6","TextForShowingLongerDescription":"...MORE+","TextForShowingShorterDescription":"...LESS-","ContentWhileSavingsAreLoading":"<img alt=\"\" src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\" />","ContentWhenNoSavingsAreAvailable":"Sorry, it appears offers on this ingredient are no longer available.","SavingsHelpLink":null,"SavingsHelpLinkText":null,"LabelForRetailerFilter":"Showing offers for:","ButtonTextForRetailerFilter":"Go","DefaultOptionTextForRetailerDropDown":null,"TooltipContentForCellfire":"<p>Offers may take up to 10 minutes to be added to your account. Check out our&nbsp;<a href=\"/coupons/faq#digital-coupons\" target=\"_blank\">FAQs</a>.</p>","TextBeforeCellfireRetailerName":"Currently using","TextAfterCellfireRetailerName":".","TextForSwitchingToViewForChangingCellfireRetailer":"Change Store","TextBeforeCellfireFaceValues":"Save $","LabelForCellfireDisplayBeforeDates":"Must save by:","LabelForCellfireExpirationDates":"Expires:","ButtonTextForAddingToCard":"Add to account","ButtonTextAfterAddingToCard":"Added to account","LinkToCellfireOffersPage":"/coupons/loyalty","CellfireBeforeRetailerText":"at","HeaderWhenNoCardIsAdded":"One More Step","ContentWhenNoCardIsAdded":"<p>Link your store loyalty account to add this coupon.</p>","TextForCancellingWhenNoCardIsAdded":"No Thanks","LinkTextForAddingACard":"Link Your Account Now >>","ContentWhenAddingToCardFails":"<p>Sorry, there was an error adding the offer to your account.</p>","ButtonTextWhenAddingToCardFails":"Go back","SourceCodeForCellfire":0,"RegActionForCellfire":"COUPON","DisplayRegistrationAsDefaultStepForCellfire":true,"TooltipContentForCouponsInc":"Trouble printing? Check out our <a href=\"/coupons/faq#printable-coupons\" target=\"_blank\">FAQs</a>.","ButtonTextForPrinting":"Print","ButtonTextAfterPrinting":"Printed","ButtonTextForEmailing":"Email","ButtonTextAfterEmailing":"Emailed","LinkToCouponsIncPage":"/coupons/printable","LinkToCouponsIncPrintHelpPage":"/coupons/faq#printable-coupons","HeaderForEmailingToExistingAddress":"Send to My Existing Email Address","ContentForEmailingToExistingAddress":"You can automatically send your coupons to the email address we have on file for your account.","ButtonTextForEmailingToExistingAddress":"Send to my email","HeaderForEmailingToCustomAddress":"Enter an Email Address","ContentForEmailingToCustomAddress":"You can send your coupons to an email you specify below.","LabelForCustomEmailAddressBox":"","ButtonTextForEmailingToCustomAddress":"Send to this email address","TextForCancellingWhenEmailing":"No Thanks","ContentWhenEmailingFails":"Sorry, there was an error emailing your coupon. Please make sure your email address includes an @ symbol and a period.","ButtonTextWhenEmailingFails":"Go back","HeaderWhenNoPrinterIsInstalled":"Install Coupon Printer","ContentWhenNoPrinterIsInstalled":"You'll need to install the coupon printer to continue.","TextForCancellingWhenNoPrinterIsInstalled":"No Thanks","LinkTextForInstallingPrinter":"Install Printer Now >>","PrintGatewayContent":"Is this device connected to a printer?","PrintGatewayCancel":"No","PrintGatewayApprove":"Yes","ContentWhilePrinting":"<img src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\"/>\nYour coupons are printing... Please wait.","ContentWhenPrintingFails":"Sorry, there was an error printing your coupon.","ButtonTextWhenPrintingFails":"Go back","SourceCodeForCouponsInc":0,"RegActionForCouponsInc":"COUPON","DisplayRegistrationAsDefaultStepForCouponsInc":false,"EnableMyGroceryDealsSavings":true,"ContentWhenNoMyGroceryDealsSavingsAreAvailable":"","PreferredMyGroceryDealsRetailerId":0,"ExplanatoryTextOnEachGroceryServerSaving":"No coupon needed","LabelForGroceryServerExpirationDates":"Sale Ends:","LinkToMyGroceryDealsPage":"/coupons/in-store-deals","LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","BeforeRetailerText":"at","PrintAdapterIsLegacyPrintModeEnabled":false,"PrintAdapterZId":"dx98","PrintAdapterNId":"10","PrintAdapterPropertyId":"15292","PrintAdapterAffiliateId":"c134e190-6177-4248-9bbf-dd27633c6ed5|c7b73959-40ac-44e6-af13-9656bacd3652"},"CurrentUserIsKnown":false});
+        }, componentMetadata);
+    })();
+
+
+
+
+Ingredients
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    tablespoon vegetable oil
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    large zucchini, cut in half lengthwise and into 1/4-inch slices (about 2 cups)
+                
+
+
+
+
+
+
+                    1/4
+                
+
+
+
+
+
+                    teaspoon salt
+                
+
+
+
+
+
+
+                    4
+                
+
+
+
+
+
+                    cloves garlic, finely chopped (about 4 teaspoons)
+                
+
+
+
+
+
+
+                    3/4
+                
+
+
+
+
+
+                    cup uncooked orzo pasta (about 5 oz)
+                
+
+
+
+
+
+
+                    1 1/2
+                
+
+
+
+
+
+                    cups Progresso™ reduced sodium chicken broth (from 32-oz carton)
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    lb uncooked large shrimp (21 to 30 ct), peeled, deveined, tail shells removed
+                
+
+
+
+
+
+
+                    2
+                
+
+
+
+
+
+                    tablespoons butter
+                
+
+
+
+
+
+
+                    1/4
+                
+
+
+
+
+
+                    cup grated Parmesan cheese
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    teaspoon fresh lemon juice
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    teaspoon fresh thyme leaves, chopped
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    tablespoon finely chopped parsley 
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeIngredientsView_recipeingredients_0\x22,\x22viewName\x22\x3a\x22RecipeIngredientsView\x22\x7d');
+        componentMetadata.componentName = componentMetadata.componentName + "_BuyScript";
+        // All buy scripts should be deferred
+        componentMetadata.deferOptions = { deferComponent: true, deferType: "Simple" };   
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var buyScript = document.createElement("script");
+            buyScript.src = "//www.chicoryapp.com/widget_v2/";
+            buyScript.async = true;
+            document.body.appendChild(buyScript);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+Steps
+Hide Images
+
+
+
+
+(function() {
+	 document.addEventListener('DOMContentLoaded', function() {
+	 var componentMetadata = JSON.parse('\x7b\x22componentName\x22\x3a\x22WakeLock_d10407de-c6d9-4faa-a61c-c49461fc0ac6\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22OnDemand\x22,\x22deferId\x22\x3a\x22r87be00e40208473198e86c984fedca9b\x22,\x22deferredContainerId\x22\x3a\x22\x2fwakeLockDefer\x22,\x22deferredContainerView\x22\x3a\x22WakeLockInterop\x22\x7d,\x22viewName\x22\x3a\x22WakeLock\x22\x7d');
+		 var configuration = {"textAbove":"Prevent your screen from going dark while you cook.","timeoutDurationMs":3600000};
+		 var moduleName = 'wakeLock';
+		 var isVueModule = true;
+		 GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration, componentMetadata, isVueModule)
+});
+})();

@@ -1,0 +1,1215 @@
+
+
+/* DCI begin 301a30bc-a7d2-462c-b0d6-b156fc831099 */
+.recipePrint .recipePartIngredientGroup button,
+.recipePrint .recipePartIngredientGroup a { visibility: hidden; position: absolute; }
+
+ var ContentBase = {"$type":"VB$AnonymousType_0`3[[System.String, mscorlib],[System.String, mscorlib],[System.Object, mscorlib]], GeneralMills.CIA.Framework.Core","ContentId":"3a0a60dd-1881-4799-a910-dc4b57d6920d","RelatedContentSearchPhrase":"santa fe chicken skillet southwestern entree dinner stovetop skillet dish poultry chicken","CompositeSearchResult":{"$type":"System.Object, mscorlib"}}; window.utag_data = {"ContentId":"3a0a60dd-1881-4799-a910-dc4b57d6920d","ContentType":"Recipe","Language":"en","ContentTitle":"Santa Fe Chicken Skillet","SearchRelevancyScore":"78.6000001430511","AverageRating":"0.860000014305115","RatingCount":"10","ReviewCount":"10","PublishDate":"10/18/2019","MetadataLabel":["Franchise","Franchise","Division","Brand","Brand","Marketing Impression SubCat","Marketing Impression SubCat","Cuisine","Meal Type","Meal Type","Cookware","Dish Type","Season","Season","Season","Key Ingredient","Marketing Impression SubCat","Marketing Impression SubCat","Key Ingredient"],"MetadataValue":["Progresso","Old El Paso","MEALS AND BAKING","Progresso Other Foods","Old El Paso Mexican","PROGRESSO BEANS","OEP CHILES","Southwestern","Entree","Dinner","Stovetop","Skillet Dish","Spring","Summer","Fall","Chicken","PROGRESSO VEG AND SAUCES","OEP CONDIMENTS AND SIDES","Poultry"],"RecordType":"Recipe","ProgramNumber":19307,"ProgramName":"F20 BC LSRS_Acquisition Branding Header","ProgramBrand":"BETTYCROCKER.COM","ProgramDivision":"NA","PrepTime":"45 min","TotalTime":"45 min","NumberOfServings":"4","IsMemberGenerated":"false","IngredientBase":["Ground Cumin","Chili Powder","salt","Ground Coriander","boneless skinless chicken breasts","vegetable oil","Red Onion","zucchini","bell pepper","frozen corn","Progresso™ black beans","Old El Paso™ chopped green chiles","Queso Fresco","cilantro","Lime"],"PageName":"","PageType":"Content","UserId":"e8cf9512-f1bb-4bd5-8f8a-f0ed031b62b0","UserStatus":"Anonymous","EsrcCode":"11275"};
+
+                (function () {
+                    GeneralMills = window.GeneralMills || {};
+                    GeneralMills.Analytics = GeneralMills.Analytics || {
+                        eventQueue: [],
+                        queueInterval: 0
+                    };
+
+                    GeneralMills.Analytics.raiseEvent = function(d, o) { 
+                        var options = o || {};
+
+                        if(!window.utag) {
+                            GeneralMills.Analytics.eventQueue.push({ eventData: d, eventOptions: options });
+
+                            GeneralMills.Analytics.queueInterval = GeneralMills.Analytics.queueInterval || setInterval(function () {
+                                if(window.utag) {
+                                    clearInterval(GeneralMills.Analytics.queueInterval);
+                                    for(var i = 0; i < GeneralMills.Analytics.eventQueue.length; i++) {
+                                        var eventObj = GeneralMills.Analytics.eventQueue[i];
+                                        
+                                        if(eventObj.eventOptions.virtualPageView)
+                                            utag.view(eventObj.eventData);
+                                        else
+                                            utag.link(eventObj.eventData);
+                                    }
+
+                                    GeneralMills.Analytics.eventQueue = [];
+                                }
+                            }, 1000);
+                        } else {
+                            if(options.virtualPageView)
+                                window.utag.view(d);
+                            else
+                                window.utag.link(d);
+                        }
+
+                        if (options.redirectUrl)
+                            setTimeout(function() { window.location = options.redirectUrl }, 500);
+                    };                
+                })();
+            
+
+
+
+
+
+
+
+
+
+
+
+
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22NewsletterCtaView_headernewslettercta_0\x22,\x22viewName\x22\x3a\x22NewsletterCtaView\x22\x7d');
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var encodedString = '\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterCtaViewModel, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Id\x22\x3a\x2264a22607bc934147b48a0d7f35d54adf\x22,\x22SettingsId\x22\x3a\x22\x7b64A22607-BC93-4147-B48A-0D7F35D54ADF\x7d\x22,\x22ShowMemberView\x22\x3afalse,\x22InPageEditorMode\x22\x3afalse,\x22HtmlTemplateName\x22\x3a\x22HeaderNewsletterCta\x22,\x22HideForSessionLinkText\x22\x3a\x22\x22,\x22TermsAndConditions\x22\x3a\x22\x22,\x22Location\x22\x3a\x22Header\x22,\x22NewsletterId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Newsletter\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.Newsletter, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ItemId\x22\x3a\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22,\x22ListId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Name\x22\x3a\x22Betty\x27s Email\x22,\x22NewsletterCtaName\x22\x3a\x22\x22,\x22Description\x22\x3a\x22From delicious hand-picked recipes to tips and tricks from the experts of the Betty Crocker Kitchens, we\u2019re bringing the best of Betty right into your inbox. \x22,\x22NewsletterCtaDescription\x22\x3a\x22\x22,\x22ThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2flegacy\x2fImages\x2fProfile\x2fBetty_Round_400x400.png\x22,\x22NewsletterCtaThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletters\x2fBC_Thumb157x157.png\x22,\x22PreviewUrl\x22\x3a\x22http\x3a\x2f\x2fwww.bettycrockercommunity.com\x2fnewsletter_archive\x2fbcd_example.html\x22,\x22SubscribedToListId\x22\x3anull,\x22SubscribedToDeliveryOption\x22\x3anull,\x22OptDownFullOptionText\x22\x3a\x22Daily\x22,\x22OptDownOneListId\x22\x3a\x22dddd01a7-8aa0-4d0b-a6f1-40391d76bcb5\x22,\x22OptDownOneOptionText\x22\x3a\x22Weekly\x22,\x22OptDownOneUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me weekly emails only\x22,\x22OptDownOneUnsubscribeMessage\x22\x3a\x22\x3cp\x3eThank you. \x26nbsp\x3bWe have updated your subscription to weekly emails only.\x3c\x2fp\x3e\x22,\x22OptDownTwoListId\x22\x3a\x22ddedf83e-7cd9-4fe5-b3a7-31c80b8cfa0b\x22,\x22OptDownTwoOptionText\x22\x3a\x22Seasonal and special occasion only\x22,\x22OptDownTwoUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me seasonal emails only \x286-10 per year\x29\x22,\x22OptDownTwoUnsubscribeMessage\x22\x3a\x22Thank-you. \x26nbsp\x3bWe have updated your subscription to seasonal emails only \x286-10 per year\x29.\x22,\x22DeliveryOptions\x22\x3a\x5b\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Daily\x22,\x22FriendlyText\x22\x3a\x22Daily inspiration\x22,\x22ProfileDeliveryCode\x22\x3a\x22DailySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Weekly\x22,\x22FriendlyText\x22\x3a\x22A few times a week\x22,\x22ProfileDeliveryCode\x22\x3a\x22WeeklySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Monthly\x22,\x22FriendlyText\x22\x3a\x22A few times a month\x22,\x22ProfileDeliveryCode\x22\x3a\x22MonthlySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Seasonal\x22,\x22FriendlyText\x22\x3a\x22A few times a year\x22,\x22ProfileDeliveryCode\x22\x3a\x22SeasonalSelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d\x5d\x7d,\x22Newsletters\x22\x3a\x5b\x5d,\x22BackgroundImageCss\x22\x3a\x22.ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_A_BC.jpg\x27\x29\x3b \x7d\x40media \x28max-width\x3a767px\x29 \x7b .ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_B_BC.jpg\x27\x29\x3b \x7d \x7d\x22,\x22EmailLabel\x22\x3a\x22\x22,\x22EmailAddressText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22RegistrationUrl\x22\x3a\x22\x2fregister\x2freg-fp\x3fRegAction\x3dSUBSCRIBERUPGRADE\x26esrc\x3d11275\x22,\x22UseRegistrationModal\x22\x3atrue,\x22InterstitialUseOnly\x22\x3afalse,\x22ThankYouForJoiningContent\x22\x3a\x22\x22,\x22PreviewText\x22\x3anull,\x22SignUpText\x22\x3a\x22Sign Up\x22,\x22SignUpTextClassName\x22\x3anull,\x22KnownThankYouContent\x22\x3anull,\x22KnownThankYouContentClassName\x22\x3anull,\x22AlreadySubscribedText\x22\x3anull,\x22BirthdayRequired\x22\x3afalse,\x22BirthdayLabel\x22\x3anull,\x22BirthdayAsDropdown\x22\x3afalse,\x22YearWatermarkText\x22\x3anull,\x22DayWatermarkText\x22\x3anull,\x22MonthWatermarkText\x22\x3anull,\x22DatePattern\x22\x3anull,\x22MonthNames\x22\x3anull,\x22ProfileQuestions\x22\x3a\x5b\x5d,\x22ProfileQuestion\x22\x3anull,\x22AnonymousHeaderText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22AnonymousSubHeaderText\x22\x3a\x22Get kitchen tested recipes, meal ideas and more \u2013 straight to your inbox\x22,\x22AnonymousThankYouContent\x22\x3a\x22\x3cp\x3eThank You\x21 You are signed up.\x26nbsp\x3b\x3c\x2fp\x3e\x22,\x22YouAreSubscribedText\x22\x3a\x22\x22,\x22JoinLinkText\x22\x3a\x22\x22,\x22PreviewLinkText\x22\x3a\x22\x22,\x22FullSubscriptionContent\x22\x3a\x22You are subscribed to all of our newsletters\x21\x22,\x22HideMemberView\x22\x3afalse,\x22MemberHeaderText\x22\x3anull,\x22MemberSubHeaderText\x22\x3anull,\x22MyAccountSubscriptionUrl\x22\x3anull,\x22IncludedNewslettersItemIds\x22\x3a\x5b\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22\x5d,\x22NotEligibleCookieName\x22\x3a\x22NotEligible\x22,\x22HideNewsletterCTACookiePrefix\x22\x3a\x22HideNewsletterCTA-\x22,\x22HideNewsletterCTACookieExpiration\x22\x3a30,\x22RegistrationStateCookieName\x22\x3a\x22Gmi.NewsletterCTA.RegState\x22,\x22RegistrationModalCancelSelector\x22\x3a\x22.ui-dialog-titlebar-close\x22,\x22EmailRequiredError\x22\x3a\x22Email address is required.\x22,\x22InvalidDateError\x22\x3anull,\x22AssumeIdentityError\x22\x3anull,\x22ControlIds\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.ControlIds, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ProfileQuestion\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_profile_question\x22,\x22EmailInputText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_email_inputText\x22,\x22AnonymousSignupButtonSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_span\x22,\x22JoinLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_link\x22,\x22JoinSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_span\x22,\x22AnonymousSignupButtonLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_link\x22,\x22NewsLetterPreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_link\x22,\x22NewsLetterPreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_span\x22,\x22ThumbnailImageLink\x22\x3anull,\x22ThumbnailImage\x22\x3anull,\x22PreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_link\x22,\x22PreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_span\x22,\x22InvalidMessageDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidMessage_div\x22,\x22InvalidAgeDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidAge_div\x22,\x22ThanksLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_link\x22,\x22ThanksSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_span\x22,\x22CloseSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_span\x22,\x22CloseLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_link\x22,\x22ExpandBtnLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_link\x22,\x22ExpandBtnSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_span\x22,\x22BirthdateMonth\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateMonth_ddl\x22,\x22BirthdateDay\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateDay_ddl\x22,\x22BirthdateYear\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateYear_ddl\x22,\x22HideLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_link\x22,\x22HideSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_span\x22,\x22YouAreSubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_youAreSubscribedText_text\x22,\x22ThankYouContent\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouContent_text\x22,\x22ThankYouForJoining\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouForJoining_content\x22,\x22TermAndCondition\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_termAndCondition_text\x22,\x22AnonymousHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousHeaderText_text\x22,\x22AnonymousSubHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSubHeaderText_text\x22,\x22AlreadySubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_alreadySubscribedText_text\x22\x7d\x7d';
+            var viewModel = JSON.parse(encodedString);
+            viewModel.CurrentYear = 2020;
+            window.GeneralMills.MyAccount.configureNewsletter(viewModel);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+MENU
+
+
+
+Join Free
+Log In
+
+
+
+
+
+
+
+
+
+
+
+
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22SearchBoxView_ctl01\x22,\x22viewName\x22\x3a\x22SearchBoxView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function() {
+            var settings = {"SearchDefaultText":"Search easy, delicious recipes","SearchProcessingMessage":"Please Wait..","SearchLinkButtonText":"","SearchLinkButtonToolTip":"Search","HeaderSearchBoxTitle":"Search","SearchBoxTitle":"","AutocompleteSearchPath":"/search","AutocompleteSuggestionLimit":10,"MinimumSearchHintCharacters":3,"Language":"en","Id":"6d364fde-8585-4f7b-bdf5-95d686937a4a","EnableSearchTerms":true,"ContentTypeFilter":"","DataSourceId":"d6fb75f5-d19a-49cd-9ba0-c10a6e45afb2"};
+            window.GeneralMills.SearchBox.init(settings);
+        }, componentMetadata); 
+        
+    })();
+
+
+
+
+
+
+
+Recipes
+
+Main Ingredient
+
+Chicken
+Apple
+Turkey
+Vegetables
+Beef
+See All
+
+
+Dish
+
+Cakes
+Cookies
+Cupcakes
+Bars
+Pie
+See All
+
+
+Preparation
+
+Slow Cooker
+Bread Machine
+Baking
+Stovetop
+Waffle Iron
+See All
+
+
+Meal Types
+
+Desserts
+Appetizers
+Breakfast & Brunch
+Snacks
+Side Dishes
+See All
+
+
+Global
+
+Italian
+French
+German
+Southern
+Asian
+See All
+
+
+Holidays & Entertaining
+
+Birthdays
+Game Day
+St. Patrick's Day
+Easter
+Wedding & Shower
+See All
+
+
+Health & Diet
+
+Diabetes
+Gluten Free
+Low Calorie
+High Fiber
+Heart Healthy
+See All
+
+
+Products
+
+Bisquick
+Brownie Mixes
+Super Moist™ Cake Mix
+Hamburger Helper
+Cookie Mix
+See All
+
+
+
+
+
+Everyday Meals
+
+Family Dinners
+
+Slow Cooker
+Chicken
+Gluten Free Dinners
+Turkey
+Casserole & Pot Pies
+See All
+
+
+Slow Cooker
+
+Slow Cooker Chili
+Slow Cooker Chicken
+Slow Cooker Soup
+Slow Cooker Stew
+Slow Cooker Italian
+See All
+
+
+Breakfast & Brunch
+
+Muffins
+Scones
+Egg Bakes
+Crepes
+Waffles
+See All
+
+
+Lunch
+
+Salads
+Sandwich and Wraps
+Pizza
+Soups
+Burrito
+See All
+
+
+
+
+
+Desserts
+
+Bars
+
+Super Moist™ Bars
+Pumpkin Bars
+No-Bake Bars
+Fruit Bars
+Ooey-Gooey Bars
+See All
+
+
+Brownies
+
+Frosted Brownies
+Chocolate Brownies
+Brownie Cookies
+Peanut Butter Brownies
+Caramel Brownies
+See All
+
+
+Cookies
+
+Christmas Cookies
+Halloween Cookies
+Cake Mix Cookies
+Red Velvet Cookies
+Cream Cheese Cookies
+See All
+
+
+Cupcakes
+
+Kids Cupcakes
+Birthday Cupcakes
+Super Moist™ Cupcakes
+Halloween Cupcakes
+Chocolate Cupcakes
+
+
+Pie
+
+Chocolate Pie
+Cream Pie
+Impossibly Easy Pie
+Fruit Pie
+Apple Pie
+See All
+
+
+Cakes
+
+Bundt Cakes
+Ice Cream Cakes
+Christmas Cakes
+Cake Pops
+Chocolate Cakes
+See All
+
+
+
+
+
+Holidays & Entertaining
+
+Birthdays
+
+Adult Birthday Cakes
+Gluten-Free Birthday Cake
+Birthday Desserts
+Kids Birthday Cupcakes
+Kids Birthday Cakes
+
+
+Game Day
+
+St. Patrick's Day
+
+Easter
+
+Potatoes
+Ham
+Deviled Eggs
+Easter Desserts
+Easter Sides
+See All
+
+
+Wedding & Shower
+
+Graduation
+
+Graduation Desserts
+Punch & Drinks
+
+
+July 4th
+
+Easy Entertaining
+
+Appetizers
+Graduation
+Picnics
+Game Day
+
+
+Halloween
+
+Betty's Guide to Halloween
+
+
+Thanksgiving
+
+Turkey
+Thanksgiving Side Dishes
+Gravy
+Thanksgiving Pie
+Thanksgiving Appetizers
+See All
+
+
+Christmas
+
+Christmas Cookies
+Christmas Appetizers
+Christmas Desserts
+Christmas Dinner
+Timetable for Roasting Meats
+See All
+
+
+Valentine's Day
+
+
+
+
+How-To
+
+Ask Betty
+
+Holidays & Entertaining
+
+Baking & Desserts
+
+Ingredients & Preparation
+
+Equipment
+
+Meal Planning
+
+Kids
+
+Healthy Eating
+
+
+
+
+Products
+
+Betty Crocker™ Mug Treats
+
+Betty Crocker™ Chilled Treats
+
+Betty Crocker™ Brittle Mix
+
+Betty Crocker™ Baking & Cake Mixes
+
+Bisquick™
+
+Betty Crocker™ Brownies and Bars
+
+Betty Crocker™ Cookie Mixes
+
+Betty Crocker™ Dessert Decorating & Specialty Products
+
+Betty Crocker™ Frosting
+
+Fruit Snacks
+
+Betty Crocker™ Gluten Free Baking
+
+Helper™ 
+
+Betty Crocker™ Muffin Mixes
+
+Potatoes
+
+Suddenly Salad
+
+Betty Crocker™ Baking Nuts
+
+Betty Crocker™ Kitchen Accessories
+
+
+
+
+Coupons & Sales
+
+
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+        GeneralMills.PandoSites.SimpleNavigation.initialize();
+    });
+
+
+
+
+
+
+
+Easy Soup and Side Combos
+
+
+How to Cook with Less Salt
+
+
+This Cake is Better Than Box of Doughnuts
+
+
+The Best Slow-Cooker Chicken Dinners
+
+
+One-Pot Creamy Shells and Sausage
+
+
+
+
+
+    (function () {
+        var config = {
+            controlId: "channellinks_0_ChannelLinksList"
+        };
+
+        document.addEventListener("DOMContentLoaded", function () {
+            GeneralMills.Contrib.ChannelLinks.Initialize(config);
+        });
+    })();
+
+
+
+
+
+
+Print
+4K
+
+
+Save
+1K
+
+
+
+Pinterest
+1K
+
+
+
+Email
+308
+
+
+
+Facebook
+138
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22ActionToolbarView_floatingactiontoolbar_0\x22,\x22viewName\x22\x3a\x22ActionToolbarView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var config = {"Id":"0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonText":"More","LessButtonText":"Less","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"UseModalRegistration":true,"NamePassedToEvents":"RDPToolbarRAIL","Buttons":[{"LayoutParameter":"p%3d1","Id":"9440f541-1622-407b-a529-9cb1f48ddf3a","AllowedForAnonymousUsers":true,"Type":"Print","DisplayName":"Print","NamePassedToEvents":"Print"},{"AddFavoriteErrorMessage":"Sorry, something went wrong. Please save again.","RemoveFavoriteErrorMessage":"Error occurred while removing from favorites","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"IsCurrentUserAnonymous":true,"IsFavoriteItem":false,"Id":"a4fff957-6f0a-4e2f-820f-3f2cfbceef64","AllowedForAnonymousUsers":false,"Type":"Favorite","DisplayName":"Save","NamePassedToEvents":"Favorite"},{"ProviderName":"pinterest","ProviderNamePassedToEvents":"Pinterest","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//pinterest.com/pin/create/link/?url={0}","Id":"58ba9650-477b-4abe-bb46-1a60912cc27c","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Pinterest","NamePassedToEvents":"Pinterest"},{"TemplateId":"49ea4ab1-767d-497f-8521-8956bf53ee30","DialogHeading":"Email Recipe","EmailCode":"BC_ContentEmail","DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","Id":"c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc","AllowedForAnonymousUsers":true,"Type":"Email","DisplayName":"Email","NamePassedToEvents":"Email"},{"ProviderName":"facebook","ProviderNamePassedToEvents":"Facebook","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//facebook.com/sharer/sharer.php?u={0}","Id":"9e7892b7-5ea2-441b-ab66-55a566402b31","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Facebook","NamePassedToEvents":"Facebook"}],"DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","ControlIds":{"ToolbarId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButton","MoreButtonTextId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButtonText","CollapsedButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_collapsedButtons","SecondaryButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_secondaryButtons"}};
+            config.IsCurrentUserAnonymous =  'True' === 'True';
+            config.IsFavoriteItem =  'False' === 'True';
+            config.ContentId = '3a0a60dd-1881-4799-a910-dc4b57d6920d';
+            config.PageUrl = 'http%3a%2f%2fwww.bettycrocker.com%2frecipes%2fsanta-fe-chicken-skillet%2f3a0a60dd-1881-4799-a910-dc4b57d6920d';
+
+            GeneralMills.ActionToolbar.initialize(config);
+        }, componentMetadata);
+    })();
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeTaggingView_main_1\x22,\x22viewName\x22\x3a\x22RecipeTaggingView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            jQuery('.actionToolbar').data("emailAttributes", ["RECIPE_ID%%3a0a60dd-1881-4799-a910-dc4b57d6920d","RECIPE_TITLE%%Santa Fe Chicken Skillet","RECIPE_DESCRIPTION%%With zesty spiced chicken breasts, black beans and a rainbow of vegetables, including corn, green chiles, onion, peppers and zucchini, this skillet makes for a satisfying and well-balanced family meal. The double dose of protein, from beans and chicken, ensures even hearty eaters will get their fill, while those watching their calories can enjoy this meal without a second thought. For a perfect finish, top this meal with a squeeze of fresh lime, sprinkle of chopped cilantro and a crumble of queso fresco!","RECIPE_PREP_TIME%%45 min","RECIPE_TOTAL_TIME%%45 min","RECIPE_SERVINGS%%About 1 1/2 Cups","RECIPE_STARS%%stars_4.5.gif","RECIPE_RATING%%0.860000014305115","RECIPE_RATERS%%10","RECIPE_REVIEWERS%%10","RECIPE_IMAGELINK%%&lt;a class=&#39;ImageLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/santa-fe-chicken-skillet/3a0a60dd-1881-4799-a910-dc4b57d6920d&#39;&gt;&lt;img alt=&#39;Santa Fe Chicken Skillet&#39; class=&#39;ImageLinkHtml&#39;  src=&#39;//images-gmi-pmc.edge-generalmills.com/e59da6a0-813c-459c-a5c2-c2276f209b2c.jpg&#39;/&gt;&lt;/a&gt;","RECIPE_TITLELINK%%&lt;a class=&#39;TitleLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/santa-fe-chicken-skillet/3a0a60dd-1881-4799-a910-dc4b57d6920d&#39;&gt;Santa Fe Chicken Skillet&lt;/a&gt;","RECIPE_LINK%%https://www.bettycrocker.com/recipes/santa-fe-chicken-skillet/3a0a60dd-1881-4799-a910-dc4b57d6920d"]);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+
+Santa Fe Chicken Skillet
+
+santa fe chicken skillet
+Entree
+Southwestern
+
+
+
+10 Ratings
+
+
+
+
+10 Comments
+
+
+
+
+
+
+
+
+
+
+
+
+Kitchen Tested
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function (window, GeneralMills) {
+        document.addEventListener("DOMContentLoaded", function () {
+            var brandingHeaderViewModel = GeneralMills.NativeAds.BrandingHeader();
+            brandingHeaderViewModel.Initialize(true, true, false);
+        });
+    })(window, window.GeneralMills || (window.GeneralMills = {}));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prep 
+45
+min
+
+
+Total
+45
+min
+
+
+Servings
+4
+
+
+
+
+
+
+
+
+
+With zesty spiced chicken breasts, black beans and a rainbow of vegetables, including corn, green chiles, onion, peppers and zucchini, this skillet makes for a satisfying and well-balanced family meal. The double dose of protein, from beans and chicken, ensures even hearty eaters will get their fill, while those watching their calories can enjoy this meal without a second thought. For a perfect finish, top this meal with a squeeze of fresh lime, sprinkle of chopped cilantro and a crumble of queso fresco!
+
+MORE+
+LESS-
+
+
+
+
+
+
+By
+Betty Crocker Kitchens
+
+
+
+
+            Updated November 21, 2019 
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22savings21758014\x22,\x22deferredContainerId\x22\x3a\x22SavingsByIngredient\x22,\x22deferredContainerView\x22\x3a\x22RecipeDetail\x22\x7d,\x22componentName\x22\x3a\x22Savings_savingsbyingredient_0\x22,\x22viewName\x22\x3a\x22Savings\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            GeneralMills.RecipeParts.Savings.initialize({"ContainerDivId":"recipeParts-savings-container-c1775cbe-3975-49cb-ad04-383f5ea8902a","DivId":"recipeParts-savings-c1775cbe-3975-49cb-ad04-383f5ea8902a","Ingredients":[{"Id":"f8af9ab2-b4c4-433f-aa6a-708119f37ea9","ExternalId":0,"Name":"Ground Cumin","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":1},{"Id":"c2bd9d8c-112c-430a-a25a-2ba8f589159b","ExternalId":0,"Name":"Chili Powder","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":2},{"Id":"c9d9cd40-ae3a-4503-8a53-0b3a58f948e8","ExternalId":0,"Name":"salt","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":3},{"Id":"6ba94c36-0a04-45e0-a487-312859c4e4e8","ExternalId":0,"Name":"Ground Coriander","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":4},{"Id":"69494988-95b1-484f-83c0-c4d059da195c","ExternalId":0,"Name":"boneless skinless chicken breasts","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":5},{"Id":"393eb340-d0d6-47fd-9edf-5ae407a56d69","ExternalId":0,"Name":"vegetable oil","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":6},{"Id":"38f80d97-17fd-4ab0-8d2d-e3bc744cf1f7","ExternalId":0,"Name":"Red Onion","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":7},{"Id":"1353fbdd-c313-47bb-b594-df9a17cf2ea5","ExternalId":0,"Name":"zucchini","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":8},{"Id":"0bc555b6-3525-405d-8a64-93d7db563462","ExternalId":0,"Name":"bell pepper","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":9},{"Id":"67b3d4cc-4292-485d-bde7-bb2d1354983b","ExternalId":0,"Name":"frozen corn","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":10},{"Id":"355b8e8b-a94d-43a3-b96e-690f21728bd9","ExternalId":0,"Name":"Progresso™ black beans","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":["41196-02012","41196-02016","41196-02022","41196-02024","41196-02032","41196-02035","41196-02122","41196-02124"],"SortOrder":11},{"Id":"7e2e6df8-ae44-480e-a2bf-c529878da47e","ExternalId":0,"Name":"Old El Paso™ chopped green chiles","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":["46000-83251","46000-83331","46000-85281","46000-88232","46000-83254","46000-88222","46000-85234"],"SortOrder":12},{"Id":"7cc300fb-f2f9-4b2d-9473-911c24bc15f2","ExternalId":0,"Name":"Queso Fresco","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":13},{"Id":"77640590-3a19-41ae-9945-4c39be48f916","ExternalId":0,"Name":"cilantro","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":14},{"Id":"fe893f84-a6ac-40e7-b6d4-544698d8fe9a","ExternalId":0,"Name":"Lime","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":15}],"UseModalMode":true,"IconBeforeNumberOfIngredientsWithSavings":"","TextBeforeNumberOfIngredientsWithSavings":"Savings on","TextAfterNumberOfIngredientsWithSavings":"ingredient(s)","ButtonTextForLoadingAllSavings":"View all savings","ButtonTextForHidingSavings":"Hide all savings","TextBeforeIngredientName":"Savings for","PercentagePastTopToScrollWhenRepositioning":30,"ContentToIndicateSavingsOnAnIngredient":"<span>Save $</span>","ButtonTextForLocationOrStoreChange":"Change Location/Store","ButtonTextWhenNoSavingsAreAvailable":"Try another ingredient","EnableCellfireSavings":true,"HeaderAboveCellfireSavings":"Loyalty Offers","LinkTextForCellfireOffersPage":"Go to all Store Loyalty Coupons","HeaderWhenPromptedToChangeCellfireRetailer":"Change Store","ContentWhenPromptedToChangeCellfireRetailer":"You will be redirected to the Loyalty Offers page to see offers for a different store.","TextForCancellingWhenPromptedToChangeCellfireRetailer":"No Thanks","LinkForChangingCellfireRetailer":"/coupons/loyalty/retailers","LinkTextForChangingCellfireRetailer":"Change Store Now >>","EnableCouponsIncSavings":true,"HeaderAboveCouponsIncSavings":"Printable Coupons","LinkTextForCouponsIncPage":"Go to all Printable Coupons","HeaderAboveMyGroceryDealsSavings":"In-Store Deals","NumberOfMyGroceryDealsSavingsToShowInClosedState":3,"LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","Settings":{"LabelForLocationBox":"Enter Zip to change location:","ButtonTextForLocationBox":"Go","MyGroceryDealsApiKey":"DgzaVe9YvK2PEhgoIBoS72sUJxH9IPqq1ka7ZQj6","TextForShowingLongerDescription":"...MORE+","TextForShowingShorterDescription":"...LESS-","ContentWhileSavingsAreLoading":"<img alt=\"\" src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\" />","ContentWhenNoSavingsAreAvailable":"Sorry, it appears offers on this ingredient are no longer available.","SavingsHelpLink":null,"SavingsHelpLinkText":null,"LabelForRetailerFilter":"Showing offers for:","ButtonTextForRetailerFilter":"Go","DefaultOptionTextForRetailerDropDown":null,"TooltipContentForCellfire":"<p>Offers may take up to 10 minutes to be added to your account. Check out our&nbsp;<a href=\"/coupons/faq#digital-coupons\" target=\"_blank\">FAQs</a>.</p>","TextBeforeCellfireRetailerName":"Currently using","TextAfterCellfireRetailerName":".","TextForSwitchingToViewForChangingCellfireRetailer":"Change Store","TextBeforeCellfireFaceValues":"Save $","LabelForCellfireDisplayBeforeDates":"Must save by:","LabelForCellfireExpirationDates":"Expires:","ButtonTextForAddingToCard":"Add to account","ButtonTextAfterAddingToCard":"Added to account","LinkToCellfireOffersPage":"/coupons/loyalty","CellfireBeforeRetailerText":"at","HeaderWhenNoCardIsAdded":"One More Step","ContentWhenNoCardIsAdded":"<p>Link your store loyalty account to add this coupon.</p>","TextForCancellingWhenNoCardIsAdded":"No Thanks","LinkTextForAddingACard":"Link Your Account Now >>","ContentWhenAddingToCardFails":"<p>Sorry, there was an error adding the offer to your account.</p>","ButtonTextWhenAddingToCardFails":"Go back","SourceCodeForCellfire":0,"RegActionForCellfire":"COUPON","DisplayRegistrationAsDefaultStepForCellfire":true,"TooltipContentForCouponsInc":"Trouble printing? Check out our <a href=\"/coupons/faq#printable-coupons\" target=\"_blank\">FAQs</a>.","ButtonTextForPrinting":"Print","ButtonTextAfterPrinting":"Printed","ButtonTextForEmailing":"Email","ButtonTextAfterEmailing":"Emailed","LinkToCouponsIncPage":"/coupons/printable","LinkToCouponsIncPrintHelpPage":"/coupons/faq#printable-coupons","HeaderForEmailingToExistingAddress":"Send to My Existing Email Address","ContentForEmailingToExistingAddress":"You can automatically send your coupons to the email address we have on file for your account.","ButtonTextForEmailingToExistingAddress":"Send to my email","HeaderForEmailingToCustomAddress":"Enter an Email Address","ContentForEmailingToCustomAddress":"You can send your coupons to an email you specify below.","LabelForCustomEmailAddressBox":"","ButtonTextForEmailingToCustomAddress":"Send to this email address","TextForCancellingWhenEmailing":"No Thanks","ContentWhenEmailingFails":"Sorry, there was an error emailing your coupon. Please make sure your email address includes an @ symbol and a period.","ButtonTextWhenEmailingFails":"Go back","HeaderWhenNoPrinterIsInstalled":"Install Coupon Printer","ContentWhenNoPrinterIsInstalled":"You'll need to install the coupon printer to continue.","TextForCancellingWhenNoPrinterIsInstalled":"No Thanks","LinkTextForInstallingPrinter":"Install Printer Now >>","PrintGatewayContent":"Is this device connected to a printer?","PrintGatewayCancel":"No","PrintGatewayApprove":"Yes","ContentWhilePrinting":"<img src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\"/>\nYour coupons are printing... Please wait.","ContentWhenPrintingFails":"Sorry, there was an error printing your coupon.","ButtonTextWhenPrintingFails":"Go back","SourceCodeForCouponsInc":0,"RegActionForCouponsInc":"COUPON","DisplayRegistrationAsDefaultStepForCouponsInc":false,"EnableMyGroceryDealsSavings":true,"ContentWhenNoMyGroceryDealsSavingsAreAvailable":"","PreferredMyGroceryDealsRetailerId":0,"ExplanatoryTextOnEachGroceryServerSaving":"No coupon needed","LabelForGroceryServerExpirationDates":"Sale Ends:","LinkToMyGroceryDealsPage":"/coupons/in-store-deals","LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","BeforeRetailerText":"at","PrintAdapterIsLegacyPrintModeEnabled":false,"PrintAdapterZId":"dx98","PrintAdapterNId":"10","PrintAdapterPropertyId":"15292","PrintAdapterAffiliateId":"c134e190-6177-4248-9bbf-dd27633c6ed5|e8cf9512-f1bb-4bd5-8f8a-f0ed031b62b0"},"CurrentUserIsKnown":false});
+        }, componentMetadata);
+    })();
+
+
+
+
+Ingredients
+
+
+
+
+
+
+                    2
+                
+
+
+
+
+
+                    teaspoons ground cumin
+                
+
+
+
+
+
+
+                    2
+                
+
+
+
+
+
+                    teaspoons chili powder
+                
+
+
+
+
+
+
+                    3/4
+                
+
+
+
+
+
+                    teaspoon salt
+                
+
+
+
+
+
+
+                    1/2
+                
+
+
+
+
+
+                    teaspoon ground coriander
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    lb boneless skinless chicken breasts, cut into 1-inch cubes
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    tablespoon vegetable oil
+                
+
+
+
+
+
+
+                    3/4
+                
+
+
+
+
+
+                    cup chopped red onions
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    small zucchini, cut in quarters lengthwise and into 1/4-inch slices
+                
+
+
+
+
+
+
+                    1/2
+                
+
+
+
+
+
+                    cup chopped red or orange bell pepper
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    cup frozen corn (from 12-oz package) 
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    cup Progresso™ black beans, drained, rinsed (from 15-oz can)
+                
+
+
+
+
+
+
+                    1
+                
+
+
+
+
+
+                    can (4.5 oz) Old El Paso™ chopped green chiles
+                
+
+
+
+
+
+
+                    1/4
+                
+
+
+
+
+
+                    cup crumbled queso fresco cheese
+                
+
+
+
+
+
+
+                    1/4
+                
+
+
+
+
+
+                    cup chopped fresh cilantro
+                
+
+
+
+
+
+
+
+
+
+
+
+
+                    Lime wedges, as desired
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeIngredientsView_recipeingredients_0\x22,\x22viewName\x22\x3a\x22RecipeIngredientsView\x22\x7d');
+        componentMetadata.componentName = componentMetadata.componentName + "_BuyScript";
+        // All buy scripts should be deferred
+        componentMetadata.deferOptions = { deferComponent: true, deferType: "Simple" };   
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var buyScript = document.createElement("script");
+            buyScript.src = "//www.chicoryapp.com/widget_v2/";
+            buyScript.async = true;
+            document.body.appendChild(buyScript);
+        }, componentMetadata);
+    })();
+
+
+
+
+
+Steps
+Hide Images
+
+
+
+
+(function() {
+	 document.addEventListener('DOMContentLoaded', function() {
+	 var componentMetadata = JSON.parse('\x7b\x22componentName\x22\x3a\x22WakeLock_d10407de-c6d9-4faa-a61c-c49461fc0ac6\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22OnDemand\x22,\x22deferId\x22\x3a\x22r73a692bff2e04fe09232878a9fd94c07\x22,\x22deferredContainerId\x22\x3a\x22\x2fwakeLockDefer\x22,\x22deferredContainerView\x22\x3a\x22WakeLockInterop\x22\x7d,\x22viewName\x22\x3a\x22WakeLock\x22\x7d');
+		 var configuration = {"textAbove":"Prevent your screen from going dark while you cook.","timeoutDurationMs":3600000};
+		 var moduleName = 'wakeLock';
+		 var isVueModule = true;
+		 GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration, componentMetadata, isVueModule)
+});
+})();

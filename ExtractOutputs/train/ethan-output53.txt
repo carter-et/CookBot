@@ -1,0 +1,1189 @@
+<body id="body"><script src="/_bundles/script/globalOpen.js?v=Ds_v42Pulb0gbw_klHX_WAOepXu7Z10G2OBxfHeo7po1"></script>
+<style>
+/* DCI begin 301a30bc-a7d2-462c-b0d6-b156fc831099 */
+.recipePrint .recipePartIngredientGroup button,
+.recipePrint .recipePartIngredientGroup a { visibility: hidden; position: absolute; }
+</style><script src="//service.maxymiser.net/cdn/generalmills/js/mmcore.js"></script>
+<script id="contentbase" type="text/javascript"> var ContentBase = {"$type":"VB$AnonymousType_0`3[[System.String, mscorlib],[System.String, mscorlib],[System.Object, mscorlib]], GeneralMills.CIA.Framework.Core","ContentId":"c6651cd9-7373-4f41-81b9-cc5ffc1bf032","RelatedContentSearchPhrase":"lemon garlic shrimp orzo skillet entree dinner stovetop skillet dish herbs spices flavorings garlic seafood shrimp fruit citrus fruits lemon valentines day","CompositeSearchResult":{"$type":"System.Object, mscorlib"}}; </script><script type="text/javascript">window.utag_data = {"ContentId":"c6651cd9-7373-4f41-81b9-cc5ffc1bf032","ContentType":"Recipe","Language":"en","ContentTitle":"Lemon-Garlic Shrimp Orzo Skillet","SearchRelevancyScore":"79.5999997854233","AverageRating":"0.959999978542328","RatingCount":"12","ReviewCount":"12","PublishDate":"10/18/2019","MetadataLabel":["Franchise","Franchise","Division","Brand","Marketing Impression SubCat","Meal Type","Meal Type","Cookware","Dish Type","Season","Season","Season","Key Ingredient","Key Ingredient","Key Ingredient","Occasion","Key Ingredient","Key Ingredient","Key Ingredient","Key Ingredient"],"MetadataValue":["Big G","Progresso","MEALS AND BAKING","Progresso Soup","PROGRESSO BROTH","Entree","Dinner","Stovetop","Skillet Dish","Winter","Spring","Summer","Garlic","Shrimp","Lemon","Valentines Day","Herbs, Spices & Flavorings","Seafood","Citrus Fruits","Fruit"],"RecordType":"Recipe","ProgramNumber":19307,"ProgramName":"F20 BC LSRS_Acquisition Branding Header","ProgramBrand":"BETTYCROCKER.COM","ProgramDivision":"NA","PrepTime":"15 min","TotalTime":"45 min","NumberOfServings":"4","IsMemberGenerated":"false","IngredientBase":["vegetable oil","zucchini","salt","garlic","Orzo Pasta","Progresso™ reduced sodium chicken broth","Large Shrimp","butter","Parmesan cheese","lemon juice","fresh thyme","Parsley"],"PageName":"","PageType":"Content","UserId":"c7b73959-40ac-44e6-af13-9656bacd3652","UserStatus":"Anonymous","EsrcCode":"11275"};</script><script async="" src="//tags.tiqcdn.com/utag/generalmills/bettycrocker.com/prod/utag.js"></script>
+<script type="text/javascript">
+                (function () {
+                    GeneralMills = window.GeneralMills || {};
+                    GeneralMills.Analytics = GeneralMills.Analytics || {
+                        eventQueue: [],
+                        queueInterval: 0
+                    };
+
+                    GeneralMills.Analytics.raiseEvent = function(d, o) { 
+                        var options = o || {};
+
+                        if(!window.utag) {
+                            GeneralMills.Analytics.eventQueue.push({ eventData: d, eventOptions: options });
+
+                            GeneralMills.Analytics.queueInterval = GeneralMills.Analytics.queueInterval || setInterval(function () {
+                                if(window.utag) {
+                                    clearInterval(GeneralMills.Analytics.queueInterval);
+                                    for(var i = 0; i < GeneralMills.Analytics.eventQueue.length; i++) {
+                                        var eventObj = GeneralMills.Analytics.eventQueue[i];
+                                        
+                                        if(eventObj.eventOptions.virtualPageView)
+                                            utag.view(eventObj.eventData);
+                                        else
+                                            utag.link(eventObj.eventData);
+                                    }
+
+                                    GeneralMills.Analytics.eventQueue = [];
+                                }
+                            }, 1000);
+                        } else {
+                            if(options.virtualPageView)
+                                window.utag.view(d);
+                            else
+                                window.utag.link(d);
+                        }
+
+                        if (options.redirectUrl)
+                            setTimeout(function() { window.location = options.redirectUrl }, 500);
+                    };                
+                })();
+            </script>
+<form action="./c6651cd9-7373-4f41-81b9-cc5ffc1bf032" id="mainform" method="post">
+<input id="ParentPageUrl" name="ParentPageUrl" type="hidden" value="https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032"/>
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="dAsxjYapCo6vTifaeBPwF3Jrbkf7jP6bLgqatZeQtR8VLYoAxolQWCTY/b5TScoP5aru2YhaENSUFOwjYV3EtVqH4ooQD0NxnSXwQMsLGWf97I4MLqOwrJWd1TQP9XMe7GPzHrZfw9e2vr24ex5HgRo9LgBtOcA/GgjH2ieQlmbHSj9d/15MEIKD8x9M4WdIvOvObelRVgb33Ns58Z5i3FaeIefAGJbq38q9L/B2/1TQUhIDBByvN72MuiwnG8S6WytHYoDqUW7mrituG6is9dSLW6uJAdYY57eP1j+1l/Sigb2Y32Q9eXsrgdIFsbfFznMqAyDqjjksGjBgRlhYc3NwxxBcuvy5LYRasTn5l8oS0+3KDyfKVHfzs/nDsmMvxeaqmAXjEiINx6fkGsLxIeyhdDZBWISPiFDvrz+UfJfIZS/VyrUlPWpEUqJhQdtdi23toCOfV7zCzxCpOeNBTnz8hBlnjRaj9SxTn33iLwiGsqonljW8ulwZU+dbBJGcvg8HtrchePEl5YO3kuZhVWwf0JpzHafLWZXVRSqUWlYIx2y7P8BSq02y7Jz2jSgwF/2q4W6n/GSORizWSwQFUxiRB4SvhAHyk3nge6ZOA2sRyUCPlB+XGYJztMjziwWq1EsSo1agwdgsk0evIOzdSA=="/>
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="4DFABDB9"/>
+<div class="adAboveSiteHeader">
+</div>
+<div class="headerAdSpacing"></div>
+<div class="nctaInterstitialWrapper">
+<div class="newsletterCtaView ncta_64a22607bc934147b48a0d7f35d54adf" data-bind="template: { name: htmlTemplateName, templateUrl: '/Shared/MyAccount/Sublayouts/Web/KO_Templates', templateSuffix: '.tmpl.html' }" id="64a22607bc934147b48a0d7f35d54adf">
+</div>
+</div>
+<script type="text/javascript">
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22NewsletterCtaView_headernewslettercta_0\x22,\x22viewName\x22\x3a\x22NewsletterCtaView\x22\x7d');
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var encodedString = '\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterCtaViewModel, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Id\x22\x3a\x2264a22607bc934147b48a0d7f35d54adf\x22,\x22SettingsId\x22\x3a\x22\x7b64A22607-BC93-4147-B48A-0D7F35D54ADF\x7d\x22,\x22ShowMemberView\x22\x3afalse,\x22InPageEditorMode\x22\x3afalse,\x22HtmlTemplateName\x22\x3a\x22HeaderNewsletterCta\x22,\x22HideForSessionLinkText\x22\x3a\x22\x22,\x22TermsAndConditions\x22\x3a\x22\x22,\x22Location\x22\x3a\x22Header\x22,\x22NewsletterId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Newsletter\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.Newsletter, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ItemId\x22\x3a\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22,\x22ListId\x22\x3a\x221e34a555-89d1-45f0-8f07-b3ae6b01c03c\x22,\x22Name\x22\x3a\x22Betty\x27s Email\x22,\x22NewsletterCtaName\x22\x3a\x22\x22,\x22Description\x22\x3a\x22From delicious hand-picked recipes to tips and tricks from the experts of the Betty Crocker Kitchens, we\u2019re bringing the best of Betty right into your inbox. \x22,\x22NewsletterCtaDescription\x22\x3a\x22\x22,\x22ThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2flegacy\x2fImages\x2fProfile\x2fBetty_Round_400x400.png\x22,\x22NewsletterCtaThumbnailImagePath\x22\x3a\x22\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletters\x2fBC_Thumb157x157.png\x22,\x22PreviewUrl\x22\x3a\x22http\x3a\x2f\x2fwww.bettycrockercommunity.com\x2fnewsletter_archive\x2fbcd_example.html\x22,\x22SubscribedToListId\x22\x3anull,\x22SubscribedToDeliveryOption\x22\x3anull,\x22OptDownFullOptionText\x22\x3a\x22Daily\x22,\x22OptDownOneListId\x22\x3a\x22dddd01a7-8aa0-4d0b-a6f1-40391d76bcb5\x22,\x22OptDownOneOptionText\x22\x3a\x22Weekly\x22,\x22OptDownOneUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me weekly emails only\x22,\x22OptDownOneUnsubscribeMessage\x22\x3a\x22\x3cp\x3eThank you. \x26nbsp\x3bWe have updated your subscription to weekly emails only.\x3c\x2fp\x3e\x22,\x22OptDownTwoListId\x22\x3a\x22ddedf83e-7cd9-4fe5-b3a7-31c80b8cfa0b\x22,\x22OptDownTwoOptionText\x22\x3a\x22Seasonal and special occasion only\x22,\x22OptDownTwoUnsubscribeLabel\x22\x3a\x22I changed my mind, please send me seasonal emails only \x286-10 per year\x29\x22,\x22OptDownTwoUnsubscribeMessage\x22\x3a\x22Thank-you. \x26nbsp\x3bWe have updated your subscription to seasonal emails only \x286-10 per year\x29.\x22,\x22DeliveryOptions\x22\x3a\x5b\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Daily\x22,\x22FriendlyText\x22\x3a\x22Daily inspiration\x22,\x22ProfileDeliveryCode\x22\x3a\x22DailySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Weekly\x22,\x22FriendlyText\x22\x3a\x22A few times a week\x22,\x22ProfileDeliveryCode\x22\x3a\x22WeeklySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Monthly\x22,\x22FriendlyText\x22\x3a\x22A few times a month\x22,\x22ProfileDeliveryCode\x22\x3a\x22MonthlySelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d,\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.NewsletterDeliveryOption, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22Name\x22\x3a\x22Seasonal\x22,\x22FriendlyText\x22\x3a\x22A few times a year\x22,\x22ProfileDeliveryCode\x22\x3a\x22SeasonalSelected\x22,\x22UpdateMessage\x22\x3a\x22Saved.\x22\x7d\x5d\x7d,\x22Newsletters\x22\x3a\x5b\x5d,\x22BackgroundImageCss\x22\x3a\x22.ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_A_BC.jpg\x27\x29\x3b \x7d\x40media \x28max-width\x3a767px\x29 \x7b .ncta_64a22607bc934147b48a0d7f35d54adf .newsletterCtaContainer \x7b background-image\x3a url\x28\x27\x2f-\x2fmedia\x2fImages\x2fShared\x2fmyaccount\x2fnewsletter_cta_images\x2fPN_SO_Header1_B_BC.jpg\x27\x29\x3b \x7d \x7d\x22,\x22EmailLabel\x22\x3a\x22\x22,\x22EmailAddressText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22RegistrationUrl\x22\x3a\x22\x2fregister\x2freg-fp\x3fRegAction\x3dSUBSCRIBERUPGRADE\x26esrc\x3d11275\x22,\x22UseRegistrationModal\x22\x3atrue,\x22InterstitialUseOnly\x22\x3afalse,\x22ThankYouForJoiningContent\x22\x3a\x22\x22,\x22PreviewText\x22\x3anull,\x22SignUpText\x22\x3a\x22Sign Up\x22,\x22SignUpTextClassName\x22\x3anull,\x22KnownThankYouContent\x22\x3anull,\x22KnownThankYouContentClassName\x22\x3anull,\x22AlreadySubscribedText\x22\x3anull,\x22BirthdayRequired\x22\x3afalse,\x22BirthdayLabel\x22\x3anull,\x22BirthdayAsDropdown\x22\x3afalse,\x22YearWatermarkText\x22\x3anull,\x22DayWatermarkText\x22\x3anull,\x22MonthWatermarkText\x22\x3anull,\x22DatePattern\x22\x3anull,\x22MonthNames\x22\x3anull,\x22ProfileQuestions\x22\x3a\x5b\x5d,\x22ProfileQuestion\x22\x3anull,\x22AnonymousHeaderText\x22\x3a\x22Subscribe to Betty Crocker\x22,\x22AnonymousSubHeaderText\x22\x3a\x22Get kitchen tested recipes, meal ideas and more \u2013 straight to your inbox\x22,\x22AnonymousThankYouContent\x22\x3a\x22\x3cp\x3eThank You\x21 You are signed up.\x26nbsp\x3b\x3c\x2fp\x3e\x22,\x22YouAreSubscribedText\x22\x3a\x22\x22,\x22JoinLinkText\x22\x3a\x22\x22,\x22PreviewLinkText\x22\x3a\x22\x22,\x22FullSubscriptionContent\x22\x3a\x22You are subscribed to all of our newsletters\x21\x22,\x22HideMemberView\x22\x3afalse,\x22MemberHeaderText\x22\x3anull,\x22MemberSubHeaderText\x22\x3anull,\x22MyAccountSubscriptionUrl\x22\x3anull,\x22IncludedNewslettersItemIds\x22\x3a\x5b\x220045e4e5-c95c-463f-aabe-b4123ec8eba7\x22\x5d,\x22NotEligibleCookieName\x22\x3a\x22NotEligible\x22,\x22HideNewsletterCTACookiePrefix\x22\x3a\x22HideNewsletterCTA-\x22,\x22HideNewsletterCTACookieExpiration\x22\x3a30,\x22RegistrationStateCookieName\x22\x3a\x22Gmi.NewsletterCTA.RegState\x22,\x22RegistrationModalCancelSelector\x22\x3a\x22.ui-dialog-titlebar-close\x22,\x22EmailRequiredError\x22\x3a\x22Email address is required.\x22,\x22InvalidDateError\x22\x3anull,\x22AssumeIdentityError\x22\x3anull,\x22ControlIds\x22\x3a\x7b\x22\x24type\x22\x3a\x22GeneralMills.CIA.Framework.Controls.MyAccount.Entities.ControlIds, GeneralMills.CIA.Framework.Controls.MyAccount\x22,\x22ProfileQuestion\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_profile_question\x22,\x22EmailInputText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_email_inputText\x22,\x22AnonymousSignupButtonSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_span\x22,\x22JoinLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_link\x22,\x22JoinSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_join_span\x22,\x22AnonymousSignupButtonLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSignUpButton_link\x22,\x22NewsLetterPreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_link\x22,\x22NewsLetterPreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_newsletterPreview_span\x22,\x22ThumbnailImageLink\x22\x3anull,\x22ThumbnailImage\x22\x3anull,\x22PreviewLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_link\x22,\x22PreviewSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_preview_span\x22,\x22InvalidMessageDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidMessage_div\x22,\x22InvalidAgeDiv\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_invalidAge_div\x22,\x22ThanksLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_link\x22,\x22ThanksSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thanks_span\x22,\x22CloseSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_span\x22,\x22CloseLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_close_link\x22,\x22ExpandBtnLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_link\x22,\x22ExpandBtnSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_expandCollapsedBtn_span\x22,\x22BirthdateMonth\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateMonth_ddl\x22,\x22BirthdateDay\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateDay_ddl\x22,\x22BirthdateYear\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_birthdateYear_ddl\x22,\x22HideLink\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_link\x22,\x22HideSpan\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_hide_span\x22,\x22YouAreSubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_youAreSubscribedText_text\x22,\x22ThankYouContent\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouContent_text\x22,\x22ThankYouForJoining\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_thankYouForJoining_content\x22,\x22TermAndCondition\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_termAndCondition_text\x22,\x22AnonymousHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousHeaderText_text\x22,\x22AnonymousSubHeaderText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_anonymousSubHeaderText_text\x22,\x22AlreadySubscribedText\x22\x3a\x22gmi_ma_nwCTA_64a22607bc934147b48a0d7f35d54adf_alreadySubscribedText_text\x22\x7d\x7d';
+            var viewModel = JSON.parse(encodedString);
+            viewModel.CurrentYear = 2020;
+            window.GeneralMills.MyAccount.configureNewsletter(viewModel);
+        }, componentMetadata);
+    })();
+</script>
+<header>
+<div class="headerContainer">
+<section class="headerMain">
+<a class="headerLogo" href="/" title="Return to Homepage"></a>
+<a class="simpleNavToggle"><span>MENU</span></a>
+<div class="userLinks">
+<div class="headerAnonymous">
+<ul class="headerLogin">
+<li><a data-reg-popup="" data-url-params='{"returnUrl":"/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032","isRegistrationFirstStep":true, "esrc":11275, "RegAction":"HEADERJOINLOGIN"}' href="#" rel="nofollow">Join Free</a></li>
+<li><a data-reg-popup="" data-url-params='{"returnUrl":"/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032","isRegistrationFirstStep":false, "esrc":11275, "RegAction":"HEADERJOINLOGIN"}' href="#">Log In</a></li>
+</ul>
+</div>
+</div>
+<div class="headerSearch">
+<div class="search-box-container search clearfix" id="df2c5bc3-26dd-4e6d-ab9b-0533319db3f3">
+<div class="search-box-hints">
+<input class="search-box" data-bind="value: searchBoxText, valueUpdate: 'keydown', hasfocus: searchBoxHasFocus, event: { focus: getDataSourceType }, attr: { enable: searchBoxEnable, placeholder: placeholderText }"/>
+<div class="search-hint-container" data-bind="visible:showHints, html:searchHintsHtml"></div>
+</div>
+<a class="SearchLinkButton searchTermFilter" data-bind="text : settings.SearchLinkButtonText, attr: {title : settings.SearchLinkButtonText }, event: { 'click' : OnSearchButtonClick }"></a>
+</div>
+<script type="text/javascript">
+    (function() {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22SearchBoxView_ctl01\x22,\x22viewName\x22\x3a\x22SearchBoxView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function() {
+            var settings = {"SearchDefaultText":"Search easy, delicious recipes","SearchProcessingMessage":"Please Wait..","SearchLinkButtonText":"","SearchLinkButtonToolTip":"Search","HeaderSearchBoxTitle":"Search","SearchBoxTitle":"","AutocompleteSearchPath":"/search","AutocompleteSuggestionLimit":10,"MinimumSearchHintCharacters":3,"Language":"en","Id":"df2c5bc3-26dd-4e6d-ab9b-0533319db3f3","EnableSearchTerms":true,"ContentTypeFilter":"","DataSourceId":"d6fb75f5-d19a-49cd-9ba0-c10a6e45afb2"};
+            window.GeneralMills.SearchBox.init(settings);
+        }, componentMetadata); 
+        
+    })();
+</script>
+</div>
+</section>
+</div>
+<nav id="simpleNavigation">
+<ul class="simpleNavItems">
+<li class="withChildren">
+<a href="/recipes">Recipes</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/recipes/main-ingredient">Main Ingredient</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/main-ingredient/chicken-recipes">Chicken</a></li>
+<li><a href="/recipes/main-ingredient/apple-recipes">Apple</a></li>
+<li><a href="/recipes/main-ingredient/turkey-recipes">Turkey</a></li>
+<li><a href="/recipes/main-ingredient/vegetable-recipes">Vegetables</a></li>
+<li><a href="/recipes/main-ingredient/beef-recipes">Beef</a></li>
+<li class="seeAll"><a href="/recipes/main-ingredient">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes">Dish</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/cake-recipes">Cakes</a></li>
+<li><a href="/recipes/dishes/cookie-recipes">Cookies</a></li>
+<li><a href="/recipes/dishes/cupcake-recipes">Cupcakes</a></li>
+<li><a href="/recipes/dishes/bar-recipes">Bars</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes">Pie</a></li>
+<li class="seeAll"><a href="/recipes/dishes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/preparation">Preparation</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/preparation/slow-cooker-recipes">Slow Cooker</a></li>
+<li><a href="/recipes/preparation/bread-machine-recipes">Bread Machine</a></li>
+<li><a href="/recipes/preparation/baking-recipes">Baking</a></li>
+<li><a href="/recipes/preparation/stovetop-recipes">Stovetop</a></li>
+<li><a href="/recipes/preparation/waffle-iron-recipes">Waffle Iron</a></li>
+<li class="seeAll"><a href="/recipes/preparation">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/courses">Meal Types</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/courses/dessert-recipes">Desserts</a></li>
+<li><a href="/recipes/courses/appetizer-recipes">Appetizers</a></li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes">Breakfast &amp; Brunch</a></li>
+<li><a href="/recipes/courses/snack-recipes">Snacks</a></li>
+<li><a href="/recipes/courses/side-dish-recipes">Side Dishes</a></li>
+<li class="seeAll"><a href="/recipes/courses">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/global-cuisine">Global</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/global-cuisine/italian-recipes">Italian</a></li>
+<li><a href="/recipes/global-cuisine/french-recipes">French</a></li>
+<li><a href="/recipes/global-cuisine/german-recipes">German</a></li>
+<li><a href="/recipes/global-cuisine/southern-recipes">Southern</a></li>
+<li><a href="/recipes/global-cuisine/asian-recipes">Asian</a></li>
+<li class="seeAll"><a href="/recipes/global-cuisine">See All</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions">Holidays &amp; Entertaining</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/special-occasions/birthdays">Birthdays</a></li>
+<li><a href="/special-occasions/gameday-and-tailgating-recipes">Game Day</a></li>
+<li><a href="/special-occasions/st-patricks-day-recipes">St. Patrick's Day</a></li>
+<li><a href="/special-occasions/easter">Easter</a></li>
+<li><a href="/special-occasions/wedding-recipes">Wedding &amp; Shower</a></li>
+<li class="seeAll"><a href="/special-occasions">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/health-and-diet">Health &amp; Diet</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/health-and-diet/diabetes-recipes">Diabetes</a></li>
+<li><a href="/recipes/health-and-diet/gluten-free">Gluten Free</a></li>
+<li><a href="/recipes/health-and-diet/low-calorie-recipes">Low Calorie</a></li>
+<li><a href="/recipes/health-and-diet/high-fiber-recipes">High Fiber</a></li>
+<li><a href="/recipes/health-and-diet/heart-health-recipes">Heart Healthy</a></li>
+<li class="seeAll"><a href="/recipes/health-and-diet">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/product-recipes">Products</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/product-recipes/bisquick-recipes">Bisquick</a></li>
+<li><a href="/recipes/product-recipes/brownie-mix-recipes">Brownie Mixes</a></li>
+<li><a href="/recipes/product-recipes/supermoist-cake-mix-recipes">Super Moist™ Cake Mix</a></li>
+<li><a href="/recipes/product-recipes/hamburger-helper-recipes">Hamburger Helper</a></li>
+<li><a href="/recipes/product-recipes/cookie-mix-recipes">Cookie Mix</a></li>
+<li class="seeAll"><a href="/recipes/product-recipes">See All</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="withChildren">
+<a href="/everyday-meals">Everyday Meals</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/recipes/courses/dinner-recipes">Family Dinners</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/preparation/slow-cooker-recipes">Slow Cooker</a></li>
+<li><a href="/recipes/main-ingredient/chicken-recipes">Chicken</a></li>
+<li><a href="/recipes/health-and-diet/gluten-free/gluten-free-dinner-ideas">Gluten Free Dinners</a></li>
+<li><a href="/recipes/main-ingredient/turkey-recipes">Turkey</a></li>
+<li><a href="/recipes/dishes/casserole-and-pot-pie-recipes">Casserole &amp; Pot Pies</a></li>
+<li class="seeAll"><a href="/recipes/courses/dinner-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/preparation/slow-cooker-recipes">Slow Cooker</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/preparation/slow-cooker-recipes/slow-cooker-chili">Slow Cooker Chili</a></li>
+<li><a href="/recipes/preparation/slow-cooker-recipes/slow-cooker-chicken-recipes">Slow Cooker Chicken</a></li>
+<li><a href="/recipes/preparation/slow-cooker-recipes/slow-cooker-soups">Slow Cooker Soup</a></li>
+<li><a href="/recipes/preparation/slow-cooker-recipes/slow-cooker-stews">Slow Cooker Stew</a></li>
+<li><a href="/recipes/preparation/slow-cooker-recipes/slow-cooker-italian">Slow Cooker Italian</a></li>
+<li class="seeAll"><a href="/recipes/preparation/slow-cooker-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes">Breakfast &amp; Brunch</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes/muffin-recipes">Muffins</a></li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes/scone-recipes">Scones</a></li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes/egg-bake-recipes">Egg Bakes</a></li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes/crepe-recipes">Crepes</a></li>
+<li><a href="/recipes/courses/breakfast-and-brunch-recipes/waffle-recipes">Waffles</a></li>
+<li class="seeAll"><a href="/recipes/courses/breakfast-and-brunch-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/courses/lunch-recipes">Lunch</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/salad-recipes">Salads</a></li>
+<li><a href="/recipes/dishes/sandwich-and-wrap-recipes">Sandwich and Wraps</a></li>
+<li><a href="/recipes/dishes/pizza-recipes">Pizza</a></li>
+<li><a href="/recipes/dishes/soup-recipes">Soups</a></li>
+<li><a href="/recipes/dishes/burrito-recipes">Burrito</a></li>
+<li class="seeAll"><a href="/recipes/courses/lunch-recipes">See All</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="withChildren">
+<a href="/recipes/courses/dessert-recipes">Desserts</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/recipes/dishes/bar-recipes">Bars</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/bar-recipes/supermoist-bar-recipes">Super Moist™ Bars</a></li>
+<li><a href="/recipes/dishes/bar-recipes/pumpkin-bars">Pumpkin Bars</a></li>
+<li><a href="/recipes/dishes/bar-recipes/no-bake-bars">No-Bake Bars</a></li>
+<li><a href="/recipes/dishes/bar-recipes/easy-fruit-bars">Fruit Bars</a></li>
+<li><a href="/recipes/dishes/bar-recipes/ooey-gooey-bars">Ooey-Gooey Bars</a></li>
+<li class="seeAll"><a href="/recipes/dishes/bar-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes/brownie-recipes">Brownies</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/brownie-recipes/frosted-brownies">Frosted Brownies</a></li>
+<li><a href="/recipes/dishes/brownie-recipes/chocolate-brownies">Chocolate Brownies</a></li>
+<li><a href="/recipes/dishes/cookie-recipes/brownie-cookies">Brownie Cookies</a></li>
+<li><a href="/recipes/product-recipes/brownie-mix-recipes/peanut-butter-brownie-recipes">Peanut Butter Brownies</a></li>
+<li><a href="/recipes/dishes/brownie-recipes/caramel-brownies">Caramel Brownies</a></li>
+<li class="seeAll"><a href="/recipes/dishes/brownie-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes/cookie-recipes">Cookies</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/cookie-recipes/christmas-cookies">Christmas Cookies</a></li>
+<li><a href="/recipes/dishes/cookie-recipes/halloween-cookies">Halloween Cookies</a></li>
+<li><a href="/recipes/dishes/cookie-recipes/cake-mix-cookies">Cake Mix Cookies</a></li>
+<li><a href="/recipes/dishes/cookie-recipes/red-velvet-cookies">Red Velvet Cookies</a></li>
+<li><a href="/recipes/dishes/cookie-recipes/cream-cheese-cookies">Cream Cheese Cookies</a></li>
+<li class="seeAll"><a href="/recipes/dishes/cookie-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes/cupcake-recipes">Cupcakes</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/cupcake-recipes/kids-cupcake-recipes">Kids Cupcakes</a></li>
+<li><a href="/recipes/dishes/cupcake-recipes/birthday-cupcake-recipes">Birthday Cupcakes</a></li>
+<li><a href="/recipes/dishes/cupcake-recipes/supermoist-cupcake-recipes">Super Moist™ Cupcakes</a></li>
+<li><a href="/recipes/dishes/cupcake-recipes/halloween-cupcake-recipes">Halloween Cupcakes</a></li>
+<li><a href="/recipes/dishes/cupcake-recipes/chocolate-cupcake-recipes">Chocolate Cupcakes</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes">Pie</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/pie-and-tart-recipes/chocolate-pie-recipes">Chocolate Pie</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes/cream-pie-recipes">Cream Pie</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes/impossibly-easy-pie-recipes">Impossibly Easy Pie</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes/fruit-pie-recipes">Fruit Pie</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes/apple">Apple Pie</a></li>
+<li class="seeAll"><a href="/recipes/dishes/pie-and-tart-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/recipes/dishes/cake-recipes">Cakes</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/cake-recipes/bundt-cake-recipes">Bundt Cakes</a></li>
+<li><a href="/recipes/dishes/cake-recipes/ice-cream-cake-recipes">Ice Cream Cakes</a></li>
+<li><a href="/recipes/dishes/cake-recipes/christmas-cake-recipes">Christmas Cakes</a></li>
+<li><a href="/recipes/dishes/cake-recipes/cake-pops">Cake Pops</a></li>
+<li><a href="/recipes/dishes/cake-recipes/chocolate-cake-recipes">Chocolate Cakes</a></li>
+<li class="seeAll"><a href="/recipes/dishes/cake-recipes">See All</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="withChildren">
+<a href="/special-occasions">Holidays &amp; Entertaining</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/special-occasions/birthdays">Birthdays</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/special-occasions/birthdays/adult-birthday-cakes">Adult Birthday Cakes</a></li>
+<li><a href="/special-occasions/birthdays/gluten-free-birthday-cakes">Gluten-Free Birthday Cake</a></li>
+<li><a href="/special-occasions/birthdays/birthday-desserts">Birthday Desserts</a></li>
+<li><a href="/special-occasions/birthdays/kids-birthday-cupcakes">Kids Birthday Cupcakes</a></li>
+<li><a href="/recipes/dishes/cake-recipes/kids-cake-recipes">Kids Birthday Cakes</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/gameday-and-tailgating-recipes">Game Day</a>
+</li>
+<li><a href="/special-occasions/st-patricks-day-recipes">St. Patrick's Day</a>
+</li>
+<li><a href="/special-occasions/easter">Easter</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/main-ingredient/potatoes">Potatoes</a></li>
+<li><a href="/recipes/main-ingredient/pork-recipes/ham-recipes">Ham</a></li>
+<li><a href="/menus-holidays-parties/mhplibrary/recipes/8-clever-twists-on-deviled-eggs">Deviled Eggs</a></li>
+<li><a href="/special-occasions/easter/easter-desserts">Easter Desserts</a></li>
+<li><a href="/menus-holidays-parties/mhplibrary/holidays/classic-easter-sides">Easter Sides</a></li>
+<li class="seeAll"><a href="/special-occasions/easter">See All</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/wedding-recipes">Wedding &amp; Shower</a>
+</li>
+<li><a href="/special-occasions/graduation-recipes">Graduation</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/special-occasions/graduation-recipes/graduation-desserts">Graduation Desserts</a></li>
+<li><a href="/special-occasions/graduation-recipes/punch-and-drink-recipes">Punch &amp; Drinks</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/july-4th">July 4th</a>
+</li>
+<li><a href="/special-occasions/easy-entertaining">Easy Entertaining</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/courses/appetizer-recipes">Appetizers</a></li>
+<li><a href="/special-occasions/graduation-recipes">Graduation</a></li>
+<li><a href="/special-occasions/picnic-recipes">Picnics</a></li>
+<li><a href="/special-occasions/gameday-and-tailgating-recipes">Game Day</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/halloween">Halloween</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/menus-holidays-parties/mhplibrary/seasonal-ideas/bettys-guide-to-halloween">Betty's Guide to Halloween</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/thanksgiving-recipes">Thanksgiving</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/main-ingredient/turkey-recipes">Turkey</a></li>
+<li><a href="/special-occasions/thanksgiving-recipes/sides">Thanksgiving Side Dishes</a></li>
+<li><a href="/recipes/dishes/gravy-recipes">Gravy</a></li>
+<li><a href="/recipes/dishes/pie-and-tart-recipes/thanksgiving">Thanksgiving Pie</a></li>
+<li><a href="/special-occasions/thanksgiving-recipes/thanksgiving-appetizers">Thanksgiving Appetizers</a></li>
+<li class="seeAll"><a href="/special-occasions/thanksgiving-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/christmas-recipes">Christmas</a>
+<ul class="simpleNavTertiaryItems">
+<li><a href="/recipes/dishes/cookie-recipes/christmas-cookies">Christmas Cookies</a></li>
+<li><a href="/special-occasions/christmas-recipes/christmas-appetizers">Christmas Appetizers</a></li>
+<li><a href="/special-occasions/christmas-recipes/christmas-desserts">Christmas Desserts</a></li>
+<li><a href="/special-occasions/christmas-recipes/christmas-dinner">Christmas Dinner</a></li>
+<li><a href="/how-to/tipslibrary/charts-timetables-measuring/timetable-roasting-meats">Timetable for Roasting Meats</a></li>
+<li class="seeAll"><a href="/special-occasions/christmas-recipes">See All</a></li>
+</ul>
+</li>
+<li><a href="/special-occasions/valentines-day-recipes">Valentine's Day</a>
+</li>
+</ul>
+</li>
+<li class="withChildren">
+<a href="/how-to">How-To</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/how-to/ask-betty">Ask Betty</a>
+</li>
+<li><a href="/how-to/holidays-and-entertaining">Holidays &amp; Entertaining</a>
+</li>
+<li><a href="/how-to/baking-and-desserts">Baking &amp; Desserts</a>
+</li>
+<li><a href="/how-to/ingredients-and-preparation">Ingredients &amp; Preparation</a>
+</li>
+<li><a href="/how-to/equipment">Equipment</a>
+</li>
+<li><a href="/how-to/meal-planning">Meal Planning</a>
+</li>
+<li><a href="/how-to/kids">Kids</a>
+</li>
+<li><a href="/how-to/healthy-eating">Healthy Eating</a>
+</li>
+</ul>
+</li>
+<li class="withChildren">
+<a href="/products">Products</a>
+<ul class="simpleNavSecondaryItems">
+<li><a href="/products/betty-crocker-mug-treats">Betty Crocker™ Mug Treats</a>
+</li>
+<li><a href="/products/betty-crocker-chilled-treats">Betty Crocker™ Chilled Treats</a>
+</li>
+<li><a href="/products/betty-crocker-brittle-mix">Betty Crocker™ Brittle Mix</a>
+</li>
+<li><a href="/products/betty-crocker-baking-and-cake-mixes">Betty Crocker™ Baking &amp; Cake Mixes</a>
+</li>
+<li><a href="/products/bisquick">Bisquick™</a>
+</li>
+<li><a href="/products/betty-crocker-brownies-and-dessert-bars">Betty Crocker™ Brownies and Bars</a>
+</li>
+<li><a href="/products/cookiemix">Betty Crocker™ Cookie Mixes</a>
+</li>
+<li><a href="/products/dessert-decorating-products">Betty Crocker™ Dessert Decorating &amp; Specialty Products</a>
+</li>
+<li><a href="/products/frosting">Betty Crocker™ Frosting</a>
+</li>
+<li><a href="/products/fruit-snacks">Fruit Snacks</a>
+</li>
+<li><a href="/products/gluten-free-baking-mix">Betty Crocker™ Gluten Free Baking</a>
+</li>
+<li><a href="/products/Helper">Helper™ </a>
+</li>
+<li><a href="/products/muffin-mixes">Betty Crocker™ Muffin Mixes</a>
+</li>
+<li><a href="/products/betty-crocker-potatoes">Potatoes</a>
+</li>
+<li><a href="/products/suddenly-salad">Suddenly Salad</a>
+</li>
+<li><a href="/products/betty-crocker-nuts">Betty Crocker™ Baking Nuts</a>
+</li>
+<li><a href="/products/betty-crocker-kitchen-accessories">Betty Crocker™ Kitchen Accessories</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/coupons/printable">Coupons &amp; Sales</a>
+</li>
+</ul>
+</nav>
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+        GeneralMills.PandoSites.SimpleNavigation.initialize();
+    });
+</script>
+</header>
+<div class="pageContainer">
+<div class="channelLinks noDisplayName" id="channellinks_0_ChannelLinksList">
+<div class="channelLinksInner">
+<ul>
+<li class="">
+<a class="" data-position="1" href="/menus-holidays-parties/mhplibrary/recipes/shop-a-weeks-worth-of-easy-soup-and-side-combos" target="" title="">Easy Soup and Side Combos</a>
+</li>
+<li class="">
+<a class="" data-position="2" href="/menus-holidays-parties/mhplibrary/everyday-meals/slow-cooker-chicken-dinners" target="" title="">The Best Slow-Cooker Chicken Dinners</a>
+</li>
+<li class="">
+<a class="" data-position="3" href="/recipes/jelly-doughnut-bundt-cake/10cda76a-b5e3-4313-9774-dae9b81f1411" target="" title="">This Cake is Better Than Box of Doughnuts</a>
+</li>
+<li class="">
+<a class="" data-position="4" href="/recipes/one-pot-creamy-shells-and-sausage/a088ac94-74d7-4a89-b08e-6b6e8b4c8950" target="" title="">One-Pot Creamy Shells and Sausage</a>
+</li>
+<li class="">
+<a class="" data-position="5" href="/how-to/how-to-cook-with-less-salt" target="" title="">How to Cook with Less Salt</a>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var config = {
+            controlId: "channellinks_0_ChannelLinksList"
+        };
+
+        document.addEventListener("DOMContentLoaded", function () {
+            GeneralMills.Contrib.ChannelLinks.Initialize(config);
+        });
+    })();
+</script>
+<section class="mainContainer">
+<div class="floatingBox" data-bind="floatingBox: { mobileBottomScrollThreshold: 1150 }">
+<div class="actionToolbar actionToolbarVertical actionToolbarAnchoredTop recipeDetailActionToolbar" data-bind="css: { favorited: isFavoriteItem, expanded: isExpanded }, delegatedAction: performAction" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50">
+<ul class="atButtons atButtonsPrimary">
+<li class="atButton atButtonPrint bm-seq0 bt-seq0 bd-seq0" data-button-id="9440f541-1622-407b-a529-9cb1f48ddf3a" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9440f541-1622-407b-a529-9cb1f48ddf3a_primary">
+<div class="atbName" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9440f541-1622-407b-a529-9cb1f48ddf3a_buttonName_primary">Print</div>
+<div class="atbCount" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9440f541-1622-407b-a529-9cb1f48ddf3a_shareCount_primary">4K</div>
+</li>
+<li class="atButton atButtonFavorite bm-seq1 bt-seq1 bd-seq1" data-button-id="a4fff957-6f0a-4e2f-820f-3f2cfbceef64" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_a4fff957-6f0a-4e2f-820f-3f2cfbceef64_primary">
+<div class="atbName" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_a4fff957-6f0a-4e2f-820f-3f2cfbceef64_buttonName_primary">Save</div>
+<div class="atbCount" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_a4fff957-6f0a-4e2f-820f-3f2cfbceef64_shareCount_primary">1K</div>
+</li>
+<li class="atButton atButtonPinterest bm-seq2 bt-seq2 bd-seq2" data-button-id="58ba9650-477b-4abe-bb46-1a60912cc27c" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_58ba9650-477b-4abe-bb46-1a60912cc27c_primary">
+<a class="atbLink" data-bind="click: preventDefaultClick" href="//pinterest.com/pin/create/link/?url=http%3a%2f%2fwww.bettycrocker.com%2frecipes%2flemon-garlic-shrimp-orzo-skillet%2fc6651cd9-7373-4f41-81b9-cc5ffc1bf032" target="_blank" title="Share to Pinterest">
+<div class="atbName" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_58ba9650-477b-4abe-bb46-1a60912cc27c_buttonName_primary">Pinterest</div>
+<div class="atbCount" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_58ba9650-477b-4abe-bb46-1a60912cc27c_shareCount_primary">1K</div>
+</a>
+</li>
+<li class="atButton atButtonEmail bm-seq3 bt-seq3 bd-seq3" data-button-id="c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc_primary">
+<div class="atbName" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc_buttonName_primary">Email</div>
+<div class="atbCount" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc_shareCount_primary">336</div>
+</li>
+<li class="atButton atButtonFacebook bm-seq4 bt-seq4 bd-seq4" data-button-id="9e7892b7-5ea2-441b-ab66-55a566402b31" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9e7892b7-5ea2-441b-ab66-55a566402b31_primary">
+<a class="atbLink" data-bind="click: preventDefaultClick" href="//facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.bettycrocker.com%2frecipes%2flemon-garlic-shrimp-orzo-skillet%2fc6651cd9-7373-4f41-81b9-cc5ffc1bf032" target="_blank" title="Share to Facebook">
+<div class="atbName" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9e7892b7-5ea2-441b-ab66-55a566402b31_buttonName_primary">Facebook</div>
+<div class="atbCount" id="gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_button_9e7892b7-5ea2-441b-ab66-55a566402b31_shareCount_primary">106</div>
+</a>
+</li>
+</ul>
+<div class="dialogContainer">
+<div class="actionToolbarEmailDialog" data-bind="attr: {id: emailDialog.dialogId}, jqDialog: { autoOpen: false, title: '', resizable: false, width: 'auto', zIndex:20002, modal: true, dialogClass: 'actionToolbarEmailDialogContainer' }, jqDialogVisible: emailDialog.isVisible">
+<h4 class="dialogHeading" data-bind="text:emailDialog.heading"></h4>
+<div class="requiredText" data-bind="text: emailDialog.requiredFieldText"></div>
+<ul class="emailValidationMessages" data-bind="visible: emailDialog.hasMessages, foreach: emailDialog.validationMessages">
+<li class="validationMessage" data-bind="text: $data"></li>
+</ul>
+<h4 class="sectionHeading" data-bind="text: emailDialog.sendToText"></h4>
+<label class="toEmailLabel" data-bind="text: emailDialog.emailAddressesLabel"></label>
+<textarea class="toEmailAddresses" data-bind="value:emailDialog.toEmailAddressesDelimited" name="emailAddresses"></textarea>
+<div class="emailInstruction" data-bind="text: emailDialog.emailInstructionText"></div>
+<h4 class="sectionHeading" data-bind="text: emailDialog.fromText"></h4>
+<label class="senderFirstNameLabel" data-bind="text: emailDialog.firstNameLabel"></label>
+<input class="senderFirstName" data-bind="value: emailDialog.senderFirstName" name="firstName" type="text"/>
+<label class="senderEmailAddressLabel" data-bind="text: emailDialog.senderEmailAddressLabel"></label>
+<input class="senderEmail" data-bind="value:emailDialog.senderEmailAddress" name="email" type="text"/>
+<input class="copyToSender" data-bind="checked:emailDialog.sendCopyToSender" type="checkbox"/>
+<label class="copyToSenderLabel" data-bind="text: emailDialog.copyToSenderLabel"></label>
+<div class="invisibleRecaptchaContainer"></div>
+<div class="buttons">
+<a class="sendButton" data-bind="click: emailDialog.send, text: emailDialog.sendButtonText"></a>
+<a class="cancelButton" data-bind="click: emailDialog.hide, text: emailDialog.cancelButtonText"></a>
+</div>
+<div class="privacyPolicy" data-bind="html: emailDialog.privacyPolicyText"></div>
+</div>
+</div>
+<div class="actionToolbarMessageDialog" data-bind="jqDialog: { autoOpen: false, title: '', resizable: false, width: 'auto', zIndex:20002, modal: true, dialogClass: 'actionToolbarMessageDialogContainer' }, jqDialogVisible: messageDialog.isVisible">
+<div class="message" data-bind="text:messageDialog.message"></div>
+</div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22ActionToolbarView_floatingactiontoolbar_0\x22,\x22viewName\x22\x3a\x22ActionToolbarView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var config = {"Id":"0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonText":"More","LessButtonText":"Less","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"UseModalRegistration":true,"NamePassedToEvents":"RDPToolbarRAIL","Buttons":[{"LayoutParameter":"p%3d1","Id":"9440f541-1622-407b-a529-9cb1f48ddf3a","AllowedForAnonymousUsers":true,"Type":"Print","DisplayName":"Print","NamePassedToEvents":"Print"},{"AddFavoriteErrorMessage":"Sorry, something went wrong. Please save again.","RemoveFavoriteErrorMessage":"Error occurred while removing from favorites","RegistrationUrl":null,"RegAction":"FAVORITE","ESourceCode":11275,"IsCurrentUserAnonymous":true,"IsFavoriteItem":false,"Id":"a4fff957-6f0a-4e2f-820f-3f2cfbceef64","AllowedForAnonymousUsers":false,"Type":"Favorite","DisplayName":"Save","NamePassedToEvents":"Favorite"},{"ProviderName":"pinterest","ProviderNamePassedToEvents":"Pinterest","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//pinterest.com/pin/create/link/?url={0}","Id":"58ba9650-477b-4abe-bb46-1a60912cc27c","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Pinterest","NamePassedToEvents":"Pinterest"},{"TemplateId":"49ea4ab1-767d-497f-8521-8956bf53ee30","DialogHeading":"Email Recipe","EmailCode":"BC_ContentEmail","DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","Id":"c9d11c79-b5b2-4bf4-be97-50bf9b3a44dc","AllowedForAnonymousUsers":true,"Type":"Email","DisplayName":"Email","NamePassedToEvents":"Email"},{"ProviderName":"facebook","ProviderNamePassedToEvents":"Facebook","GigyaApiKey":"3_S0-oOwHG8WbayyEjEgoJhPVvM6gQOBj7PsueOreixE8y8wxgh9lWmNGiZ1ZYIwkQ","ShareUrlFormat":"//facebook.com/sharer/sharer.php?u={0}","Id":"9e7892b7-5ea2-441b-ab66-55a566402b31","AllowedForAnonymousUsers":true,"Type":"Social","DisplayName":"Facebook","NamePassedToEvents":"Facebook"}],"DialogSettings":{"CancelButtonText":"Cancel","CopyToSenderLabel":"Send a Copy to Myself","EmailAddressesLabel":"* Email Address(es)","EmailInstructionText":"Separate email addresses with commas","FromText":"From:","PrivacyPolicyText":"<p>&copy;2019 General Mills, Inc. All Rights Reserved. This information will only be used to send an email to your friend(s) and will not be saved. Please read our <a rel=\"noopener noreferrer\" href=\"http://www.generalmills.com/company/privacy-policies/privacy-policy-us\" target=\"_blank\" shape=\"rect\">Privacy Policy</a>.</p>","RequiredFieldText":"* Required","SendButtonText":"Send","SenderEmailAddressLabel":"* Your Email Address","SenderFirstNameLabel":"* Your First Name","SendToText":"Send To:"},"RecaptchaPublicKey":"6LfU_icUAAAAALSqSjRg5hqZwbPr1b8k-_80a_S_","ControlIds":{"ToolbarId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50","MoreButtonId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButton","MoreButtonTextId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_moreButtonText","CollapsedButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_collapsedButtons","SecondaryButtonsId":"gmi_actionToolbar_0062db4d-452e-4eba-af2d-b8dce44acc50_secondaryButtons"}};
+            config.IsCurrentUserAnonymous =  'True' === 'True';
+            config.IsFavoriteItem =  'False' === 'True';
+            config.ContentId = 'c6651cd9-7373-4f41-81b9-cc5ffc1bf032';
+            config.PageUrl = 'http%3a%2f%2fwww.bettycrocker.com%2frecipes%2flemon-garlic-shrimp-orzo-skillet%2fc6651cd9-7373-4f41-81b9-cc5ffc1bf032';
+
+            GeneralMills.ActionToolbar.initialize(config);
+        }, componentMetadata);
+    })();
+</script>
+</div>
+<script type="text/javascript">
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeTaggingView_main_1\x22,\x22viewName\x22\x3a\x22RecipeTaggingView\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            jQuery('.actionToolbar').data("emailAttributes", ["RECIPE_ID%%c6651cd9-7373-4f41-81b9-cc5ffc1bf032","RECIPE_TITLE%%Lemon-Garlic Shrimp Orzo Skillet","RECIPE_DESCRIPTION%%You know that phrase, &#8220;a little goes a long way?&#8221; Well, that absolutely applies to this dish, which tastes rich and buttery but actually only includes 2 tablespoons of butter! The trick is waiting until the end to add the butter when it can enrich the orzo, which has already been flavored by cooking in broth, and the zucchini, which has a naturally buttery taste when sautéed. The shrimp, also added at the end, gets infused with all the flavors already in the pan, so the whole dish is redolent of garlic and butter and only needs a squeeze of lemon and sprinkle of fresh herbs for contrast. Garnishing with a bit of nutty Parmesan takes it all over the top. ","RECIPE_PREP_TIME%%15 min","RECIPE_TOTAL_TIME%%45 min","RECIPE_SERVINGS%%About 1 Cup","RECIPE_STARS%%stars_5.0.gif","RECIPE_RATING%%0.959999978542328","RECIPE_RATERS%%12","RECIPE_REVIEWERS%%12","RECIPE_IMAGELINK%%&lt;a class=&#39;ImageLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032&#39;&gt;&lt;img alt=&#39;Lemon-Garlic Shrimp Orzo Skillet&#39; class=&#39;ImageLinkHtml&#39;  src=&#39;//images-gmi-pmc.edge-generalmills.com/b10b46a3-3a72-4438-ab21-01a46c4d8f22.jpg&#39;/&gt;&lt;/a&gt;","RECIPE_TITLELINK%%&lt;a class=&#39;TitleLinkAnchor&#39; href=&#39;https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032&#39;&gt;Lemon-Garlic Shrimp Orzo Skillet&lt;/a&gt;","RECIPE_LINK%%https://www.bettycrocker.com/recipes/lemon-garlic-shrimp-orzo-skillet/c6651cd9-7373-4f41-81b9-cc5ffc1bf032"]);
+        }, componentMetadata);
+    })();
+</script>
+<div class="recipePartDataHolder"></div>
+<div class="recipeDetail" itemscope="" itemtype="http://schema.org/Recipe">
+<div class="preColumns">
+<div class="recipeTitleAndReviewSummary">
+<div class="recipePartTitle">
+<h1 class="recipePartTitleText" id="gmi_rp_recipeTitle" itemprop="name">Lemon-Garlic Shrimp Orzo Skillet</h1>
+</div>
+<span itemprop="keywords" style="display:none;">lemon-garlic shrimp orzo skillet</span>
+<span itemprop="recipeCategory" style="display:none;">Entree</span>
+<div class="ratingDisplay">
+<a href="#reviewDiv">
+<span class="stars star-100"></span>
+<span class="ratingCount">12 Ratings</span>
+</a>
+</div>
+<div class="reviewDisplay">
+<a href="#reviewDiv">
+<span class="reviewCount">12 Comments</span>
+</a>
+</div>
+<div class="aggregateRating" itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<meta content="5" itemprop="ratingValue"/>
+<meta content="12" itemprop="ratingCount"/>
+<meta content="5" itemprop="bestRating"/>
+<meta content="1" itemprop="worstRating"/>
+</div>
+<div class="kitchenTestedBadge">
+<a href="/about-us/kitchen-tested">
+<span class="kitchenTestedImg">
+<img src="/-/media/Images/Shared/RecipeParts/KitchenTested_BC1.jpg"/></span>
+<span class="kitchenTestedTxt">Kitchen Tested</span>
+</a>
+</div>
+</div>
+<div class="recipeImage">
+<!-- CUSTOMIZATION - Allow overriding image alt text -->
+<picture class="recipePartRecipeImage" id="gmi_rp_recipeImage">
+<source media="(min-width: 767px)" srcset="https://images-gmi-pmc.edge-generalmills.com/25a8d453-0f4c-4aff-82d6-a3bb2ec06902.jpg"/>
+<source media="(min-width: 500px)" srcset="https://images-gmi-pmc.edge-generalmills.com/b10b46a3-3a72-4438-ab21-01a46c4d8f22.jpg"/>
+<source media="(min-width: 0px)" srcset="https://images-gmi-pmc.edge-generalmills.com/dc2a47ac-c124-4ceb-b05e-5915c4e7aa68.jpg"/>
+<!-- CUSTOMIZATION - Allow overriding image alt text -->
+<img alt="Lemon-Garlic Shrimp Orzo Skillet" src="https://images-gmi-pmc.edge-generalmills.com/25a8d453-0f4c-4aff-82d6-a3bb2ec06902.jpg"/>
+</picture>
+<meta content="https://images-gmi-pmc.edge-generalmills.com/dc2a47ac-c124-4ceb-b05e-5915c4e7aa68.jpg" itemprop="image">
+<script>
+    (function (window, GeneralMills) {
+        document.addEventListener("DOMContentLoaded", function () {
+            var brandingHeaderViewModel = GeneralMills.NativeAds.BrandingHeader();
+            brandingHeaderViewModel.Initialize(true, true, false);
+        });
+    })(window, window.GeneralMills || (window.GeneralMills = {}));
+</script>
+<div class="" id="nativeAdsBrandingHeader">
+<div data-alt="Light Start Right Start" data-picture="true" id="PictureWrapper">
+<div data-src="/-/media/Images/Shared/NativeAds/BrandingHeaders/campaigns/light-start-right-start-2020/LSRS_BrHeader_RDP_Mobile.png"></div>
+<div data-media="(min-width : 1px" data-src="/-/media/Images/Shared/NativeAds/BrandingHeaders/campaigns/light-start-right-start-2020/LSRS_BrHeader_RDP_Mobile.png"></div>
+<div data-media="(min-width : 501px)" data-src="/-/media/Images/Shared/NativeAds/BrandingHeaders/campaigns/light-start-right-start-2020/LSRS_BrHeader_RDP_Desktop.png"></div>
+<div data-media="(min-width : 1001px)" data-src="/-/media/Images/Shared/NativeAds/BrandingHeaders/campaigns/light-start-right-start-2020/LSRS_BrHeader_RDP_Desktop.png"></div>
+<!-- Fallback content for non-JS browsers -->
+<noscript>
+<img alt="Light Start Right Start" src="/-/media/Images/Shared/NativeAds/BrandingHeaders/campaigns/light-start-right-start-2020/LSRS_BrHeader_RDP_Mobile.png"/>
+</noscript>
+</div>
+<a class="nativeAdsBrandingHeaderLink" href="/register/light-start-right-start" target=""></a>
+</div>
+</meta></div>
+<div class="recipePrimaryAttributesAndToolbar">
+<div class="recipePartAttributes recipePartPrimaryAttributes">
+<ul>
+<li id="gmi_rp_primaryAttributes_prep_">
+<span class="attributeName">Prep </span>
+<span class="attributeValue">15</span>
+<span class="attributeValueLabel">min</span>
+</li>
+<li id="gmi_rp_primaryAttributes_total">
+<span class="attributeName">Total</span>
+<span class="attributeValue">45</span>
+<span class="attributeValueLabel">min</span>
+</li>
+<li id="gmi_rp_primaryAttributes_servings">
+<span class="attributeName">Servings</span>
+<span class="attributeValue">4</span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="columns">
+<div class="recipeDescription primary">
+<div class="recipePartDescription">
+<p class="recipePartDescriptionText expandableText" id="gmi_rp_recipeDescription_text">
+<span class="full-desc fullText" itemprop="description">You know that phrase, “a little goes a long way?” Well, that absolutely applies to this dish, which tastes rich and buttery but actually only includes 2 tablespoons of butter! The trick is waiting until the end to add the butter when it can enrich the orzo, which has already been flavored by cooking in broth, and the zucchini, which has a naturally buttery taste when sautéed. The shrimp, also added at the end, gets infused with all the flavors already in the pan, so the whole dish is redolent of garlic and butter and only needs a squeeze of lemon and sprinkle of fresh herbs for contrast. Garnishing with a bit of nutty Parmesan takes it all over the top. </span>
+<span class="short-desc shortText"></span>
+<a class="expand-desc expandLink">MORE+</a>
+<a class="collapse-desc collapseLink">LESS-</a>
+</p>
+</div>
+</div>
+<div class="recipeContributor primary">
+<div class="contributorContainer">
+<div class="contributor" id="gmi_rp_contributor_div">
+<span class="contributorPage" itemprop="author" itemscope="" itemtype="http://schema.org/Person"><span class="postedByText" id="gmi_rp_contributorDetails">By</span>
+<a href="https://www.bettycrocker.com/about-us"><span itemprop="name">Betty Crocker Kitchens</span></a>
+</span>
+</div>
+<div class="contributorExternal"></div>
+<div class="recipeDate" id="gmi_rp_createDate_text">
+            Updated November 21, 2019 
+        </div>
+<meta content="10/18/2019" itemprop="dateCreated">
+<meta content="11/21/2019" itemprop="dateModified">
+</meta></meta></div>
+<div class="recipePartMadeWithBadge" id="gmi_rp_madewithbadge">
+<img alt="Progresso Broth" class="recipePartsMadeWithBadgeImage" src="/-/media/Images/Shared/RecipeParts/make-with/MakeWith_100x100_Progresso_Broth.jpg"/>
+<div class="recipePartsMadeWithBadgeDetails">
+<div id="madeWithLabel">Make with</div>
+<div id="madeWithText">Progresso Broth</div>
+</div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeMadeWithBadgeView_recipecontributor_1\x22,\x22viewName\x22\x3a\x22RecipeMadeWithBadgeView\x22\x7d');
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            GeneralMills.Analytics.raiseEvent({
+                EventType: "MadeWithMetadataImpression",
+                BoostedMetadataId: "d8511348-e213-5a22-8fbd-9f4c880b6a43"
+            });
+        }, componentMetadata);
+    })();
+</script>
+</div>
+<div class="recipeSavingsByIngredient primary">
+<div class="recipeParts-savings-container" data-bind="visible: isViewVisible, css: { 'recipeParts-savings-container-forModal': configuration.UseModalMode }" id="recipeParts-savings-container-c1775cbe-3975-49cb-ad04-383f5ea8902a" style="display: none;">
+<div class="recipeParts-savings-teaser">
+<span class="savings-list-collapse" data-bind="click: toggleSavingsListCollapse, visible: !configuration.UseModalMode, css: { collapsed: isSavingsListCollapsed }"></span>
+<div class="savings-teaser-count" data-bind="click: toggleSavingsListCollapse">
+<div class="savings-teaser-count-icon" data-bind="html: configuration.IconBeforeNumberOfIngredientsWithSavings"></div>
+<span class="savings-teaser-count-prefix" data-bind="text: configuration.TextBeforeNumberOfIngredientsWithSavings"></span>
+<span class="savings-teaser-count-number" data-bind="text: numberOfIngredientsWithSavings"></span>
+<span class="savings-teaser-count-suffix" data-bind="text: configuration.TextAfterNumberOfIngredientsWithSavings"></span>
+</div>
+<div class="savings-filters">
+<div class="geolocation-container" data-bind="visible: isLocationVisible">
+<label class="geolocation-label" data-bind="text: configuration.Settings.LabelForLocationBox"></label>
+<input class="geolocation-input" data-bind="value: location, valueUpdate: 'input'" pattern="\d*" title=""/>
+<button class="geolocation-button" data-bind="click: saveLocation, text: configuration.Settings.ButtonTextForLocationBox, enable: location, visible: !showLocationButtonClicked()" type="button"></button>
+<span class="location-filter-check" data-bind="visible: showLocationButtonClicked"></span>
+</div>
+<div class="master-retailer-dropdown" data-bind="visible: masterRetailers().length">
+<label class="retailer-filter-label" data-bind="text:  configuration.Settings.LabelForRetailerFilter"></label>
+<select data-bind="options: masterRetailers, value: selectedMasterRetailer, optionsText: 'name', optionsValue: 'id'"></select>
+<button class="retailer-filter-button" data-bind="click: updateMasterRetailer, text: configuration.Settings.ButtonTextForRetailerFilter, visible: !isShowingFilteredCheck()" type="button"></button>
+<span class="retailer-filter-check" data-bind="visible: isShowingFilteredCheck"></span>
+</div>
+</div>
+</div>
+<div class="recipeParts-savings" data-auto-open="false" data-bind="visible: !isSavingsListCollapsed(), css: { 'recipeParts-savings-forModal': configuration.UseModalMode }" data-dialog-class="recipeParts-savings-modal" data-draggable="false" data-modal="true" data-resizable="false" data-width="auto" id="recipeParts-savings-c1775cbe-3975-49cb-ad04-383f5ea8902a">
+<div class="savings-list" data-bind="visible: activeView() === views.list">
+<div class="savings-ingredientName" data-bind="visible: configuration.UseModalMode">
+<span class="savings-ingredientName-prefix" data-bind="text: configuration.TextBeforeIngredientName"></span>
+<span class="savings-ingredientName-text" data-bind="text: singleActiveIngredientName"></span>
+</div>
+<div data-bind="visible: configuration.UseModalMode">
+<button class="savings-modal-change-location" data-bind="text: configuration.ButtonTextForLocationOrStoreChange, click: hideSavings" type="button"></button>
+</div>
+<div data-bind="visible: !configuration.UseModalMode">
+<div class="savings-noGroceryServerSavings" data-bind="visible: isNoMyGroceryDealsSavingsContentVisible, html: configuration.Settings.ContentWhenNoMyGroceryDealsSavingsAreAvailable"></div>
+<div class="savings-list-container savings-list-container-groceryServer" data-bind="visible: myGroceryDealsSavingsForActiveIngredients().length">
+<div class="savings-list-header" data-bind="text: configuration.HeaderAboveMyGroceryDealsSavings"></div>
+<div class="savings-list-items-container">
+<ul class="savings-list-items" data-bind="foreach: myGroceryDealsSavingsForActiveIngredients">
+<li class="savings-list-item">
+<div class="savings-list-item-image-container">
+<!--*** PN Customization *** Adding lazyload of images using lazysizes.js-->
+<img class="savings-list-item-image lazyload" data-bind="attr: { 'data-src': image_url }"/>
+</div>
+<div class="savings-list-item-details">
+<div class="savings-list-item-header">
+<span class="savings-list-item-product" data-bind="text: display_name"></span>
+<span class="savings-list-item-title" data-bind="text: custom_price"></span>
+</div>
+<div class="savings-list-item-beforeRetailer" data-bind="text: $root.configuration.Settings.BeforeRetailerText"></div>
+<div class="savings-list-item-retailer" data-bind="text: chain_name"></div>
+<div class="savings-list-item-packageSize" data-bind="text: display_package_size"></div>
+<div class="savings-list-item-description" data-bind="text: $root.configuration.Settings.ExplanatoryTextOnEachGroceryServerSaving"></div>
+<div class="savings-list-item-description" data-bind="css: { 'showAll': isShowingLongerDescription }">
+<span class="savings-list-item-descriptionShort" data-bind="text: truncatedDescription"></span>
+<span class="savings-list-item-descriptionLong" data-bind="visible: isShowingLongerDescription(), text: remainder_display_additional()"></span>
+<span class="savings-list-item-description-lengthToggle" data-bind="visible: showDescriptionLengthToggle(), text: descriptionLengthToggleText, click: toggleDescriptionLength"></span>
+</div>
+<div class="savings-list-item-expiration">
+<span class="savings-list-item-expiration-label" data-bind="text: $root.configuration.Settings.LabelForGroceryServerExpirationDates"></span>
+<span class="savings-list-item-expiration-text" data-bind="text: display_sale_end"></span>
+</div>
+</div>
+</li>
+</ul>
+<div class="savings-list-linkToFullPage-container" data-bind="visible: isDisplayingAllSavings">
+<a class="savings-list-linkToFullPage" data-bind="click: redirectToMyGroceryDealsPageWithSeeAllSalesEvent, text: configuration.LinkTextForMyGroceryDealsPage"></a>
+</div>
+</div>
+</div>
+<button class="savings-displayAllSavings" data-bind="text: configuration.ButtonTextForLoadingAllSavings, click: onDisplayAllSavingsClick, visible: isDisplayAllSavingsButtonVisible" type="button"></button>
+</div>
+<div class="savings-list-container savings-list-container-couponsInc" data-bind="visible: couponsIncSavingsForActiveIngredients().length">
+<div class="savings-list-header">
+<span class="savings-list-header-text" data-bind="text: configuration.HeaderAboveCouponsIncSavings"></span>
+<span class="help-icon help-icon-couponsInc"></span>
+</div>
+<div class="savings-list-items-container">
+<ul class="savings-list-items" data-bind="foreach: couponsIncSavingsForActiveIngredients">
+<li class="savings-list-item">
+<div class="savings-list-item-image-container">
+<img class="savings-list-item-image" data-bind="attr: { src: imageUrl }"/>
+</div>
+<div class="savings-list-item-details">
+<div class="savings-list-item-header">
+<span class="savings-list-item-product" data-bind="text: brand"></span>
+<span class="savings-list-item-title" data-bind="text: summary"></span>
+</div>
+<div class="savings-list-item-description" data-bind="css: { 'savings-list-item-description-longer': isShowingLongerDescription }">
+<span class="savings-list-item-description-short" data-bind="text: truncatedDescription"></span>
+<span class="savings-list-item-description-long" data-bind="text: remainderDescription()"></span>
+<span class="savings-list-item-description-lengthToggle" data-bind="visible: showDescriptionLengthToggle(), text: descriptionLengthToggleText, click: toggleDescriptionLength"></span>
+</div>
+</div>
+<button class="savings-list-button savings-list-button-print" data-bind="text: printButtonText, click: $root.printGateway, attr: { disabled: hasBeenPrinted }, css: printButtonClass" type="button"></button>
+<button class="savings-list-button savings-list-button-email" data-bind="text: emailButtonText, click: $root.switchToEmailViewWithActiveSaving, css: emailButtonClass" type="button"></button>
+</li>
+</ul>
+<div class="savings-list-linkToFullPage-container">
+<a class="savings-list-linkToFullPage" data-bind="click: redirectToCouponsIncPageWithSeeAllSalesEvent, text: configuration.LinkTextForCouponsIncPage"></a>
+</div>
+</div>
+</div>
+<div class="savings-list-container savings-list-container-cellfire" data-bind="visible: cellfireSavingsForActiveIngredients().length">
+<div class="savings-list-header">
+<span class="savings-list-header-text" data-bind="text: configuration.HeaderAboveCellfireSavings"></span>
+<span class="help-icon help-icon-cellfire"></span>
+</div>
+<div class="savings-list-currentRetailer">
+<span class="savings-list-currentRetailer-prefix" data-bind="text: configuration.Settings.TextBeforeCellfireRetailerName"></span>
+<span class="savings-list-currentRetailer-name" data-bind="text: cellfireRetailerName"></span><span class="savings-list-currentRetailer-suffix" data-bind="    text: configuration.Settings.TextAfterCellfireRetailerName"></span>
+<a class="savings-list-currentRetailer-change" data-bind="text: configuration.Settings.TextForSwitchingToViewForChangingCellfireRetailer, click: changeCellfireRetailer"></a>
+</div>
+<div class="savings-list-items-container">
+<ul class="savings-list-items" data-bind="foreach: cellfireSavingsForActiveIngredients">
+<li class="savings-list-item">
+<div class="savings-list-item-image-container">
+<img class="savings-list-item-image" data-bind="attr: { src: imageUrl }"/>
+</div>
+<div class="savings-list-item-details">
+<div class="savings-list-item-header">
+<div class="savings-list-item-product" data-bind="text: name"></div>
+<span class="savings-list-item-faceValue-prefix" data-bind="text: $root.configuration.Settings.TextBeforeCellfireFaceValues"></span><span class="savings-list-item-faceValue" data-bind="text: formattedFaceValue"></span>
+</div>
+<div class="savings-list-item-retailerContainer">
+<div class="savings-list-item-beforeRetailer" data-bind="text: $root.configuration.Settings.CellfireBeforeRetailerText"></div>
+<div class="savings-list-item-retailer" data-bind="text: merchantName"></div>
+</div>
+<div class="savings-list-item-description" data-bind="css: { 'savings-list-item-description-longer': isShowingLongerDescription }">
+<div class="savings-list-item-description-short" data-bind="text: description"></div>
+<div class="savings-list-item-description-long" data-bind="text: longDescription"></div>
+<span class="savings-list-item-description-lengthToggle" data-bind="text: descriptionLengthToggleText, click: toggleDescriptionLength"></span>
+</div>
+<div class="savings-list-item-displayBefore">
+<span class="savings-list-item-displayBeforeDateText" data-bind="text: $root.configuration.Settings.LabelForCellfireDisplayBeforeDates"></span>
+<span class="savings-list-item-displayBeforeDate" data-bind="text: formattedDisplayBeforeDate"></span>
+</div>
+<div class="savings-list-item-expiration">
+<span class="savings-list-item-expiration-label" data-bind="text: $root.configuration.Settings.LabelForCellfireExpirationDates"></span>
+<span class="savings-list-item-expiration-text" data-bind="text: formattedExpirationDate"></span>
+</div>
+</div>
+<button class="savings-list-button savings-list-button-addToCard" data-bind="text: addToCardButtonText, click: $root.addToCard, attr: { disabled: hasBeenAddedToCard }, css: addToCardButtonClass" type="button"></button>
+</li>
+</ul>
+<div class="savings-list-linkToFullPage-container">
+<a class="savings-list-linkToFullPage" data-bind="click: redirectToCellfireOffersPageWithSeeAllSalesEvent, text: configuration.LinkTextForCellfireOffersPage"></a>
+</div>
+</div>
+</div>
+<div data-bind="visible: configuration.UseModalMode">
+<div class="savings-noGroceryServerSavings" data-bind="visible: isNoMyGroceryDealsSavingsContentVisible, html: configuration.Settings.ContentWhenNoMyGroceryDealsSavingsAreAvailable"></div>
+<div class="savings-list-container savings-list-container-groceryServer" data-bind="visible: myGroceryDealsSavingsForActiveIngredients().length">
+<div class="savings-list-header" data-bind="text: configuration.HeaderAboveMyGroceryDealsSavings"></div>
+<div class="savings-list-items-container">
+<ul class="savings-list-items" data-bind="foreach: myGroceryDealsSavingsForActiveIngredients">
+<li class="savings-list-item">
+<div class="savings-list-item-image-container">
+<!--*** PN Customization *** Adding lazyload of images using lazysizes.js-->
+<img class="savings-list-item-image lazyload" data-bind="attr: { 'data-src': image_url }"/>
+</div>
+<div class="savings-list-item-details">
+<div class="savings-list-item-header">
+<span class="savings-list-item-product" data-bind="text: display_name"></span>
+<span class="savings-list-item-title" data-bind="text: custom_price"></span>
+</div>
+<div class="savings-list-item-beforeRetailer" data-bind="text: $root.configuration.Settings.BeforeRetailerText"></div>
+<div class="savings-list-item-retailer" data-bind="text: chain_name"></div>
+<div class="savings-list-item-packageSize" data-bind="text: display_package_size"></div>
+<div class="savings-list-item-description" data-bind="text: $root.configuration.Settings.ExplanatoryTextOnEachGroceryServerSaving"></div>
+<div class="savings-list-item-description" data-bind="css: { 'showAll': isShowingLongerDescription }">
+<span class="savings-list-item-descriptionShort" data-bind="text: truncatedDescription"></span>
+<span class="savings-list-item-descriptionLong" data-bind="visible: isShowingLongerDescription(), text: remainder_display_additional()"></span>
+<span class="savings-list-item-description-lengthToggle" data-bind="visible: showDescriptionLengthToggle(), text: descriptionLengthToggleText, click: toggleDescriptionLength"></span>
+</div>
+<div class="savings-list-item-expiration">
+<span class="savings-list-item-expiration-label" data-bind="text: $root.configuration.Settings.LabelForGroceryServerExpirationDates"></span>
+<span class="savings-list-item-expiration-text" data-bind="text: display_sale_end"></span>
+</div>
+</div>
+</li>
+</ul>
+<div class="savings-list-linkToFullPage-container" data-bind="visible: isDisplayingAllSavings">
+<a class="savings-list-linkToFullPage" data-bind="click: redirectToMyGroceryDealsPageWithSeeAllSalesEvent, text: configuration.LinkTextForMyGroceryDealsPage"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="savings-loadingIndicator" data-bind="visible: pendingSavingsRequestCount, html: configuration.Settings.ContentWhileSavingsAreLoading"></div>
+<button class="savings-list-hideSavings" data-bind="visible: isDisplayingAllSavings, text: configuration.ButtonTextForHidingSavings, click: hideSavings" type="button"></button>
+</div>
+<div class="savings-actionRequired savings-email" data-bind="visible: activeView() === views.email">
+<div class="savings-email-custom">
+<div class="savings-actionRequired-header" data-bind="text: configuration.Settings.HeaderForEmailingToCustomAddress"></div>
+<div class="savings-actionRequired-content" data-bind="html: configuration.Settings.ContentForEmailingToCustomAddress"></div>
+<label class="savings-email-custom-label" data-bind="html: configuration.Settings.LabelForCustomEmailAddressBox"></label>
+<input class="savings-email-custom-input" data-bind="value: customEmailAddress"/>
+<button class="savings-email-custom-button" data-bind="text: configuration.Settings.ButtonTextForEmailingToCustomAddress, click: emailToCustomAddress" type="button"></button>
+</div>
+<a class="savings-actionRequired-cancelLink" data-bind="text: configuration.Settings.TextForCancellingWhenEmailing, click: cancelCouponsIncAction"></a>
+</div>
+<div class="savings-actionRequired savings-noCard" data-bind="visible: activeView() === views.noCard">
+<div class="savings-actionRequired-header" data-bind="text: configuration.Settings.HeaderWhenNoCardIsAdded"></div>
+<div class="savings-actionRequired-content" data-bind="html: configuration.Settings.ContentWhenNoCardIsAdded"></div>
+<div class="savings-actionRequired-links">
+<a class="savings-actionRequired-actionLink" data-bind="text: configuration.Settings.LinkTextForAddingACard, click: redirectToCellfireOffersPageWithIntentToAddCard"></a>
+<a class="savings-actionRequired-cancelLink" data-bind="text: configuration.Settings.TextForCancellingWhenNoCardIsAdded, click: cancelCellfireAction"></a>
+</div>
+</div>
+<div class="savings-actionRequired savings-noPrinter" data-bind="visible: activeView() === views.noPrinter">
+<div class="savings-actionRequired-header" data-bind="text: configuration.Settings.HeaderWhenNoPrinterIsInstalled"></div>
+<div class="savings-actionRequired-content" data-bind="html: configuration.Settings.ContentWhenNoPrinterIsInstalled"></div>
+<div class="savings-actionRequired-links">
+<a class="savings-actionRequired-actionLink" data-bind="text: configuration.Settings.LinkTextForInstallingPrinter, click: redirectToCouponsIncPageWithIntentToInstallPrinter"></a>
+<a class="savings-actionRequired-cancelLink" data-bind="text: configuration.Settings.TextForCancellingWhenNoPrinterIsInstalled, click: cancelCouponsIncAction"></a>
+</div>
+</div>
+<div class="savings-actionRequired savings-printGateway" data-bind="visible: activeView() === views.printGateway">
+<div class="savings-actionRequired-content" data-bind="html: configuration.Settings.PrintGatewayContent"></div>
+<div class="savings-actionRequired-links">
+<a class="savings-actionRequired-actionLink" data-bind="text: configuration.Settings.PrintGatewayApprove, click: print"></a>
+<a class="savings-actionRequired-cancelLink" data-bind="text: configuration.Settings.PrintGatewayCancel, click: redirectToCouponsIncPrintHelpPage"></a>
+</div>
+</div>
+<div class="savings-actionRequired savings-changeCellfireRetailer" data-bind="visible: activeView() === views.changeCellfireRetailer">
+<div class="savings-actionRequired-header" data-bind="text: configuration.HeaderWhenPromptedToChangeCellfireRetailer"></div>
+<div class="savings-actionRequired-content" data-bind="html: configuration.ContentWhenPromptedToChangeCellfireRetailer"></div>
+<div class="savings-actionRequired-links">
+<a class="savings-actionRequired-actionLink" data-bind="text: configuration.LinkTextForChangingCellfireRetailer, click: redirectToCellfireRetailersPage"></a>
+<a class="savings-actionRequired-cancelLink" data-bind="text: configuration.TextForCancellingWhenPromptedToChangeCellfireRetailer, click: cancelCellfireAction"></a>
+</div>
+</div>
+<div class="savings-printing" data-bind="visible: activeView() === views.printing">
+<div class="savings-printing-content" data-bind="html: configuration.Settings.ContentWhilePrinting"></div>
+</div>
+<div class="savings-error savings-noSavings" data-bind="visible: activeView() === views.noSavings">
+<div class="savings-error-content" data-bind="html: configuration.Settings.ContentWhenNoSavingsAreAvailable"></div>
+<button class="savings-error-cancelButton" data-bind="visible: configuration.UseModalMode, text: configuration.ButtonTextWhenNoSavingsAreAvailable, click: closeModal" type="button"></button>
+</div>
+<div class="savings-error savings-addToCardError" data-bind="visible: activeView() === views.addToCardError">
+<div class="savings-error-content" data-bind="html: configuration.Settings.ContentWhenAddingToCardFails"></div>
+<button class="savings-error-cancelButton" data-bind="text: configuration.Settings.ButtonTextWhenAddingToCardFails, click: switchToListView" type="button"></button>
+</div>
+<div class="savings-error savings-printError" data-bind="visible: activeView() === views.printError">
+<div class="savings-error-content" data-bind="html: configuration.Settings.ContentWhenPrintingFails"></div>
+<button class="savings-error-cancelButton" data-bind="text: configuration.Settings.ButtonTextWhenPrintingFails, click: switchToListView" type="button"></button>
+</div>
+<div class="savings-error savings-emailError" data-bind="visible: activeView() === views.emailError">
+<div class="savings-error-content" data-bind="html: configuration.Settings.ContentWhenEmailingFails"></div>
+<button class="savings-error-cancelButton" data-bind="text: configuration.Settings.ButtonTextWhenEmailingFails, click: switchToEmailView" type="button"></button>
+</div>
+</div>
+</div>
+<iframe frameborder="0" id="PrintIdIframe" name="PrintIdIframe" style="display:none"></iframe>
+<div id="PrintCouponsDialog" style="display: none;"></div>
+<script>
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22Simple\x22,\x22deferId\x22\x3a\x22savings21778936\x22,\x22deferredContainerId\x22\x3a\x22SavingsByIngredient\x22,\x22deferredContainerView\x22\x3a\x22RecipeDetail\x22\x7d,\x22componentName\x22\x3a\x22Savings_savingsbyingredient_0\x22,\x22viewName\x22\x3a\x22Savings\x22\x7d');
+
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            GeneralMills.RecipeParts.Savings.initialize({"ContainerDivId":"recipeParts-savings-container-c1775cbe-3975-49cb-ad04-383f5ea8902a","DivId":"recipeParts-savings-c1775cbe-3975-49cb-ad04-383f5ea8902a","Ingredients":[{"Id":"393eb340-d0d6-47fd-9edf-5ae407a56d69","ExternalId":0,"Name":"vegetable oil","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":1},{"Id":"1353fbdd-c313-47bb-b594-df9a17cf2ea5","ExternalId":0,"Name":"zucchini","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":2},{"Id":"c9d9cd40-ae3a-4503-8a53-0b3a58f948e8","ExternalId":0,"Name":"salt","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":3},{"Id":"3141fcdf-deb0-4b66-9180-4eed78e048fc","ExternalId":0,"Name":"garlic","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":4},{"Id":"1abc8b62-6641-439c-9ee0-2b6fcec1f131","ExternalId":0,"Name":"Orzo Pasta","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":5},{"Id":"1e8784d3-914e-4572-a305-2e80344d14ce","ExternalId":0,"Name":"Progresso™ reduced sodium chicken broth","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":["41196-46649","41196-46644","41196-46646","41196-46648","41196-46642","41196-49321"],"SortOrder":6},{"Id":"488061ea-3ce1-4227-8c52-17da9a464205","ExternalId":0,"Name":"Large Shrimp","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":7},{"Id":"a7cba588-4717-4786-80d2-042db0301753","ExternalId":0,"Name":"butter","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":8},{"Id":"5aa24bbb-1633-4eb8-b005-b11984dab6ea","ExternalId":0,"Name":"Parmesan cheese","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":9},{"Id":"94e47ca0-c52f-4705-934a-5197511625a4","ExternalId":0,"Name":"lemon juice","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":10},{"Id":"b656ce30-0327-4030-bf4b-3788db7828d3","ExternalId":0,"Name":"fresh thyme","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":11},{"Id":"9905db8e-31df-4b44-9ba4-48b846181c68","ExternalId":0,"Name":"Parsley","FlavorFormatMetadataIds":[],"HasCellfireSavingsInSearchIndex":false,"HasCouponsIncSavingsInSearchIndex":false,"Upcs":[],"SortOrder":12}],"UseModalMode":true,"IconBeforeNumberOfIngredientsWithSavings":"","TextBeforeNumberOfIngredientsWithSavings":"Savings on","TextAfterNumberOfIngredientsWithSavings":"ingredient(s)","ButtonTextForLoadingAllSavings":"View all savings","ButtonTextForHidingSavings":"Hide all savings","TextBeforeIngredientName":"Savings for","PercentagePastTopToScrollWhenRepositioning":30,"ContentToIndicateSavingsOnAnIngredient":"<span>Save $</span>","ButtonTextForLocationOrStoreChange":"Change Location/Store","ButtonTextWhenNoSavingsAreAvailable":"Try another ingredient","EnableCellfireSavings":true,"HeaderAboveCellfireSavings":"Loyalty Offers","LinkTextForCellfireOffersPage":"Go to all Store Loyalty Coupons","HeaderWhenPromptedToChangeCellfireRetailer":"Change Store","ContentWhenPromptedToChangeCellfireRetailer":"You will be redirected to the Loyalty Offers page to see offers for a different store.","TextForCancellingWhenPromptedToChangeCellfireRetailer":"No Thanks","LinkForChangingCellfireRetailer":"/coupons/loyalty/retailers","LinkTextForChangingCellfireRetailer":"Change Store Now >>","EnableCouponsIncSavings":true,"HeaderAboveCouponsIncSavings":"Printable Coupons","LinkTextForCouponsIncPage":"Go to all Printable Coupons","HeaderAboveMyGroceryDealsSavings":"In-Store Deals","NumberOfMyGroceryDealsSavingsToShowInClosedState":3,"LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","Settings":{"LabelForLocationBox":"Enter Zip to change location:","ButtonTextForLocationBox":"Go","MyGroceryDealsApiKey":"DgzaVe9YvK2PEhgoIBoS72sUJxH9IPqq1ka7ZQj6","TextForShowingLongerDescription":"...MORE+","TextForShowingShorterDescription":"...LESS-","ContentWhileSavingsAreLoading":"<img alt=\"\" src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\" />","ContentWhenNoSavingsAreAvailable":"Sorry, it appears offers on this ingredient are no longer available.","SavingsHelpLink":null,"SavingsHelpLinkText":null,"LabelForRetailerFilter":"Showing offers for:","ButtonTextForRetailerFilter":"Go","DefaultOptionTextForRetailerDropDown":null,"TooltipContentForCellfire":"<p>Offers may take up to 10 minutes to be added to your account. Check out our&nbsp;<a href=\"/coupons/faq#digital-coupons\" target=\"_blank\">FAQs</a>.</p>","TextBeforeCellfireRetailerName":"Currently using","TextAfterCellfireRetailerName":".","TextForSwitchingToViewForChangingCellfireRetailer":"Change Store","TextBeforeCellfireFaceValues":"Save $","LabelForCellfireDisplayBeforeDates":"Must save by:","LabelForCellfireExpirationDates":"Expires:","ButtonTextForAddingToCard":"Add to account","ButtonTextAfterAddingToCard":"Added to account","LinkToCellfireOffersPage":"/coupons/loyalty","CellfireBeforeRetailerText":"at","HeaderWhenNoCardIsAdded":"One More Step","ContentWhenNoCardIsAdded":"<p>Link your store loyalty account to add this coupon.</p>","TextForCancellingWhenNoCardIsAdded":"No Thanks","LinkTextForAddingACard":"Link Your Account Now >>","ContentWhenAddingToCardFails":"<p>Sorry, there was an error adding the offer to your account.</p>","ButtonTextWhenAddingToCardFails":"Go back","SourceCodeForCellfire":0,"RegActionForCellfire":"COUPON","DisplayRegistrationAsDefaultStepForCellfire":true,"TooltipContentForCouponsInc":"Trouble printing? Check out our <a href=\"/coupons/faq#printable-coupons\" target=\"_blank\">FAQs</a>.","ButtonTextForPrinting":"Print","ButtonTextAfterPrinting":"Printed","ButtonTextForEmailing":"Email","ButtonTextAfterEmailing":"Emailed","LinkToCouponsIncPage":"/coupons/printable","LinkToCouponsIncPrintHelpPage":"/coupons/faq#printable-coupons","HeaderForEmailingToExistingAddress":"Send to My Existing Email Address","ContentForEmailingToExistingAddress":"You can automatically send your coupons to the email address we have on file for your account.","ButtonTextForEmailingToExistingAddress":"Send to my email","HeaderForEmailingToCustomAddress":"Enter an Email Address","ContentForEmailingToCustomAddress":"You can send your coupons to an email you specify below.","LabelForCustomEmailAddressBox":"","ButtonTextForEmailingToCustomAddress":"Send to this email address","TextForCancellingWhenEmailing":"No Thanks","ContentWhenEmailingFails":"Sorry, there was an error emailing your coupon. Please make sure your email address includes an @ symbol and a period.","ButtonTextWhenEmailingFails":"Go back","HeaderWhenNoPrinterIsInstalled":"Install Coupon Printer","ContentWhenNoPrinterIsInstalled":"You'll need to install the coupon printer to continue.","TextForCancellingWhenNoPrinterIsInstalled":"No Thanks","LinkTextForInstallingPrinter":"Install Printer Now >>","PrintGatewayContent":"Is this device connected to a printer?","PrintGatewayCancel":"No","PrintGatewayApprove":"Yes","ContentWhilePrinting":"<img src=\"-/media/PandoSites-DevOnly/Shared/Coupons/ajax-loader.gif\"/>\nYour coupons are printing... Please wait.","ContentWhenPrintingFails":"Sorry, there was an error printing your coupon.","ButtonTextWhenPrintingFails":"Go back","SourceCodeForCouponsInc":0,"RegActionForCouponsInc":"COUPON","DisplayRegistrationAsDefaultStepForCouponsInc":false,"EnableMyGroceryDealsSavings":true,"ContentWhenNoMyGroceryDealsSavingsAreAvailable":"","PreferredMyGroceryDealsRetailerId":0,"ExplanatoryTextOnEachGroceryServerSaving":"No coupon needed","LabelForGroceryServerExpirationDates":"Sale Ends:","LinkToMyGroceryDealsPage":"/coupons/in-store-deals","LinkTextForMyGroceryDealsPage":"Go to all In-Store Deals","BeforeRetailerText":"at","PrintAdapterIsLegacyPrintModeEnabled":false,"PrintAdapterZId":"dx98","PrintAdapterNId":"10","PrintAdapterPropertyId":"15292","PrintAdapterAffiliateId":"c134e190-6177-4248-9bbf-dd27633c6ed5|c7b73959-40ac-44e6-af13-9656bacd3652"},"CurrentUserIsKnown":false});
+        }, componentMetadata);
+    })();
+</script>
+</div>
+<div class="recipeIngredients primary">
+<div class="recipePartIngredients" id="gmi_rp_recipeIngredients_div">
+<h2 id="gmi_rp_recipeIngredients_header">Ingredients</h2>
+<div class="recipePartIngredientGroup">
+<h3>
+</h3>
+<div class="recipePartIngredient" data-base-ingredient="vegetable oil" id="gmi_rp_recipeIngredients_parts_1" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    tablespoon vegetable oil
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('393eb340-d0d6-47fd-9edf-5ae407a56d69'), click: getSavingsIndicatorClickHandler('393eb340-d0d6-47fd-9edf-5ae407a56d69'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_1" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="zucchini" id="gmi_rp_recipeIngredients_parts_2" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    large zucchini, cut in half lengthwise and into 1/4-inch slices (about 2 cups)
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('1353fbdd-c313-47bb-b594-df9a17cf2ea5'), click: getSavingsIndicatorClickHandler('1353fbdd-c313-47bb-b594-df9a17cf2ea5'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_2" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="salt" id="gmi_rp_recipeIngredients_parts_3" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1/4
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    teaspoon salt
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('c9d9cd40-ae3a-4503-8a53-0b3a58f948e8'), click: getSavingsIndicatorClickHandler('c9d9cd40-ae3a-4503-8a53-0b3a58f948e8'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_3" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="garlic" id="gmi_rp_recipeIngredients_parts_4" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    4
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    cloves garlic, finely chopped (about 4 teaspoons)
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('3141fcdf-deb0-4b66-9180-4eed78e048fc'), click: getSavingsIndicatorClickHandler('3141fcdf-deb0-4b66-9180-4eed78e048fc'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_4" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="Orzo Pasta" id="gmi_rp_recipeIngredients_parts_5" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    3/4
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    cup uncooked orzo pasta (about 5 oz)
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('1abc8b62-6641-439c-9ee0-2b6fcec1f131'), click: getSavingsIndicatorClickHandler('1abc8b62-6641-439c-9ee0-2b6fcec1f131'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_5" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="Progresso™ reduced sodium chicken broth" data-brand="Progresso Soup" id="gmi_rp_recipeIngredients_parts_6" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1 1/2
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    cups Progresso™ reduced sodium chicken broth (from 32-oz carton)
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('1e8784d3-914e-4572-a305-2e80344d14ce'), click: getSavingsIndicatorClickHandler('1e8784d3-914e-4572-a305-2e80344d14ce'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_6" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="Large Shrimp" id="gmi_rp_recipeIngredients_parts_7" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    lb uncooked large shrimp (21 to 30 ct), peeled, deveined, tail shells removed
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('488061ea-3ce1-4227-8c52-17da9a464205'), click: getSavingsIndicatorClickHandler('488061ea-3ce1-4227-8c52-17da9a464205'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_7" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="butter" id="gmi_rp_recipeIngredients_parts_8" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    2
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    tablespoons butter
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('a7cba588-4717-4786-80d2-042db0301753'), click: getSavingsIndicatorClickHandler('a7cba588-4717-4786-80d2-042db0301753'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_8" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="Parmesan cheese" id="gmi_rp_recipeIngredients_parts_9" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1/4
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    cup grated Parmesan cheese
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('5aa24bbb-1633-4eb8-b005-b11984dab6ea'), click: getSavingsIndicatorClickHandler('5aa24bbb-1633-4eb8-b005-b11984dab6ea'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_9" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="lemon juice" id="gmi_rp_recipeIngredients_parts_10" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    teaspoon fresh lemon juice
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('94e47ca0-c52f-4705-934a-5197511625a4'), click: getSavingsIndicatorClickHandler('94e47ca0-c52f-4705-934a-5197511625a4'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_10" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="fresh thyme" id="gmi_rp_recipeIngredients_parts_11" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    teaspoon fresh thyme leaves, chopped
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('b656ce30-0327-4030-bf4b-3788db7828d3'), click: getSavingsIndicatorClickHandler('b656ce30-0327-4030-bf4b-3788db7828d3'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_11" style="display: none;"></span>
+</div>
+</div>
+<div class="recipePartIngredient" data-base-ingredient="Parsley" id="gmi_rp_recipeIngredients_parts_12" itemprop="recipeIngredient">
+<div class="quantity">
+<span>
+                    1
+                </span>
+</div>
+<div class="description">
+<span>
+<span class="type">
+</span>
+                    tablespoon finely chopped parsley 
+                </span>
+<span class="savingsIndicator" data-bind="visible: getHasSavingsComputed('9905db8e-31df-4b44-9ba4-48b846181c68'), click: getSavingsIndicatorClickHandler('9905db8e-31df-4b44-9ba4-48b846181c68'), html: configuration.ContentToIndicateSavingsOnAnIngredient" id="gmi_rp_recipeSavingIndicator_12" style="display: none;"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="buyIngredientsScriptContainer">
+<!-- Placeholder for Chicory to load markup for the Get Ingredients button -->
+<div class="chicory-order-ingredients"></div>
+<!-- Placeholder for Whisk to load markup for their widget -->
+<div id="whisk-target-container"></div>
+<!-- Placeholder for Basketful to load markup for their widget -->
+<div class="basketful-target-container"></div>
+</div>
+<script type="text/javascript">
+    (function () {
+        var componentMetadata = JSON.parse('\x7b\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3afalse,\x22deferType\x22\x3a\x22None\x22,\x22deferId\x22\x3a\x22\x22,\x22deferredContainerId\x22\x3anull,\x22deferredContainerView\x22\x3anull\x7d,\x22componentName\x22\x3a\x22RecipeIngredientsView_recipeingredients_0\x22,\x22viewName\x22\x3a\x22RecipeIngredientsView\x22\x7d');
+        componentMetadata.componentName = componentMetadata.componentName + "_BuyScript";
+        // All buy scripts should be deferred
+        componentMetadata.deferOptions = { deferComponent: true, deferType: "Simple" };   
+        GeneralMills.ComponentRegistrar.registerComponent(function () {
+            var buyScript = document.createElement("script");
+            buyScript.src = "//www.chicoryapp.com/widget_v2/";
+            buyScript.async = true;
+            document.body.appendChild(buyScript);
+        }, componentMetadata);
+    })();
+</script>
+</div>
+<div class="recipeSteps primary">
+<!-- CUSTOMIZATION - Allow overriding image alt text -->
+<div class="recipePartSteps" id="gmi_rp_recipeSteps_div">
+<h2 id="gmi_rp_recipeSteps_header">Steps</h2>
+<div class="recipePartToggleImages" data-hidetext="Hide Images" data-showtext="Show Images">Hide Images</div>
+<div data-deferid="r87be00e40208473198e86c984fedca9b" id="r87be00e40208473198e86c984fedca9b">
+<component :settings="config" v-bind:is="wakeLockComponent"></component>
+</div>
+<script type="text/javascript"></script>
+(function() {
+	 document.addEventListener('DOMContentLoaded', function() {
+	 var componentMetadata = JSON.parse('\x7b\x22componentName\x22\x3a\x22WakeLock_d10407de-c6d9-4faa-a61c-c49461fc0ac6\x22,\x22deferOptions\x22\x3a\x7b\x22deferComponent\x22\x3atrue,\x22deferType\x22\x3a\x22OnDemand\x22,\x22deferId\x22\x3a\x22r87be00e40208473198e86c984fedca9b\x22,\x22deferredContainerId\x22\x3a\x22\x2fwakeLockDefer\x22,\x22deferredContainerView\x22\x3a\x22WakeLockInterop\x22\x7d,\x22viewName\x22\x3a\x22WakeLock\x22\x7d');
+		 var configuration = {"textAbove":"Prevent your screen from going dark while you cook.","timeoutDurationMs":3600000};
+		 var moduleName = 'wakeLock';
+		 var isVueModule = true;
+		 GeneralMills.PandoSites.RegisterControlInstance(moduleName, configuration, componentMetadata, isVueModule)
+});
+})();
+</div></div></div></div></section></div></form></body>
