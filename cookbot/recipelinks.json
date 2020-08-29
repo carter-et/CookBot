@@ -1,0 +1,496 @@
+{
+    "recipes": [
+        {
+            "link": "https://minimalistbaker.com/sun-dried-tomato-and-basil-pinwheels/",
+            "desired_output": [
+                "8 ounces vegan cream cheese (I love Trader Joe's brand)",
+                "1/2 cup lightly packed sun-dried tomatoes (dry, not in oil // chopped // plus more for topping)",
+                "1/4 cup lightly packed frozen spinach (thawed and squeezed dry* // optional)",
+                "2 large cloves garlic, minced (2 cloves yield ~2 Tbsp or 12 g)",
+                "1/4 cup vegan parmesan cheese (plus more for serving)",
+                "1 pinch each sea salt and black pepper",
+                "2 large flour tortillas (ensure vegan friendliness on package)",
+                "24 fresh basil leaves (divided)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/ponzu-sauce/",
+            "desired_output": [
+                "½ cup soy sauce",
+                "½ cup citrus juice (See Notes: I love the mixture of 6 Tbsp lemon juice + 2 Tbsp orange juice)",
+                "lemon zest from one lemon",
+                "2 Tbsp mirin (2 Tbsp sake or water + 2 tsp sugar)",
+                "½ cup katsuobushi (dried bonito flakes) (packed; 6 g)",
+                "1 piece kombu (dried kelp) (2\" x 3\" strip; 6 g)"
+            ]
+        },
+        {
+            "link": "https://www.noracooks.com/vegan-eggnog/",
+            "desired_output": [
+                "1 cup raw cashews (see notes for alternatives)",
+                "3 cups non-dairy milk",
+                "1/4-1/2 cup granulated sugar or pure maple syrup",
+                "1 teaspoon pure vanilla extract",
+                "1/2 teaspoon ground nutmeg",
+                "1/2 teaspoon cinnamon",
+                "1/4 teaspoon cloves",
+                "1 ounce whiskey or rum, per serving, optional"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/breakfast-pastries/",
+            "desired_output": [
+                "Pastry Dough",
+                "1/4 cup (60ml) warm water (between 100-110°F, 38-43°C)",
+                "2 and 1/4 teaspoons Platinum Yeast by Red Star (1 standard packet)*",
+                "1/4 cup (50g) granulated sugar",
+                "1/2 cup (120ml) whole milk, at room temperature (between 68–72°F, 20-22°C)",
+                "1 large egg, at room temperature",
+                "1 teaspoon salt",
+                "14 Tablespoons (205g) unsalted butter, cold",
+                "2 and 1/2 cups (315g) all-purpose flour (spoon & leveled), plus more for generously flouring hands, surface, and dough",
+                "Filling",
+                "2/3 cup filling (see recipe notes for options & cheese filling)",
+                "Egg Wash",
+                "1 large egg",
+                "2 Tablespoons (30ml) milk",
+                "Vanilla Icing (Optional)",
+                "1 cup (120g) confectioners’ sugar",
+                "2 Tablespoons (30ml) milk or heavy cream",
+                "1 teaspoon pure vanilla extract"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/no-yeast-bread/",
+            "desired_output": [
+                "4 and 1/4 cups (515g) all-purpose flour (spoon & leveled), plus more for hands and surface",
+                "1 and 1/2 teaspoons salt",
+                "1 and 1/2 teaspoons baking soda",
+                "4 Tablespoons (1/4 cup; 60g) unsalted butter, melted",
+                "2 Tablespoons honey (40g) or granulated sugar (25g)",
+                "1 and 3/4 cups (420ml) buttermilk, plus 1 Tablespoon for brushing the dough",
+                "optional: 1 Tablespoon whole oats and/or a sprinkle of coarse salt for topping"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/zucchini-oatmeal-chocolate-chip-cookies/",
+            "desired_output": [
+                "1 cup (140g) shredded & blotted zucchini (see step 1)",
+                "2 cups (160g) old-fashioned whole rolled oats*",
+                "1 cup (125g) all-purpose flour (spoon & leveled)",
+                "1/2 teaspoon baking soda",
+                "1/2 teaspoon salt",
+                "1 teaspoon ground cinnamon",
+                "1/2 cup (1 stick; 115g) unsalted butter, softened to room temperature",
+                "1/2 cup (100g) packed dark or light brown sugar",
+                "1/2 cup (100g) granulated sugar",
+                "1 large egg, at room temperature",
+                "1 Tablespoon pure maple syrup*",
+                "1 and 1/2 teaspoons pure vanilla extract",
+                "1 cup (180g) semi-sweet chocolate chips"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/blueberry-peach-frangipane-galette/",
+            "desired_output": [
+                "Crust",
+                "1 and 1/2 cups (190g) all-purpose flour (spoon & leveled), plus more for work surface",
+                "1/4 cup (50g) granulated sugar",
+                "1/4 teaspoon salt",
+                "1/2 cup (115g; 1 stick) cold unsalted butter, cubed*",
+                "1/4 cup (60ml) ice cold water*",
+                "egg wash: 1 large egg beaten with 1 Tablespoon (15ml) milk",
+                "optional: sliced almonds and coarse sugar",
+                "Frangipane",
+                "2 Tablespoons (30g) unsalted butter, softened to room temperature",
+                "1 large egg, at room temperature",
+                "1/2 cup (50g) almond flour or almond meal",
+                "1/4 cup (50g) granulated sugar",
+                "1/2 teaspoon almond extract",
+                "1/2 teaspoon pure vanilla extract",
+                "Blueberry Peach Filling",
+                "3 heaping cups peach slices (about 2–3 medium peaches)*",
+                "1 cup (190g) blueberries*",
+                "1 Tablespoon granulated sugar",
+                "1 Tablespoon almond flour, almond meal, or all-purpose flour"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/dark-chocolate-chunk-oatmeal-cookies/",
+            "desired_output": [
+                "1 cup (230g) unsalted butter, softened to room temperature",
+                "1 cup (200g) packed light or dark brown sugar",
+                "1/4 cup (50g) granulated sugar",
+                "2 large eggs, at room temperature",
+                "1 Tablespoon pure vanilla extract (yes, Tablespoon!)",
+                "1 Tablespoon molasses",
+                "1 and 1/2 cups (190g) all-purpose flour (spoon & leveled)",
+                "1 teaspoon baking soda",
+                "1 teaspoon ground cinnamon",
+                "1/2 teaspoon salt",
+                "3 cups (240g) old-fashioned whole rolled oats*",
+                "two 4-ounce semi-sweet chocolate bars, chopped (1 and 1/2 cups)*",
+                "optional: coarse sea salt for topping"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/bunny-sugar-cookies/",
+            "desired_output": [
+                "2 and 1/4 cups (281g) all-purpose flour (spoon & leveled)",
+                "1/2 teaspoon baking powder",
+                "1/4 teaspoon salt",
+                "3/4 cup (170g) unsalted butter, softened to room temperature",
+                "3/4 cup (150g) granulated sugar",
+                "1 large egg, at room temperature",
+                "2 teaspoons pure vanilla extract",
+                "1/2 teaspoon almond extract (optional)*",
+                "For Decorating",
+                "your choice of icing (see recipe notes)",
+                "sanding sugar sprinkles",
+                "2 ounces (55g) semi-sweet chocolate, finely chopped*"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/mini-fruit-galettes/",
+            "desired_output": [
+                "2 unbaked Flaky Pie Crust (what I used) or All Butter Pie Crust*",
+                "2 and 1/2 cups (about 350-400g) mixed berries or other fruit (see note)",
+                "1 Tablespoon (8g) cornstarch",
+                "2 Tablespoons (25g) granulated sugar",
+                "1 teaspoon lemon juice or vanilla extract",
+                "2 Tablespoons (30ml) whole milk, for brushing*",
+                "optional for topping: coarse sugar and/or chopped/sliced nuts"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/cranberry-crumble-pie-bars/",
+            "desired_output": [
+                "3 cups (375g) all-purpose flour (spoon & leveled)",
+                "1 cup (200g) granulated sugar",
+                "1 teaspoon baking powder",
+                "1/4 teaspoon salt",
+                "1 teaspoon ground cinnamon",
+                "1 cup (2 sticks; 230g) unsalted butter, cold and cubed",
+                "1 large egg",
+                "1/4 cup (60ml) milk*",
+                "2 teaspoons pure vanilla extract",
+                "optional: 1/3 cup (30g) sliced almonds",
+                "Cranberry Filling",
+                "4 cups fresh or frozen cranberries (do not thaw)",
+                "3/4 cup (150g) granulated sugar",
+                "1 Tablespoon cornstarch",
+                "2 teaspoons orange zest",
+                "1 Tablespoon (15g) fresh orange juice",
+                "Orange Icing (Optional)",
+                "2 Tablespoons (30ml) fresh orange juice",
+                "1 cup (120g) confectioners’ sugar"
+            ]
+        },
+        {
+            "link": "https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/",
+            "desired_output": [
+                "Crust",
+                "1 unbaked Flaky Pie Crust (what I used) or All Butter Pie Crust*",
+                "egg wash for pie crust: 1 large egg beaten with 1 Tablespoon milk or heavy cream",
+                "Filling",
+                "2 and 1/2 cups (250g) coarsely chopped pecans (a very rough chop!)",
+                "3 large eggs",
+                "1 cup (240ml) dark corn syrup*",
+                "1/2 cup (100g) packed light or dark brown sugar",
+                "1 and 1/2 teaspoons pure vanilla extract",
+                "1/4 cup (60g) unsalted butter, melted and slightly cooled",
+                "1/2 teaspoon salt",
+                "1/2 teaspoon ground cinnamon"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/creamy-vegan-white-pasta-with-summer-vegetables/",
+            "desired_output": [
+                "ROASTED TOMATOES",
+                "1 cup cherry / grape tomatoes, halved",
+                "1 tsp oil of choice",
+                "1 pinch sea salt",
+                "SAUCE",
+                "1/3 cup raw cashews",
+                "2 cloves garlic, plus more to taste",
+                "2-3 Tbsp nutritional yeast",
+                "1/2 tsp sea salt, plus more to taste",
+                "1 cup water or unsweetened almond milk (we did half of each)",
+                "PASTA",
+                "Water to cook",
+                "1 healthy pinch sea salt",
+                "10 ounces gluten-free pasta (ensure vegan-friendly as needed // we prefer Trader Joe’s brown rice quinoa fusilli)",
+                "VEGGIES",
+                "1 tsp oil (or sub water, adding more as needed as it evaporates)",
+                "1/3 cup sliced red onion",
+                "1 cup sliced yellow squash or zucchini",
+                "1 healthy pinch each sea salt and black pepper",
+                "1 tsp dried Italian herbs (oregano and basil // optional)",
+                "1 pinch red pepper flake (optional)",
+                "2 cups spinach (or other delicate green // we found sturdy greens, e.g. kale, to add too much chew)",
+                "FOR SERVING optional",
+                "Fresh parsley or basil",
+                "Vegan parmesan cheese",
+                "Red pepper flake"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/raw-rainbow-peanut-noodle-salad/",
+            "desired_output": [
+                "SAUCE",
+                "3 Tbsp peanut butter or cashew butter (to keep this dish truly raw, use raw cashew butter)",
+                "3 Tbsp lime juice",
+                "3-4 cloves garlic",
+                "1/2 – 1 tsp red pepper flake (adjust to preferred heat level)",
+                "5 Tbsp coconut aminos (or tamari, but start with lesser amount as its saltier)",
+                "2 tsp sesame oil (optional)",
+                "1 Tbsp maple syrup or raw honey, plus more to taste",
+                "SALAD",
+                "2 medium carrots, ribboned with a vegetable peeler",
+                "1 medium cucumber, very thinly sliced with a vegetable peeler or mandolin",
+                "1 cup (packed) red cabbage, very thinly sliced with a knife or mandolin",
+                "1 large red bell pepper, very thinly sliced with a knife or mandolin",
+                "2 cups chopped curly or lacinato kale",
+                "1 cup snap or snow peas",
+                "1 ripe mango, cubed",
+                "FOR SERVING",
+                "Cilantro, chopped",
+                "2 Tbsp raw sunflower seeds or sesame seeds",
+                "1 batch Marinated Peanut Tempeh or Almond Butter Tofu (optional)"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/blueberry-gluten-free-scones/",
+            "desired_output": [
+                "1/2 batch flax egg (1 ½ tsp flaxseed meal + 1 ¼ Tbsp (19 ml) water as original recipe is written)",
+                "1/3 cup unsweetened plain almond milk",
+                "3/4 cup potato starch (not potato flour)",
+                "1 – 1 ¼ cups almond flour",
+                "1/2 cup oat flour (ground from rolled oats // ensure gluten-free for GF eaters)",
+                "2 ½ tsp baking powder",
+                "2 ½ Tbsp organic cane sugar, plus more for topping",
+                "1/4 tsp sea salt",
+                "2-3 tsp fresh chopped rosemary (organic when possible // optional)",
+                "3 Tbsp room temperature coconut oil (scoopable, not liquid or frozen* // or cold vegan butter)",
+                "1/4 cup frozen wild blueberries"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/coffee-chocolate-nice-cream/",
+            "desired_output": [
+                "NICE CREAM",
+                "2 large ripe frozen bananas (see slicing / freezing instructions below)",
+                "2 Tbsp cacao powder (or cocoa powder)",
+                "1-2 tsp dandy blend* or espresso powder (or sub a small amount of strong brewed coffee or espresso that’s been chilled — just add slowly as it can make the nice cream watery)",
+                "1-2 Tbsp dairy-free milk only as needed (optional)",
+                "FOR SERVING optional",
+                "Cacao nibs",
+                "Sliced banana"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/harissa-marinated-chickpeas/",
+            "desired_output": [
+                "2 cups cooked chickpeas (preferably home cooked // try our Instant Pot recipe!)",
+                "2-3 Tbsp harissa paste (or sub store-bought)",
+                "2 Tbsp lemon juice",
+                "2 cloves garlic, minced",
+                "1/4 – 1/2 tsp sea salt (plus more to taste)",
+                "1/2 tsp maple syrup",
+                "1/4 tsp smoked paprika",
+                "1-2 Tbsp extra virgin olive oil (if oil-free, omit)"
+            ]
+        },
+        {
+            "link": "https://minimalistbaker.com/instant-pot-chickpeas/",
+            "desired_output": [
+                "CHICKPEAS",
+                "1 cup dry chickpeas",
+                "1 tsp baking soda (helps soften the beans)",
+                "~3 cups water",
+                "FOR COOKING",
+                "~2 – 2 ¼ cups water (just enough water to cover the chickpeas)",
+                "1/4 white onion (leave whole, don’t dice)",
+                "2 cloves garlic, peeled",
+                "1 Tbsp olive oil (if oil-free, omit)",
+                "1 handful fresh herbs (we prefer thyme or rosemary)",
+                "1 healthy pinch each sea salt and black pepper"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/bbq-chicken-wings/",
+            "desired_output": [
+                "1 cup soy sauce (240 ml)",
+                "1 cup mirin (240 ml)",
+                "½ cup sugar (100 g)",
+                "¼ cup gochujang (Korean chili paste) (4 Tbsp)",
+                "8 cloves garlic (minced or garlic-pressed)",
+                "2 Tbsp sesame oil (roasted)",
+                "1 Tbsp toasted white sesame seeds",
+                "1 green onion/scallion (finely chopped)",
+                "1 Tbsp honey",
+                "1 apple (grated; I used Fuji apple)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/shabu-shabu-salad/",
+            "desired_output": [
+                "For Shabu Shabu",
+                "2 cups water (480 ml)",
+                "2 Tbsp sake",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)",
+                "½ lb thinly sliced pork loin (227 g; You can buy thinly sliced meat at Japanese/Korean/Chinese grocery stores or slice the meat yourself following my How to Thinly Slice Meat tutorial.)",
+                "For Salad",
+                "4 oz Mizuna (Japanese mustard green) (113 g; or use any green salad)",
+                "5 oz iceberg lettuce (142 g; 2-3 leaves)",
+                "1 Persian/Japanese cucumber (4 oz, 113 g)",
+                "½ red onion (3 oz, 85 g)",
+                "1 tomato (6 oz, 170 g)",
+                "For Dressing",
+                "2 Tbsp soy sauce (I used Kikkoman® Gluten-Free Tamari Soy Sauce)",
+                "2 Tbsp sesame oil (I used Kikkoman® Sesame Oil)",
+                "2 Tbsp rice vinegar",
+                "½ tsp sugar",
+                "1 knob ginger",
+                "¼ tsp freshly ground black pepper",
+                "1 tsp toasted white sesame seeds"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/kitsune-udon/",
+            "desired_output": [
+                "For Noodle Soup Broth",
+                "2 ¼ cups dashi (click to learn more about this soup stock) (Homemade ingredients below; or 2 ¼ cup water + 1 to 1 ¼ tsp dashi powder)",
+                "1 Tbsp mirin",
+                "1 tsp sugar",
+                "1 Tbsp usukuchi (light-color) soy sauce (or regular soy sauce; we use light color soy sauce here so the soup doesn't become too dark)",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)",
+                "For Homemade Dashi",
+                "2 ½ cups water",
+                "1 kombu (dried kelp) (2\" x 5\", 5 cm x 12 cm)",
+                "1 ½ cups katsuobushi (dried bonito flakes) (15 g, 0.5 oz: skip for vegetarian/vegan)",
+                "For Kitsune Udon",
+                "2 servings udon noodles (180 g dry udon noodles; 500 g frozen/boiled udon noodles)",
+                "4 Inari Age (seasoned fried tofu pouch) (You can buy canned or refrigerated inariage package; Homemade inariage recipe, click here.)",
+                "1 green onion/scallion",
+                "Narutomaki (fish cakes) (optional; skip for vegetarian/vegan)",
+                "Shichimi Togarashi (Japanese Seven Spice) (optional; sprinkle at the table)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/simmered-fried-tofu-and-greens/",
+            "desired_output": [
+                "1 piece aburaage (deep-fried tofu pouch) (¾ oz, 20 g)",
+                "6 oz komatsuna (170 g; or any greens such as spinach, bok choy, cabbage, napa cabbage, lettuce, Mizuna, etc)",
+                "1 cup dashi (click to learn more about this soup stock) (240 ml)",
+                "½ tsp soy sauce (Use gluten-free soy sauce for GF)",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/curry-ramen/",
+            "desired_output": [
+                "instant ramen noodles (I recommend Sapporo Ichiban brand Shio Ramen - salt flavored)",
+                "the leftover Japanese curry of your choice (I used my Japanese Chicken Curry)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/asian-coleslaw/",
+            "desired_output": [
+                "1 cabbage (I use ½ green and ½ purple)",
+                "1 carrot",
+                "1 bunch cilantro (½ cup after chopped)",
+                "1 green onion/scallion",
+                "other vegetable choices (shelled edamame, bell peppers)",
+                "Dressing",
+                "½ cup apple cider vinegar",
+                "3 Tbsp sugar (See Notes)",
+                "2 Tbsp sesame oil (roasted)",
+                "2 Tbsp toasted white sesame seeds",
+                "¼ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)",
+                "freshly ground black pepper"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/hamburger-steak-hambagu/",
+            "desired_output": [
+                "For the Hambagu Patties",
+                "½ onion (5 oz or 142 g)",
+                "1 Tbsp neutral-flavored oil (vegetable, canola, etc)",
+                "¾ lb ground beef & pork combination (12 oz or 340 g; The good beef/pork ratio for hambagu is 2:1 (8 oz/4 oz) or 3:1 (9 oz/3 oz). You can make hambagu with 100% beef; however, it will not be as juicy and tender as combined meat)",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)",
+                "freshly ground black pepper",
+                "½ tsp nutmeg",
+                "⅓ cup panko (Japanese breadcrumbs) (20 g)",
+                "2 Tbsp milk",
+                "1 large egg (50 g w/o shell)",
+                "For Cooking Hambagu",
+                "1 Tbsp neutral-flavored oil (vegetable, canola, etc)",
+                "3 Tbsp red wine (for steaming; this mini wine is perfect if you are only using wine for cooking; you can substitute with beef/chicken stock although highly recommend red wine)",
+                "For the Sauce",
+                "1 Tbsp unsalted butter",
+                "3 Tbsp ketchup (Adjust the amount - some ketchup is sweeter than others)",
+                "3 Tbsp tonkatsu sauce (Sub: You can use Worcestershire sauce. However, you have to add sugar to balance out the sourness as Tonkatsu sauce is sweeter than Worcestershire sauce. You can also make Homemade Tonkatsu Sauce.)",
+                "3 Tbsp red wine (This mini wine is perfect if you are only using wine for cooking; you can substitute with beef/chicken stock although highly recommend red wine)",
+                "3 Tbsp water"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/ume-plum-syrup/",
+            "desired_output": [
+                "1 kg green ume plums (2.2 lbs)",
+                "1 kg white rock sugar (1.8 lbs)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/soy-sauce-caramel-ice-cream/",
+            "desired_output": [
+                "For Soy Sauce Caramel (yields 1/2 cup or 120 ml)",
+                "½ cup sugar (100 g)",
+                "3 Tbsp unsalted butter (43 g)",
+                "¼ cup heavy (whipping) cream (60 ml)",
+                "2 Tbsp soy sauce (I used Kikkoman Gluten-Free Soy Sauce)",
+                "For Vanilla Ice Cream",
+                "2 cups heavy (whipping) cream (480 ml)",
+                "1 cup whole milk (240 ml)",
+                "3 egg yolks",
+                "½ cup sugar (100 g)",
+                "½ sheet gelatin (1.1 g; or use ½ tsp gelatin powder; [Equation] 1 envelope gelatin powder (0.25 oz/7 g.) = 1 Tbsp powdered gelatin = 3 sheets GOLD leaf gelatin. One sheet leaf gelatin would correspond to 1 tsp of powdered gelatin.",
+                "¼ water (60 ml)",
+                "1 ½ tsp vanilla extract"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/chicken-katsu/",
+            "desired_output": [
+                "1.5 lb boneless skinless chicken breasts (680 g; 3 pieces of 8-oz chicken breasts from Costco; you can use chicken thighs or tenders)",
+                "2 Tbsp sake",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt)",
+                "freshly ground black pepper",
+                "3 Tbsp all-purpose flour (plain flour)",
+                "2 large eggs (50 g each w/o shell)",
+                "1 cup Panko (Japanese breadcrumbs)",
+                "4 cups neutral-flavored oil (vegetable, canola, etc) (960 ml; for deep frying)",
+                "Tonkatsu Sauce (or make Homemade Tonkatsu Sauce)"
+            ]
+        },
+        {
+            "link": "https://www.justonecookbook.com/kimchi-soup-with-malony-glass-noodles/",
+            "desired_output": [
+                "1 green onion/scallion",
+                "2 large eggs (50 g each w/o shell)",
+                "1 Tbsp sesame oil",
+                "¼ lb ground pork (113 g)",
+                "1 clove garlic",
+                "1 Tbsp sake",
+                "⅓ cup kimchi (60 g; increase more if you like it spicy)",
+                "1 ½ cup chicken stock/broth",
+                "1 ½ cup water",
+                "½ tsp kosher/sea salt (I use Diamond Crystal; Use half for table salt) (to taste)",
+                "freshly ground black pepper (to taste)",
+                "1.8 oz Malony (Glass Noodles) (50 g; You can purchase at Japanese grocery stores and Rakuten)",
+                "1 tsp toasted white sesame seeds"
+            ]
+        }
+    ]
+}

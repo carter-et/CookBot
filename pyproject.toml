@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "cookbot"
+version = "0.1.0"
+description = ""
+authors = ["Allison <allisonjoy413@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+bs4 = "^0.0.1"
+requests = "^2.24.0"
+tensorflow = "^2.3.0"
+html5lib = "^1.1"
+lxml = "^4.5.2"
+tensorflow_datasets = "^3.2.1"
+tensorflow_addons = "^0.11.1"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+main = "cookbot.main:run"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
